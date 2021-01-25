@@ -26,8 +26,6 @@ Addon manifest
 
 Must be properly formatted [YAML](https://en.wikipedia.org/wiki/YAML) document.
 
-Fields marked with **\*** are mandatory.
-
 | Field | Mandatory | Description |
 | :--- | :---: | :--- |
 | AddonId | • | Unique ID string. Must be the same ID string used by the actual extension or theme referenced by this manifest. |
