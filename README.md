@@ -29,7 +29,7 @@ Must be properly formatted [YAML](https://en.wikipedia.org/wiki/YAML) document.
 Fields marked with **\*** are mandatory.
 
 | Field | Mandatory | Description |
-| :--- | :--- | :--- |
+| :--- | :---: | :--- |
 | AddonId | • | Unique ID string. Must be the same ID string used by the actual extension or theme referenced by this manifest. |
 | [Type](#Add-on-types) | • | Add-on type. |
 | Name | • | Add-on name. |
@@ -37,12 +37,12 @@ Fields marked with **\*** are mandatory.
 | ShortDescription | • | Short add-on description. Show on add-on list before selecting add-on details. |
 | [InstallerManifestUrl](#Installer-manifest) | • | URL to installer manifest file. |
 | SourceUrl | • | URL to source repository. Not mandatory for themes. |
-| Description | Add-on description. |
-| Tags | List of add-on tags. |
-| Links | List of add-on links.  |
-| [Screenshots](#Screenshot-fields) | List of add-on screenshots. |
-| IconUrl | Add-on icon image URL. |
-| [UserAgreement](#UserAgreement-fields) | User agreement settings if add-on requires user to agree to custom terms before add-on installation/update. |
+| Description || Add-on description. |
+| Tags || List of add-on tags. |
+| Links || List of add-on links.  |
+| [Screenshots](#Screenshot-fields) || List of add-on screenshots. |
+| IconUrl || Add-on icon image URL. |
+| [UserAgreement](#UserAgreement-fields) || User agreement settings if add-on requires user to agree to custom terms before add-on installation/update. |
 
 ### Add-on types
 
