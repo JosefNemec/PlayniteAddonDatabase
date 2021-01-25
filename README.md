@@ -28,15 +28,15 @@ Must be properly formatted [YAML](https://en.wikipedia.org/wiki/YAML) document.
 
 Fields marked with **\*** are mandatory.
 
-| Field | Description |
-| - | - |
-| AddonId * | Unique ID string. Must be the same ID string used by the actual extension or theme referenced by this manifest. |
-| [Type](#Add-on-types) * | Add-on type. |
-| Name * | Add-on name. |
-| Author * | Add-on author. |
-| ShortDescription * | Short add-on description. Show on add-on list before selecting add-on details. |
-| [InstallerManifestUrl](#Installer-manifest) * | URL to installer manifest file. |
-| SourceUrl * | URL to source repository. Not mandatory for themes. |
+| Field | Mandatory | Description |
+| :--- | :--- | :--- |
+| AddonId | • | Unique ID string. Must be the same ID string used by the actual extension or theme referenced by this manifest. |
+| [Type](#Add-on-types) | • | Add-on type. |
+| Name | • | Add-on name. |
+| Author | • | Add-on author. |
+| ShortDescription | • | Short add-on description. Show on add-on list before selecting add-on details. |
+| [InstallerManifestUrl](#Installer-manifest) | • | URL to installer manifest file. |
+| SourceUrl | • | URL to source repository. Not mandatory for themes. |
 | Description | Add-on description. |
 | Tags | List of add-on tags. |
 | Links | List of add-on links.  |
@@ -55,16 +55,16 @@ Fields marked with **\*** are mandatory.
 ### UserAgreement fields
 
 | Field | Description |
-| - | - |
-| Updated * | Date of last agreement update. Must be date in `YYYY-MM-DD` format. |
-| AgreementUrl * | URL to a text file actual agreement text. |
+| :--- | :--- |
+| Updated | Date of last agreement update. Must be date in `YYYY-MM-DD` format. |
+| AgreementUrl | URL to a text file actual agreement text. |
 
 ### Screenshot fields
 
 | Field | Description |
-| - | - |
-| Thumbnail * | URL to small preview image. |
-| Image * | URL to full image. |
+| :--- | :--- |
+| Thumbnail | URL to small preview image. |
+| Image | URL to full image. |
 
 ### Example
 
@@ -89,19 +89,19 @@ Installer manifest
 ---------------------
 
 | Field | Description |
-| - | - |
-| AddonId * | Unique ID string. Must be the same ID string used by the actual extension or theme referenced by this manifest. |
-| [Packages](#Package-fields) * | List of installer packages/ |
+| :--- | :--- |
+| AddonId | Unique ID string. Must be the same ID string used by the actual extension or theme referenced by this manifest. |
+| [Packages](#Package-fields) | List of installer packages/ |
 
 ### Package fields
 
 | Field | Description |
-| - | - |
-| Version * | Add-on version, must be [.NET version string](https://docs.microsoft.com/en-us/dotnet/api/system.version). |
-| PackageUrl * | URL to an actual `.pext` or `.pthm` add-on file. |
-| RequiredApiVersion * | Minimal API version (SDK version or theme API version) required by this add-on version. |
-| ReleaseDate * | Package release date in `YYYY-MM-DD` format. |
-| Changelog | List of changes. |
+| :--- | :--- |
+| Version | Add-on version, must be [.NET version string](https://docs.microsoft.com/en-us/dotnet/api/system.version). |
+| PackageUrl | URL to an actual `.pext` or `.pthm` add-on file. |
+| RequiredApiVersion | Minimal API version (SDK version or theme API version) required by this add-on version. |
+| ReleaseDate | Package release date in `YYYY-MM-DD` format. |
+| Changelog | List of changes. Optional. |
 
 ### Example
 
