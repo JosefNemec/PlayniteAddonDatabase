@@ -1,0 +1,13 @@
+AddonId: Stardust 2.0_1fb333b2-255b-43dd-aec1-8e2f2d5ea002
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/darklinkpower/Stardust/raw/master/Manifests/Installer_Manifest.yaml
+ShortDescription: Theme inspired by GOG Galaxy 2.0 for Playnite Desktop Mode.
+Name: Stardust
+Author: darklinkpower
+Links:
+    Website: https://github.com/darklinkpower/Stardust
+    Playnite Forums thread: https://playnite.link/forum/thread-468.html
+SourceUrl: https://github.com/darklinkpower/Stardust
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/Stardust/raw/master/Screenshots/thumb_01.jpg
+      Image: https://github.com/darklinkpower/Stardust/raw/master/Screenshots/screenshot_01.png
