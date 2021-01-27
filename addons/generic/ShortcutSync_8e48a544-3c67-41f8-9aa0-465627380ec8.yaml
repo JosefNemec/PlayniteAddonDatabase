@@ -6,6 +6,7 @@ ShortDescription: Synchronizes start menu shortcuts (with custom tiles) of your 
 Description: Depending on your configuration, ShortcutSync will keep a folder (inside the windows start menu by default) of shortcuts synchronized with the games in Playnite. Meaning that shortcuts will be removed if a game is removed or does not satisfy the conditions set in the options anymore, or that they are updated when a game's name or icon changes. Pinning those shortcuts to the start menu will also provide custom tiles with the icon image of the game as the background image. Titles on the big tiles can be enabled/disabled using a game's context menu. 
 Name: ShortcutSync
 Author: felixkmh
+Tags: ["shortcuts","tiles","startmenu"]
 Links:
     GitHub: https://github.com/felixkmh/ShortcutSync-for-Playnite
     Support: https://playnite.link/forum/thread-283.html
