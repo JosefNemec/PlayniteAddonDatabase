@@ -1,0 +1,12 @@
+AddonId: ShortcutSync_8e48a544-3c67-41f8-9aa0-465627380ec8
+IconUrl: https://raw.githubusercontent.com/felixkmh/ShortcutSync-for-Playnite/master/source/icon.png
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/felixkmh/ShortcutSync-for-Playnite/master/InstallerManifest/ShortcutSync_8e48a544-3c67-41f8-9aa0-465627380ec8.yaml
+ShortDescription: Synchronizes start menu shortcuts (with custom tiles) of your games in Playnite.
+Description: Depending on your configuration, ShortcutSync will keep a folder (inside the windows start menu by default) of shortcuts synchronized with the games in Playnite. Meaning that shortcuts will be removed if a game is removed or does not satisfy the conditions set in the options anymore, or that they are updated when a game's name or icon changes. Pinning those shortcuts to the start menu will also provide custom tiles with the icon image of the game as the background image. Titles on the big tiles can be enabled/disabled using a game's context menu. 
+Name: ShortcutSync
+Author: felixkmh
+Links:
+    GitHub: https://github.com/felixkmh/ShortcutSync-for-Playnite
+    Support: https://playnite.link/forum/thread-283.html
+SourceUrl: https://github.com/felixkmh/ShortcutSync-for-Playnite
