@@ -1,4 +1,4 @@
-﻿AddonId: Playnite_builtin_ClassicDesktop
+﻿AddonId: Playnite_builtin_ClassicDesktopPlain
 Type: ThemeDesktop
 InstallerManifestUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/manifests/themes/Playnite_builtin_ClassicDesktopPlain.yaml
 ShortDescription: Original "Classic" built-in Desktop theme, plain variant.
