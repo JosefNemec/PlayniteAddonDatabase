@@ -1,6 +1,3 @@
-### !!! PLACE HOLDER REPOSITORY, DO NOT SUBMIT ANY ADD-ONS !!!
-
-
 Info
 ---------------------
 
