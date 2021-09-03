@@ -1,0 +1,14 @@
+AddonId: felixkmh_DuplicateHider_Night_Theme
+Type: ThemeDesktop
+Name: DH_Night
+Author: felixkmh
+ShortDescription: Showcase theme for the custom UI integration of the DuplicateHider extension.
+InstallerManifestUrl: https://raw.githubusercontent.com/felixkmh/DH_Themes/main/InstallerManifest/felixkmh_DuplicateHider_Night_Theme.yaml
+SourceUrl: https://github.com/felixkmh/DH_Themes
+Tags: ["duplicates", "libary", "dark", "duplicatehider", "custom ui"]
+Links:
+    GitHub: https://github.com/felixkmh/DH_Themes
+IconUrl: https://github.com/felixkmh/DH_Themes/raw/main/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/felixkmh/DH_Themes/raw/main/Screenshot_Night.png
+      Image: https://github.com/felixkmh/DH_Themes/raw/main/Screenshot_Night.png
