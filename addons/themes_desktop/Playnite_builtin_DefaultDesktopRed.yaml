@@ -1,0 +1,9 @@
+﻿AddonId: Playnite_builtin_ClassicDesktop
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/manifests/themes/Playnite_builtin_DefaultDesktopRed.yaml
+ShortDescription: Original "Classic" built-in Desktop theme, red variant.
+Name: Classic Desktop Red
+Author: Playnite
+Links:
+    Website: https://github.com/JosefNemec/PlayniteExtensions
+SourceUrl: https://github.com/JosefNemec/PlayniteExtensions

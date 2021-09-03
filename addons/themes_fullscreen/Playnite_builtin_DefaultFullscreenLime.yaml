@@ -1,0 +1,9 @@
+﻿AddonId: Playnite_builtin_ClassicDesktop
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/manifests/themes/Playnite_builtin_DefaultFullscreenLime.yaml
+ShortDescription: Original "Lime" built-in Fullscnreen theme.
+Name: Fullscreen Default Lime
+Author: Playnite
+Links:
+    Website: https://github.com/JosefNemec/PlayniteExtensions
+SourceUrl: https://github.com/JosefNemec/PlayniteExtensions
