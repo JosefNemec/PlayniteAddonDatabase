@@ -1,0 +1,16 @@
+AddonId: felixkmh_QuickSearch_Plugin
+Type: Generic
+Name: QuickSearch
+Author: felixkmh
+ShortDescription: Extendable Global Search.
+InstallerManifestUrl: https://raw.githubusercontent.com/felixkmh/QuickSearch-for-Playnite/master/InstallerManifest/felixkmh_QuickSearch_Plugin.yaml
+SourceUrl: QuickSearch-for-Playnite
+Description: Global game search for playnite. Works similarly to a keystroke launcher, just inside Playnite. Can be opened by a user configurable Hotkey (Ctrl-F by default), either just in Playnite or also on the desktop. Includes online search for games on "IsThereAnyDeal.com" or "CheapShark.com". 
+Tags: ["global","search","web","itad"]
+Links:
+    GitHub: https://github.com/felixkmh/QuickSearch-for-Playnite
+    Support: https://playnite.link/forum/thread-677.html
+IconUrl: https://raw.githubusercontent.com/felixkmh/QuickSearch-for-Playnite/master/source/QuickSearch.png
+Screenshots:
+    - Thumbnail: https://i.imgur.com/FmScmdy.png
+      Image: https://i.imgur.com/FmScmdy.png
