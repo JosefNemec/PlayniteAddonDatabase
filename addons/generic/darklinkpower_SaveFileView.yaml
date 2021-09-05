@@ -1,0 +1,14 @@
+AddonId: SaveFileView_f68f302b-9799-4b77-a982-4bfca97130e2
+Type: Generic
+Name: Save File View
+Author: darklinkpower
+ShortDescription: This extension will open the save or configuration directories of your games.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SaveFileView.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension will open the save or configuration directories of your games. Data is obtained from PCGamingWiki It's currently only compatible with games from Steam, GOG or PC games that are also available in the Steam store.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-691.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SaveFileView/icon.png

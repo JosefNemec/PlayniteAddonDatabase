@@ -1,0 +1,14 @@
+Id: ImporterforAnilist_2366fb38-bf25-45ea-9a78-dcc797ee83c3
+Type: GameLibrary
+Name: Importer for Anilist
+Author: darklinkpower
+ShortDescription: This plugin imports your anime and manga lists from AniList for viewing in Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Library_ImporterforAnilist.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This plugin imports your anime and manga lists from AniList for viewing in Playnite. Metadata is supported, including links to stream or read imported entries, provided by MAL-Sync's API.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-707.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Library/ImporterforAnilist/icon.png

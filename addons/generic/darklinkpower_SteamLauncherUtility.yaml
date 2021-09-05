@@ -1,0 +1,14 @@
+AddonId: SteamLauncherUtility_31a65402-5b0c-44f0-9fc2-44b22ca4263c
+Type: Generic
+Name: Steam Launcher Utility
+Author: darklinkpower
+ShortDescription: This extension allows you to configure the way steam is launched when starting a Steam game in both Playnite Desktop and Fullscreen mode.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamLauncherUtility.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension allows you to configure the way steam is launched when starting a Steam game in both Playnite Desktop and Fullscreen mode, including if it should be launched without web browser enabled or launch in Big Picture Mode.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-659.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SteamLauncherUtility/icon.png

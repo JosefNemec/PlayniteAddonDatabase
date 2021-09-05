@@ -1,0 +1,14 @@
+AddonId: NVIDIA_GeForce_Now_Enabler
+Type: Generic
+Name: NVIDIA GeForce NOW Enabler
+Author: darklinkpower
+ShortDescription: Plugin for Playnite that checks for games enabled in the NVIDIA GeForce NOW service that are in your library.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_NVIDIAGeForceNowEnabler.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Plugin for Playnite that checks for games enabled in the NVIDIA GeForce NOW service that are in your library. The extension can also add a Play Action to launch the game on the service.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-298.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/NVIDIAGeForceNowEnabler/icon.png

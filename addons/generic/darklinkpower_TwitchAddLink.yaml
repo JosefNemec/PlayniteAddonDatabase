@@ -1,0 +1,14 @@
+AddonId: Twitch_Add_Link
+Type: Generic
+Name: Twitch link importer
+Author: darklinkpower
+ShortDescription: This extension will add a Twitch Link to your selected games.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_TwitchAddLink.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension will add a Twitch Link to your selected games. There are two functions:      Twitch - Add Twitch link to selected games (Automatic): will search for Twitch Links of games and only add the ones found automatically without user input.     Twitch - Add Twitch link to selected games (Manual): will search for Twitch Links of games, add the ones found automatically and request the user to enter the correct Urls when not automatically found.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-364.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/TwitchAddLink/icon.png

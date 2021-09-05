@@ -1,0 +1,14 @@
+AddonId: NVIDIA_Freestyle_Checker
+Type: Generic
+Name: NVIDIA Freestyle checker
+Author: darklinkpower
+ShortDescription: This extension will add a feature named "NVIDIA Freestyle" to NVIDIA Freestyle supported games in your library.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_NvidiaFreestyleChecker.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension will add a feature named "NVIDIA Freestyle" to NVIDIA Freestyle supported games in your library.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-503.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/NvidiaFreestyleChecker/icon.png

@@ -1,0 +1,14 @@
+AddonId: GamePassCatalogBrowser_50c85177-570f-4494-be16-99d6aa5b8a93
+Type: Generic
+Name: Game Pass Catalog Browser
+Author: darklinkpower
+ShortDescription: Browse the Game Pass catalog in Playnite and add its game to your Playnite library.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_GamePassCatalogBrowser.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Browse the Game Pass catalog in Playnite and add its game to your Playnite library. Currently games from EA can only be viewed but not added to your library. Games not by EA can't be viewed or added.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-716.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/GamePassCatalogBrowser/icon.png

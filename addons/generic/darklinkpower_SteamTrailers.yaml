@@ -1,0 +1,14 @@
+AddonId: Steam_Trailers
+Type: Generic
+Name: Steam Trailers
+Author: darklinkpower
+ShortDescription: Extension to view trailers from Steam in Playnite. Compatible with Steam games or games that are on the Steam Store.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamTrailers.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Extension to view trailers from Steam in Playnite. Compatible with Steam games or games that are on the Steam Store.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-242.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SteamTrailers/icon.png
