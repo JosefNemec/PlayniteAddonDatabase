@@ -1,0 +1,16 @@
+AddonId: 'GameSpeak_9287cd5b-1397-4f57-9c76-9729ebca9b80'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/joyrider3774/PlayniteGameSpeak/main/GameSpeak.yaml
+ShortDescription: 'Text to speech / narrator plugin for playnite'
+Name: 'Game Speak'
+Author: 'Joyrider3774'
+Tags: ['Text to speech', 'Narrator']
+SourceUrl: https://github.com/joyrider3774/PlayniteGameSpeak
+IconUrl: https://github.com/joyrider3774/PlayniteGameSpeak/raw/main/icon.png
+Description: 'A Text to speech / narrator plugin for playnite, it can "speak out" the game names, game launching, game installed, game uninstalled, ... texts using speech api.'
+Links:
+    Forum Post: https://playnite.link/forum/thread-436.html
+    Translate: https://crowdin.com/project/playnite-game-speak
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/joyrider3774/PlayniteGameSpeak/main/settings_thumb.png
+      Image: https://raw.githubusercontent.com/joyrider3774/PlayniteGameSpeak/main/settings.png
