@@ -1,0 +1,14 @@
+AddonId: NVIDIA_GE_GameStream_Export
+Type: Generic
+Name: NVIDIA GE GameStream Export
+Author: darklinkpower
+ShortDescription: This extension will export your selected games to NVIDIA Geforce Experience GameStreaming games database.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_NVIDIAGEGameStreamExport.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension will export your selected games to NVIDIA Geforce Experience GameStreaming games database, allowing you to run them via a NVIDIA Shield or in any Moonlight Game Streaming supported device, while retaining all the benefits of Playnite and allowing it to still manage your games.
+Tags: ["Generic", "Nvidia"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-252.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/NVIDIAGEGameStreamExport/icon.png
