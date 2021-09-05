@@ -9,7 +9,8 @@ Description: Global game search for playnite. Works similarly to a keystroke lau
 Tags: ["global","search","web","itad"]
 Links:
     GitHub: https://github.com/felixkmh/QuickSearch-for-Playnite
-    Support: https://playnite.link/forum/thread-677.html
+    Playnite Forum: https://playnite.link/forum/thread-677.html
+    Translate: https://crowdin.com/project/quicksearch-for-playnite
 IconUrl: https://raw.githubusercontent.com/felixkmh/QuickSearch-for-Playnite/master/source/QuickSearch.png
 Screenshots:
     - Thumbnail: https://i.imgur.com/FmScmdy.png
