@@ -1,0 +1,26 @@
+AddonId: playnite-backgroundchanger-plugin
+Type: Generic
+Name: BackgroundChanger
+Author: Lacro59
+ShortDescription: Manage your cover and background images with more formats and more options.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-backgroundchanger-plugin/master/manifest/Lacro59_BackgroundChanger.yaml
+SourceUrl: https://github.com/Lacro59/playnite-backgroundchanger-plugin
+Description: |-
+    With this plugin you can
+    * have multiple cover and background images
+    * change the image on the game selection or / and with a timer
+    * use APNG, WEBP and MP4 files
+    * convert WEBP to MP4 to improve animation performance
+Tags: ["cover", "background", "animated", "SteamGridDB", "libary"]
+Links:
+    Forum: https://playnite.link/forum/thread-564.html
+    GitHub: https://github.com/Lacro59/playnite-backgroundchanger-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-backgroundchanger-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-backgroundchanger-plugin/master/screenshots/thumbs/plugin_mainview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-backgroundchanger-plugin/master/screenshots/plugin_mainview.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-backgroundchanger-plugin/master/screenshots/thumbs/plugin_steamgriddb.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-backgroundchanger-plugin/master/screenshots/plugin_steamgriddb.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-backgroundchanger-plugin/master/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-backgroundchanger-plugin/master/screenshots/plugin_settings.jpg
