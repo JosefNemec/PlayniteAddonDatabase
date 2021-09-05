@@ -9,5 +9,6 @@ Description: DuplicateHider tries to hide all but one copy of the same game, bas
 Tags: ["duplicates", "libary"]
 Links:
     GitHub: https://github.com/felixkmh/DuplicateHider
-    Support: https://playnite.link/forum/thread-308.html
+    Playnite Forum: https://playnite.link/forum/thread-308.html
+    Translate: https://crowdin.com/project/duplicatehider
 IconUrl: https://raw.githubusercontent.com/felixkmh/DuplicateHider/master/source/icon.png
