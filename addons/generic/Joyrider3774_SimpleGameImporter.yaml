@@ -1,0 +1,17 @@
+AddonId: 'SimpleGameImporter_6048b590-bdfb-4a88-8953-2985b4f5c3dc'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/joyrider3774/Playnite_Simple_Game_Importer/main/SimpleGameImport.yaml
+ShortDescription: 'Simple importing of a list of games, coming from an external source'
+Name: 'Simple Game Importer'
+Author: 'Joyrider3774'
+Tags: ['Import', 'Games List', 'Excel']
+SourceUrl: https://github.com/joyrider3774/Playnite_Simple_Game_Importer
+IconUrl: https://github.com/joyrider3774/Playnite_Simple_Game_Importer/raw/main/icon.png
+Description: 'A plugin to add a list of "virtual games", you can add for example games from platforms that do not automatically import or from a column in Excel comming from a csv file.'
+Links:
+    Github: https://github.com/joyrider3774/Playnite_Simple_Game_Importer
+    Forum Post: https://playnite.link/forum/thread-482.html
+    Translate: https://crowdin.com/project/playnite-game-speak
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/joyrider3774/Playnite_Simple_Game_Importer/main/Screenshots/Simple_Gamer_Import_thumb.png
+      Image: https://raw.githubusercontent.com/joyrider3774/Playnite_Simple_Game_Importer/main/Screenshots/Simple_Gamer_Import.png
