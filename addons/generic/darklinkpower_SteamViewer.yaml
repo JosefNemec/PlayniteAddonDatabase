@@ -6,7 +6,7 @@ ShortDescription: This simple extension will add items with functions to open va
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamViewer.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: This simple extension will add items with functions to open various game pages and steam components directly on Steam from the game right click menu, including games pages like the Store page, Community Hub, Discussions, Guides, News, Achievements, Points shop or view in your Steam library.
-Tags: ["Generic"]
+Tags: ["Generic", "Steam"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-506.html

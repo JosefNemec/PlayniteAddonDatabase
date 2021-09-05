@@ -6,7 +6,7 @@ ShortDescription: This extension will add a feature named "Nexus Mods" and add a
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_NexusModsChecker.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: This extension will add a feature named "Nexus Mods" and add a link to the games mod page to games with mods available on Nexus Mods.
-Tags: ["Generic"]
+Tags: ["Generic", "Nexus", "NexusMods"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-533.html

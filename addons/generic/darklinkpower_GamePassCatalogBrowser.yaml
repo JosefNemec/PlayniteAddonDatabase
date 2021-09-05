@@ -6,7 +6,7 @@ ShortDescription: Browse the Game Pass catalog in Playnite and add its game to y
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_GamePassCatalogBrowser.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: Browse the Game Pass catalog in Playnite and add its game to your Playnite library. Currently games from EA can only be viewed but not added to your library. Games not by EA can't be viewed or added.
-Tags: ["Generic"]
+Tags: ["Generic", "Xbox", "Subscription"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-716.html

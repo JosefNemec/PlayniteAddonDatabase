@@ -6,7 +6,7 @@ ShortDescription: This extension is a companion tool to add unofficial support f
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_ExtraMetadataTools.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: This extension is a companion tool to add unofficial support for new metadata in supported custom themes. It has support for logos.
-Tags: ["Generic"]
+Tags: ["Generic", "Metadata", "Logos"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-575.html

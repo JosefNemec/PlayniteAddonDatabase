@@ -6,7 +6,7 @@ ShortDescription: Collection of tools for MAME games.
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_MameTools.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: Collection of tools for MAME games. It can rename the game names in Playnite based on the ROM filename, add MAME snapshot as background or cover images. It requires that MAME is installed.
-Tags: ["Generic"]
+Tags: ["Generic", "MAME", "Arcade"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-495.html

@@ -6,7 +6,7 @@ ShortDescription: This extension allows you to configure the way steam is launch
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamLauncherUtility.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: This extension allows you to configure the way steam is launched when starting a Steam game in both Playnite Desktop and Fullscreen mode, including if it should be launched without web browser enabled or launch in Big Picture Mode.
-Tags: ["Generic"]
+Tags: ["Generic", "Steam"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-659.html

@@ -6,7 +6,7 @@ ShortDescription: This extension will obtain the date of when the Epic, GOG and 
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_DateImporter.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: This extension will obtain the date of when the Epic, GOG and Steam games in your account where bought by obtaining them from the license date. The extension has the following functionalities: 1. Export obtained of Epic, GOG and Steam license data (License name and date) 2. Replace the "Added date" information in your games from the ones found in your accounts. 3. Replace the "Added date" information in your games from any date input.
-Tags: ["Generic"]
+Tags: ["Generic", "Steam", "GOG", "Epic"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-376.html

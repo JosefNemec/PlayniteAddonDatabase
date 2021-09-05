@@ -6,7 +6,7 @@ ShortDescription: This extension is intended as a library mantaining tool and to
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_GameMediaTools.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: This extension is intended as a library mantaining tool and to make it easier to handle game media in your library. It works with the currently available game media options: Covers images, background images and icons.
-Tags: ["Generic"]
+Tags: ["Generic", "Metadata"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-313.html

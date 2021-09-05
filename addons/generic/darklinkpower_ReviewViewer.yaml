@@ -6,7 +6,7 @@ ShortDescription: Extension to see Steam reviews, trailers video and review vide
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_ReviewViewer.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: Extension to see Steam reviews, trailers video and review video from within Playnite.
-Tags: ["Generic"]
+Tags: ["Generic", "Reviews", "Videos"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-550.html
