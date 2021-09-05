@@ -1,14 +1,15 @@
-AddonId: felixkmh_DuplicateHider_Blur_Fullscreen_Theme
+AddonId: 'felixkmh_DuplicateHider_Blur_Fullscreen_Theme'
 Type: ThemeFullscreen
-Name: DH_Blur
-Author: felixkmh
-ShortDescription: Showcase fullscreen theme for the custom UI integration of the DuplicateHider extension.
+Name: 'DH_Blur'
+Author: 'felixkmh'
+ShortDescription: 'Showcase fullscreen theme for the custom UI integration of the DuplicateHider extension.'
 InstallerManifestUrl: https://raw.githubusercontent.com/felixkmh/DH_Themes/main/InstallerManifest/felixkmh_DuplicateHider_Blur_Fullscreen_Theme.yaml
 SourceUrl: https://github.com/felixkmh/DH_Themes
 Tags: ["duplicates", "libary", "dark", "duplicatehider", "custom ui"]
 Links:
     GitHub: https://github.com/felixkmh/DH_Themes
+    Playnite Forum: https://playnite.link/forum/thread-800.html
 IconUrl: https://github.com/felixkmh/DH_Themes/raw/main/icon.png
 Screenshots:
-    - Thumbnail: https://github.com/felixkmh/DH_Themes/raw/main/Screenshot_Blur_Main.png
+    - Thumbnail: https://github.com/felixkmh/DH_Themes/raw/main/Screenshot_Blur_Main_Thumb.png
       Image: https://github.com/felixkmh/DH_Themes/raw/main/Screenshot_Blur_Main.png
