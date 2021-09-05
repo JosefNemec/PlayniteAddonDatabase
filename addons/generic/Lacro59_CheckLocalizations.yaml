@@ -1,0 +1,18 @@
+AddonId: playnite-checklocalizations-plugin
+Type: Generic
+Name: CheckLocalizations
+Author: Lacro59
+ShortDescription: Get and view the game languages supported.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-checklocalizations-plugin/master/manifest/Lacro59_CheckLocalizations.yaml
+SourceUrl: https://github.com/Lacro59/playnite-checklocalizations-plugin
+Tags: ["localizations", "libary"]
+Links:
+    Forum: https://playnite.link/forum/thread-384.html
+    GitHub: https://github.com/Lacro59/playnite-checklocalizations-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-checklocalizations-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-checklocalizations-plugin/master/screenshots/thumbs/plugin_mainview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-checklocalizations-plugin/master/screenshots/plugin_mainview.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-checklocalizations-plugin/master/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-checklocalizations-plugin/master/screenshots/plugin_settings.jpg
