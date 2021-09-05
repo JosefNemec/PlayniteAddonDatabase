@@ -67,13 +67,13 @@ Must be properly formatted [YAML](https://en.wikipedia.org/wiki/YAML) document.
 ### Example
 
 ```yaml
-AddonId: "SomeAddonID"
+AddonId: 'SomeAddonID'
 Type: GameLibrary
 InstallerManifestUrl: https://addon.link/installer.yaml
-ShortDescription: "Short add-on description"
-Name: "Some Addon"
-Author: "Jane Doe"
-Tags: ["tag", "tag2", "tag3"]
+ShortDescription: 'Short add-on description'
+Name: 'Some Addon'
+Author: 'Jane Doe'
+Tags: ['tag', 'tag2', 'tag3']
 SourceUrl: https://github.com/JaneDoe/SomeAddon
 Links:
     Website: https://addon.link
@@ -104,7 +104,7 @@ Installer manifest
 ### Example
 
 ```yaml
-AddonId: "SomeAddonID"
+AddonId: 'SomeAddonID'
 Packages:
   - Version: 2.0
     RequiredApiVersion: 5.6.0
