@@ -1,0 +1,14 @@
+AddonId: Nexus_Mods_Checker_ece2874c-be52-4a64-b178-ed379a042f85
+Type: Generic
+Name: Nexus Mods checker
+Author: darklinkpower
+ShortDescription: This extension will add a feature named "Nexus Mods" and add a link to the games mod page to games with mods available on Nexus Mods.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_NexusModsChecker.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension will add a feature named "Nexus Mods" and add a link to the games mod page to games with mods available on Nexus Mods.
+Tags: ["Generic", "Nexus", "NexusMods"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-533.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/NexusModsChecker/icon.png

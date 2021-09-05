@@ -1,0 +1,14 @@
+AddonId: Review_Viewer_ca24e37a-76d9-49bf-89ab-d3cba4a54bd1
+Type: Generic
+Name: Review Viewer
+Author: darklinkpower
+ShortDescription: Extension to see Steam reviews, trailers video and review video from within Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_ReviewViewer.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Extension to see Steam reviews, trailers video and review video from within Playnite.
+Tags: ["Generic", "Reviews", "Videos"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-550.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/ReviewViewer/icon.png

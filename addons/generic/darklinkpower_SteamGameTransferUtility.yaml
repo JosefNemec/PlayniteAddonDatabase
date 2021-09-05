@@ -1,0 +1,14 @@
+AddonId: SteamGameTransferUtility_c2dac2df-44c9-4f47-8555-c8d134c4f400
+Type: Generic
+Name: Steam Game Transfer Utility
+Author: darklinkpower
+ShortDescription: Extension to copy or move Steam games between your different Steam libraries.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamGameTransferUtility.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Extension to copy or move Steam games between your different Steam libraries.
+Tags: ["Generic", "Steam"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-669.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SteamGameTransferUtility/icon.png

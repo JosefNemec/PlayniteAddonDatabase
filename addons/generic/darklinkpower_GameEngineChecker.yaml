@@ -1,0 +1,14 @@
+AddonId: Game_Engine_Checker_7a21243e-c7cc-4ca7-85bd-f6f96f22e9db
+Type: Generic
+Name: Game Engine Checker
+Author: darklinkpower
+ShortDescription: This extension will add a tag with the name of the engine used by the game. It's compatible with PC games that are available on GOG or Steam.  The information is obtained from PCGamingWiki.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_GameEngineChecker.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension will add a tag with the name of the engine used by the game. It's compatible with PC games that are available on GOG or Steam.  The information is obtained from PCGamingWiki.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-505.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/GameEngineChecker/icon.jpg

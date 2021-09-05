@@ -1,0 +1,14 @@
+AddonId: PlayState
+Type: Generic
+Name: PlayState
+Author: darklinkpower
+ShortDescription: This extension will let you suspend and resume your game at any moment with the HOME or PAUSE key.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_PlayState.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension will let you suspend and resume your game at any moment with the HOME or PAUSE key. This gives a the benefit of pausing your game at any time and also to free your CPU and GPU usage when you are not playing, effectively acting as if you closed the game when you activate the script. See the screenshots for comparison. It is required that AutoHotKey is installed (Not compatible with v2 Beta).
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-225.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/PlayState/icon.png

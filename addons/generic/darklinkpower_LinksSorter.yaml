@@ -1,0 +1,14 @@
+AddonId: Links_Sorter
+Type: Generic
+Name: Links Sorter
+Author: darklinkpower
+ShortDescription: Simple extension that sorts the links of selected or all games in database by URL in ascending order (From A to Z, 0 to 9).
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_LinksSorter.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Simple extension that sorts the links of selected or all games in database by URL in ascending order (From A to Z, 0 to 9). Please be aware that it sorts using the URL and not the link names.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-401.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/LinksSorter/icon.png

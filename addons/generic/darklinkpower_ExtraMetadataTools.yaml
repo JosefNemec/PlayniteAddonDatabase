@@ -1,0 +1,14 @@
+AddonId: Extra_Metadata_tools_2e0349ed-6da2-4095-9457-4c9fb544551e
+Type: Generic
+Name: Extra Metadata tools
+Author: darklinkpower
+ShortDescription: This extension is a companion tool to add unofficial support for new metadata in supported custom themes. It has support logos.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_ExtraMetadataTools.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension is a companion tool to add unofficial support for new metadata in supported custom themes. It has support for logos.
+Tags: ["Generic", "Metadata", "Logos"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-575.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/ExtraMetadataTools/icon.png
