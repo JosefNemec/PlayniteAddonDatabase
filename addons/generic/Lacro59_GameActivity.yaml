@@ -2,20 +2,15 @@ AddonId: playnite-gameactivity-plugin
 Type: Generic
 Name: GameActivity
 Author: Lacro59
-ShortDescription: Track game activities and displays lots of statistics about your activities.
+ShortDescription: Game activities tracking and shows many statistics on your activities.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-gameactivity-plugin/master/manifest/Lacro59_GameActivity.yaml
 SourceUrl: https://github.com/Lacro59/playnite-gameactivity-plugin
 Description: |-
     With this plugin you can
-    * elapsed time by source by month and week and days
-    * elapsed time by genre by month
-    * details hardware usage by game with Performance Monitor and Open Hardware Monitor and MSI Afterburner or HWiNFO
-    * defined limit usage for have message warnings after the game session and show it in the main view
-    
-    If the theme support function, you can:
-    * add plugin data in game list in "Details View" & "Grid View"
-    * add plugin data in game details
-Tags: ["Activity", "Session tracking", "Monitoring"]
+    * track your game session
+    * show your games activities with many charts and options
+    * log game performance
+Tags: ["activity", "game", "session tracking"]
 Links:
     Forum: https://playnite.link/forum/thread-264.html
     GitHub: https://github.com/Lacro59/playnite-gameactivity-plugin

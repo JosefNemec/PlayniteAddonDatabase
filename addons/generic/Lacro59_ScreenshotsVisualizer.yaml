@@ -1,14 +1,13 @@
 AddonId: playnite-screenshotsvisualizer-plugin
 Type: Generic
-Name: ScreenshotsVisualizer
+Name: screenshotsvisualizer
 Author: Lacro59
-ShortDescription: Show your screenshots and video capture.
+ShortDescription: 
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-screenshotsvisualizer-plugin/master/manifest/Lacro59_ScreenshotsVisualizer.yaml
 SourceUrl: https://github.com/Lacro59/playnite-screenshotsvisualizer-plugin
 Description: |-
     With this plugin you can
-    * scan multi folders to show screenshoots and video capture
-    * move screenshots and video capture on other folders (ex cloud folder)
+    * 
 Tags: ["screenshots", "videos"]
 Links:
     Forum: https://playnite.link/forum/thread-514.html

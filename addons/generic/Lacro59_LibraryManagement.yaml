@@ -1,6 +1,6 @@
 AddonId: playnite-librarymanagement-plugin
 Type: Generic
-Name: LibraryManagement
+Name: librarymanagement
 Author: Lacro59
 ShortDescription: Transpose multiple fields with another value.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-librarymanagement-plugin/master/manifest/Lacro59_LibraryManagement.yaml

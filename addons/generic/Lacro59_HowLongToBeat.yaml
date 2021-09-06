@@ -1,6 +1,6 @@
 AddonId: playnite-howlongtobeat-plugin
 Type: Generic
-Name: HowLongToBeat
+Name: howlongtobeat
 Author: Lacro59
 ShortDescription: Get and view the time to beat a game from HowLongToBeat.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/manifest/Lacro59_HowLongToBeat.yaml
