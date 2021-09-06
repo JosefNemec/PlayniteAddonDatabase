@@ -3,7 +3,7 @@ Type: Generic
 Name: GameActivity
 Author: Lacro59
 ShortDescription: Game activities tracking and shows many statistics on your activities.
-InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-gameactivity-plugin/master/manifest/Lacro59_Gameactivity.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-gameactivity-plugin/master/manifest/Lacro59_GameActivity.yaml
 SourceUrl: https://github.com/Lacro59/playnite-gameactivity-plugin
 Description: |-
     With this plugin you can

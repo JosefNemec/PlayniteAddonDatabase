@@ -1,0 +1,21 @@
+AddonId: playnite-librarymanagement-plugin
+Type: Generic
+Name: librarymanagement
+Author: Lacro59
+ShortDescription: Transpose multiple fields with another value.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-librarymanagement-plugin/master/manifest/Lacro59_LibraryManagement.yaml
+SourceUrl: https://github.com/Lacro59/playnite-librarymanagement-plugin
+Description: |-
+    With this plugin you can
+    * transpose feature field
+    * transpose genre field
+    * transpose tag field
+Tags: ["librarymanagement", "feature", "genre", "tag", "libary"]
+Links:
+    Forum: https://playnite.link/forum/thread-544.html
+    GitHub: https://github.com/Lacro59/playnite-librarymanagement-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-librarymanagement-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-librarymanagement-plugin/master/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-librarymanagement-plugin/master/screenshots/plugin_settings.jpg
