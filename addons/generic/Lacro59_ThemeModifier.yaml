@@ -1,0 +1,16 @@
+AddonId: playnite-thememodifier-plugin
+Type: Generic
+Name: thememodifier
+Author: Lacro59
+ShortDescription: Edit theme color scheme and edit custom theme variables.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-thememodifier-plugin/master/manifest/Lacro59_ThemeModifier.yaml
+SourceUrl: https://github.com/Lacro59/playnite-thememodifier-plugin
+Tags: ["theme"]
+Links:
+    Forum: https://playnite.link/forum/thread-388.html
+    GitHub: https://github.com/Lacro59/playnite-thememodifier-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-thememodifier-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-thememodifier-plugin/master/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-thememodifier-plugin/master/screenshots/plugin_settings.jpg

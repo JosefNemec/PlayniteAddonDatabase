@@ -1,0 +1,23 @@
+AddonId: playnite-howlongtobeat-plugin
+Type: Generic
+Name: howlongtobeat
+Author: Lacro59
+ShortDescription: Get and view the time to beat a game from HowLongToBeat.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/manifest/Lacro59_HowLongToBeat.yaml
+SourceUrl: https://github.com/Lacro59/playnite-howlongtobeat-plugin
+Description: |-
+    With this plugin you can
+    * get and view the time to beat and compare your playtime
+    * view your data from HowLongToBeat
+    * upload your playtime on HowLongToBeat
+Tags: ["howlongtobeat", "libary"]
+Links:
+    Forum: https://playnite.link/forum/thread-309.html
+    GitHub: https://github.com/Lacro59/playnite-howlongtobeat-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/screenshots/thumbs/plugin_mainview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/screenshots/plugin_mainview.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/screenshots/plugin_settings.jpg
