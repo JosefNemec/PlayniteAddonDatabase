@@ -1,1 +1,22 @@
-
+AddonId: Harmony_d49ef7bc-49de-4fd0-9a67-bd1f26b56047
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/darklinkpower/Harmony/raw/master/manifests/Installer_Manifest.yaml
+ShortDescription: Clean theme with modern design for Playnite Desktop Mode.
+Description: Clean theme with modern design for Playnite Desktop Mode. Has support for community extensions like SuccessStory, HowLongToBeat, GameActivity, DuplicateHider, etc.
+Name: Harmony
+Author: darklinkpower
+Tags: ["Theme", "UI"]
+SourceUrl: https://github.com/darklinkpower/Harmony
+Links:
+    GitHub: https://github.com/darklinkpower/Harmony
+    Playnite Forums thread: https://playnite.link/forum/thread-457.html
+IconUrl: https://github.com/darklinkpower/Harmony/raw/master/source/Images/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/Harmony/raw/master/screenshots/thumb_01.jpg
+      Image: https://github.com/darklinkpower/Harmony/raw/master/screenshots/screenshot_01.jpg
+    - Thumbnail: https://github.com/darklinkpower/Harmony/raw/master/screenshots/thumb_02.jpg
+      Image: https://github.com/darklinkpower/Harmony/raw/master/screenshots/screenshot_02.jpg
+    - Thumbnail: https://github.com/darklinkpower/Harmony/raw/master/screenshots/thumb_03.jpg
+      Image: https://github.com/darklinkpower/Harmony/raw/master/Screenshots/screenshot_03.jpg
+    - Thumbnail: https://github.com/darklinkpower/Harmony/raw/master/Screenshots/thumb_04.jpg
+      Image: https://github.com/darklinkpower/Harmony/raw/master/Screenshots/screenshot_04.jpg
