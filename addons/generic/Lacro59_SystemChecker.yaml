@@ -1,0 +1,18 @@
+AddonId: playnite-systemchecker-plugin
+Type: Generic
+Name: systemchecker
+Author: Lacro59
+ShortDescription: Get and view the game requierements.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-systemchecker-plugin/master/manifest/Lacro59_SystemChecker.yaml
+SourceUrl: https://github.com/Lacro59/playnite-systemchecker-plugin
+Tags: ["system", "requierement"]
+Links:
+    Forum: https://playnite.link/forum/thread-339.html
+    GitHub: https://github.com/Lacro59/playnite-systemchecker-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-systemchecker-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-systemchecker-plugin/master/screenshots/thumbs/plugin_mainview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-systemchecker-plugin/master/screenshots/plugin_mainview.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-systemchecker-plugin/master/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-systemchecker-plugin/master/screenshots/plugin_settings.jpg
