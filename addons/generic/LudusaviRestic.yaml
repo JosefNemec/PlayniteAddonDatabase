@@ -1,0 +1,13 @@
+AddonId: LudusaviRestic_e9861c36-68a8-4654-8071-a9c50612bc24
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/sharkusmanch/playnite-ludusavi-restic/master/manifest.yaml
+ShortDescription: Creates point in time snapshots of game save data using ludusavi and restic.
+Name: Ludusavi Restic Save Backup
+Tags: ["Generic", "Save", "Savefiles", "Backup"]
+Author: sharkusmanch
+Links:
+    Website: https://github.com/sharkusmanch/playnite-ludusavi-restic
+    Playnite Forums thread: https://playnite.link/forum/thread-773.html
+SourceUrl: https://github.com/sharkusmanch/playnite-ludusavi-restic
+
+
