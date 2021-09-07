@@ -9,6 +9,7 @@ SourceUrl: https://github.com/joyrider3774/PlayniteGameSpeak
 IconUrl: https://github.com/joyrider3774/PlayniteGameSpeak/raw/main/icon.png
 Description: 'A Text to speech / narrator plugin for playnite, it can "speak out" the game names, game launching, game installed, game uninstalled, ... texts using speech api.'
 Links:
+    Github: https://github.com/joyrider3774/PlayniteGameSpeak
     Forum Post: https://playnite.link/forum/thread-436.html
     Translate: https://crowdin.com/project/playnite-game-speak
 Screenshots:
