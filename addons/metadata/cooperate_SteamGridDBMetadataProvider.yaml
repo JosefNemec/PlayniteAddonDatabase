@@ -1,0 +1,13 @@
+AddonId: SteamGridDB_Playnite_Metadata
+Type: MetadataProvider
+Name: SteamGridDB Metadata Provider
+Author: cooperate
+ShortDescription: Imports game metadata from SteamGridDB.
+InstallerManifestUrl: https://raw.githubusercontent.com/cooperate/SteamGridDBMetadata/master/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/cooperate/SteamGridDBMetadata
+Description: 'Imports game metadata from SteamGridDB.'
+Tags: ["Metadata", "Steam", "SteamGridDB"]
+Links:
+    GitHub: https://github.com/cooperate/SteamGridDBMetadata
+    Playnite Forums thread: https://playnite.link/forum/thread-194.html
+IconUrl: https://raw.githubusercontent.com/cooperate/SteamGridDBMetadata/master/SGDBMetadata/icon.png
