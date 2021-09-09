@@ -1,0 +1,20 @@
+AddonId: playnite-successstory-plugin
+Type: Generic
+Name: SuccessStory
+Author: Lacro59
+ShortDescription: Get achievements or add manualy achievements.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-successstory-plugin/master/manifest/Lacro59_SuccessStory.yaml
+SourceUrl: https://github.com/Lacro59/playnite-successstory-plugin
+Tags: ["achievements"]
+Links:
+    Forum: https://playnite.link/forum/thread-275.html
+    GitHub: https://github.com/Lacro59/playnite-successstory-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-successstory-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-successstory-plugin/master/screenshots/thumbs/plugin_mainview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-successstory-plugin/master/screenshots/plugin_mainview.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-successstory-plugin/master/screenshots/thumbs/plugin_mainviewsingle.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-successstory-plugin/master/screenshots/plugin_mainviewsingle.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-successstory-plugin/master/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-successstory-plugin/master/screenshots/plugin_settings.jpg

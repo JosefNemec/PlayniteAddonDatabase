@@ -1,6 +1,6 @@
 AddonId: playnite-screenshotsvisualizer-plugin
 Type: Generic
-Name: screenshotsvisualizer
+Name: ScreenshotsVisualizer
 Author: Lacro59
 ShortDescription: Show your screenshots and video capture.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-screenshotsvisualizer-plugin/master/manifest/Lacro59_ScreenshotsVisualizer.yaml

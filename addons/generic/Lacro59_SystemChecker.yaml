@@ -1,6 +1,6 @@
 AddonId: playnite-systemchecker-plugin
 Type: Generic
-Name: systemchecker
+Name: SystemChecker
 Author: Lacro59
 ShortDescription: Get and view the game requierements.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-systemchecker-plugin/master/manifest/Lacro59_SystemChecker.yaml
