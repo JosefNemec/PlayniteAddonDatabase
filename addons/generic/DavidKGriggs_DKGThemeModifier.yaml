@@ -1,0 +1,13 @@
+AddonId: DKGThemeModifier_ee4ed2de-7e02-4447-8441-685d320b0520
+Type: Generic
+Name: DKG Theme Modifier
+Author: DavidKGriggs
+ShortDescription: This extension is used to modify DKG themes.
+InstallerManifestUrl: https://github.com/davidkgriggs/DKG-Theme-Modifier/raw/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/davidkgriggs/DKG-Theme-Modifier
+Description: This extension is used to modify DKG themes.
+Tags: ["Generic", "Modifier", "DKG"]
+Links:
+    GitHub: https://github.com/davidkgriggs/DKG-Theme-Modifier
+    Playnite Forums thread: https://playnite.link/forum/thread-665.html
+IconUrl: https://github.com/davidkgriggs/DKG-Theme-Modifier/raw/main/source/icon.png
