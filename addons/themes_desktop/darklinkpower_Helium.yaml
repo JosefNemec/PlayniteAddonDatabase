@@ -1,0 +1,21 @@
+AddonId: 8b15c46a-90c2-4fe5-9ebb-1ab25ba7fcb1
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/darklinkpower/Helium/raw/master/manifests/Installer_Manifest.yaml
+ShortDescription: Theme inspired by Steam for Playnite Desktop Mode.
+Description: Theme inspired by Steam for Playnite Desktop Mode. Has support for community extensions like SuccessStory, HowLongToBeat, GameActivity, DuplicateHider, etc.
+Name: Helium
+Author: darklinkpower
+Tags: ["Theme", "Steam", "UI"]
+SourceUrl: https://github.com/darklinkpower/Helium
+Links:
+    GitHub: https://github.com/darklinkpower/Helium
+    Playnite Forums thread: https://playnite.link/forum/thread-811.html
+SourceUrl: https://github.com/darklinkpower/Helium
+IconUrl: https://github.com/darklinkpower/Helium/raw/master/source/Images/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/Helium/raw/master/screenshots/thumb_01.jpg
+      Image: https://github.com/darklinkpower/Helium/raw/master/screenshots/screenshot_01.jpg
+    - Thumbnail: https://github.com/darklinkpower/Helium/raw/master/screenshots/thumb_02.jpg
+      Image: https://github.com/darklinkpower/Helium/raw/master/screenshots/screenshot_02.jpg
+    - Thumbnail: https://github.com/darklinkpower/Helium/raw/master/screenshots/thumb_03.jpg
+      Image: https://github.com/darklinkpower/Helium/raw/master/screenshots/screenshot_03.jpg
