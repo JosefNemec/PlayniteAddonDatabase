@@ -1,0 +1,20 @@
+AddonId: playnite-indiegala-plugin
+Type: Generic
+Name: Indiegala library integration
+Author: Lacro59
+ShortDescription: Get and show the game languages supported.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-indiegala-plugin/master/manifest/Lacro59_IndiegalaLibrary.yaml
+SourceUrl: https://github.com/Lacro59/playnite-indiegala-plugin
+Description: |-
+    With this plugin you can:
+    * add games from Showcase
+    * add games from Bundle
+    * add games from Store
+Links:
+    Forum: https://playnite.link/forum/thread-344.html
+    GitHub: https://github.com/Lacro59/playnite-indiegala-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-indiegala-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-indiegala-plugin/master/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-indiegala-plugin/master/screenshots/plugin_settings.jpg
