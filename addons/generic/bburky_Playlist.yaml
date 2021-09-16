@@ -1,0 +1,18 @@
+AddonId: Playlist_b0313f81-2b86-4eba-9f24-1a727dedbd45
+Type: Generic
+Name: Playlist
+Author: bburky
+ShortDescription: Sidebar menu with a manually ordered "playlist" queue of games.
+InstallerManifestUrl: https://raw.githubusercontent.com/bburky/playnite-playlist/main/Installer_Manifest.yaml
+SourceUrl: https://github.com/bburky/playnite-playlist
+Description: |-
+  This extension provides a sidebar action with a manually ordered "playlist" queue of games. This extension can be used as a simple quick access game list, or you can use it to work through your backlog of games. Move games to the top of the list that you intend to play soon. 
+
+  Drag and drop games in the list to reorder them.
+Tags: ["Generic"]
+Links:
+  GitHub: https://github.com/bburky/playnite-playlist
+IconUrl: https://raw.githubusercontent.com/bburky/playnite-playlist/main/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/bburky/playnite-playlist/master/screenshots/Playlist.png
+    Image: https://raw.githubusercontent.com/bburky/playnite-playlist/master/screenshots/Playlist.gif
