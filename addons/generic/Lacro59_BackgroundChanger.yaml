@@ -7,11 +7,14 @@ InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-backgro
 SourceUrl: https://github.com/Lacro59/playnite-backgroundchanger-plugin
 Description: |-
     With this plugin you can
+    * selected a favorite image
+    * use APNG, WEBP (with webinfo) and MP4 files
+    * convert WEBP to MP4 to improve animation performance (with ffmpeg & webinfo)
+    
+    If the theme support function, you can:
     * have multiple cover and background images
-    * change the image on the game selection or / and with a timer
-    * use APNG, WEBP and MP4 files
-    * convert WEBP to MP4 to improve animation performance
-Tags: ["cover", "background", "animated", "SteamGridDB", "libary"]
+    * change the image on the game selection or/and with a timer    
+Tags: ["Cover", "Background", "Animated", "Video" "SteamGridDB"]
 Links:
     Forum: https://playnite.link/forum/thread-564.html
     GitHub: https://github.com/Lacro59/playnite-backgroundchanger-plugin
