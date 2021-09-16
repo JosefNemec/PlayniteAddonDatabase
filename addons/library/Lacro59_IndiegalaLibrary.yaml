@@ -3,7 +3,7 @@ Type: Generic
 Name: Indiegala library integration
 Author: Lacro59
 ShortDescription: Get and show the game languages supported.
-InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-indiegala-plugin/master/manifest/Lacro59_indiegala.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-indiegala-plugin/master/manifest/Lacro59_IndiegalaLibrary.yaml
 SourceUrl: https://github.com/Lacro59/playnite-indiegala-plugin
 Description: |-
     With this plugin you can:
