@@ -3,7 +3,7 @@ Type: Generic
 Name: Extra Metadata Loader
 Author: darklinkpower
 ShortDescription: This extension is used to load videos and logos downloaded by Extra Metadata Tools and Extra Metadata Tools Video extensions in compatible themes.
-InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_ExtraMetadataTools.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_ExtraMetadataLoader.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: This extension is used to load videos and logos downloaded by Extra Metadata Tools and Extra Metadata Tools Video extensions in compatible themes. Settings for both video and logos can be configured from the extension settings.
 Tags: ["Generic", "Metadata", "Logos", "Video"]
