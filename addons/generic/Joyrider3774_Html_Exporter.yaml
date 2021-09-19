@@ -1,0 +1,25 @@
+AddonId: 'HtmlExporterPlugin_14bd031a-a1ff-4754-a586-0b9c23a6f557'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/joyrider3774/Playnite_html_exporter/main/HtmlExporterPlugin.yaml
+ShortDescription: 'Export your Playnite library to static html pages.'
+Name: 'Html Exporter'
+Author: 'Joyrider3774'
+Tags: ['Html', 'Exporter', 'Library']
+SourceUrl: https://github.com/joyrider3774/Playnite_html_exporter
+IconUrl: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/icon.png
+Description: 'A Plugin to export your Playnite library to static html pages using templates.'
+Links:
+    Github: https://github.com/joyrider3774/Playnite_html_exporter
+    Forum Post: https://www.playnite.link/forum/thread-664.html
+    Translate: https://crowdin.com/project/playnite-game-speak
+Screenshots:
+    - Thumbnail: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/screenshots/settings_thumb.png
+      Image: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/screenshots/settings.png
+    - Thumbnail: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/screenshots/imagesettings_thumb.png
+      Image: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/screenshots/imagesettings.png
+    - Thumbnail: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/screenshots/grid_thumb.png
+      Image: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/screenshots/grid.png
+    - Thumbnail: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/screenshots/list_thumb.png
+      Image: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/screenshots/list.png
+    - Thumbnail: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/screenshots/table_thumb.png
+      Image: https://github.com/joyrider3774/Playnite_html_exporter/raw/main/screenshots/table.png
