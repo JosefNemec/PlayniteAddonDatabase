@@ -1,5 +1,5 @@
 AddonId: playnite-indiegala-plugin
-Type: Generic
+Type: GameLibrary
 Name: Indiegala library integration
 Author: Lacro59
 ShortDescription: Get and show the game languages supported.

@@ -14,7 +14,7 @@ Description: |-
     If the theme support function, you can:
     * have multiple cover and background images
     * change the image on the game selection or/and with a timer    
-Tags: ["Cover", "Background", "Animated", "Video" "SteamGridDB"]
+Tags: ["Cover", "Background", "Animated", "Video", "SteamGridDB"]
 Links:
     Forum: https://playnite.link/forum/thread-564.html
     GitHub: https://github.com/Lacro59/playnite-backgroundchanger-plugin
