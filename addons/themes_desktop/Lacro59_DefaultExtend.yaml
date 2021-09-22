@@ -1,0 +1,16 @@
+AddonId: playnite-defaultextend-theme
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-defaultextend-theme/main/manifest/Lacro59_DefaultExtend.yaml
+ShortDescription: Default theme extend for used many plugins.
+Name: DefaultExtend
+Author: Lacro59
+Tags: ["Theme", "Default"]
+SourceUrl: https://github.com/Lacro59/playnite-defaultextend-theme
+Links:
+    Forum: https://playnite.link/forum/thread-802.html
+    GitHub: https://github.com/Lacro59/playnite-defaultextend-theme
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-defaultextend-theme/master/screenshots/thumbs/theme_detailsview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-defaultextend-theme/master/screenshots/theme_detailsview.gif
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-defaultextend-theme/master/screenshots/thumbs/theme_gridview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-defaultextend-theme/master/screenshots/theme_gridview.gif
