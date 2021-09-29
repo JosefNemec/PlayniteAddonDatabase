@@ -1,0 +1,15 @@
+AddonId: bburky-IsThereAnyDeal
+Type: Generic
+Name: Is There Any Deal Collection Sync Playnite Extension
+Author: bburky
+ShortDescription: Add Playnite games to IsThereAnyDeal collection
+InstallerManifestUrl: https://raw.githubusercontent.com/bburky/isthereanydeal-playnite/master/Installer_Manifest.yaml
+SourceUrl: https://github.com/bburky/isthereanydeal-playnite/
+Description: |-
+  This extension exports games from your Playnite database and adds them to your IsThereAnyDeal profile's collection.
+
+  This extension does not support importing your list of games from IsThereAnyDeal into Playnite.
+Tags: ["Generic"]
+Links:
+  Forum: https://playnite.link/forum/thread-270-post-753.html
+  GitHub: https://github.com/bburky/isthereanydeal-playnite/
