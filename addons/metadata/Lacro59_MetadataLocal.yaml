@@ -1,0 +1,21 @@
+AddonId: playnite-metadatalocal-plugin
+Type: MetadataProvider
+Name: metadatalocal
+Author: Lacro59
+ShortDescription: Get the localized data from Steam, Epic, Origin, Ubisoft and Xbox (if exists).
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-metadatalocal-plugin/master/manifest/Lacro59_MetadataLocal.yaml
+SourceUrl: https://github.com/Lacro59/playnite-metadatalocal-plugin
+Description: |-
+    With this plugin you can:
+    * get local description from many stores
+Tags: ["Localization", "Description"]
+Links:
+    Forum: https://playnite.link/forum/thread-291.html
+    GitHub: https://github.com/Lacro59/playnite-metadatalocal-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-metadatalocal-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-metadatalocal-plugin/master/screenshots/thumbs/plugin_mainview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-metadatalocal-plugin/master/screenshots/plugin_mainview.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-metadatalocal-plugin/master/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-metadatalocal-plugin/master/screenshots/plugin_settings.jpg

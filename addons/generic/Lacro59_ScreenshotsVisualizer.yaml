@@ -9,7 +9,11 @@ Description: |-
     With this plugin you can
     * scan multi folders to show screenshoots and video capture
     * move screenshots and video capture on other folders (ex cloud folder)
-Tags: ["screenshots", "videos"]
+    
+    If the theme support function, you can:
+    * add plugin data in game list in "Details View" & "Grid View"
+    * add plugin data in game details
+Tags: ["Screenshots", "Videos"]
 Links:
     Forum: https://playnite.link/forum/thread-514.html
     GitHub: https://github.com/Lacro59/playnite-screenshotsvisualizer-plugin

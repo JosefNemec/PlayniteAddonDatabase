@@ -2,15 +2,20 @@ AddonId: playnite-librarymanagement-plugin
 Type: Generic
 Name: LibraryManagement
 Author: Lacro59
-ShortDescription: Transpose multiple fields with another value.
+ShortDescription: Transpose multiple fields with another value and edit your game medias.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-librarymanagement-plugin/master/manifest/Lacro59_LibraryManagement.yaml
 SourceUrl: https://github.com/Lacro59/playnite-librarymanagement-plugin
 Description: |-
     With this plugin you can
+    * adding an icon to genres and features
+    * media editor (on game menu)
     * transpose feature field
     * transpose genre field
     * transpose tag field
-Tags: ["librarymanagement", "feature", "genre", "tag", "libary"]
+    
+    If the theme support function, you can:
+    * add plugin data in game list in "Details View" & "Grid View"
+Tags: ["Feature", "Genre", "Tag", "Libary"]
 Links:
     Forum: https://playnite.link/forum/thread-544.html
     GitHub: https://github.com/Lacro59/playnite-librarymanagement-plugin

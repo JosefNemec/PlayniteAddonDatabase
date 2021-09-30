@@ -1,0 +1,21 @@
+AddonId: playnite-descriptioneditor-plugin
+Type: Generic
+Name: descriptioneditor
+Author: Lacro59
+ShortDescription: Can edit and preview the game description with some presets.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-descriptioneditor-plugin/master/manifest/Lacro59_DescriptionEditor.yaml
+SourceUrl: https://github.com/Lacro59/playnite-descriptioneditor-plugin
+Description: |-
+    With this plugin you can
+    * preview the game description when editing
+    * add image with presets
+    * many presets to format html description
+Tags: ["Description", "Editor"]
+Links:
+    Forum: https://playnite.link/forum/thread-379.html
+    GitHub: https://github.com/Lacro59/playnite-descriptioneditor-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-descriptioneditor-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-descriptioneditor-plugin/master/screenshots/thumbs/plugin_mainview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-descriptioneditor-plugin/master/screenshots/plugin_mainview.jpg
