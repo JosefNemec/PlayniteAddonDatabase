@@ -5,7 +5,20 @@ Author: 'felixkmh'
 ShortDescription: 'Extendable Global Search.'
 InstallerManifestUrl: https://raw.githubusercontent.com/felixkmh/QuickSearch-for-Playnite/master/InstallerManifest/felixkmh_QuickSearch_Plugin.yaml
 SourceUrl: https://github.com/felixkmh/QuickSearch-for-Playnite
-Description: 'Global game search for playnite. Works similarly to a keystroke launcher, just inside Playnite. Can be opened by a user configurable Hotkey (Ctrl-F by default), either just in Playnite or also on the desktop. Includes online search for games on "IsThereAnyDeal.com" or "CheapShark.com".' 
+Description: |- 
+    Global game search for playnite. Works similarly to a keystroke launcher, just inside Playnite. 
+    Can be opened by a user configurable Hotkey (Ctrl-F by default), either just in Playnite or also on the desktop. 
+    Includes online search for games on "IsThereAnyDeal.com" or "CheapShark.com".
+    Features:
+    - Search games locally
+    - Search for games online (ITAD & CheapShark)
+    - Search and Install Extensions/Add-ons
+    - Customizable appearance
+    - Open Settings of other Extensions and Playnite
+    - Directly edit Settings of supported Extensions
+    - Execute lots of Playnite commands
+    - Details Preview for supported results
+    - Support for ExtraMetadata logos in Game details view
 Tags: ["global","search","web","itad"]
 Links:
     GitHub: https://github.com/felixkmh/QuickSearch-for-Playnite
@@ -15,3 +28,5 @@ IconUrl: https://raw.githubusercontent.com/felixkmh/QuickSearch-for-Playnite/mas
 Screenshots:
     - Thumbnail: https://i.imgur.com/FmScmdym.png
       Image: https://i.imgur.com/FmScmdy.png
+    - Thumbnail: https://i.imgur.com/Nknahmtm.png
+      Image: https://i.imgur.com/Nknahmt.png
