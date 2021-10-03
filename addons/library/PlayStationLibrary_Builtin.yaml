@@ -1,0 +1,8 @@
+AddonId: PlayStationLibrary_Builtin
+IconUrl: https://raw.githubusercontent.com/XenorPLxx/playnite-library-psn/main/source/Libraries/PSNLibrary/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/XenorPLxx/playnite-library-psn/main/manifests/PlayStationLibrary_Builtin.yaml
+ShortDescription: Imports games from PSN account.
+Name: PlayStation library integration
+Author: Xenor
+SourceUrl: https://github.com/XenorPLxx/playnite-library-psn
