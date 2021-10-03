@@ -4,5 +4,5 @@ Type: GameLibrary
 InstallerManifestUrl: https://raw.githubusercontent.com/XenorPLxx/playnite-library-psn/main/manifests/PlayStationLibrary_Builtin.yaml
 ShortDescription: Imports games from PSN account.
 Name: PlayStation library integration
-Author: Playnite & Xenor
+Author: Xenor
 SourceUrl: https://github.com/XenorPLxx/playnite-library-psn
