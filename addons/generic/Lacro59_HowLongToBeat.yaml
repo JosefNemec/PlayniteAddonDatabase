@@ -7,10 +7,15 @@ InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-howlong
 SourceUrl: https://github.com/Lacro59/playnite-howlongtobeat-plugin
 Description: |-
     With this plugin you can
-    * get and view the time to beat and compare your playtime
+    * get and view the time to beat
     * view your data from HowLongToBeat
     * upload your playtime on HowLongToBeat
-Tags: ["howlongtobeat", "libary"]
+    * add a tag with time to beat the game
+    
+    If the theme support function, you can:
+    * add plugin data in game list in "Details View" & "Grid View"
+    * add plugin data in game details
+Tags: ["HowLongToBeat", "Stats", "Tag"]
 Links:
     Forum: https://playnite.link/forum/thread-309.html
     GitHub: https://github.com/Lacro59/playnite-howlongtobeat-plugin
@@ -19,5 +24,7 @@ IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin
 Screenshots:
     - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/screenshots/thumbs/plugin_mainview.jpg
       Image: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/screenshots/plugin_mainview.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/screenshots/thumbs/plugin_mainview2.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/screenshots/plugin_mainview2.jpg
     - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/screenshots/thumbs/plugin_settings.jpg
       Image: https://raw.githubusercontent.com/Lacro59/playnite-howlongtobeat-plugin/master/screenshots/plugin_settings.jpg

@@ -2,10 +2,20 @@ AddonId: playnite-successstory-plugin
 Type: Generic
 Name: SuccessStory
 Author: Lacro59
-ShortDescription: Get achievements or add manualy achievements.
+ShortDescription: Get localised (if exist) achievements or add manualy achievements.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-successstory-plugin/master/manifest/Lacro59_SuccessStory.yaml
 SourceUrl: https://github.com/Lacro59/playnite-successstory-plugin
-Tags: ["achievements"]
+Description: |-
+    With this plugin you can:
+    * add store's achievements or add manualy achievements
+    * works for GOG, Steam, Origin, Xbox, RPCS3 and RetroAchievements
+    * add tag with time to unlock all achievements
+    * many user stats    
+    
+    If the theme support function, you can:
+    * add plugin data in game list in "Details View" & "Grid View"
+    * add plugin data in game details
+Tags: ["Achievements"]
 Links:
     Forum: https://playnite.link/forum/thread-275.html
     GitHub: https://github.com/Lacro59/playnite-successstory-plugin

@@ -1,6 +1,6 @@
 AddonId: playnite-descriptioneditor-plugin
 Type: Generic
-Name: descriptioneditor
+Name: DescriptionEditor
 Author: Lacro59
 ShortDescription: Can edit and preview the game description with some presets.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-descriptioneditor-plugin/master/manifest/Lacro59_DescriptionEditor.yaml
