@@ -1,6 +1,6 @@
 AddonId: playnite-metadatalocal-plugin
 Type: MetadataProvider
-Name: MetadataLocal
+Name: metadatalocal
 Author: Lacro59
 ShortDescription: Get the localized data from Steam, Epic, Origin, Ubisoft and Xbox (if exists).
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-metadatalocal-plugin/master/manifest/Lacro59_MetadataLocal.yaml
