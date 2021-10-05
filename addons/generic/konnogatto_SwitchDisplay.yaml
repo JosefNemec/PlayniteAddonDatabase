@@ -1,5 +1,6 @@
 AddonId: SwitchDisplay
 Name: Switch Display
+Type: Generic
 Author: konnogatto
 ShortDescription: Changes primary display and audio output when entering fullscreen mode
 InstallerManifestUrl: https://raw.githubusercontent.com/konnogatto/SwitchDisplay/master/manifest.yaml
