@@ -1,0 +1,14 @@
+AddonId: Steam_Game_Importer
+Type: Generic
+Name: Steam Game Importer
+Author: darklinkpower
+ShortDescription: Extension to add games from steam with manual input of steam Id or store link and importing a Depressurized file export.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamGameImporter.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Extension to add games from steam with manual input of steam Id or store link and importing a Depressurized file export. Input accepts multiple values if separated by comma.
+Tags: ["Generic", "Steam"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-300.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SteamGameImporter/icon.png
