@@ -1,0 +1,21 @@
+AddonId: 'PS5ish_676e10ec-adfe-48d8-a1bd-4d5771b5a2ca'
+Type: ThemeFullscreen
+Name: 'PS5ish'
+Author: 'DavidKGriggs'
+ShortDescription: A theme that emulates the look of the PS5 UI.
+InstallerManifestUrl: https://github.com/davidkgriggs/PS5ish/raw/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/davidkgriggs/PS5ish
+Tags: ["Theme", "Modern", "DKG", "UI", "PS5", "PS5ish", "Console"]
+Links:
+    GitHub: https://github.com/davidkgriggs/PS5ish
+    Playnite Forum: https://playnite.link/forum/thread-492.html
+IconUrl: https://github.com/davidkgriggs/PS5ish/raw/main/Media/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/davidkgriggs/PS5ish/raw/main/Media/thumb_01.jpg
+      Image: https://github.com/davidkgriggs/PS5ish/raw/main/Media/screenshot_01.jpg
+    - Thumbnail: https://github.com/davidkgriggs/PS5ish/raw/main/Media/thumb_02.jpg
+      Image: https://github.com/davidkgriggs/PS5ish/raw/main/Media/screenshot_02.jpg
+    - Thumbnail: https://github.com/davidkgriggs/PS5ish/raw/main/Media/thumb_03.jpg
+      Image: https://github.com/davidkgriggs/PS5ish/raw/main/Media/screenshot_03.jpg
+    - Thumbnail: https://github.com/davidkgriggs/PS5ish/raw/main/Media/thumb_04.jpg
+      Image: https://github.com/davidkgriggs/PS5ish/raw/main/Media/screenshot_04.jpg
