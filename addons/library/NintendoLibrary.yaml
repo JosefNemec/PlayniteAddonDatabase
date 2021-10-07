@@ -1,0 +1,8 @@
+AddonId: NintendoLibrary
+IconUrl: https://raw.githubusercontent.com/XenorPLxx/playnite-library-nintendo/main/source/Libraries/NintendoLibrary/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/XenorPLxx/playnite-library-nintendo/main/manifests/NintendoLibrary.yaml
+ShortDescription: Imports digital games from Nintendo account.
+Name: Nintendo library integration
+Author: Xenor
+SourceUrl: https://github.com/XenorPLxx/playnite-library-nintendo
