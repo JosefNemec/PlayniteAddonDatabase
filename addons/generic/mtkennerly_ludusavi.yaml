@@ -1,0 +1,12 @@
+AddonId: mtkennerly.ludusavi
+Name: Ludusavi
+Type: Generic
+Author: mtkennerly
+ShortDescription: Ludusavi is a tool for backing up your PC video game save data
+InstallerManifestUrl: https://raw.githubusercontent.com/mtkennerly/ludusavi-playnite/master/manifest.yaml
+SourceUrl: https://github.com/mtkennerly/ludusavi-playnite
+Description: Ludusavi is a tool for backing up your PC video game save data
+Tags: ["Generic", "Saves", "Backup"]
+Links:
+    GitHub: https://github.com/mtkennerly/ludusavi-playnite
+IconUrl: https://raw.githubusercontent.com/mtkennerly/ludusavi-playnite/master/icon.png
