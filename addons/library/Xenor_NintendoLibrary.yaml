@@ -6,3 +6,8 @@ ShortDescription: Imports digital games from Nintendo account.
 Name: Nintendo library integration
 Author: Xenor
 SourceUrl: https://github.com/XenorPLxx/playnite-library-nintendo
+Description: This plugin imports digital Nintendo games bought in the last two years based on the list available on Nintendo website. Links to resources used to build the game list are available below.
+Tags: ["Nintendo", "Library"]
+Links:
+  Github: https://github.com/XenorPLxx/playnite-library-nintendo
+  Nintendo transaction list: https://ec.nintendo.com/my/#/transactions
