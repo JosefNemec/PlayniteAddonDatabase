@@ -9,7 +9,7 @@ Submitting add-on
 To submit an add-on:
 1) Navigate to appropriate add-on [directory](https://github.com/JosefNemec/PlayniteAddonDatabase/tree/master/addons).
 2) Use **Add File** button and create new .yaml [addon manifest](#Addon-manifest) file.
-3) Commit using **Propose new file**
+3) Commit using **Propose new file** and create pull request
 
 This process will create new pull request that will be awaiting a review. Once the pull request is reviewed and merged, your add-on will be visible in add-on browser. Please note that it may take a minute after the pull request is merged for add-on to be visible in add-on browser.
 
