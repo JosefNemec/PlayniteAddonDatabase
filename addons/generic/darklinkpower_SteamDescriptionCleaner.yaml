@@ -1,0 +1,14 @@
+AddonId: SteamDescriptionCleaner_7793f6ec-83c9-4094-9d1c-e0c2280a0496
+Type: Generic
+Name: Steam Description Cleaner
+Author: darklinkpower
+ShortDescription: 'Automatically clean Steam descriptions of games, removing the "About the Game" header and everything that is before it.'
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamDescriptionCleaner.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: 'Automatically clean Steam descriptions of games, removing the "About the Game" header and everything that is before it, which always contains junk and not the actual description of the game.'
+Tags: ["Generic", "Steam"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-850.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SteamDescriptionCleaner/icon.png
