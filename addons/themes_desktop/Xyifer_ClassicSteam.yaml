@@ -1,0 +1,17 @@
+AddonId: 'ClassicSteam_382fd38e-a8cb-44bb-bb2a-641e1f5ef902'
+Type: ThemeDesktop
+InstallerManifestUrl: https://addon.link/installer.yaml
+ShortDescription: 'A theme that aims to faithfully replicate old Steam.'
+Description: "A theme I built for myself because I like an older version of the Steam layout.
+The correct aspect ratio for cover art is 171:80, that is what Steam actually rendered at by default. Playnite's preset is incorrect because it's based off of the source image instead of Steam. Crow refuses to fix this so you'll have to set the rendering ratio manually."
+Name: 'Classic Steam'
+Author: 'Xyifer'
+Tags: ['Steam', 'Classic', 'Remake', 'Faithful']
+SourceUrl: https://gitlab.com/xyifer12/ClassicSteam-Playnite-Theme
+Links:
+    GitLab: https://gitlab.com/xyifer12/ClassicSteam-Playnite-Theme
+    Playnite Forum: https://playnite.link/forum/thread-299-post-922.html
+Screenshots:
+    - Image: https://gitlab.com/xyifer12/ClassicSteam-Playnite-Theme/-/blob/master/img/Img1.png
+    - Image: https://gitlab.com/xyifer12/ClassicSteam-Playnite-Theme/-/blob/master/img/Img2.png
+    - Image: https://gitlab.com/xyifer12/ClassicSteam-Playnite-Theme/-/blob/master/img/Img3.png
