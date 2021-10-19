@@ -1,0 +1,17 @@
+AddonId: 'Playnite_Fields_Tagger'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/joyrider3774/playnite_fields_tagger/main/FieldsTagger.yaml
+ShortDescription: 'An Extension for Playnite to tag games with "have" or "missing" game fields.'
+Name: 'Fields Tagger'
+Author: 'Joyrider3774'
+Tags: ['Fields', 'Tag', 'Game']
+SourceUrl: https://github.com/joyrider3774/playnite_fields_tagger
+IconUrl: https://github.com/joyrider3774/playnite_fields_tagger/raw/main/Source/icon.png
+Description: 'An Extension for Playnite to tag games with "have" or "missing" game fields. To search for example for games that have no description set or games that have notes set etc'
+Links:
+    Github: https://github.com/joyrider3774/playnite_fields_tagger
+    Forum Post: https://playnite.link/forum/thread-856.html
+    Translate: https://crowdin.com/project/playnite-game-speak
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/joyrider3774/playnite_fields_tagger/main/Screenshots/screenshot_thumb.png
+      Image: https://raw.githubusercontent.com/joyrider3774/playnite_fields_tagger/main/Screenshots/screenshot.png
