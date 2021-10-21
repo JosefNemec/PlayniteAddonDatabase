@@ -1,0 +1,16 @@
+AddonId: 'RePS5_3d09a5d1-a183-49da-adb6-e78428f7d90e'
+Type: ThemeFullscreen
+Name: 'Reskin PS5'
+Author: 'TheKersalMassive'
+ShortDescription: A PS5 reskin of the playnite fullscreen theme
+InstallerManifestUrl: https://raw.githubusercontent.com/TheKersalMassive/ReskinPS5/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/TheKersalMassive/ReskinPS5
+Tags: ["Theme", "PS5", "Console", "Big Picture Mode"]
+Links:
+    GitHub: https://github.com/TheKersalMassive/ReskinPS5
+IconUrl: https://raw.githubusercontent.com/TheKersalMassive/ReskinPS5/main/Media/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/TheKersalMassive/ReskinPS5/main/Media/thumb_01.jpg
+      Image: https://raw.githubusercontent.com/TheKersalMassive/ReskinPS5/main/Media/screenshot_01.jpg
+    - Thumbnail: https://raw.githubusercontent.com/TheKersalMassive/ReskinPS5/main/Media/thumb_02.jpg
+      Image: https://raw.githubusercontent.com/TheKersalMassive/ReskinPS5/main/Media/screenshot_02.jpg
