@@ -1,0 +1,16 @@
+AddonId: 'XCloudLibrary_5befaf7a-a0af-4ce2-992c-bc048d94e71b'
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/joyrider3774/Playnite_XCloud_Library/main/XCloudLibrary.yaml
+ShortDescription: 'Import Microsoft XBox Gamepass Cloud Games and launch them from Playnite in your webbrowser'
+Name: 'Microsoft XCloud Importer'
+Author: 'Joyrider3774'
+Tags: ['XBox', 'XCloud', 'Gamepass', 'Library']
+SourceUrl: https://github.com/joyrider3774/Playnite_XCloud_Library
+IconUrl: https://github.com/joyrider3774/Playnite_XCloud_Library/raw/main/icon.png
+Links:
+    Github: https://github.com/joyrider3774/Playnite_XCloud_Library
+    Playnite Forums thread: https://www.playnite.link/forum/thread-827.html
+    Translate: https://crowdin.com/project/playnite-game-speak
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/joyrider3774/Playnite_XCloud_Library/main/Screenshots/screenshot1_thumb.png
+      Image: https://raw.githubusercontent.com/joyrider3774/Playnite_XCloud_Library/main/Screenshots/screenshot1.png

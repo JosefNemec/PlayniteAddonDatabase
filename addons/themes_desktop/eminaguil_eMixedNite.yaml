@@ -1,0 +1,18 @@
+AddonId: eMixedNite_d3544fdb-be37-4677-b317-7d747adc6b8e
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/eminaguil/eMixedNite/raw/main/InstallerManifest/eminaguil_eMixedNite_DesktopTheme.yml
+ShortDescription: Playnite Desktop theme is a mix of great ideas and features, with various options for customization.
+Description: eMixedNite is a Playnite Desktop theme result of a mix of great ideas and features like custom panels and expanders, banners, logos. All with various options for customization with the help of addons like ThemeModifier and more.
+Name: eMixedNite
+Author: eminaguil
+Tags: ["Theme", "UI"]
+SourceUrl: https://github.com/eminaguil/eMixedNite
+Links:
+    GitHub: https://github.com/eminaguil/eMixedNite
+    Playnite Forums thread: https://playnite.link/forum/thread-337.html
+IconUrl: https://github.com/eminaguil/eMixedNite/raw/main/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/eminaguil/eMixedNite/raw/main/screenshots/Thumbnail_01.png
+      Image: https://github.com/eminaguil/eMixedNite/raw/main/screenshots/screenshot_01.png
+    - Thumbnail: https://github.com/eminaguil/eMixedNite/raw/main/screenshots/Thumbnail_02.png
+      Image: https://github.com/eminaguil/eMixedNite/raw/main/screenshots/screenshot_02.png

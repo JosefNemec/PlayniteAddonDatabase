@@ -1,0 +1,15 @@
+AddonId: PlayStationLibrary_Builtin
+IconUrl: https://raw.githubusercontent.com/XenorPLxx/playnite-library-psn/main/source/Libraries/PSNLibrary/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/XenorPLxx/playnite-library-psn/main/manifests/PlayStationLibrary_Builtin.yaml
+ShortDescription: Imports games from PSN account.
+Name: PlayStation library integration
+Author: Xenor
+SourceUrl: https://github.com/XenorPLxx/playnite-library-psn
+Description: This plugin imports all the PS4 and PS5 games from your PSN account you own and/or played based on various lists available through web and mobile app. It can also import PS3, PSP and PSVITA games based on trophy list associated with your PSN account. Links to resources used to build the game list are available above.
+Tags: ["PlayStation", "Library"]
+Links:
+  Github: https://github.com/XenorPLxx/playnite-library-psn
+  PSN purchased games: https://library.playstation.com/recently-purchased
+  PSN recently played games: https://library.playstation.com/recently-played
+  PlayStation App: https://www.playstation.com/pl-pl/playstation-app/
