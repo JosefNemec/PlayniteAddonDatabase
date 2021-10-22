@@ -1,0 +1,26 @@
+AddonId: playnite-isthereanydeal-plugin
+Type: Generic
+Name: IsThereAnyDeal
+Author: Lacro59
+ShortDescription: Manage your cover and background images with more formats and more options.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-isthereanydeal-plugin/master/manifest/Lacro59_IsThereAnyDeal.yaml
+SourceUrl: https://github.com/Lacro59/playnite-isthereanydeal-plugin
+Description: |-
+    With this plugin you can
+    * get whislit from Steam, GOG, Epic Game Store, Humble Bundle, Oringin and Xbox
+    * remove a game in your wish list for GOG, Epci Game Store and Origin
+    * show best price for different game in wishlit
+    * notification when percent reduc is above limit defined
+    * show giveaways    
+    * notification for new giveaways 
+Tags: ["Store", "Giveaways", "Price"]
+Links:
+    Forum: ttps://playnite.link/forum/thread-323.html
+    GitHub: https://github.com/Lacro59/playnite-isthereanydeal-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-isthereanydeal-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-isthereanydeal-plugin/master/screenshots/thumbs/plugin_mainview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-isthereanydeal-plugin/master/screenshots/plugin_mainview.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-isthereanydeal-plugin/master/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-isthereanydeal-plugin/master/screenshots/plugin_settings.jpg
