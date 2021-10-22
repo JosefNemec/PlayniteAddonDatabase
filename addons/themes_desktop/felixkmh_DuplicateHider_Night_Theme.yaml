@@ -3,9 +3,20 @@ Type: ThemeDesktop
 Name: 'DH_Night'
 Author: 'felixkmh'
 ShortDescription: 'Showcase theme for the custom UI integration of the DuplicateHider extension.'
+Description: |- 
+    Showcase theme for the custom UI integration of the DuplicateHider extension. 
+    Uses a lot of blur and drop shadow effects which might have an impact on Playnites performance.
+    Features:
+    - DuplicateHider integration in Details View and Grid View
+    - Subtle animations in several places
+    - collapsable filters
+    - HowLongToBeat progress indicator
+    - SuccessStory in Details View
+    - ExtraMetadataLoader logos
+    - ThemeModifier support
 InstallerManifestUrl: https://raw.githubusercontent.com/felixkmh/DH_Themes/main/InstallerManifest/felixkmh_DuplicateHider_Night_Theme.yaml
 SourceUrl: https://github.com/felixkmh/DH_Themes
-Tags: ["duplicates", "libary", "dark", "duplicatehider", "custom ui"]
+Tags: ["duplicates", "libary", "dark", "duplicatehider", "custom ui", "successstory", "extrametadataloader", "howlongtobeat"]
 Links:
     GitHub: https://github.com/felixkmh/DH_Themes
     Playnite Forum: https://playnite.link/forum/thread-798-post-5592.html
