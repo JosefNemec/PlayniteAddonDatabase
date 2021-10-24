@@ -3,7 +3,7 @@ Type: Generic
 Name: MAME Utility
 Author: GerryKeys
 ShortDescription: Organize your MAME games imported on Playnite.
-InstallerManifestUrl: https://github.com/gerrykeys/playnite-mame-utility/blob/main/manifests/manifest.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/gerrykeys/playnite-mame-utility/main/manifests/manifest.yaml
 SourceUrl: https://github.com/gerrykeys/playnite-mame-utility/tree/main/src
 Description: This extension is designed to organize better your MAME games imported on Playnite.
 Tags: ["Generic", "MAME", "roms"]
