@@ -4,10 +4,10 @@ Name: MAME Utility
 Author: GerryKeys
 ShortDescription: Organize your MAME games imported on Playnite.
 InstallerManifestUrl: https://github.com/gerrykeys/playnite-mame-utility/blob/main/manifests/manifest.yaml
-SourceUrl: https://github.com/gerrykeys/playnite-mame-utility
+SourceUrl: https://github.com/gerrykeys/playnite-mame-utility/tree/main/src
 Description: This extension is designed to organize better your MAME games imported on Playnite.
 Tags: ["Generic", "MAME", "roms"]
 Links:
     GitHub: https://github.com/gerrykeys/playnite-mame-utility
     Playnite Forums thread: https://playnite.link/forum/thread-886-post-6316.html#pid6316
-IconUrl: https://github.com/gerrykeys/playnite-mame-utility/blob/main/logo/icon.png
+IconUrl: https://raw.githubusercontent.com/gerrykeys/playnite-mame-utility/main/assets/logo/icon.png
