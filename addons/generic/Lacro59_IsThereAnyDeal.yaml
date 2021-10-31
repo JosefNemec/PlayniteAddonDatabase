@@ -6,6 +6,10 @@ ShortDescription: Manage your cover and background images with more formats and 
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-isthereanydeal-plugin/master/manifest/Lacro59_IsThereAnyDeal.yaml
 SourceUrl: https://github.com/Lacro59/playnite-isthereanydeal-plugin
 Description: |-
+    Warnings:
+    * the plugin browses the ExtensionData folder in order to retrieve the configuration of the library plugins
+    * the plugin uses the CefSharp global webview profile in order to use the store connection
+    
     With this plugin you can
     * get whislit from Steam, GOG, Epic Game Store, Humble Bundle, Oringin and Xbox
     * remove a game in your wish list for GOG, Epci Game Store and Origin

@@ -6,6 +6,9 @@ ShortDescription: Get and view the game requierements.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-systemchecker-plugin/master/manifest/Lacro59_SystemChecker.yaml
 SourceUrl: https://github.com/Lacro59/playnite-systemchecker-plugin
 Description: |-
+    Warnings:
+    * the plugin retrieves information about your hardware configuration
+    
     With this plugin you can:
     * get game requiere configuration
     * check if your configuration passe

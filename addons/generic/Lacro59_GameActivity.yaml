@@ -6,6 +6,9 @@ ShortDescription: Track game activities and displays lots of statistics about yo
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-gameactivity-plugin/master/manifest/Lacro59_GameActivity.yaml
 SourceUrl: https://github.com/Lacro59/playnite-gameactivity-plugin
 Description: |-
+    Warnings:
+    * the plugin retrieves information about your hardware configuration
+    
     With this plugin you can
     * elapsed time by source by month and week and days
     * elapsed time by genre by month

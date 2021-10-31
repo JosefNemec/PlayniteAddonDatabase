@@ -6,6 +6,10 @@ ShortDescription: Get localised (if exist) achievements or add manualy achieveme
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-successstory-plugin/master/manifest/Lacro59_SuccessStory.yaml
 SourceUrl: https://github.com/Lacro59/playnite-successstory-plugin
 Description: |-
+    Warnings:
+    * the plugin browses the ExtensionData folder in order to retrieve the configuration of the library plugins
+    * the plugin uses the CefSharp global webview profile in order to use the store connection
+    
     With this plugin you can:
     * add store's achievements or add manualy achievements
     * works for GOG, Steam, Origin, Xbox, RPCS3 and RetroAchievements
