@@ -1,0 +1,18 @@
+AddonId: ScreenScraperMetadata_7f06b81a-3271-44ee-a234-b32fc15c42f1
+Type: MetadataProvider
+Name: ScreenScraper.fr Metadata Provider
+Author: polson
+ShortDescription: Get art and metadata from ScreenScraper.fr
+InstallerManifestUrl: https://raw.githubusercontent.com/polson/screenscraper-playnite-metadata-plugin/main/addon_metadata.yaml
+SourceUrl: https://github.com/polson/screenscraper-playnite-metadata-plugin
+Description: |-
+    With this plugin you can:
+    * Get art and metadata for console and retro games from ScreenScraper.fr
+Tags: ["Metadata"]
+Links:
+    Forum: https://playnite.link/forum/thread-789.html
+    GitHub: https://github.com/polson/screenscraper-playnite-metadata-plugin
+IconUrl: https://raw.githubusercontent.com/polson/screenscraper-playnite-metadata-plugin/main/ScreenScraperMetadata/Resources/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/polson/screenscraper-playnite-metadata-plugin/main/screenshots/settings_thumb.png
+      Image: https://raw.githubusercontent.com/polson/screenscraper-playnite-metadata-plugin/main/screenshots/settings.png
