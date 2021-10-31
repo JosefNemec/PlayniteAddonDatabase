@@ -6,6 +6,10 @@ ShortDescription: Show your screenshots and video capture.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-screenshotsvisualizer-plugin/master/manifest/Lacro59_ScreenshotsVisualizer.yaml
 SourceUrl: https://github.com/Lacro59/playnite-screenshotsvisualizer-plugin
 Description: |-
+    Warnings:
+    * the plugin browses the ExtensionData folder in order to retrieve the configuration of the library plugins
+    * the plugin browses the directory you configured to retrieve game screenshots
+    
     With this plugin you can
     * scan multi folders to show screenshoots and video capture
     * move screenshots and video capture on other folders (ex cloud folder)
