@@ -1,12 +1,12 @@
 AddonId: Extra_Metadata_tools_2e0349ed-6da2-4095-9457-4c9fb544551e
 Type: Generic
-Name: Extra Metadata tools
+Name: Extra Metadata Fullscreen Mode Helper
 Author: darklinkpower
-ShortDescription: This extension is a companion tool to add unofficial support for new metadata in supported custom themes. It has support logos.
+ShortDescription: "Adds support for 'Extra Metadata Loader' extension usage in certain Fullscreen Mode themes"
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_ExtraMetadataTools.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
-Description: This extension is a companion tool to add unofficial support for new metadata in supported custom themes. It has support for logos.
-Tags: ["Generic", "Metadata", "Logos"]
+Description: "This extension provides certain functionality required in certain Fullscreen Mode custom themes to add support for 'Extra Metadata Loader' extension usage"
+Tags: ["Generic", "Metadata", "Logos", "Video"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-575.html
