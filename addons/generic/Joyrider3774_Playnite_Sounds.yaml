@@ -1,0 +1,14 @@
+AddonId: 'Playnite.Sounds.WD'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/joyrider3774/PlayniteSound/main/PlayniteSounds.yaml
+ShortDescription: 'An Extension for Playnite to play audio files on certain events and/or play background music per game or platform'
+Name: 'Playnite Sounds'
+Author: 'Joyrider3774'
+Tags: ['Sound', 'Music', 'Events']
+SourceUrl: https://github.com/joyrider3774/PlayniteSound
+IconUrl: https://raw.githubusercontent.com/joyrider3774/PlayniteSound/main/icon.png
+Description: 'An Extension for Playnite to play audio files on certain events like gameselected, libraryupdated, applicationstarted, ... and play background music per game, platform or a single file for all games. It can do this in both fullscreen as desktop mode. Please be aware Playnite 9 supports audio files out of the box now...'
+Links:
+    Github: https://github.com/joyrider3774/PlayniteSound
+    Forum Post: https://www.playnite.link/forum/thread-432.html
+    Translate: https://crowdin.com/project/playnite-game-speak
