@@ -5,7 +5,7 @@ Author: AIRyndon
 ShortDescription: This plugin adds additional functionality to ludusavi-playnite
 InstallerManifestUrl: https://raw.githubusercontent.com/AIRyndon/AutoSave/release/manifest.yaml
 SourceUrl: https://github.com/AIRyndon/AutoSave
-Description: This plugin uses Ludusavi to incrementally backup save game data
+Description: This plugin uses Ludusavi to backup save game data
 Tags: ["Generic", "Saves", "Backup"]
 Links:
     Homepage: https://github.com/AIRyndon/AutoSave
