@@ -1,0 +1,16 @@
+AddonId: FanaticalLibrary_ef17cc27-95d4-45e7-bd49-214ba2e5f4b2
+IconUrl: https://raw.githubusercontent.com/nosyN00b/playnite-fanatical-plugin/master/source/Resources/fanaticalicon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/nosyn00b/playnite-fanatical-plugin/master/manifest/FanaticalLibrary.yaml
+ShortDescription: Imports owned digital games from Fanatical Store account.
+Name: Fanatical library integration
+Author: NosyN00b
+SourceUrl: https://github.com/nosyn00b/playnite-fanatical-library
+Description: This plugin imports Fanatical games bought in the store and still not redeemed.
+Tags: ["Fanatical", "Library"]
+Links:
+    Github: https://github.com/nosyn00b/playnite-fanatical-library
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/nosyn00b/playnite-fanatical-plugin/master/Resources/Screenshot_1_thumb.png
+      Image: https://raw.githubusercontent.com/nosyn00b/playnite-fanatical-plugin/master/Resources/Screenshot_1.png
+
