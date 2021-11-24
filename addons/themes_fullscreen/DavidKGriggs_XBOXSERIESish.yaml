@@ -1,0 +1,21 @@
+AddonId: 'XBOXSERIESish_74735df9-3351-4669-a1ff-50f18f39b63b'
+Type: ThemeFullscreen
+Name: 'XBOXSERIESish'
+Author: 'DavidKGriggs'
+ShortDescription: THIS IS IN BETA FOR TESTING!!! A theme that emulates the look of the XBOX Series UI.
+InstallerManifestUrl: https://github.com/davidkgriggs/XBOXSERIESish/raw/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/davidkgriggs/XBOXSERIESish
+Tags: ["Theme", "Modern", "DKG", "UI", "XBOX", "XBOXSERIESish", "Console"]
+Links:
+    GitHub: https://github.com/davidkgriggs/XBOXSERIESish
+    Playnite Forum: https://playnite.link/forum/thread-629.html
+IconUrl: https://github.com/davidkgriggs/XBOXSERIESish/raw/main/Media/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/davidkgriggs/XBOXSERIESish/raw/main/Media/thumb_01.jpg
+      Image: https://github.com/davidkgriggs/XBOXSERIESish/raw/main/Media/screenshot_01.jpg
+    - Thumbnail: https://github.com/davidkgriggs/XBOXSERIESish/raw/main/Media/thumb_02.jpg
+      Image: https://github.com/davidkgriggs/XBOXSERIESish/raw/main/Media/screenshot_02.jpg
+    - Thumbnail: https://github.com/davidkgriggs/XBOXSERIESish/raw/main/Media/thumb_03.jpg
+      Image: https://github.com/davidkgriggs/XBOXSERIESish/raw/main/Media/screenshot_03.jpg
+    - Thumbnail: https://github.com/davidkgriggs/XBOXSERIESish/raw/main/Media/thumb_04.jpg
+      Image: https://github.com/davidkgriggs/XBOXSERIESish/raw/main/Media/screenshot_04.jpg
