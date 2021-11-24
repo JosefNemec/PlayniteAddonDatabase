@@ -1,0 +1,12 @@
+AddonId: InstallButton_fd5887bb-2da2-4044-bea3-9896aea2f5b8
+Type: Generic
+Name: Install Button
+Author: azuravian
+ShortDescription: This extension simplifies installation of local games.
+InstallerManifestUrl: https://raw.githubusercontent.com/azuravian/playnite-LocalInstallButton/main/manifests/Generic_InstallButton.yaml
+SourceUrl: https://github.com/azuravian/playnite-LocalInstallButton
+Description: "This extension simplifies installation of local games, including running the installer and creating a new play action."
+Tags: ["Generic", "Install"]
+Links:
+    GitHub: https://github.com/azuravian/playnite-LocalInstallButton
+IconUrl: https://raw.githubusercontent.com/azuravian/playnite-LocalInstallButton/main/icon.png
