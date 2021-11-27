@@ -1,0 +1,16 @@
+AddonId: Magpie_Desktop_GBV2
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/Twiggy547/Magpie-Playnite-Theme/blob/master/Installer_Manifest.yaml
+ShortDescription: Theme inspired by the Metro for Steam Skin and Epic Launcher's clean design.
+Description: Heavily influenced by the Metro for Steam Skin and Epic Launcher's clean design, with a focus on flexibility, customizability and the occasional addition of functions that I desire for personal use.
+Name: Magpie9 GBV
+Author: Twiggy5471
+Tags: ["Theme", "Metro", "Grid"]
+SourceUrl: https://github.com/Twiggy547/Magpie-Playnite-Theme/tree/master/Magpie_Desktop_GBV
+Links:
+    GitHub: https://github.com/Twiggy547/Magpie-Playnite-Theme
+    Playnite Forums thread: https://playnite.link/forum/thread-336.html
+IconUrl: https://github.com/Twiggy547/Magpie-Playnite-Theme/blob/master/Magpie_Desktop_GBV/Images/applogo.png
+Screenshots:
+    - Image: https://github.com/Twiggy547/Magpie-Playnite-Theme/blob/master/assets/grid2.png
+    - Image: https://github.com/Twiggy547/Magpie-Playnite-Theme/blob/master/assets/details1.png
