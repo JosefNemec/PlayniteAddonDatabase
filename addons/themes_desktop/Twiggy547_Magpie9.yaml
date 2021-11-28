@@ -7,11 +7,13 @@ Name: Magpie GBV (Extended)
 Author: Twiggy5471
 Tags: ["Theme", "Metro", "Grid"]
 SourceUrl: https://github.com/Twiggy547/Magpie-Playnite-Theme
-Playnite Forums thread: https://playnite.link/forum/thread-801.html
+Playnite Forums thread: https://playnite.link/forum/thread-336.html
 Links:
     GitHub: https://github.com/Twiggy547/Magpie-Playnite-Theme
     Playnite Forums thread: https://playnite.link/forum/thread-336.html
-IconUrl: https://github.com/Twiggy547/Magpie-Playnite-Theme/raw/master/Magpie_Desktop_GBV/Images/applogo.png
+IconUrl: https://github.com/Twiggy547/Magpie-Playnite-Theme/raw/master/Magpie_Desktop_GBV/Images/magpie-icon.png
 Screenshots:
-    - Image: https://github.com/Twiggy547/Magpie-Playnite-Theme/raw/master/assets/grid2.png
-    - Image: https://github.com/Twiggy547/Magpie-Playnite-Theme/raw/master/assets/details1.png
+    - Thumbnail: https://github.com/Twiggy547/Magpie-Playnite-Theme/raw/master/assets/thumb_grid2.jpg
+      Image: https://github.com/Twiggy547/Magpie-Playnite-Theme/raw/master/assets/grid2.png
+    - Thumbnail: https://github.com/Twiggy547/Magpie-Playnite-Theme/raw/master/assets/thumb_details1.jpg
+      Image: https://github.com/Twiggy547/Magpie-Playnite-Theme/raw/master/assets/details1.png
