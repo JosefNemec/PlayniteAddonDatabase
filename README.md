@@ -21,6 +21,10 @@ If you want to provide users with an easy way to directly install your add-on, y
 
 `playnite://playnite/installaddon/<AddonId>`
 
+You can also link to add-on entry on web addon browser:
+
+`https://playnite.link/addons.html#<AddonId>`
+
 Addon manifest
 ---------------------
 
