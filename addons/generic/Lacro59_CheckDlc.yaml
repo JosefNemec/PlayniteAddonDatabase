@@ -1,0 +1,21 @@
+AddonId: playnite-checkdlc-plugin
+Type: Generic
+Name: CheckDlc
+Author: Lacro59
+ShortDescription: Get and view the list of DLC and see which ones you own
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-checkdlc-plugin/main/manifest/Lacro59_CheckDlc.yaml
+SourceUrl: https://github.com/Lacro59/playnite-checkdlc-plugin
+Description: |-
+    With this plugin you can
+    * get the list of DLC 
+    * see which DLC you own
+Links:
+    Forum: https://playnite.link/forum/thread-1020.html
+    GitHub: https://github.com/Lacro59/playnite-checkdlc-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-checkdlc-plugin/main/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-checkdlc-plugin/main/screenshots/thumbs/plugin_mainview.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-checkdlc-plugin/main/screenshots/plugin_mainview.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-checkdlc-plugin/main/screenshots/thumbs/plugin_settings.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-checkdlc-plugin/main/screenshots/plugin_settings.jpg
