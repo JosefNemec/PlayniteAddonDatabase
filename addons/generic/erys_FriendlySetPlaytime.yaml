@@ -1,0 +1,12 @@
+AddonId: 'FriendlySetTime_1f05ed2e-f22d-45e0-8e81-16378a8464c7'
+Type: Generic
+Name: 'Friendly Set Playtime'
+Author: 'erys'
+InstallerManifestUrl: https://raw.githubusercontent.com/erys/FriendlySetTimePlaynitePlugin/master/FriendlySetTime.yaml
+ShortDescription: 'Adds game menu item to set playtime for a game in hours and minutes. You can also set the completion status at the same time.'
+Tags: ['Playtime', 'Metadata']
+SourceUrl: https://github.com/erys/FriendlySetTimePlaynitePlugin
+IconUrl: https://raw.githubusercontent.com/erys/FriendlySetTimePlaynitePlugin/master/icon.png
+Links:
+    Forum: https://playnite.link/forum/thread-948.html
+    GitHub: https://github.com/erys/FriendlySetTimePlaynitePlugin

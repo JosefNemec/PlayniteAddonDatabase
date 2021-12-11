@@ -1,0 +1,20 @@
+AddonId: eMixedNiteMC_4333b3b2-0374-43a1-a9eb-d27f3ea89ef8
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/MCC321-QC/eMixedNiteMC/main/InstallerManifest/MCC321_eMixedNiteMC_DesktopTheme.yml
+ShortDescription: eMixedNiteMC is a tweaked version of eMixedNite
+Description: eMixedNiteMC is a tweaked version of eMixedNite that add support for video trailer in the background using Extra Metadata Loader plus some other changes.Be sure to check the forum/Github page to access a installation tutorial, a platform banner collection to start, a custom font for the game title(come with installer) and my settings.
+Name: eMixedNiteMC
+Author: eminaguil & MCC321
+Tags: ["Theme", "UI"]
+SourceUrl: https://github.com/MCC321-QC/eMixedNiteMC
+Links:
+    GitHub: https://github.com/MCC321-QC/eMixedNiteMC
+    Playnite Forums thread: https://playnite.link/forum/thread-801.html
+IconUrl: https://github.com/MCC321-QC/eMixedNiteMC/raw/main/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/MCC321-QC/eMixedNiteMC/raw/main/screenshots/Thumbnail_01.png
+      Image: https://github.com/MCC321-QC/eMixedNiteMC/raw/main/screenshots/screenshot_01.png
+    - Thumbnail: https://github.com/MCC321-QC/eMixedNiteMC/raw/main/screenshots/Thumbnail_02.png
+      Image: https://github.com/MCC321-QC/eMixedNiteMC/raw/main/screenshots/screenshot_02.png
+    - Thumbnail: https://github.com/MCC321-QC/eMixedNiteMC/raw/main/screenshots/Thumbnail_03.png
+      Image: https://github.com/MCC321-QC/eMixedNiteMC/raw/main/screenshots/screenshot_03.png
