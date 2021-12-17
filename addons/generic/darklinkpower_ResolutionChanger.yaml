@@ -1,0 +1,14 @@
+AddonId: ResolutionChanger_32b6a5c7-be17-4852-b4f7-f059a7321f4c
+Type: Generic
+Name: Resolution Changer
+Author: darklinkpower
+ShortDescription: Change the resolution of your main display when starting games.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_ResolutionChanger.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension will change the resolution when starting games and restore the display resolution when the game is closed. Only the main display is supported.
+Tags: ["Generic", "Display", "Resolution"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-1026.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/ResolutionChanger/icon.png
