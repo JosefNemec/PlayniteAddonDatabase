@@ -3,7 +3,7 @@ Type: Generic
 InstallerManifestUrl: https://github.com/Garulf/FlowLauncherExporter/raw/main/FlowLauncherExporter.yaml
 ShortDescription: Allows Flow Launcher Playnite plugin to access your library.
 Name: Flow Launcher Exporter
-Author: Playnite
+Author: Garulf
 Links:
     Website: https://github.com/Garulf/FlowLauncherExporter
     Plugin: https://github.com/Garulf/Playnite-Plugin
