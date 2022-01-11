@@ -1,0 +1,22 @@
+AddonId: Daze_27790ca9-d3a4-480f-bffe-914ec6768363
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/manifests/superdario_Daze.yaml
+ShortDescription: Minimal and clean theme based on transparency and comfortable spacing
+Description: A minimal theme featuring rounded covers and a star rating display in grid view.
+Name: Daze
+Author: Super Dario 
+Tags: ["Theme", "Transparency", "UI"]
+SourceUrl: https://github.com/dariolupo/Daze_Theme
+Links:
+    GitHub: https://github.com/dariolupo/Daze_Theme
+    Playnite Forums thread: https://playnite.link/forum/thread-1085.html
+IconUrl: https://github.com/dariolupo/Daze_Theme/blob/main/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/thumb-1.jpg
+      Image: https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png
+    - Thumbnail: https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/thumb-2.jpg
+      Image: https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Full).png
+    - Thumbnail: https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/thumb-3.jpg
+      Image: https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(with%20Stars%20Ratings).png
+    - Thumbnail: https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/thumb-4.jpg
+      Image: https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View%20(with%20Filters).png
