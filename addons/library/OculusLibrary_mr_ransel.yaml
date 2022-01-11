@@ -1,0 +1,10 @@
+AddonId: OculusLibraryPlugin_Playnite_Plugin
+IconUrl: https://github.com/mr-ransel/Playnite-OculusLibrary/raw/master/OculusLibrary/Resources/oculusicon.png
+Type: GameLibrary
+InstallerManifestUrl: https://github.com/mr-ransel/Playnite-OculusLibrary/raw/master/OculusLibraryInstaller.yaml
+ShortDescription: 'Loads Playnite with all your Oculus Rift games'
+Name: 'Oculus Library Plugin'
+Author: 'Robert Ansel & Shaw Young'
+Links:
+    Website: https://github.com/mr-ransel/Playnite-OculusLibrary
+SourceUrl: https://github.com/mr-ransel/Playnite-OculusLibrary
