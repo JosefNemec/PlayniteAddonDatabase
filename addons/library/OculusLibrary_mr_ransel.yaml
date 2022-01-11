@@ -4,7 +4,7 @@ Type: GameLibrary
 InstallerManifestUrl: https://github.com/mr-ransel/Playnite-OculusLibrary/raw/master/OculusLibraryInstaller.yaml
 ShortDescription: 'Loads Playnite with all your Oculus Rift games'
 Name: 'Oculus Library Plugin'
-Author: 'Robert Ansel & Shaw Young'
+Author: 'Jeshibu & Ransel'
 Links:
     Website: https://github.com/mr-ransel/Playnite-OculusLibrary
 SourceUrl: https://github.com/mr-ransel/Playnite-OculusLibrary
