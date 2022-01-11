@@ -5,7 +5,7 @@ Author: Ferrell
 ShortDescription: A plugin to manage some emulated games metadata in Playnite.
 InstallerManifestUrl: https://raw.githubusercontent.com/ferrazpedro/playnite-emulation-toolbox-plugin/blob/main/manifest/Ferrell_EmulationToolbox.yaml
 SourceUrl: https://github.com/ferrazpedro/playnite-emulation-toolbox-plugin
-Description: Right now it can alter 3 things: 1 - Rename your PlayAction as the same as your game name. 2 - Clean your ROMs entries names so they *fit* with your PlayAction name when you have multiple ROMs. 3 - Change all hyphens ( - ) to colons (: ). The idea is to slowly add more functions that I feel are needed to organize emulated games in Playnite.
+Description: This plugin adds some features related to emulation that I feel are needed to better organize games in Playnite.
 Tags: ["Generic", "Emulation", "Metadata"]
 Links:
     Homepage: https://github.com/ferrazpedro/playnite-emulation-toolbox-plugin
