@@ -2,12 +2,13 @@ AddonId: 'Playnite Deck_905f24da-b02b-40df-9f6b-14c41fcdb05d'
 Type: ThemeFullscreen
 Name: 'Playnite Deck'
 Author: 'DavidKGriggs'
-ShortDescription: THIS IS IN BETA FOR TESTING!!! A theme that emulates the look of the Steam Deck UI.
+ShortDescription: A theme that emulates the look of the Steam Deck UI.
 InstallerManifestUrl: https://github.com/davidkgriggs/Playnite-Deck/raw/main/Manifests/Installer_Manifest.yaml
 SourceUrl: https://github.com/davidkgriggs/Playnite-Deck
 Tags: ["Theme", "Modern", "DKG", "UI", "Steam", "Playnite Deck", "Console"]
 Links:
     GitHub: https://github.com/davidkgriggs/Playnite-Deck
+    Playnite Forum: https://playnite.link/forum/thread-1088.html
 IconUrl: https://github.com/davidkgriggs/Playnite-Deck/raw/main/Media/applogo.png
 Screenshots:
     - Thumbnail: https://github.com/davidkgriggs/Playnite-Deck/raw/main/Media/thumb_01.jpg
