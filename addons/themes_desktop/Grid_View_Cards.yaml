@@ -1,0 +1,16 @@
+AddonId: GridViewCards_9af15fb8-f51c-45df-93fc-235c50bfcd39
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/JG00SE/GridViewCards/main/Manifests/Installer_Manifest.yaml
+ShortDescription: A card based UI theme for the Playnite Grid View
+Description: A dark card based UI theme for the Playnite Grid View
+Name: Grid View Cards
+Author: Goose
+Tags: ["Theme", "Dark", "UI"]
+SourceUrl: https://github.com/JG00SE/GridViewCards
+Links: 
+    GitHub: https://github.com/JG00SE/GridViewCards
+    Playnite Forums thread: https://playnite.link/forum/thread-1097.html
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/JG00SE/GridViewCards/main/Screenshots/Screenshot_01_Thumbnail.jpg
+      Image: https://raw.githubusercontent.com/JG00SE/GridViewCards/main/Screenshots/Screenshot_01.png
+    
