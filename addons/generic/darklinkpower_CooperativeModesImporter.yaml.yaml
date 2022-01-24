@@ -1,0 +1,17 @@
+AddonId: CooperativeModesImporter_9767ac15-6e26-4e4c-9d69-f6838625dde3
+Type: Generic
+Name: Cooperative Modes Importer
+Author: darklinkpower
+ShortDescription: Detects and adds features that indicate the cooperative features in games.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_CooperativeModesImporter.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Detects and adds features that indicate the cooperative features in games. Data used by the extension is obtained from Co-Optimus.
+Tags: ["Generic", "Feature", "Cooperative", "Coop"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-1101.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/CooperativeModesImporter/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/CooperativeModesImporter/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/CooperativeModesImporter/screenshot_01.jpg
