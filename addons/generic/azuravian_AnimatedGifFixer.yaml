@@ -1,0 +1,13 @@
+AddonId: Animated_Gif_Fixer_5fs3sd1fs6a8k
+Type: Generic
+Name: Animated Gif Fixer
+Author: azuravian
+ShortDescription: Converts animated gifs into static pngs in Playnite Descriptions.
+InstallerManifestUrl: https://raw.githubusercontent.com/azuravian/playnite-animatedgiffixer/main/manifests/Generic_AnimatedGifFixer.yaml
+SourceUrl: https://github.com/azuravian/playnite-animatedgiffixer
+Description: "Converts animated gifs into static pngs and lets you select which frame to keep (from a selection of 12)."
+Tags: ["Generic", "Metadata"]
+Links:
+    GitHub: https://github.com/azuravian/playnite-animatedgiffixer
+    Playnite Forums thread: https://playnite.link/forum/thread-1100.html
+IconUrl: https://raw.githubusercontent.com/azuravian/playnite-animatedgiffixer/main/icon.png
