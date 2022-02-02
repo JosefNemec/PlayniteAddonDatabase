@@ -1,0 +1,25 @@
+AddonId: 'Platforms_4fa3f095-357d-49d5-828e-dcf6894deae3'
+Type: ThemeFullscreen
+Name: 'Platforms'
+Author: 'DavidKGriggs'
+ShortDescription: A theme for Playnite to showcase the Platforms of games.
+InstallerManifestUrl: https://github.com/davidkgriggs/Platforms/raw/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/davidkgriggs/Platforms
+Tags: ["Theme", "Modern", "DKG", "UI", "Platforms", "Console"]
+Links:
+    GitHub: https://github.com/davidkgriggs/Platforms
+    Playnite Forum: https://playnite.link/forum/thread-1116.html
+IconUrl: https://github.com/davidkgriggs/Platforms/raw/main/Media/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/davidkgriggs/Platforms/raw/main/Media/thumb_01.jpg
+      Image: https://github.com/davidkgriggs/Platforms/raw/main/Media/screenshot_01.jpg
+    - Thumbnail: https://github.com/davidkgriggs/Platforms/raw/main/Media/thumb_02.jpg
+      Image: https://github.com/davidkgriggs/Platforms/raw/main/Media/screenshot_02.jpg
+    - Thumbnail: https://github.com/davidkgriggs/Platforms/raw/main/Media/thumb_03.jpg
+      Image: https://github.com/davidkgriggs/Platforms/raw/main/Media/screenshot_03.jpg
+    - Thumbnail: https://github.com/davidkgriggs/Platforms/raw/main/Media/thumb_04.jpg
+      Image: https://github.com/davidkgriggs/Platforms/raw/main/Media/screenshot_04.jpg
+    - Thumbnail: https://github.com/davidkgriggs/Platforms/raw/main/Media/thumb_05.jpg
+      Image: https://github.com/davidkgriggs/Platforms/raw/main/Media/screenshot_05.jpg
+    - Thumbnail: https://github.com/davidkgriggs/Platforms/raw/main/Media/thumb_06.jpg
+      Image: https://github.com/davidkgriggs/Platforms/raw/main/Media/screenshot_06.jpg
