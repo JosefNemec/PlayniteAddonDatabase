@@ -4,7 +4,7 @@ Name: StartPage
 Author: felixkmh
 ShortDescription: Start page with recently played games, achievements and more.
 InstallerManifestUrl: https://raw.githubusercontent.com/felixkmh/StartPage-for-Playnite/master/InstallerManifest/felixkmh_StartPage_Plugin.yaml
-SourceUrl: StartPage-for-Playnite
+SourceUrl: https://github.com/felixkmh/StartPage-for-Playnite
 Description: 'StartPage lets you choose which of the views attached to the sidebar items is shown when Playnite starts (sidebar needs to be enabled in order for that to work) and provides a start page presenting recently played games, recently added games, favorite games and recent SuccessStory achievements as well as notifications. The background and the blur effect on it can be customized, by either taking the background image of a game (based on the chosen selection method), or by setting a custom one.' 
 Tags: ["start page","launch","home","achievements","notifications"]
 Links:
