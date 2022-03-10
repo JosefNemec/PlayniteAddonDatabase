@@ -1,0 +1,14 @@
+AddonId: SteamLikeLastActivity_5c4396d8-4be4-4efb-9db8-46cc83c263c0
+Type: Generic
+Name: Steam-like Last Played
+Author: Maxine
+ShortDescription: "Makes the Last Played game property behave like the Steam library's Recent section."
+Description: |
+  Automatically refreshes Playnite games' Last Played property with the value of the DateAdded property, if it's more recent. The resulting behavior is similar to Steam's Recent section.
+
+  ⚠️ Disclaimer: This is extension is still in beta stage. Consider making a backup of your Playnite library! No warranty is provided.
+Tags: ['steam']
+InstallerManifestUrl: https://raw.githubusercontent.com/uwx/PlayniteSteamLikeLastActivity/master/manifest.yaml
+SourceUrl: https://github.com/uwx/PlayniteSteamLikeLastActivity
+Links:
+    GitHub: https://github.com/uwx/PlayniteSteamLikeLastActivity
