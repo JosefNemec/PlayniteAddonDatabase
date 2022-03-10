@@ -1,0 +1,17 @@
+AddonId: CustomSteamCovers
+Type: MetadataProvider
+Name: Custom Steam Grid Images Importer
+Author: Maxine
+ShortDescription: "Adds support for importing already configured custom Steam grid cover art to Playnite."
+Description: |
+  Adds support for loading Steam library grid cover art which you've already added in Steam to Playnite.
+  I created this in a few minutes to load my custom Steam grid covers in Playnite.
+  
+  In your Playnite add-ons menu, go to Extensions settings > Metadata Sources > Custom Steam Covers, and set the path to your Steam userdata folder.
+
+  After that, simply use Edit Game Details > Download Metadata to download with the Custom Steam Covers metadata source. You can also configure it to be used on all metadata downloads by going to Settings > Metadata.
+Tags: ['steam']
+InstallerManifestUrl: https://raw.githubusercontent.com/uwx/PlayniteCustomSteamCovers/master/PlayniteCustomSteamCovers/manifest.yaml
+SourceUrl: https://github.com/uwx/PlayniteCustomSteamCovers
+Links:
+    GitHub: https://github.com/uwx/PlayniteCustomSteamCovers
