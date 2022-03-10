@@ -1,0 +1,24 @@
+AddonId: SpecialKHelper_71349310-9ed8-4bf5-8bf2-e92cdb222748
+Type: Generic
+Name: Special K Helper
+Author: darklinkpower
+ShortDescription: Provides functionality to improve using Special K with Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SpecialKHelper.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Provides functionality to improve using Special K with Playnite. Allows to start Special K services when games start or close, configure new Profile settings, set a Reshade profile per game and extra features like allow to use the Steam overlay for non Steam games when using Special K.
+Tags: ["Generic", "SpecialK", "Reshade", "Overlay", "Steam"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-1162.html
+    Wiki: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Special-K-Helper
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/CooperativeModesImporter/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/screenshot_01.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/screenshot_02.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/thumb_03.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/screenshot_03.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/thumb_04.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/screenshot_04.jpg
