@@ -1,0 +1,19 @@
+AddonId: MultiMClibrary_6ab2531e-4800-404b-a938-4421b28a9f3e
+Type: GameLibrary
+Name: MultiMC Library Importer
+Author: Maxine
+ShortDescription: 'Adds support for importing MultiMC instances to Playnite.'
+Description: |
+  Imports your Minecraft instances in MultiMC as games.
+
+  In your Playnite add-on settings, go to Extension settings > Libraries > MultiMC, and set the path to your MultiMC installation folder.
+
+  Playnite will update your library automatically upon launch, but you can go to Update Game Library > MultiMC to do so manually.
+  
+  See the GitHub for more information.
+Tags: ['minecraft', 'multimc']
+InstallerManifestUrl: https://raw.githubusercontent.com/uwx/PlayniteMultiMCLibrary/master/PlayniteMultiMCLibrary/manifest.yaml
+IconUrl: https://raw.githubusercontent.com/uwx/PlayniteMultiMCLibrary/master/PlayniteMultiMCLibrary/icon.png
+SourceUrl: https://github.com/uwx/PlayniteMultiMCLibrary
+Links:
+    GitHub: https://github.com/uwx/PlayniteMultiMCLibrary
