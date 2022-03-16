@@ -1,0 +1,20 @@
+AddonId: PlayniteControlLocker_e7c39fe7-bec1-4691-a818-b9ba1470ad21
+Type: Generic
+Name: Parental Control Locker
+Author: darklinkpower
+ShortDescription: This extension provides functionality to help in situations where your Playnite installation is shared with someone else and you want to limit certain functionality for safety reasons.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_PlayniteControlLocker.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This extension provides functionality to help in situations where your Playnite installation is shared with someone else and you want to limit certain functionality for safety reasons. Features include restoring deleted games, prevent changing Hidden and Favorite status and stop Playnite from starting if the password is incorrect.
+Tags: ["Generic", "Parental", "Control", "Lock"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-1165.html
+    Wiki: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Playnite-Control-Locker
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/PlayniteControlLocker/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/PlayniteControlLocker/thumb_01.jpg
+      Image: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/PlayniteControlLocker/screenshot_01.jpg
+    - Thumbnail: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/PlayniteControlLocker/thumb_02.png
+      Image: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/PlayniteControlLocker/screenshot_02.png
