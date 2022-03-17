@@ -2,13 +2,20 @@ AddonId: Search_Collection
 Type: Generic
 Name: Search Collection
 Author: darklinkpower
-ShortDescription: This extension will search the currently selected game(s) on different websites in your web browser.
+ShortDescription: This extension will search the currently selected games on different websites in your web browser.
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SearchCollection.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
-Description: This extension will search the currently selected game(s) on different websites in your web browser, including Bing images, Google Images, Metacritic, SteamDB, SteamGridDB, Twitch, VNDB and Youtube.
+Description: This extension will search the currently selected game(s on different websites in your web browser, including Metacritic, SteamDB, SteamGridDB, Twitch, VNDB, YouTube, etc.
 Tags: ["Generic", "Steam", "VNDB", "Twitch", "Youtube"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Playnite Forums thread: https://playnite.link/forum/thread-163.html
     Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
 IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SearchCollection/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/SearchCollection/thumb_01.jpg
+      Image: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/SearchCollection/screenshot_01.jpg
+    - Thumbnail: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/SearchCollection/thumb_02.jpg
+      Image: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/SearchCollection/screenshot_02.jpg
+    - Thumbnail: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/SearchCollection/thumb_03.jpg
+      Image: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/SearchCollection/screenshot_03.jpg
