@@ -3,12 +3,11 @@ Type: Generic
 Name: Steam Tags Importer
 Author: darklinkpower
 ShortDescription: This extension will get user tags from the Steam Store for selected games.
-InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamTagsImporter.yaml
-SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
-Description: This extension will get user tags from the Steam Store for selected games.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_SteamTagsImporter.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: This extension will get user tags from the Steam Store for selected or newly added games.
 Tags: ["Generic", "Steam", "Metadata"]
 Links:
-    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Playnite Forums thread: https://playnite.link/forum/thread-644.html
-    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
-IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SteamTagsImporter/icon.png
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/SteamTagsImporter/icon.png
