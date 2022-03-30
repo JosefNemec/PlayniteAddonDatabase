@@ -1,0 +1,29 @@
+AddonId: playnite-playeractivities-plugin
+Type: Generic
+Name: PlayerActivities
+Author: Lacro59
+ShortDescription: View your activity history step by step.
+InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-playeractivities-plugin/master/manifest/Lacro59_PlayerActivities.yaml
+SourceUrl: https://github.com/Lacro59/playnite-playeractivities-plugin
+Description: |-
+    Warnings:
+    * the plugin browses the ExtensionData folder in order to retrieve the configuration of the library plugins
+    * the plugin uses the CefSharp global webview profile in order to use the store connection
+    
+    With this plugin you can:
+    * time play activities
+    * screenshoots activities (with ScreenshotsVisualizer plugin)
+    * achievements activities (with SuccessStory plugin)
+    * friends data (when available) 
+    * beaten game (with HowLongToBeat plugin)
+Tags: ["Friends", "Player", "Activities"]
+Links:
+    Forum: https://playnite.link/forum/thread-1148.html
+    GitHub: https://github.com/Lacro59/playnite-playeractivities-plugin
+    Translate: https://crowdin.com/project/playnite-extensions
+IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-playeractivities-plugin/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-playeractivities-plugin/master/screenshots/thumbs/plugin_main_1.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-playeractivities-plugin/master/screenshots/plugin_main_1.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Lacro59/playnite-playeractivities-plugin/master/screenshots/thumbs/plugin_settings_1.jpg
+      Image: https://raw.githubusercontent.com/Lacro59/playnite-playeractivities-plugin/master/screenshots/plugin_settings_1.jpg
