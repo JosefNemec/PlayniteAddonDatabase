@@ -1,0 +1,11 @@
+AddonId: EmulationToolbox_eb3ccf5d-971a-41a6-aefd-aae9455e6de4
+Name: Emulation Toolbox
+Type: Generic
+Author: Ferrell
+ShortDescription: A plugin to manage some emulated games metadata in Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/ferrazpedro/playnite-emulation-toolbox-plugin/main/manifest/Ferrell_EmulationToolbox.yaml
+SourceUrl: https://github.com/ferrazpedro/playnite-emulation-toolbox-plugin
+Description: This plugin adds some features related to emulation that I feel are needed to better organize games in Playnite.
+Tags: ["Generic", "Emulation", "Metadata"]
+Links:
+    Homepage: https://github.com/ferrazpedro/playnite-emulation-toolbox-plugin

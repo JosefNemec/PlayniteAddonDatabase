@@ -1,0 +1,13 @@
+AddonId: MQTTClient_90c44048-4f8f-43f7-a0c1-f8164bf1d7ef
+Type: Generic
+Name: MQTT Client
+Author: Simeon Radivoev
+ShortDescription: MQTT Client with Home Assistant Discovery.
+InstallerManifestUrl: https://raw.githubusercontent.com/simeonradivoev/PlayniteMQTTClient/master/manifest.yaml
+SourceUrl: https://github.com/simeonradivoev/PlayniteMQTTClient
+Description: MQTT Client with Home Assistant Discovery.
+Tags: ["Generic", "MQTT", "Automation", "Home Assistant"]
+Links:
+    GitHub: https://github.com/simeonradivoev/PlayniteMQTTClient
+    Playnite Forums thread: https://playnite.link/forum/thread-1119.html
+IconUrl: https://raw.githubusercontent.com/simeonradivoev/PlayniteMQTTClient/master/Source/Resources/icon.png

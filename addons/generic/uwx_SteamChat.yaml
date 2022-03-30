@@ -1,0 +1,12 @@
+AddonId: PlayniteSteamChat
+Type: Generic
+Name: Steam Chat
+Author: Maxine
+ShortDescription: "Adds a Steam Chat panel to Playnite's sidebar."
+Description: 'Click the sidebar button. Log in. Have fun. Your credentials are only stored inside of Playnite.'
+Tags: ['steam', 'steam-friends', 'steam-chat']
+InstallerManifestUrl: https://raw.githubusercontent.com/uwx/PlayniteSteamChat/master/manifest.yaml
+IconUrl: https://raw.githubusercontent.com/uwx/PlayniteSteamChat/master/icon.png
+SourceUrl: https://github.com/uwx/PlayniteSteamChat
+Links:
+    GitHub: https://github.com/uwx/PlayniteSteamChat

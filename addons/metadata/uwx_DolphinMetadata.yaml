@@ -1,0 +1,11 @@
+AddonId: DolphinMetadata
+Type: MetadataProvider
+InstallerManifestUrl: https://raw.githubusercontent.com/uwx/PlayniteDolphinMetadata/master/PlayniteDolphinMetadata/manifest.yaml
+ShortDescription: 'Adds support for loading GameTDB metadata for Nintendo Wii and GameCube ROMs.'
+Name: GameTDB metadata provider
+Author: Maxine
+Tags: ['gamecube', 'wii', 'dolphin', 'gametdb']
+SourceUrl: https://github.com/uwx/PlayniteDolphinMetadata
+IconUrl: https://raw.githubusercontent.com/uwx/PlayniteDolphinMetadata/master/PlayniteDolphinMetadata/icon.png
+Links:
+    GitHub: https://github.com/uwx/PlayniteDolphinMetadata
