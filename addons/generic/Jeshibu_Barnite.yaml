@@ -1,0 +1,13 @@
+AddonId: Barnite_fdcf35cc-edcd-4fc3-8640-bb037d3349fe
+Type: Generic
+Name: Barnite
+Author: Jeshibu
+ShortDescription: Add games to your library by entering their barcode.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_Barnite.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: Add games to your library by entering their barcode.
+Tags: ["Generic", "Barcode", "Bar code"]
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Playnite Forums thread: https://playnite.link/forum/thread-1187.html
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/SteamTagsImporter/icon.png
