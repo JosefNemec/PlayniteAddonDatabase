@@ -1,0 +1,18 @@
+AddonId: 'Nintendo Switch-ish_0d020ed5-0f3c-4c1a-bf9a-c983ef7d74b7'
+Type: ThemeFullscreen
+Name: 'Nintendo Switch-ish'
+Author: 'DavidKGriggs'
+ShortDescription: A theme that emulates the look of the Nintendo Switch UI.
+InstallerManifestUrl: https://github.com/davidkgriggs/Nintendo-Switch-ish/raw/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/davidkgriggs/Nintendo-Switch-ish
+Tags: ["Theme", "Modern", "DKG", "UI", "Switch", "Nintendo", "Console"]
+Links:
+    GitHub: https://github.com/davidkgriggs/Nintendo-Switch-ish
+IconUrl: https://github.com/davidkgriggs/Nintendo-Switch-ish/raw/main/Media/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/davidkgriggs/Nintendo-Switch-ish/raw/main/Media/thumb_01.jpg
+      Image: https://github.com/davidkgriggs/Nintendo-Switch-ish/raw/main/Media/screenshot_01.jpg
+    - Thumbnail: https://github.com/davidkgriggs/Nintendo-Switch-ish/raw/main/Media/thumb_02.jpg
+      Image: https://github.com/davidkgriggs/Nintendo-Switch-ish/raw/main/Media/screenshot_02.jpg
+    - Thumbnail: https://github.com/davidkgriggs/Nintendo-Switch-ish/raw/main/Media/thumb_03.jpg
+      Image: https://github.com/davidkgriggs/Nintendo-Switch-ish/raw/main/Media/screenshot_03.jpg
