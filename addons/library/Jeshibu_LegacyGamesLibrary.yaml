@@ -1,0 +1,11 @@
+﻿AddonId: LegacyGamesLibrary_34c3178f-6e1d-4e27-8885-99d4f031b168
+IconUrl: https://github.com/Jeshibu/PlayniteExtensions/raw/main/source/LegacyGamesLibrary/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_LegacyGames.yml
+ShortDescription: Imports games from Legacy Games library.
+Name: Legacy Games library integration
+Author: Jeshibu
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Playnite Forums thread: https://playnite.link/forum/thread-1191.html
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
