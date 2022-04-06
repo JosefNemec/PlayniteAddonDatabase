@@ -1,0 +1,14 @@
+AddonId: 'StandardX'
+Type: ThemeDesktop
+Name: 'Standard X'
+Author: 'TheKersalMassive'
+ShortDescription: A standard desktop theme with some XBOX design
+InstallerManifestUrl: https://raw.githubusercontent.com/TheKersalMassive/StandardX/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/TheKersalMassive/StandardX
+Tags: ["Theme", "XBOX", "Microsoft", "Desktop"]
+Links:
+    GitHub: https://github.com/TheKersalMassive/StandardX
+IconUrl: https://raw.githubusercontent.com/TheKersalMassive/StandardX/main/Media/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/TheKersalMassive/StandardX/main/Media/thumb-01.jpg
+      Image: https://raw.githubusercontent.com/TheKersalMassive/StandardX/main/Media/screenshot-01.jpg
