@@ -1,0 +1,23 @@
+AddonId: JastUsaLibrary_d407a620-5953-4ca4-a25c-8194c8559381
+Type: GameLibrary
+Name: JAST USA Library
+Author: darklinkpower
+ShortDescription: This plugin imports and allows to download your library from from the JAST USA store.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Library_JastUsaLibrary.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: This plugin imports and allows to download your library from from the JAST USA store.
+Tags: ["Generic", "Library", "JAST", "Visual Novel", "VN"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Playnite Forums thread: https://playnite.link/forum/thread-1203.html
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Library/JastUsaLibrary/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/screenshot_01.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/screenshot_02.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/thumb_03.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/screenshot_03.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/thumb_04.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/screenshot_04.jpg
