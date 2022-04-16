@@ -1,11 +1,11 @@
-﻿AddonId: LegacyGamesLibrary_34c3178f-6e1d-4e27-8885-99d4f031b168
-IconUrl: https://github.com/Jeshibu/PlayniteExtensions/raw/main/source/LegacyGamesLibrary/icon.png
+﻿AddonId: GroupeesLibrary_42ff71aa-34dc-4b12-86b6-1328136c958f
+IconUrl: https://github.com/Jeshibu/PlayniteExtensions/raw/main/source/GroupeesLibrary/icon.png
 Type: GameLibrary
-InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_LegacyGames.yml
-ShortDescription: Imports games from Legacy Games library.
-Name: Legacy Games library integration
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_Groupees.yml
+ShortDescription: Imports games from Groupees.
+Name: Groupees library integration
 Author: Jeshibu
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
-    Playnite Forums thread: https://playnite.link/forum/thread-1191.html
+    Groupees: https://groupees.com
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
