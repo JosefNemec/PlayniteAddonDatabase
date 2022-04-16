@@ -1,0 +1,11 @@
+﻿AddonId: GroupeesLibrary_42ff71aa-34dc-4b12-86b6-1328136c958f
+IconUrl: https://github.com/Jeshibu/PlayniteExtensions/raw/main/source/GroupeesLibrary/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_Groupees.yml
+ShortDescription: Imports games from Groupees.
+Name: Groupees library integration
+Author: Jeshibu
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Groupees: https://groupees.com
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
