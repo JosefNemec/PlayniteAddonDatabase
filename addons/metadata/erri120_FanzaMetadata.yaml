@@ -1,0 +1,12 @@
+AddonId: FanzaMetadata
+Type: MetadataProvider
+Name: Fanza Metadata
+Author: erri120
+ShortDescription: Imports Metadata from Fanza.
+InstallerManifestUrl: https://raw.githubusercontent.com/erri120/Playnite.Extensions/master/manifests/FanzaMetadata.yaml
+SourceUrl: https://github.com/erri120/Playnite.Extensions
+Tags: ["Metadata", "NSFW"]
+Links:
+    Fanza: https://www.dmm.co.jp/dc/doujin
+    GitHub: https://github.com/erri120/Playnite.Extensions
+IconUrl: https://raw.githubusercontent.com/erri120/Playnite.Extensions/master/src/FanzaMetadata/icon.png
