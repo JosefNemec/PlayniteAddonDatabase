@@ -1,0 +1,13 @@
+AddonId: UniversalPSNMetadata
+IconUrl: https://raw.githubusercontent.com/XenorPLxx/playnite-metadata-psn-universal/master/icon.png
+Type: MetadataProvider
+InstallerManifestUrl: https://raw.githubusercontent.com/XenorPLxx/playnite-metadata-psn-universal/master/manifest.yaml
+ShortDescription: Imports metadata, including square covers, from PSN.
+Name: Universal PSN Metadata
+Author: Xenor
+SourceUrl: https://github.com/XenorPLxx/playnite-metadata-psn-universal
+Description: This plugin imports metadata from PSN, especially useful if you want to download square covers.
+Tags: ["PlayStation", "Metadata"]
+Links:
+  Github: https://github.com/XenorPLxx/playnite-metadata-psn-universal
+  Search URL: https://store.playstation.com/en-pl/search/spider-man
