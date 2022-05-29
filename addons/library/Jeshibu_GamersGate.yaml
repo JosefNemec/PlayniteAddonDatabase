@@ -1,5 +1,5 @@
 ﻿AddonId: GamersGate
-IconUrl: https://github.com/Jeshibu/PlayniteExtensions/raw/main/source/GamersGate/icon.png
+IconUrl: https://github.com/Jeshibu/PlayniteExtensions/raw/main/source/GamersGateLibrary/icon.png
 Type: GameLibrary
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_GamersGate.yml
 ShortDescription: Imports games from Gamersgate library.
