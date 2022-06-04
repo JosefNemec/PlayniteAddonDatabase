@@ -1,0 +1,13 @@
+AddonId: felixkmh_AutoUpdate_Plugin
+Type: Generic
+Name: AutoUpdate
+Author: felixkmh
+ShortDescription: Automatically schedule extension updates and suppress update notification.
+InstallerManifestUrl: https://raw.githubusercontent.com/felixkmh/AutoUpdate-for-Playnite/master/InstallerManifest/felixkmh_AutoUpdate_Plugin.yaml
+SourceUrl: https://github.com/felixkmh/AutoUpdate-for-Playnite
+Description: 'This extension can suppress the extension update notification and automatically download and schedule extensions updates. You can configure whether each of these actions occurs depending on the kind of version change of the update (major, minor, build). Installing updates automatically is not officially supported by the PlayniteAPI and as such this extension could break with every update to Playnite.'
+Tags: ["autoupdate", "update", "notification", "extensions"]
+Links:
+    GitHub: https://github.com/felixkmh/AutoUpdate-for-Playnite
+    Support: https://playnite.link/forum/thread-1242.html
+IconUrl: https://raw.githubusercontent.com/felixkmh/AutoUpdate-for-Playnite/master/source/icon.png
