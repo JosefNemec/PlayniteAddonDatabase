@@ -4,10 +4,11 @@ Type: GameLibrary
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_GamersGate.yml
 ShortDescription: Imports games from Gamersgate library.
 Description: |
-  This imports all the games that can be downloaded from GamersGate (DRM free as well as stuff like SecurROM).
+  This imports all the games that can be downloaded from GamersGate (DRM free as well as stuff like SecuROM).
   As a workaround for GamersGate's very restrictive CloudFlare scraping/DDOS/botting protection, the import process uses a visible browser window.
 Name: GamersGate
 Author: Jeshibu
 Links:
   GamersGate: https://www.gamersgate.com/
+  Playnite Forums thread: https://playnite.link/forum/thread-1239.html
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
