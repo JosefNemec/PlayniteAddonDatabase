@@ -1,0 +1,13 @@
+AddonId: 62ac4052-e08a-4a1a-b70a-c2c0c3673bb9
+IconUrl: https://raw.githubusercontent.com/FiercePunchStudios/HumbleKeysLibrary/master/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/FiercePunchStudios/HumbleKeysLibrary/master/Manifests/HumbleKeysLibrary_Installer.yaml
+ShortDescription: Imports and tags game keys from Humble for user sorting purposes.
+Description: |
+  Humble Keys Library is a library plug-in extension for Playnite which queries Humble Bundle for third-party keys.
+  The plugin allows you to search your entire collection for a game, to make sure you don't buy a new copy in the latest sale if you already have one from a previous Humble Bundle.
+Name: Humble Keys Library
+Author: Fierce Punch Studios
+Links:
+  Playnite Forums thread: https://playnite.link/forum/thread-1244.html
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
