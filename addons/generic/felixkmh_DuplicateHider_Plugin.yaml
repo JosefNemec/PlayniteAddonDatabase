@@ -2,10 +2,10 @@ AddonId: 'felixkmh_DuplicateHider_Plugin'
 Type: Generic
 Name: 'DuplicateHider'
 Author: 'felixkmh'
-ShortDescription: 'Hides duplicate game copies based on source priority.'
+ShortDescription: 'Hides duplicate game copies based on customizable priorities. Supports custom UI elements.'
 InstallerManifestUrl: https://raw.githubusercontent.com/felixkmh/DuplicateHider/master/InstallerManifest/felixkmh_DuplicateHider_Plugin.yaml
 SourceUrl: https://github.com/felixkmh/DuplicateHider
-Description: 'DuplicateHider tries to hide all but one copy of the same game, based on the name of the game. This is useful if you own the same game on different platforms, like Steam and GOG, for example. In order to determine which copy stays visible, you can set up a priority list for your game''s sources. Higher position in the list means higher priority for games of that source. Hiding duplicates can be done automatically (if the "Update Rank Automatically" option is enabled), or manually using the "Hide Duplicates" and "Reveal Duplicates" menu functions.'
+Description: 'DuplicateHider tries to hide all but one copy of the same game, based on the name of the game. This is useful if you own the same game on different platforms, like Steam and GOG, for example. In order to determine which copy stays visible, you can set up a priority list. An entry to that list could be installation status, sources, libraries and more. If two games are the same based on a priority property, the next one is checked and so on. Hiding duplicates can be done automatically (if the "Update Rank Automatically" option is enabled), or manually using the "Hide Duplicates" and "Reveal Duplicates" menu functions. Also, DuplicateHider provides custom UI elements for themes that support them. The UI elemets allow easy access to the hidden duplicates of your games.' 
 Tags: ["duplicates", "libary"]
 Links:
     GitHub: https://github.com/felixkmh/DuplicateHider
