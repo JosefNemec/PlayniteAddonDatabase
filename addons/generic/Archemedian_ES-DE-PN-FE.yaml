@@ -1,0 +1,7 @@
+AddonId: 'esdefepn'
+Type: Generic
+InstallerManifestUrl: https://github.com/ArchemedIan/esdefepn/raw/main/installer.yaml
+ShortDescription: 'Emulationstation-DE FrontEnd for PlayNite drop-in solution'
+Name: 'ES-DE-FE-PN'
+Author: 'Archemedian' 
+SourceUrl: https://github.com/ArchemedIan/esdefepn
