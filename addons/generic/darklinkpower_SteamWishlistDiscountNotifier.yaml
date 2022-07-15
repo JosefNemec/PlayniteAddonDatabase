@@ -1,0 +1,13 @@
+AddonId: SteamWishlistDiscountNotifier_d5825a82-42bf-426b-ac47-5bea5df7aede
+Type: Generic
+Name: Steam Wishlist Discount Notifier
+Author: darklinkpower
+ShortDescription: Checks your Steam wishlist and notifies you of items that are on sale.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamWishlistDiscountNotifier.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Checks your Steam wishlist and notifies you of items that are on sale.
+Tags: ["Generic", "Steam", "Sale", "Discount"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SteamWishlistDiscountNotifier/icon.png
