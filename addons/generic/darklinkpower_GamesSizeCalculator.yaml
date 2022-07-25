@@ -5,7 +5,7 @@ Author: darklinkpower
 ShortDescription: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted.
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_GamesSizeCalculator.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
-Description: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted. Works for PC games and emulated games using ROMs.
+Description: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted. Works for PC games and emulated games using ROMs. Can also get an estimated size of PC games using data from Steam.
 Tags: ["Generic", "Size", "Calculator"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
