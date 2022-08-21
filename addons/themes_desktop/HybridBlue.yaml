@@ -1,0 +1,15 @@
+AddonId: HybridBlue
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/HexSupernatural/PlayniteHybridThemes/blob/main/ManifestBlue/Installer_Manifest.yaml
+ShortDescription: A merging of the DH_Night and eMixedNiteMC Playnite Themes
+Description: This theme needs the generic extension eMixedNiteMC Language Pack to work properly. *Blue Color Scheme
+Name: Hybrid Blue
+Author: Hex
+Tags: ["Theme", "UI"]
+SourceUrl: https://github.com/HexSupernatural/PlayniteHybridThemes
+Links: 
+    GitHub: https://github.com/HexSupernatural/PlayniteHybridThemes
+    Playnite Forums thread: https://playnite.link/forum/thread-1296.html
+Screenshots:
+    - Thumbnail: https://github.com/HexSupernatural/PlayniteHybridThemes/blob/main/Media/thumb01blue.jpg
+      Image: https://github.com/HexSupernatural/PlayniteHybridThemes/blob/main/Media/screenshot01blue.jpg
