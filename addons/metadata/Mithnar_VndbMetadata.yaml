@@ -2,12 +2,18 @@ AddonId: VNDBMetadata
 Type: MetadataProvider
 Name: PlayniteVndb
 Author: Mithnar
-ShortDescription: Imports game metadata from VNDB.
+ShortDescription: Imports game metadata for Visual Novels from VNDB.
 InstallerManifestUrl: https://raw.githubusercontent.com/Mithnar/PlayniteVndb/master/manifests/InstallerManifest.yaml
 SourceUrl: https://github.com/Mithnar/PlayniteVndb
-Description: Imports game metadata from VNDB.
+Description: Imports game metadata for Visual Novels from VNDB.
 Tags: ["Metadata", "VNDB", "Visual Novel"]
 Links:
     GitHub: https://github.com/Mithnar/PlayniteVndb
     Playnite Forums thread: https://playnite.link/forum/thread-24.html
+    Changelog: https://github.com/Mithnar/PlayniteVndb/blob/master/CHANGELOG.md 
 IconUrl: https://raw.githubusercontent.com/Mithnar/PlayniteVndb/master/source/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Mithnar/PlayniteVndb/readme/images/vndb_images.png
+      Image: https://raw.githubusercontent.com/Mithnar/PlayniteVndb/readme/images/vndb_images.png
+    - Thumbnail: https://raw.githubusercontent.com/Mithnar/PlayniteVndb/readme/images/vndb_settings.png
+      Image: https://raw.githubusercontent.com/Mithnar/PlayniteVndb/readme/images/vndb_settings.png

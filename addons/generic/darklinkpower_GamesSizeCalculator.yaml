@@ -1,17 +1,17 @@
 AddonId: GamesSizeCalculator_97cc59db-3f80-4852-8bfc-a80304f9efe9
 Type: Generic
 Name: Games Size Calculator
-Author: darklinkpower
+Author: darklinkpower & Jeshibu
 ShortDescription: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted.
-InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_GamesSizeCalculator.yaml
-SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
-Description: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted. Works for PC games and emulated games using ROMs. Can also get an estimated size of PC games using data from Steam.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/master/manifests/Generic_GamesSizeCalculator.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted. Works for PC games and emulated games using ROMs. Also allows fetching estimated install sizes from GOG or Steam for uninstalled games.
 Tags: ["Generic", "Size", "Calculator"]
 Links:
-    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Playnite Forums thread: https://playnite.link/forum/thread-1096.html
-    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
-IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/GamesSizeCalculator/icon.png
+    Translate: https://crowdin.com/project/jeshibu-playniteextensions
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/master/source/GamesSizeCalculator/icon.png
 Screenshots:
-    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/GamesSizeCalculator/thumb_01.jpg
-      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/GamesSizeCalculator/screenshot_01.jpg
+    - Thumbnail: https://github.com/Jeshibu/PlayniteExtensions/raw/master/screenshots/GamesSizeCalculator/thumb_01.jpg
+      Image: https://github.com/Jeshibu/PlayniteExtensions/raw/master/screenshots/GamesSizeCalculator/screenshot_01.jpg

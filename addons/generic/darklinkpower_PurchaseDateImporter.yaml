@@ -1,0 +1,13 @@
+AddonId: Date_Importer_d0e7fb90-e74e-4955-b7bc-43a13339637e
+Type: Generic
+Name: Purchase Date Importer
+Author: darklinkpower
+ShortDescription: This extension will obtain the purchase date from your Epic, GOG and Steam accounts and import them to the games in your library as added dates.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_PurchaseDateImporter.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: 'This extension will obtain the purchase date from your Epic, GOG and Steam accounts and import them to the games in your library as added dates, to give a more accurate data of this in Playnite. Also supports exporting the purchases in your account as a csv file'
+Tags: ["Generic", "Steam", "GOG", "Epic"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/PurchaseDateImporter/icon.jpg

@@ -19,7 +19,7 @@ Description: |-
     * notification for new giveaways 
 Tags: ["Store", "Giveaways", "Price"]
 Links:
-    Forum: ttps://playnite.link/forum/thread-323.html
+    Forum: https://playnite.link/forum/thread-323.html
     GitHub: https://github.com/Lacro59/playnite-isthereanydeal-plugin
     Translate: https://crowdin.com/project/playnite-extensions
 IconUrl: https://raw.githubusercontent.com/Lacro59/playnite-isthereanydeal-plugin/master/source/icon.png
