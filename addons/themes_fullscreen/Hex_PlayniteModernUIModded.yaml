@@ -4,7 +4,7 @@ Name: 'Playnite Modern UI Modded'
 Author: 'Hex'
 ShortDescription: 'Modification of Modern UI by DavidKGriggs'
 InstallerManifestUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Manifests/Installer_Manifest.yaml
-SourceUrl: https://github.com/davidkgriggs/PlayniteModernUI
+SourceUrl: https://github.com/HexSupernatural/PlayniteModernUIModded
 Description: '*Can not be installed alongside the original ModernUI Theme. Adds all info fields to details view & some additinal info to vertical view also adds all Icons to selected game.'
 Tags: ["Theme", "Modern", "DKG", "UI"]
 Links:
@@ -13,8 +13,6 @@ Links:
 IconUrl: https://github.com/davidkgriggs/PlayniteModernUI/raw/main/Media/applogo.png
 Screenshots:
     - Thumbnail: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/thumb_01.png
-      Image: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/screenshot_01.jpg
-    - Thumbnail: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/thumb_02new.png
-      Image: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/Screenshot_02new.png
-    - Thumbnail: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/thumb_03.png
-      Image: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/screenshot_03.png
+      Image: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/screenshot_01.png
+    - Thumbnail: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/thumb_02.png
+      Image: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/screenshot_02.png
