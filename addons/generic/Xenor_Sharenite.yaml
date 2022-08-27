@@ -1,0 +1,11 @@
+AddonId: Sharenite_62d53f25-4e62-4f27-a49e-89e73cb1fd48
+Type: Generic
+Name: Sharenite
+Author: Xenor
+ShortDescription: Adds Sharenite (BETA!) synchronisation functionality.
+Description: This plugin adds Sharenite (BETA!) synchronisation functionality. Sharenite is a website that allows you look at your games even when you are away from Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/sharenite/playnite-sharenite/main/manifest.yml
+IconUrl: https://raw.githubusercontent.com/sharenite/playnite-sharenite/main/icon.png
+SourceUrl: https://github.com/sharenite/playnite-sharenite
+Links:
+    Sharenite: https://www.sharenite.link
