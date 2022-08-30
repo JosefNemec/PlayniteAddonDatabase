@@ -10,6 +10,9 @@ Links:
   Playnite Forum: https://playnite.link/forum/thread-1266.html
 IconUrl: https://raw.githubusercontent.com/Kosnix/PS5Like/main/logo.png
 Screenshots:
-      Image: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot1.jpg
-      Image: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot2.jpg
-      Image: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot3.jpg
+     - Thumbnail: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot1.jpg
+     Image: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot1.jpg
+     - Thumbnail: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot2.jpg
+     Image: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot2.jpg
+     - Thumbnail: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot3.jpg
+     Image: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot3.jpg
