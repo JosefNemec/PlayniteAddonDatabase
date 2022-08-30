@@ -1,8 +1,9 @@
+AddonId: 'PS5ish_676e10ec-adfe-48d8-a1bd-4d5771b5a2ca'
 Type: ThemeFullscreen
 Name: 'PS5Like'
 Author: 'Kosnix'
 ShortDescription: A PS5 style theme.
-InstallerManifestUrl: https://raw.githubusercontent.com/Kosnix/PS5Like/main/InstallerManifest/PS5Like.yml
+InstallerManifestUrl: https://raw.githubusercontent.com/Kosnix/PS5Like/main/InstallerManifest/PS5Like.yaml
 SourceUrl: https://github.com/Kosnix/PS5Like
 Tags: ["PS5", "theme", "Like", "Console", "Kosnix"]
 Links:
