@@ -1,0 +1,17 @@
+Type: ThemeFullscreen
+Name: 'PS5Like'
+Author: 'Kosnix'
+ShortDescription: A PS5 style theme.
+InstallerManifestUrl: https://raw.githubusercontent.com/Kosnix/PS5Like/main/InstallerManifest/PS5Like.yml
+SourceUrl: https://github.com/Kosnix/PS5Like
+Tags: ["PS5", "theme", "Like", "Console", "Kosnix"]
+Links:
+  Playnite Forum: https://playnite.link/forum/thread-1266.html
+IconUrl: https://raw.githubusercontent.com/Kosnix/PS5Like/main/logo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot1.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot1.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot2.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot2.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot3.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/PS5Like/main/Screenshot3.jpg
