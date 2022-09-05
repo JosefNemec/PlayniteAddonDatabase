@@ -3,7 +3,7 @@ Type: Generic
 Name: Games Size Calculator
 Author: darklinkpower & Jeshibu
 ShortDescription: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted.
-InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/master/manifests/Generic_GamesSizeCalculator.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_GamesSizeCalculator.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted. Works for PC games and emulated games using ROMs. Also allows fetching estimated install sizes from GOG or Steam for uninstalled games.
 Tags: ["Generic", "Size", "Calculator"]
@@ -11,7 +11,7 @@ Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Playnite Forums thread: https://playnite.link/forum/thread-1096.html
     Translate: https://crowdin.com/project/jeshibu-playniteextensions
-IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/master/source/GamesSizeCalculator/icon.png
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/GamesSizeCalculator/icon.png
 Screenshots:
-    - Thumbnail: https://github.com/Jeshibu/PlayniteExtensions/raw/master/screenshots/GamesSizeCalculator/thumb_01.jpg
-      Image: https://github.com/Jeshibu/PlayniteExtensions/raw/master/screenshots/GamesSizeCalculator/screenshot_01.jpg
+    - Thumbnail: https://github.com/Jeshibu/PlayniteExtensions/raw/main/screenshots/GamesSizeCalculator/thumb_01.jpg
+      Image: https://github.com/Jeshibu/PlayniteExtensions/raw/main/screenshots/GamesSizeCalculator/screenshot_01.jpg
