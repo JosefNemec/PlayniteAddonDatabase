@@ -1,0 +1,22 @@
+AddonId: ThemesDetailsViewToGridViewConverter_ef8a7226-eedc-478d-a506-92ee6c088aa3
+Type: Generic
+Name: "darklinkpower's Grid View Converter"
+Author: darklinkpower
+ShortDescription: Converts the layout in Details View to Grid View of themes by darklinkpower
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_ThemesDetailsViewToGridViewConverter.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Converts the layout in Details View to Grid View of themes by darklinkpower
+Tags: ["Generic", "darklinkpower", "themes", "Very cool"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/ThemesDetailsViewToGridViewConverter/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/screenshot_01.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/screenshot_02.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/thumb_03.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/screenshot_03.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/thumb_04.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/screenshot_04.jpg
