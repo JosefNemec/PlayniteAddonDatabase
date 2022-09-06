@@ -1,0 +1,16 @@
+AddonId: 'PS4Like_6c065dc5-db95-49d0-bfbc-dc19b4f1952f'
+Type: ThemeFullscreen
+Name: 'PS4Like'
+Author: 'Kosnix'
+ShortDescription: A PS4 theme.
+InstallerManifestUrl: https://raw.githubusercontent.com/Kosnix/PS4Like/main/PS4Like.yaml
+SourceUrl: https://github.com/Kosnix/PS4Like
+Tags: ["PS4", "theme", "Like", "Console", "Kosnix"]
+Links:
+  Playnite Forum: https://playnite.link/forum/thread-1338.html
+IconUrl: https://raw.githubusercontent.com/Kosnix/PS4Like/main/logo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/PS4Like/main/Screenshot1.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/PS4Like/main/Screenshot1.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/PS4Like/main/Screenshot2.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/PS4Like/main/Screenshot2.jpg
