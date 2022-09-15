@@ -1,7 +1,7 @@
 AddonId: GamesSizeCalculator_97cc59db-3f80-4852-8bfc-a80304f9efe9
 Type: Generic
 Name: Games Size Calculator
-Author: darklinkpower & Jeshibu
+Author: Jeshibu
 ShortDescription: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_GamesSizeCalculator.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
