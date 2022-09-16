@@ -1,15 +1,15 @@
-AddonId: AIRyndon.AutoSave
+AddonId: ANRCorleone.AutoSave
 Name: AutoSave
 Type: Generic
-Author: AIRyndon
-ShortDescription: This plugin adds additional functionality to ludusavi-playnite
-InstallerManifestUrl: https://raw.githubusercontent.com/AIRyndon/AutoSave/release/manifest.yaml
-SourceUrl: https://github.com/AIRyndon/AutoSave
-Description: This plugin uses Ludusavi to backup save game data
+Author: ANRCorleone
+ShortDescription: This plugin has been archived
+InstallerManifestUrl: https://raw.githubusercontent.com/ANRCorleone/AutoSave/main/manifest.yaml
+SourceUrl: https://github.com/ANRCorleone/AutoSave
+Description: This plugin has been archived, the functionality is now in Ludusavi-playnite
 Tags: ["Generic", "Saves", "Backup"]
 Links:
-    Homepage: https://github.com/AIRyndon/AutoSave
+    Homepage: https://github.com/ANRCorleone/AutoSave
     Ludusavi-Playnite homepage: https://github.com/mtkennerly/ludusavi-playnite
     Ludusavi homepage: https://github.com/mtkennerly/ludusavi
     Manifest homepage: https://github.com/mtkennerly/ludusavi-manifest
-IconUrl: https://raw.githubusercontent.com/AIRyndon/AutoSave/release/icon.png
+IconUrl: https://github.com/ANRCorleone/AutoSave/raw/main/icon.png
