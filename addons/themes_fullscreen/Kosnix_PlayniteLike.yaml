@@ -1,0 +1,18 @@
+AddonId: 'PlayniteLike_903a52e7-d923-48e2-907c-8829a9307c6a'
+Type: ThemeFullscreen
+Name: 'PlayniteLike'
+Author: 'Kosnix'
+ShortDescription: A theme inspired by fullscreen colors.
+InstallerManifestUrl: https://raw.githubusercontent.com/Kosnix/PlayniteLike/main/PlayniteLike.yaml
+SourceUrl: https://github.com/Kosnix/PlayniteLike
+Tags: ["PS5", "theme", "Like", "Console", "Kosnix", "Playnite"]
+Links:
+  Playnite Forum: https://playnite.link/forum/thread-1374.html
+IconUrl: https://github.com/Kosnix/PlayniteLike/raw/main/logo.png
+Screenshots:
+    - Thumbnail: https://github.com/Kosnix/PlayniteLike/raw/main/Screenshot1.jpg
+      Image: https://github.com/Kosnix/PlayniteLike/raw/main/Screenshot1.jpg
+    - Thumbnail: https://github.com/Kosnix/PlayniteLike/raw/main/Screenshot2.jpg
+      Image: https://github.com/Kosnix/PlayniteLike/raw/main/Screenshot2.jpg
+    - Thumbnail: https://github.com/Kosnix/PlayniteLike/raw/main/Screenshot3.jpg
+      Image: https://github.com/Kosnix/PlayniteLike/raw/main/Screenshot3.jpg
