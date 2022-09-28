@@ -1,11 +1,11 @@
 AddonId: GamesSizeCalculator_97cc59db-3f80-4852-8bfc-a80304f9efe9
-Type: Generic
+Type: MetadataProvider
 Name: Games Size Calculator
-Author: darklinkpower & Jeshibu
-ShortDescription: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted.
+Author: Jeshibu
+ShortDescription: Fetches estimated install size from Steam and/or GOG for uninstalled games.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_GamesSizeCalculator.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
-Description: Calculates the size games use on disk in GB and sets it to the Version field so the info can be viewed and sorted. Works for PC games and emulated games using ROMs. Also allows fetching estimated install sizes from GOG or Steam for uninstalled games.
+Description: Fetches estimated install size from Steam and/or GOG for uninstalled games.
 Tags: ["Generic", "Size", "Calculator"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions

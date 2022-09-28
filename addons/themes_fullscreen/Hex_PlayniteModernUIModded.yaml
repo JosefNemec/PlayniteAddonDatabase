@@ -2,17 +2,19 @@ AddonId: 'PlayniteModernUIModded'
 Type: ThemeFullscreen
 Name: 'Playnite Modern UI Modded'
 Author: 'Hex'
-ShortDescription: 'Modification of Modern UI by DavidKGriggs'
-InstallerManifestUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Manifests/Installer_Manifest.yaml
-SourceUrl: https://github.com/HexSupernatural/PlayniteModernUIModded
-Description: '*Can not be installed alongside the original ModernUI Theme. Adds all info fields to details view & some additinal info to vertical view also adds all Icons to selected game.'
+ShortDescription: 'Modifications to DavidKGriggs Modern UI Theme'
+InstallerManifestUrl: https://github.com/0-Hex/PlayniteModernUIModded/raw/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/0-Hex/PlayniteModernUIModded
+Description: '*Can not be installed alongside the original ModernUI Theme. Mods for vertical, Horizontal and Detials views. Adding some info fields, some additional icons plus a few more changes see the forum thread for details'
 Tags: ["Theme", "Modern", "DKG", "UI"]
 Links:
-    GitHub: https://github.com/HexSupernatural/PlayniteModernUIModded
+    GitHub: https://github.com/0-Hex/PlayniteModernUIModded
     Playnite Forum: https://playnite.link/forum/thread-1317.html
 IconUrl: https://github.com/davidkgriggs/PlayniteModernUI/raw/main/Media/applogo.png
 Screenshots:
-    - Thumbnail: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/thumb_01.png
-      Image: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/screenshot_01.png
-    - Thumbnail: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/thumb_02.png
-      Image: https://github.com/HexSupernatural/PlayniteModernUIModded/raw/main/Media/screenshot_02.png
+    - Thumbnail: https://github.com/0-Hex/PlayniteModernUIModded/raw/main/Media/thumb_01.png
+      Image: https://github.com/0-Hex/PlayniteModernUIModded/raw/main/Media/screenshot_01.png
+    - Thumbnail: https://github.com/0-Hex/PlayniteModernUIModded/raw/main/Media/thumb_03.png
+      Image: https://github.com/0-Hex/PlayniteModernUIModded/raw/main/Media/screenshot_03.png
+    - Thumbnail: https://github.com/0-Hex/PlayniteModernUIModded/raw/main/Media/thumb_02.png
+      Image: https://github.com/0-Hex/PlayniteModernUIModded/raw/main/Media/screenshot_02.png
