@@ -9,6 +9,6 @@ Description: Imports game metadata from RAWG.io game database. Requires you to m
 Tags: ["RAWG.io", "Metadata"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
-    RAWG.io: https://rawg.io
+    RAWG: https://rawg.io
     Get an API key: https://rawg.io/login?forward=developer
 IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/RawgMetadata/icon.jpg
