@@ -1,0 +1,14 @@
+AddonId: RawgMetadata
+Type: MetadataProvider
+Name: RAWG Metadata
+Author: Jeshibu
+ShortDescription: Imports game metadata from RAWG.io game database.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_Rawg.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: Imports game metadata from RAWG.io game database. Requires you to make an account and get an API key.
+Tags: ["RAWG.io", "Metadata"]
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    RAWG.io: https://rawg.io
+    Get an API key: https://rawg.io/login?forward=developer
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/RawgMetadata/icon.jpg

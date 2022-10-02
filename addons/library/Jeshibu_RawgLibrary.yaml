@@ -1,0 +1,14 @@
+AddonId: RawgLibrary
+Type: GameLibrary
+Name: RAWG library importer
+Author: Jeshibu
+ShortDescription: Imports games from RAWG.io user library and/or collections.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_Rawg.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: Imports games from RAWG.io user library and/or collections. Requires you to make an account and get an API key.
+Tags: ["RAWG.io", "Library"]
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    RAWG.io: https://rawg.io
+    Get an API key: https://rawg.io/login?forward=developer
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/RawgLibrary/icon.jpg
