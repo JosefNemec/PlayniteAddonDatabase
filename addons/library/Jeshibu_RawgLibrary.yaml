@@ -9,6 +9,6 @@ Description: Imports games from RAWG.io user library and/or collections. Require
 Tags: ["RAWG.io", "Library"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
-    RAWG.io: https://rawg.io
+    RAWG: https://rawg.io
     Get an API key: https://rawg.io/login?forward=developer
 IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/RawgLibrary/icon.jpg
