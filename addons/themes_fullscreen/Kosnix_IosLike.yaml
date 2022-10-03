@@ -1,0 +1,17 @@
+AddonId: 'IOSLike_0d5db835-7d88-4817-a5bf-01f4e7ed8289'
+Type: ThemeFullscreen
+Name: 'IosLike'
+Author: 'Kosnix'
+ShortDescription: A PS5 style theme.
+InstallerManifestUrl: https://raw.githubusercontent.com/Kosnix/IosLike/main/IosLike.yaml
+SourceUrl: https://github.com/Kosnix/IosLike
+Tags: ["IOS", "theme", "Like", "Console", "Kosnix", "Ipad", "Iphone", "Apple"]
+Links:
+IconUrl: https://raw.githubusercontent.com/Kosnix/IosLike/main/logo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/IosLike/main/Screenshot1.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/IosLike/main/Screenshot1.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/IosLike/main/Screenshot2.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/IosLike/main/Screenshot2.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/IosLike/main/Screenshot3.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/IosLike/main/Screenshot3.jpg
