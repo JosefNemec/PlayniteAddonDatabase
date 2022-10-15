@@ -1,0 +1,13 @@
+AddonId: LibraryExporter_54bf64c6-c453-4cbc-92f8-4960b56f930e
+Type: Generic
+Name: Library Exporter Advanced
+Author: darklinkpower
+ShortDescription: Allows to export the Playnite library to a csv with support to configure what data to export.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_LibraryExporter.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Allows to export the Playnite library to a csv with support to configure what data to export.
+Tags: ["Generic", "Library", "Export"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/LibraryExporter/icon.png
