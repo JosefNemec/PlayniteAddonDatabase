@@ -1,9 +1,0 @@
-﻿AddonId: LibraryExporterPS_Builtin
-Type: Generic
-InstallerManifestUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/manifests/LibraryExporterPS_Builtin.yaml
-ShortDescription: Simple script to export game list to csv or txt file.
-Name: Game list exporter
-Author: Playnite
-Links:
-    Website: https://github.com/JosefNemec/PlayniteExtensions
-SourceUrl: https://github.com/JosefNemec/PlayniteExtensions
