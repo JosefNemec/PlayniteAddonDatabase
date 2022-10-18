@@ -3,15 +3,10 @@ Type: ThemeFullscreen
 Name: 'Reskin XBOXSX Ext'
 Author: 'Dukobpa3'
 ShortDescription: Reskin XBOXSX Theme w/benefits
-Description: "I like the simple style of the original Reskin XBOXSX Theme, so for now won't change it but who knows :)
-Focused on comfort gaming with GamePad and GFE.
-Also have couple hundreds games on different markets and installed just about 20% of them so wanted to see some additional game details to choose what install/play next.
-Also playing with 8-eight kid so important to see AgeRatings also.
-Also very lazy so if I don't have needed metadata or can't automate it - I will not add it to theme.
-
-Future plans - couple more game details on the Details page. And maybe in the games list
-
-For now very recommended to install LibraryManagement plugin + ExtraMetadataLoader plugin."
+Description: "Reskin XBOXSX Theme with additional plugins support:
+- Trailers support (Extra Metadata Loader plugin)
+- Features icons (Library Management plugin)
+- Age Ratings icons (integrated to theme directly, not needed plugins)"
 InstallerManifestUrl: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Manifest/AddonManifest.yaml
 SourceUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/
 Tags: ["Theme", "Trailer", "Features Icons", "Age Ratings Icons"]
