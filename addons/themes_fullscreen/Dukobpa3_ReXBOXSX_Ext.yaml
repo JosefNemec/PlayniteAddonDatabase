@@ -3,10 +3,10 @@ Type: ThemeFullscreen
 Name: 'Reskin XBOXSX Ext'
 Author: 'Dukobpa3'
 ShortDescription: Reskin XBOXSX Theme w/benefits
-Description: "Reskin XBOXSX Theme with additional plugins support:
-- Trailers support (Extra Metadata Loader plugin)
-- Features icons (Library Management plugin)
-- Age Ratings icons (integrated to theme directly, not needed plugins)"
+Description: "Reskin XBOXSX Theme with additional plugins support. 
+Trailers support (Extra Metadata Loader plugin); Features icons (Library Management plugin); 
+Age Ratings icons (integrated to theme directly, not needed plugins)
+Achievements (SuccessStory plugin)"
 InstallerManifestUrl: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Manifest/AddonManifest.yaml
 SourceUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/
 Tags: ["Theme", "Trailer", "Features Icons", "Age Ratings Icons"]
