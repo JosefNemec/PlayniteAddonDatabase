@@ -1,0 +1,18 @@
+AddonId: LinkUtilties_f692b4bb-238d-4080-ae76-4aaefde6f7a1
+Type: Generic
+Name: Link Utilities
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extension-LinkUtilities/master/Manifest/HerrKnarz_LinkUtilities.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extension-LinkUtilities
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extension-LinkUtilities/master/Source/icon.png
+ShortDescription: 'plugin to sort links and add new ones to several gaming related websites'
+Description: |-
+    With this plugin you can:
+    * Sort links by name via game menu or optionally automatically after meta data change.
+    * Add links to the IGDB, MobyGames, PCGamingWiki and Wikipedia directly via game name or search dialog.
+    * Add library links - add links to the game page on steam, gog or itch, if the game is from those libraries.
+Tags: ['Generic', 'link', 'links', 'sort', 'IGDB', 'Wikipedia', 'MobyGames', 'PCGamingWiki']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extension-LinkUtilities
+    AddOn database: https://playnite.link/addons.html#LinkUtilties_f692b4bb-238d-4080-ae76-4aaefde6f7a1
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
