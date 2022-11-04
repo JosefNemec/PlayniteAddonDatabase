@@ -16,6 +16,9 @@ Screenshots:
       Image: https://github.com/felixkmh/DH_Themes/raw/main/Screenshot_Dawn_Grid.jpg
 Description: |-
     Dark theme with lots of animations, compact filter list and floating game buttons.
+    ThemeExtras enables certain features, like navigation using either the browse back and browse forward shortcuts or the buttons on the top left, 
+    platform banners, smoother animations for the progress bar and expanding controls, a context menu for the background image, link icons, 
+    shortcut to go from grid to details view for a certain game, preserving selection when changing views.
     Supported extension integrations:
     - ThemeExtras
     - DuplicateHider
