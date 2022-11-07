@@ -1,0 +1,10 @@
+AddonId: GameJoltLibrary_555d58fd-a000-401b-972c-9230bed81aed
+IconUrl: https://raw.githubusercontent.com/Mrxx99/Playnite.GameJoltLibrary/main/assets/GameJoltIcon_big.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/Mrxx99/Playnite.GameJoltLibrary/main/src/GameJoltLibrary/GameJolt_installer_manifest.yaml
+ShortDescription: Imports games from Game Jolt game library.
+Name: Game Jolt library integration
+Author: Mrxx99
+Links:
+    GitHub: https://github.com/Mrxx99/Playnite.GameJoltLibrary
+SourceUrl: https://github.com/Mrxx99/Playnite.GameJoltLibrary
