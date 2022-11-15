@@ -5,14 +5,17 @@ Author: HerrKnarz
 InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extension-LinkUtilities/master/Manifest/HerrKnarz_LinkUtilities.yaml
 SourceUrl: https://github.com/HerrKnarz/Playnite-Extension-LinkUtilities
 IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extension-LinkUtilities/master/Source/icon.png
-ShortDescription: 'plugin to sort links and add new ones to several gaming related websites'
+ShortDescription: 'plugin to sort/rename/remove links and add new ones to several gaming related websites'
 Description: |-
     With this plugin you can:
-    * Sort links by name via game menu or optionally automatically after meta data change.
-    * Add links to websites directly via game name
+    * Sort links by name or custom sort order via game menu or optionally automatically after meta data change.
+    * Remove unwanted links (e.g. social media links added by IGDB) via game menu or optionally automatically after metadata change.
+    * Rename links (e.g. shorten wikipedia to wiki) via game menu or optionally automatically after metadata change.
+    * Add links to several websites directly by trying to find a valid link using the game name
     * Search for games on several websites to add links via search dialog
     * Add library links - add links to the game page of its library
-    Head to the GitHub page to see which websites are supported at the moment!
+    * Add link to active website in your browser via bookmarklet (see github page for more information)
+    Head to the GitHub page for more information on the bookmarklet and to see which websites are supported at the moment!
 Tags: ['Generic', 'link', 'links', 'sort', 'Steam', 'GOG', 'Wikipedia', 'MobyGames', 'PCGamingWiki']
 Links:
     GitHub: https://github.com/HerrKnarz/Playnite-Extension-LinkUtilities
