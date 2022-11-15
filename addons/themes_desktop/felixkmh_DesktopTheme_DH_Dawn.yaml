@@ -1,0 +1,35 @@
+AddonId: felixkmh_DesktopTheme_DH_Dawn
+Type: ThemeDesktop
+Name: DH_Dawn
+Author: felixkmh
+ShortDescription: Showcase theme for the ThemeExtras extension. Also has support for many other extensions.
+InstallerManifestUrl: https://raw.githubusercontent.com/felixkmh/DH_Themes/main/InstallerManifest/felixkmh_DesktopTheme_DH_Dawn.yaml
+SourceUrl: https://github.com/felixkmh/DH_Themes
+Tags: ["duplicates", "libary", "dark", "duplicatehider", "custom ui", "orange", "purple", "themeextras", "extensions"]
+Links:
+    GitHub: https://github.com/felixkmh/DH_Themes
+IconUrl: https://github.com/felixkmh/DH_Themes/raw/main/source/DH_Dawn/Images/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/felixkmh/DH_Themes/raw/main/Screenshot_Dawn_Details_Thumb.jpg
+      Image: https://github.com/felixkmh/DH_Themes/raw/main/Screenshot_Dawn_Details.jpg
+    - Thumbnail: https://github.com/felixkmh/DH_Themes/raw/main/Screenshot_Dawn_Grid_Thumb.jpg
+      Image: https://github.com/felixkmh/DH_Themes/raw/main/Screenshot_Dawn_Grid.jpg
+Description: |-
+    Dark theme with lots of animations, compact filter list and floating game buttons.
+    ThemeExtras enables certain features, like navigation using either the browse back and browse forward shortcuts or the buttons on the top left, 
+    platform banners, smoother animations for the progress bar and expanding controls, a context menu for the background image, link icons, 
+    shortcut to go from grid to details view for a certain game, preserving selection when changing views, 
+    toggle buttons to set favorites, toggle button to hide games, 
+    quick way to change completion status, ...
+    Supported extension integrations:
+    - ThemeExtras
+    - DuplicateHider
+    - ExtraMetadataLoader
+    - SuccessStory
+    - BackgroundChanger
+    - HowLongToBeat
+    - GameActivity
+    - ScreenshotVisualizer
+    - ThemeModifier
+    - LibraryManagement
+    - ThemesDetailsViewToGridViewConverter
