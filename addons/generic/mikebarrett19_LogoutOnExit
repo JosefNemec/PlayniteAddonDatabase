@@ -1,0 +1,11 @@
+AddonId: 'LogoutOnExit'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/mikebarrett19/Playnite_LogoutOnExit/main/extension.yaml
+ShortDescription: 'Logs out of Windows when exiting Playnite ( but not when switching to fullscreen )'
+Name: 'Logout On Exit'
+Author: 'Michael Barrett'
+Tags: ['Events', 'UX']
+SourceUrl: https://github.com/mikebarrett19/Playnite_LogoutOnExit
+Description: 'A plugin that displays game content including video, music, logos, and backgrounds as a screen saver. These elements are obtained via Playnite, (Unreleased) Playnite Sounds, & MetaDataDownloader.'
+Links:
+    Github: https://github.com/mikebarrett19/Playnite_LogoutOnExit
