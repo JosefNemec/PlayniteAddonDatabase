@@ -1,0 +1,12 @@
+﻿AddonId: RobotCacheLibrary_4de579c6-7179-4229-b776-7a3a9e902052
+IconUrl: https://github.com/Nielk1/PlayniteExtensionsNielk1/raw/master/source/Libraries/RobotCacheLibrary/Resources/robotcacheicon.png
+Type: GameLibrary
+InstallerManifestUrl: https://github.com/Nielk1/PlayniteExtensionsNielk1/raw/master/manifests/RobotCacheLibrary_4de579c6-7179-4229-b776-7a3a9e902052.yaml
+ShortDescription: Imports games from RobotCache library.
+Name: RobotCache library integration
+Author: John "Nielk1" Klein
+Tags: ["Library", "RobotCache"]
+Links:
+    RobotCache: https://store.robotcache.com/
+    Support: https://github.com/Nielk1/PlayniteExtensionsNielk1/issues
+SourceUrl: https://github.com/Nielk1/PlayniteExtensionsNielk1
