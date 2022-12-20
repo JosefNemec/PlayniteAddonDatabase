@@ -6,7 +6,7 @@ ShortDescription: Fetches estimated install size from Steam and/or GOG for unins
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_GamesSizeCalculator.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Fetches estimated install size from Steam and/or GOG for uninstalled games.
-Tags: ["Generic", "Size", "Calculator"]
+Tags: ["Install", "Size", "Calculator"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Playnite Forums thread: https://playnite.link/forum/thread-1096.html
