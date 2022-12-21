@@ -3,9 +3,13 @@ IconUrl: https://github.com/Jeshibu/Playnite-OculusLibrary/raw/master/OculusLibr
 Type: GameLibrary
 InstallerManifestUrl: https://github.com/Jeshibu/Playnite-OculusLibrary/raw/master/OculusLibraryInstaller.yaml
 ShortDescription: 'Loads Playnite with all your Oculus Rift games'
-Description: 'Scans your Oculus software installation for Oculus Rift games. No support for GearVR or native Quest games.'
+Description: 'Scans your Oculus software installation for Oculus Rift games. Supports launching games via Revive (SteamVR). No support for GearVR or native Quest games. Based on work by Shawson and mr-ransel.'
+Tags: ['VR', 'Oculus', 'Meta', 'Revive']
 Name: 'Oculus Library Plugin'
-Author: 'Jeshibu & Ransel'
+Author: 'Jeshibu'
 Links:
     Website: https://github.com/Jeshibu/Playnite-OculusLibrary
+    Revive: https://github.com/LibreVR/Revive/
+    Oculus Rift Store: https://www.oculus.com/experiences/rift/
+    Oculus app: https://www.meta.com/en-gb/help/quest/articles/getting-started/getting-started-with-rift-s/install-oculus-pc-app/
 SourceUrl: https://github.com/Jeshibu/Playnite-OculusLibrary
