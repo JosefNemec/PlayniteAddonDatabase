@@ -1,0 +1,16 @@
+AddonId: GiantBombMetadata
+Type: MetadataProvider
+Name: Giant Bomb Metadata
+Author: Jeshibu
+ShortDescription: Imports game metadata from Giant Bomb's wiki game database.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_GiantBomb.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: |
+    Imports game metadata from Giant Bomb's wiki game database. Requires you to make an account and get an API key.
+    Also allows you to import tags/genres/categories to multiple games from a single concept/character/person/object (not from themes or locations just yet).
+Tags: ["Giant Bomb", "Metadata", "Tagging"]
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Giant Bomb: https://www.giantbomb.com/
+    Get an API key: https://www.giantbomb.com/api/
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/GiantBombMetadata/icon.png
