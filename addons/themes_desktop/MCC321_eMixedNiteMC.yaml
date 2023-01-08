@@ -2,7 +2,7 @@ AddonId: eMixedNiteMC_4333b3b2-0374-43a1-a9eb-d27f3ea89ef8
 Type: ThemeDesktop
 InstallerManifestUrl: https://raw.githubusercontent.com/MCC321-QC/eMixedNiteMC/main/InstallerManifest/MCC321_eMixedNiteMC_DesktopTheme.yml
 ShortDescription: A tweaked version of eMixedNite
-Description: This theme need the extension eMixedNiteMC Language Pack to work properly. eMixedNiteMC add support for video trailer in the background using Extra Metadata Loader plus some other changes. Be sure to check the Forum/Github page to access my installation tutorial, a platform banner collection to start, a custom font for the game title and the settings I use.
+Description: eMixedNiteMC add support for video trailer in the background using Extra Metadata Loader plus some other changes. Be sure to check the Forum/Github page to access my installation tutorial, a platform banner collection to start, a custom font for the game title and the settings I use.
 Name: eMixedNiteMC
 Author: eminaguil & MCC321
 Tags: ["Theme", "UI"]
@@ -10,9 +10,7 @@ SourceUrl: https://github.com/MCC321-QC/eMixedNiteMC
 Links:
     Wiki: https://github.com/MCC321-QC/eMixedNiteMC/wiki
     GitHub: https://github.com/MCC321-QC/eMixedNiteMC
-    Forum: https://playnite.link/forum/thread-801.html
     Translate: https://crowdin.com/project/emixednitemc
-    LanguagePack: https://playnite.link/forum/thread-1206.html
 IconUrl: https://github.com/MCC321-QC/eMixedNiteMC/raw/main/icon.png
 Screenshots:
     - Thumbnail: https://github.com/MCC321-QC/eMixedNiteMC/raw/main/screenshots/Thumbnail_01.png
