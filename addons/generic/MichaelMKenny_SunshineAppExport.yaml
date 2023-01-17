@@ -3,7 +3,7 @@ Type: Generic
 Name: Sunshine App Export
 Author: MichaelMKenny
 ShortDescription: This is a Playnite addon that creates custom Sunshine apps from the currently selected games in Playnite.
-InstallerManifestUrl: https://raw.githubusercontent.com/MichaelMKenny/SunshineAppExport/master/extension.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/MichaelMKenny/SunshineAppExport/master/installer_manifest.yaml
 SourceUrl: https://github.com/MichaelMKenny/SunshineAppExport
 Description: This is a Playnite addon that creates custom Sunshine apps from the currently selected games in Playnite. Once imported, you can launch them from Moonlight. It even imports your Playnite box art.
 Tags: ["Generic", "Sunshine", "Moonlight"]
