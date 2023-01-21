@@ -2,7 +2,7 @@ AddonId: Seaside_df4e11f8-2347-4a2d-b835-757aec63e15c
 Type: ThemeDesktop
 InstallerManifestUrl: https://raw.githubusercontent.com/Jhanlon95/Seaside/main/Manifests/manifest.yaml
 ShortDescription: A detail focused theme for Playnite
-Description: A Detail view focused theme that uses colours I associate with the seaside (blues, browns, yellows and greens)
+Description: A Detail view focused theme that uses colours I associate with the seaside (blues, browns, yellows and greens). I would recommend also installing ThemeExtras and ThemeModifier add-on with this theme
 Name: Seaside
 Author: Jhanlon95
 Tags: ["Theme", "Detail View", "Seaside"]
