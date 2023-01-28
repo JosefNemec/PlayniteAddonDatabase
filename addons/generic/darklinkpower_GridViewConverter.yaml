@@ -1,11 +1,11 @@
 AddonId: ThemesDetailsViewToGridViewConverter_ef8a7226-eedc-478d-a506-92ee6c088aa3
 Type: Generic
-Name: "darklinkpower's Grid View Converter"
+Name: "Details to Grid View Converter"
 Author: darklinkpower
-ShortDescription: Converts the layout in Details View to Grid View of themes by darklinkpower
+ShortDescription: Converts the layout in Details View to Grid View of supported Desktop Mode themes
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_ThemesDetailsViewToGridViewConverter.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
-Description: Converts the layout in Details View to Grid View of themes by darklinkpower
+Description: Converts the layout in Details View to Grid View of supported Desktop Mode themes. Conversion of supported themes must be enabled individually in the extension settings
 Tags: ["Generic", "darklinkpower", "themes", "Very cool"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
@@ -20,3 +20,5 @@ Screenshots:
       Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/screenshot_03.jpg
     - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/thumb_04.jpg
       Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/screenshot_04.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/thumb_05.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/ThemesDetailsViewToGridViewConverter/screenshot_05.jpg
