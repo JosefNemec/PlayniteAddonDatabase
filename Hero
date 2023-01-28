@@ -1,0 +1,20 @@
+AddonId: 'Hero_b490d300-ff04-4f7d-905e-a3ee6e421ecf'
+Type: ThemeFullscreen
+Name: 'Hero'
+Author: 'Zeroantix'
+ShortDescription: Minimalistix Fulllscreen Theme
+InstallerManifestUrl: https://github.com/zeroantix/Hero/blob/main/Hero.yaml
+SourceUrl: 
+Tags: ["Theme", "Modern", "Trailer", "Logo"]
+Links:
+    GitHub: https://github.com/zeroantix/Hero
+IconUrl: https://github.com/zeroantix/Hero/blob/main/Media/Logo.png
+Screenshots:
+    - Thumbnail: https://github.com/zeroantix/Hero/blob/main/Media/Main.jpg
+      Image: https://github.com/zeroantix/Hero/blob/main/Media/Main.jpg
+    - Thumbnail: https://github.com/zeroantix/Hero/blob/main/Media/Main%20-%20Fullscreen.jpg
+      Image: https://github.com/zeroantix/Hero/blob/main/Media/Main%20-%20Fullscreen.jpg
+    - Thumbnail: https://github.com/zeroantix/Hero/blob/main/Media/Grid.jpg
+      Image: https://github.com/zeroantix/Hero/blob/main/Media/Grid.jpg
+    - Thumbnail: https://github.com/zeroantix/Hero/blob/main/Media/Game%20Details.jpg
+      Image: https://github.com/zeroantix/Hero/blob/main/Media/Game%20Details.jpg
