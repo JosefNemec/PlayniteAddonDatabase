@@ -5,9 +5,9 @@ Author: 'Zeroantix'
 ShortDescription: Minimalistix Fulllscreen Theme
 InstallerManifestUrl: https://github.com/zeroantix/Hero/blob/main/Hero.yaml
 SourceUrl: 
-Tags: ["Theme", "Modern", "Trailer", "Logo"]
+Tags: ["Theme", "Modern", "Trailer", "Logo", "Hero"]
 Links:
-    GitHub: https://github.com/zeroantix/Hero
+GitHub: https://github.com/zeroantix/Hero
 IconUrl: https://github.com/zeroantix/Hero/blob/main/Media/Logo.png
 Screenshots:
     - Thumbnail: https://github.com/zeroantix/Hero/blob/main/Media/Main.jpg
