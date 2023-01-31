@@ -1,0 +1,21 @@
+AddonId: 'McHERO'
+Type: ThemeFullscreen
+Name: 'MᶜHERO'
+Author: 'seannuh'
+ShortDescription: Mod of HERO theme by zeroantix.
+InstallerManifestUrl: https://raw.githubusercontent.com/seannuh/McHERO/main/McHERO.yaml
+SourceUrl: https://github.com/seannuh/McHERO
+Description: Includes support for LibraryManagement, ScreenshotVisualizer, ExtraMetadataLoader, NewsViewer, DuplicateHider and SuccessStory.
+Tags: ["Theme", "Modern", "Trailer", "Logo", "Hero"]
+Links:
+      GitHub: https://github.com/seannuh/McHERO
+IconUrl: https://raw.githubusercontent.com/seannuh/McHERO/main/MEDIA/logo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/seannuh/McHERO/main/MEDIA/00thumb.png
+      Image: https://raw.githubusercontent.com/seannuh/McHERO/main/MEDIA/00.png
+    - Thumbnail: https://raw.githubusercontent.com/seannuh/McHERO/main/MEDIA/01thumb.png
+      Image: https://raw.githubusercontent.com/seannuh/McHERO/main/MEDIA/01.png
+    - Thumbnail: https://raw.githubusercontent.com/seannuh/McHERO/main/MEDIA/02thumb.png
+      Image: https://raw.githubusercontent.com/seannuh/McHERO/main/MEDIA/02.png
+    - Thumbnail: https://raw.githubusercontent.com/seannuh/McHERO/main/MEDIA/03thumb.png
+      Image: https://raw.githubusercontent.com/seannuh/McHERO/main/MEDIA/03.png
