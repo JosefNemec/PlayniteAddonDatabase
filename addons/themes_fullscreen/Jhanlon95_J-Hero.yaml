@@ -1,0 +1,18 @@
+AddonId: 'J-Hero_c0fabc1d-aadb-41e8-be6c-82e27147f6e4'
+Type: ThemeFullscreen
+Name: 'J-Hero'
+Author: 'Jhanlon95'
+ShortDescription: Further mods to how I like it from McHero by seannuh
+InstallerManifestUrl: https://raw.githubusercontent.com/Jhanlon95/J-Hero/main/Manifests/manifest.yaml
+SourceUrl: https://github.com/Jhanlon95/J-Hero
+Description: Further mods to layout and colours to how I prefer it from McHero by seannuh.
+Tags: ["Fullscreen", "Modern", "Logo", "Hero"]
+Links:
+      GitHub: https://github.com/Jhanlon95/J-Hero
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Jhanlon95/J-Hero/main/MEDIA/screen1.jpg
+      Image: https://raw.githubusercontent.com/Jhanlon95/J-Hero/main/MEDIA/screen1.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Jhanlon95/J-Hero/main/MEDIA/screen2.jpg
+      Image: https://raw.githubusercontent.com/Jhanlon95/J-Hero/main/MEDIA/screen2.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Jhanlon95/J-Hero/main/MEDIA/screen3.png
+      Image: https://raw.githubusercontent.com/Jhanlon95/J-Hero/main/MEDIA/screen3.png
