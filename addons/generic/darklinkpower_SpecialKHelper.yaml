@@ -1,4 +1,4 @@
-AddonId: SpecialKHelper_71349310-9ed8-4bf5-8bf2-e92cdb222748
+﻿AddonId: SpecialKHelper_71349310-9ed8-4bf5-8bf2-e92cdb222748
 Type: Generic
 Name: Special K Helper
 Author: darklinkpower
@@ -9,9 +9,11 @@ Description: Provides functionality to improve using Special K with Playnite. Al
 Tags: ["Generic", "SpecialK", "Reshade", "Overlay", "Steam"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
-    Playnite Forums thread: https://playnite.link/forum/thread-1162.html
-    Wiki: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Special-K-Helper
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Special-K-Helper
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3ASpecialKHelper
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
     Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
 IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SpecialKHelper/icon.png
 Screenshots:
     - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/thumb_01.jpg

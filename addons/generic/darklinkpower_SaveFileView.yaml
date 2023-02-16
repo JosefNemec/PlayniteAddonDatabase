@@ -1,4 +1,4 @@
-AddonId: SaveFileView_f68f302b-9799-4b77-a982-4bfca97130e2
+﻿AddonId: SaveFileView_f68f302b-9799-4b77-a982-4bfca97130e2
 Type: Generic
 Name: Save File View
 Author: darklinkpower
@@ -9,6 +9,9 @@ Description: This extension will open the save or configuration directories of y
 Tags: ["Generic", "Save", "Savefiles"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
-    Playnite Forums thread: https://playnite.link/forum/thread-691.html
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Save-File-View
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3ASaveFileView
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
     Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
 IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SaveFileView/icon.png

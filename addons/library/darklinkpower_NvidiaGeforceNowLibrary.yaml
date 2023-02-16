@@ -1,4 +1,4 @@
-AddonId: NVIDIA_GeForce_Now_Enabler
+﻿AddonId: NVIDIA_GeForce_Now_Enabler
 Type: GameLibrary
 Name: NVIDIA GeForce NOW Library
 Author: darklinkpower
@@ -9,6 +9,9 @@ Description: Plugin for Playnite that checks for games enabled in the NVIDIA GeF
 Tags: ["Generic", "Nvidia", "Subscription", "Streaming", "Library"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
-    Playnite Forums thread: https://playnite.link/forum/thread-298.html
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/NVIDIA-GeForce-NOW-Enabler
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3ANVIDIAGeForceNowEnabler
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
     Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
 IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Library/NVIDIAGeForceNowLibrary/icon.png

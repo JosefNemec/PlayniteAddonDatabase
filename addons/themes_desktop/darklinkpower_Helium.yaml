@@ -1,4 +1,4 @@
-AddonId: 8b15c46a-90c2-4fe5-9ebb-1ab25ba7fcb1
+﻿AddonId: 8b15c46a-90c2-4fe5-9ebb-1ab25ba7fcb1
 Type: ThemeDesktop
 InstallerManifestUrl: https://github.com/darklinkpower/Helium/raw/master/manifests/Installer_Manifest.yaml
 ShortDescription: Theme inspired by Steam for Playnite Desktop Mode.
@@ -9,12 +9,14 @@ Tags: ["Theme", "Steam", "UI"]
 SourceUrl: https://github.com/darklinkpower/Helium
 Links:
     GitHub: https://github.com/darklinkpower/Helium
-    Playnite Forums thread: https://playnite.link/forum/thread-811.html
+    Issues Tracker: https://github.com/darklinkpower/Helium/issues
+    Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
 IconUrl: https://github.com/darklinkpower/Helium/raw/master/source/Images/applogo.png
 Screenshots:
     - Thumbnail: https://github.com/darklinkpower/Helium/raw/master/screenshots/thumb_01.jpg
-      Image: https://github.com/darklinkpower/Helium/raw/master/screenshots/screenshot_01.jpg
+      Image: https://github.com/darklinkpower/Helium/raw/master/screenshots/screenshot_01.webp
     - Thumbnail: https://github.com/darklinkpower/Helium/raw/master/screenshots/thumb_02.jpg
-      Image: https://github.com/darklinkpower/Helium/raw/master/screenshots/screenshot_02.jpg
+      Image: https://github.com/darklinkpower/Helium/raw/master/screenshots/screenshot_02.webp
     - Thumbnail: https://github.com/darklinkpower/Helium/raw/master/screenshots/thumb_03.jpg
-      Image: https://github.com/darklinkpower/Helium/raw/master/screenshots/screenshot_03.jpg
+      Image: https://github.com/darklinkpower/Helium/raw/master/screenshots/screenshot_03.webp

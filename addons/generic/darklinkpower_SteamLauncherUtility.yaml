@@ -1,4 +1,4 @@
-AddonId: SteamLauncherUtility_31a65402-5b0c-44f0-9fc2-44b22ca4263c
+﻿AddonId: SteamLauncherUtility_31a65402-5b0c-44f0-9fc2-44b22ca4263c
 Type: Generic
 Name: Steam Launcher Utility
 Author: darklinkpower
@@ -9,6 +9,9 @@ Description: This extension allows you to configure the way steam is launched wh
 Tags: ["Generic", "Steam"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
-    Playnite Forums thread: https://playnite.link/forum/thread-659.html
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Steam-Launcher-Utility
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3ASteamLauncherUtility
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
     Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
 IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SteamLauncherUtility/icon.png
