@@ -1,4 +1,4 @@
-AddonId: Search_Collection
+﻿AddonId: Search_Collection
 Type: Generic
 Name: Search Collection
 Author: darklinkpower
@@ -9,8 +9,11 @@ Description: This extension will search the currently selected games on differen
 Tags: ["Generic", "Steam", "VNDB", "Twitch", "Youtube"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
-    Playnite Forums thread: https://playnite.link/forum/thread-163.html
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Search-Collection
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3ASearchCollection
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
     Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
 IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SearchCollection/icon.png
 Screenshots:
     - Thumbnail: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/screenshots/SearchCollection/thumb_01.jpg

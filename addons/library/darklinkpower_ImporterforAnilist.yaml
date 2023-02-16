@@ -1,4 +1,4 @@
-AddonId: ImporterforAnilist_2366fb38-bf25-45ea-9a78-dcc797ee83c3
+﻿AddonId: ImporterforAnilist_2366fb38-bf25-45ea-9a78-dcc797ee83c3
 Type: GameLibrary
 Name: Importer for Anilist
 Author: darklinkpower
@@ -9,6 +9,9 @@ Description: This plugin imports your anime and manga lists from AniList for vie
 Tags: ["Generic", "Library", "Anilist"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
-    Playnite Forums thread: https://playnite.link/forum/thread-707.html
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Importer-for-Anilist
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3AImporterforAnilist
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
     Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
 IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Library/ImporterforAnilist/icon.png

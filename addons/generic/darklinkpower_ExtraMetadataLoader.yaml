@@ -1,4 +1,4 @@
-AddonId: ExtraMetadataLoader_705fdbca-e1fc-4004-b839-1d040b8b4429
+﻿AddonId: ExtraMetadataLoader_705fdbca-e1fc-4004-b839-1d040b8b4429
 Type: Generic
 Name: Extra Metadata Loader
 Author: darklinkpower
@@ -16,8 +16,11 @@ Description: |-
 Tags: ["Generic", "Metadata", "Logos", "Video", "Steam", "YouTube", "SteamGridDB", "SGDB"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
-    Playnite Forums thread: https://playnite.link/forum/thread-814.html
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Extra-Metadata-Loader
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3AExtraMetadataLoader
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
     Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
 IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/ExtraMetadataLoader/icon.png
 Screenshots:
     - Thumbnail: https://github.com/darklinkpower/Helium/raw/master/screenshots/thumb_01.jpg
