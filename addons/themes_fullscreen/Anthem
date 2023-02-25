@@ -1,0 +1,18 @@
+AddonId: 'Anthem_0dd7c65b-909e-49ec-b19b-7277cb28ec0f'
+Type: ThemeFullscreen
+Name: 'Anthem'
+Author: 'Zeroantix'
+ShortDescription: Alternative Fulllscreen Theme
+InstallerManifestUrl: https://raw.githubusercontent.com/zeroantix/Anthem/main/Anthem.yaml
+SourceUrl: https://github.com/zeroantix/Anthem
+Tags: ["Theme", "Modern", "Trailer", "Logo", "Anthem"]
+Links:
+      GitHub: https://github.com/zeroantix/Anthem
+IconUrl: https://raw.githubusercontent.com/zeroantix/Anthem/main/Media/Logo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/zeroantix/Anthem/main/Media/MainThumb.jpg
+      Image: https://raw.githubusercontent.com/zeroantix/Anthem/main/Media/Main.jpg
+    - Thumbnail: https://raw.githubusercontent.com/zeroantix/Anthem/main/Media/GridThumb.jpg
+      Image: https://raw.githubusercontent.com/zeroantix/Anthem/main/Media/Grid.jpg
+    - Thumbnail: https://raw.githubusercontent.com/zeroantix/Anthem/main/Media/GameDetailsThumb.jpg
+      Image: https://raw.githubusercontent.com/zeroantix/Anthem/main/Media/GameDetails.jpg
