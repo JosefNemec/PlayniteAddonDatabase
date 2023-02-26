@@ -1,0 +1,14 @@
+AddonId: LaunchBoxMetadata
+Type: MetadataProvider
+Name: LaunchBox Metadata
+Author: Jeshibu
+ShortDescription: Imports game metadata from the LaunchBox game database.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_LaunchBox.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: Imports game metadata from the LaunchBox game database. Requires you to download the zipped LaunchBox metadata first - instructions in the settings.
+Tags: ["LaunchBox", "Metadata"]
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    LaunchBox Games Database: https://gamesdb.launchbox-app.com/
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/LaunchBoxMetadata/icon.png
