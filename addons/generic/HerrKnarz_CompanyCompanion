@@ -1,0 +1,18 @@
+AddonId: CompanyCompanion_b76edaec-1aa8-48ef-83a4-2a49ab031029
+Type: Generic
+Name: Company Companion
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_CompanyCompanion.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/CompanyCompanion/icon.png
+ShortDescription: 'plugin to manage game companies in your library'
+Description: |-
+    With this plugin you can:
+    * Find and merge duplicate companies.
+    * Remove business entity descriptors like LLC, Co or Inc.
+    * Find and merge similar companies based on simplified names ignoring word like Interactive, Studios etc.
+Tags: ['Generic', 'company', 'developer', 'publisher', 'manage', 'merge']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    AddOn database: https://playnite.link/addons.html#CompanyCompanion_b76edaec-1aa8-48ef-83a4-2a49ab031029
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
