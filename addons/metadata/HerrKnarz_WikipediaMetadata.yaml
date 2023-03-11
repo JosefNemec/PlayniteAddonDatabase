@@ -1,0 +1,28 @@
+AddonId: WikipediaMetadata_6c1bdd62-77bf-4866-a264-11544508687c
+Type: MetadataProvider
+Name: Wikipedia Metadata
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_WikipediaMetadata.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Metadata/WikipediaMetadata/icon.png
+ShortDescription: 'Imports game metadata from Wikipedia'
+Description: |-
+    This plugin fetches metadata from wikipedia. It supports the following fields:
+    * Name
+    * Release Date
+    * Genres
+    * Developers
+    * Publishers
+    * Features
+    * Tags (arcade system, engine, director, producer, designer, programmer, artist, writer, composer) Each can be toggled!
+    * Links
+    * Series
+    * Platform
+    * Cover image
+    * Critic Score (Metacritic)
+    * Description (with option to leave out certain sections)
+Tags: ['Metadata', 'Wikipedia']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    AddOn database: https://playnite.link/addons.html#WikipediaMetadata_6c1bdd62-77bf-4866-a264-11544508687c
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
