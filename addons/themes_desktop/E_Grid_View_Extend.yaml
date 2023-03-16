@@ -1,0 +1,20 @@
+AddonId: Enhaced_Grid_View_Extend_1
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/main/manifest/Installer_manifest.yaml
+ShortDescription: Playnite desktop theme focused in grid view with extensions integrations.
+Description: Playnite desktop theme focused in grid view with extensions integrations. Has support for community extensions like BackgroundChanger, SuccessStory, HowLongToBeat, GameActivity, NewsViewer, etc.
+Name: Enhaced Grid View Extend
+Author: Alan Oliveira
+Tags: ["Theme", "Grid View"]
+SourceUrl: https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme
+Links:
+      GitHub: https://github.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme
+Screenshots:
+      - Thumbnail: https://raw.githubusercontent.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/main/Screenshots/screenshot_6.jpg
+        Image: https://raw.githubusercontent.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/main/Screenshots/screenshot_6.jpg
+      - Thumbnail: https://raw.githubusercontent.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/main/Screenshots/screenshot_7.jpg
+        Image: https://raw.githubusercontent.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/main/Screenshots/screenshot_7.jpg
+      - Thumbnail: https://raw.githubusercontent.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/main/Screenshots/screenshot_1.jpg
+        Image: https://raw.githubusercontent.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/main/Screenshots/screenshot_1.jpg
+      - Thumbnail: https://raw.githubusercontent.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/main/Screenshots/screenshot_4.jpg
+        Image: https://raw.githubusercontent.com/Alan-oliveir/Playnite_E_Grid_View_Extend_Theme/main/Screenshots/screenshot_4.jpg
