@@ -1,0 +1,16 @@
+AddonId: Minimal_01b9013c-0777-46ba-a09e-035bd66a79e2
+Type: ThemeDesktop
+Name: Minimal
+Author: Kelinya
+ShortDescription: Minimal theme for Playnite with better grid view.
+InstallerManifestUrl: https://raw.githubusercontent.com/Kelinya/Minimal/main/manifest/InstallerManifest.yaml
+SourceUrl: https://github.com/Kelinya/Minimal
+Description: A minimal theme for Playnite with better details pane in grid view. Minimalist look with hidden scrollbars and cover image in details pane. To close the details pane, click on the big cover image.
+Tags: ["theme", "minimalist", "cover", "grid", "scrollbars"]
+Links:
+    GitHub: https://github.com/Kelinya/Minimal
+    Reddit: https://www.reddit.com/u/kelinya
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Kelinya/Minimal/main/images/thumbnail.png
+      Image: https://raw.githubusercontent.com/Kelinya/Minimal/main/images/screenshot.png
+IconUrl: https://raw.githubusercontent.com/Kelinya/Minimal/main/source/Images/applogo.png
