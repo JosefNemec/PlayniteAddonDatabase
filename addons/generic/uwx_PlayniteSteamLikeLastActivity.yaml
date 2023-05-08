@@ -4,6 +4,8 @@ Name: Steam-like Last Played
 Author: Maxine
 ShortDescription: "Makes the Last Played game property behave like the Steam library's Recent section."
 Description: |
+  ⚠️ This extension is obsolete since Playnite 10.1, as you can now sort by Recent Activity which does the same thing. There is no reason to download it unless you are on an older version.
+
   Automatically refreshes Playnite games' Last Played property with the value of the DateAdded property, if it's more recent. The resulting behavior is similar to Steam's Recent section.
 
   ⚠️ Disclaimer: This is extension is still in beta stage. Consider making a backup of your Playnite library! No warranty is provided.
