@@ -1,4 +1,4 @@
-AddonId: 68cee656-e677-42ab-a33e-9d9e6dfbefb9
+AddonId: KNARZnite_68cee656-e677-42ab-a33e-9d9e6dfbefb9
 Type: ThemeDesktop
 InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Theme-KNARZnite/main/manifests/Installer_Manifest.yaml
 ShortDescription: A simple, lightweight and elegant theme
@@ -11,7 +11,7 @@ Links:
     GitHub: https://github.com/HerrKnarz/Playnite-Theme-KNARZnite
     Issues Tracker: https://github.com/HerrKnarz/Playnite-Theme-KNARZnite/issues
     Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
-IconUrl: https://github.com/HerrKnarz/Playnite-Theme-KNARZnite/raw/master/source/Images/applogo.png
+IconUrl: https://github.com/HerrKnarz/Playnite-Theme-KNARZnite/raw/main/source/Images/applogo.png
 Screenshots:
     - Thumbnail: https://raw.githubusercontent.com/HerrKnarz/Playnite-Theme-KNARZnite/main/screenshots/GridViewThumb.jpg
       Image: https://raw.githubusercontent.com/HerrKnarz/Playnite-Theme-KNARZnite/main/screenshots/GridView.webp
