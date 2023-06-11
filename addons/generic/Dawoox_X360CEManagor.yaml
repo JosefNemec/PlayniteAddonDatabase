@@ -1,0 +1,12 @@
+AddonId: X360CEManager_b69dfabb-9de7-4235-be99-690b4230d9f6
+Type: Generic
+Name: X360CEManager
+Author: Dawoox
+ShortDescription: Manage X360CE through Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/Dawoox/X360CEManager/main/Dawoox_X360CEManagor.yaml
+SourceUrl: https://github.com/Dawoox/X360CEManager/tree/main/src/X360CEManager
+Description:  Auto-start X360CE with certains games or when opening playnite. Auto-close it when exiting.
+Tags: ["Generic", "X360CE", "Gamepad"]
+Links:
+    GitHub: https://github.com/Dawoox/X360CEManager
+IconUrl: https://raw.githubusercontent.com/Dawoox/X360CEManager/main/src/X360CEManager/icon.png
