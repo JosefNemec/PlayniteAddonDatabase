@@ -1,0 +1,14 @@
+﻿AddonId: ROMInstaller_41e49490-0583-4148-94d2-940c7c74f1d9
+IconUrl: https://raw.githubusercontent.com/psychonic/Playnite-EmuLibrary/master/EmuLibrary/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/psychonic/Playnite-EmuLibrary/master/manifest.yaml
+ShortDescription: EmuLibrary provides enhanced game management for emulated games stored remotely
+Description: |
+  While Playnite has had built-in support for scanning paths for installed ROMs and adding them to the library since version 9, EmuLibrary provides alternate functionality.
+
+  EmuLibrary treats one or more folders of ROMs/Disc images as a library from which you can "install" games. It can be useful if you have a large collection of emulated games and limited storage where you play them versus where you store them (HTPC vs. NAS, for example). It also is useful for keeping the list of emulated games up to date, and for being able to filter via installed/uninstalled.
+Name: EmuLibrary
+Author: psychonic
+Links:
+  Playnite Forums thread: https://playnite.link/forum/thread-635.html
+SourceUrl: https://github.com/psychonic/Playnite-EmuLibrary
