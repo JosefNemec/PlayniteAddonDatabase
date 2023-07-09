@@ -1,0 +1,9 @@
+AddonId: EnableHDR_f9295ecb-cfdf-4599-93cb-1011a2ca68ae
+Name: Detect and Enable HDR
+Type: Generic
+Author: Liam Scholte
+ShortDescription: Automatically enables HDR for games that support it.
+InstallerManifestUrl: https://raw.githubusercontent.com/lscholte/PlayniteEnableHdr/main/manifest.yaml
+SourceUrl: https://github.com/lscholte/PlayniteEnableHdr
+Description: Automatically enables HDR for games that support it. Use in conjunction with the PCGamingWiki Metadata Provider extension
+Tags: ["Generic", "HDR"]
