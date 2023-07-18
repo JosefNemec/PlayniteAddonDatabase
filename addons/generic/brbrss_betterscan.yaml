@@ -1,0 +1,8 @@
+AddonId: BetterScan_cfa84ecf-cb29-4aa2-bbac-c9aa5003cc22
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/brbrss/BetterScan/master/BetterScan/manifest.yaml
+Name: Better Scan
+Author: brbrss
+ShortDescription: Better version of scan folder
+SourceUrl: https://github.com/brbrss/BetterScan
+Description: Allows configuring patterns for match/skip, option to extract game name from folder/file, option to use relative path for InstallDir
