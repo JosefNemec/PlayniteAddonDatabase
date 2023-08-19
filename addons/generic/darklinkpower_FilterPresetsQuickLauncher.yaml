@@ -6,10 +6,10 @@ ShortDescription: This extension offers diverse functionality to quickly launch 
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_FilterPresetsQuickLauncher.yaml
 SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
 Description: |-
-    This extension has different functionality to quickly launcher Filter presets:
-    - Supports adding buttons to apply Filter Presets to the Top Panel and sidebar by configuring them in the extension settings\n
+    This extension offers diverse functionality to quickly launcher Filter presets:
+    - Adds support to add buttons to apply Filter Presets to the Top Panel and sidebar by configuring them in the extension settings
     - Adds support to search and apply Filter Presets from Playnite's Search keyboard launcher with the "fp" keyword
-    - Supports launching Filter Presets by using an URI with the "playnite://FiltersHelper/<FilterPresetName-or-Id>" format
+    - Adds support to launch Filter Presets by using an URI with the "playnite://FiltersHelper/<FilterPresetName-or-Id>" format
 Tags: ["Generic", "Filter", "Preset", "Sidebar", "Topbar", "Search", "Quick", "Launch"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
