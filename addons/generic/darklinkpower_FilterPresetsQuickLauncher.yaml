@@ -1,0 +1,24 @@
+﻿AddonId: FilterPresetsQuickLauncher_ef9df36c-24c2-418c-8468-eed95a09d950
+Type: Generic
+Name: Filter Presets Quick Launcher
+Author: darklinkpower
+ShortDescription: Detects and adds features that indicate the cooperative features in games.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_FilterPresetsQuickLauncher.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Detects and adds features that indicate the cooperative features in games. Data used by the extension is obtained from Co-Optimus.
+Tags: ["Generic", "Feature", "Cooperative", "Coop"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Filter-Presets-Quick-Launcher
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3AFilterPresetsQuickLauncher
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/FilterPresetsQuickLauncher/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/screenshot_01.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/screenshot_02.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/thumb_03.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/screenshot_03.webp
