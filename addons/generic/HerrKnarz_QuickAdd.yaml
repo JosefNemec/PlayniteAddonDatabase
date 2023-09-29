@@ -1,0 +1,15 @@
+AddonId: QuickAdd_44def840-a5dc-4fdf-8fd7-37ffe57187d6
+Type: Generic
+Name: Quick Add
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_QuickAdd.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/QuickAdd/icon.png
+ShortDescription: 'plugin to quickly add/remove/toggle often used categories, features and tags'
+Description: |-
+    With this plugin you can add, remove or toggle often used categories, features and tags via the game context menu without having to go through the edit dialog. Which entries to show in the menu has to be configured in the addon settings!
+Tags: ['Generic', 'tags', 'features', 'categories']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    AddOn database: https://playnite.link/addons.html#QuickAdd_44def840-a5dc-4fdf-8fd7-37ffe57187d6
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
