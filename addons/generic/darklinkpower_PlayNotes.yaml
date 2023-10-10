@@ -10,7 +10,7 @@ Description: |-
     - Markdown support to create rich and formatted notes
     - Support to create multiple notes for the same game
     - Edit and manage your notes right in the extension UI element
-    - Support to import guides from Steam and import them as notes
+    - Support to import guides from Steam as notes
     - Support to import your existing notes in Playnite from the main menu
 Tags: ["Generic", "Note", "Markdown", "Guide"]
 Links:
