@@ -1,0 +1,18 @@
+AddonId: Listicles_f353f85c-2d42-4cd2-8ed6-0583c221d16c
+Type: Generic
+Name: Listicles
+Author: dragonmc77
+ShortDescription: Sidebar menu allowing the creation of an arbitrary number of game lists.
+InstallerManifestUrl: https://raw.githubusercontent.com/dragonmc77/Listicles/main/Installer_Manifest.yaml
+SourceUrl: https://github.com/dragonmc77/Listicles
+Description: |-
+  This extension provides a sidebar action that allows creating lists (of any size) of games that the user can add to from their library. It is best used by users with large libraries who, for example, would like to create "Top 10" or "Top 25" lists of games in certain genres or categories, or it can be used to create queues or playlists. 
+
+  The button toolbar at the top of the UI contains all functions for managing the lists and the games within them.
+Tags: ["Generic"]
+Links:
+  GitHub: https://github.com/dragonmc77/Listicles
+IconUrl: https://raw.githubusercontent.com/dragonmc77/Listicles/main/listicles.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/dragonmc77/Listicles/master/playnite_listicles_thumbnail.png
+    Image: https://raw.githubusercontent.com/dragonmc77/Listicles/master/playnite_listicles_screenshot.png
