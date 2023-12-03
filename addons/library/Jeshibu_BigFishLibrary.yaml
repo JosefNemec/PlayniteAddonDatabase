@@ -1,0 +1,12 @@
+﻿AddonId: BigFishLibrary
+IconUrl: https://github.com/Jeshibu/PlayniteExtensions/raw/main/source/BigFishLibrary/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_BigFish.yaml
+ShortDescription: Imports games from Big Fish Games client.
+Name: Big Fish Games library integration
+Author: Jeshibu
+Links:
+    Big Fish Games: https://www.bigfishgames.com/
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
