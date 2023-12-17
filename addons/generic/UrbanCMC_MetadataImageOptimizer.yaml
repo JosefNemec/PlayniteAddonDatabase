@@ -13,6 +13,6 @@ Description: |-
 Tags: ['Generic', 'Images']
 Links:
     GitHub: https://github.com/UrbanCMC/PlayniteExtensions
-InstallerManifestUrl: https://raw.githubusercontent.com/UrbanCMC/PlayniteExtensions/main/manifests/Generic_MetadataImageOptimizer.yaml
+InstallerManifestUrl: https://github.com/UrbanCMC/PlayniteExtensions/raw/master/manifests/Generic_MetadataImageOptimizer.yaml
 SourceUrl: https://github.com/UrbanCMC/PlayniteExtensions
-IconUrl: https://raw.githubusercontent.com/UrbanCMC/PlayniteExtensions/main/src/MetadataImageOptimizer/icon.png
+IconUrl: https://github.com/UrbanCMC/PlayniteExtensions/raw/master/src/MetadataImageOptimizer/icon.png
