@@ -1,0 +1,16 @@
+AddonId: CanRanBan_Library_GooglePlayGames
+Type: GameLibrary
+IconUrl: https://raw.githubusercontent.com/CanRanBan/PlayniteExtension-Library-GooglePlayGames/main/Source/Resources/GooglePlayGamesLibraryIcon.ico
+Name: Google Play Games on PC Library
+ShortDescription: Imports games available on PC from Google Play Games.
+Author: CanRanBan
+SourceUrl: https://github.com/CanRanBan/PlayniteExtension-Library-GooglePlayGames
+Links:
+    GitHub (Source code): https://github.com/CanRanBan/PlayniteExtension-Library-GooglePlayGames
+    Wiki (Introduction and Help): https://github.com/CanRanBan/PlayniteExtension-Library-GooglePlayGames/wiki
+    Google Play Games: https://play.google.com/googleplaygames
+    Playnite Discord (#extensions-support): https://discord.com/channels/365863063296933888/808419165311467630
+    Issues (Feature requests and Bugs): https://github.com/CanRanBan/PlayniteExtension-Library-GooglePlayGames/issues
+InstallerManifestUrl: https://raw.githubusercontent.com/CanRanBan/PlayniteExtension-Library-GooglePlayGames/main/Manifests/PackageInstaller/CanRanBan_Library_GooglePlayGames.yaml
+Description: The "Google Play Games on PC Library" Playnite extension imports games available on PC from Google Play Games. It requires "Google Play Games (Beta)" to be properly installed. Availability and game selection might differ by country.
+Tags: ["CanRanBan", "Library", "Google", "Play", "Games", "Mobile", "Android", "Emulator", "Emulation"]
