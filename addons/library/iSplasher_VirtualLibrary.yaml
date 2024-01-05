@@ -1,5 +1,5 @@
-﻿AddonId: VirtualLibrary
-IconUrl: https://github.com/iSplasher/PlayniteExtensions/raw/master/plugins/virtual-library/icon.png
+AddonId: VirtualLibrary
+IconUrl: https://raw.githubusercontent.com/iSplasher/PlayniteExtensions/master/plugins/virtual-library/icon.png
 Type: GameLibrary
 InstallerManifestUrl: https://github.com/iSplasher/PlayniteExtensions/raw/master/plugins/virtual-library/installer.yaml
 ShortDescription: Import games easily through a simple link from Google Play, IGDB and more...
