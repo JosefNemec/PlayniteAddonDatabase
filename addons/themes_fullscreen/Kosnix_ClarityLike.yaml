@@ -1,0 +1,15 @@
+AddonId: 'ClarityLike_97ac384b-d6a2-4e5d-85d7-bb10b02ad2c0'
+Type: ThemeFullscreen
+Name: 'ClarityLike'
+Author: 'Kosnix'
+ShortDescription: a new simple blue theme.
+InstallerManifestUrl: https://raw.githubusercontent.com/Kosnix/ClarityLike/main/ClarityLike.yaml
+SourceUrl: https://github.com/Kosnix/ClarityLike
+Tags: ["Clarity", "theme", "Like", "Console", "Kosnix", "Blue"]
+Links:
+IconUrl: https://raw.githubusercontent.com/Kosnix/ClarityLike/main/logo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/ClarityLike/main/Screenshot1.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/ClarityLike/main/Screenshot1.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/ClarityLike/main/Screenshot2.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/ClarityLike/main/Screenshot2.jpg
