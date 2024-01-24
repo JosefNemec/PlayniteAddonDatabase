@@ -1,0 +1,17 @@
+AddonId: MetadataUtilities_485ab5f0-bfb1-4c17-93cc-20d8338673be
+Type: Generic
+Name: Metadata Utilities
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_MetadataUtilities.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/MetadataUtilities/icon.png
+ShortDescription: 'plugin to help managing your metadata like categories, features, genres, series and tags'
+Description: |-
+    This very first version adds a metadata editor to filter and quickly rename, delete and merge categories, features, genres, series and tags.
+    You can even merge different types like tags and features together.
+    Many more features are to come in future versions like setting up auto merge rules, automatic removal of unwanted metadata from metadata addons etc.
+Tags: ['Generic', 'metadata', 'categories', 'features', 'genres', 'series', 'tags', 'management', 'merge']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    AddOn database: https://playnite.link/addons.html#MetadataUtilities_485ab5f0-bfb1-4c17-93cc-20d8338673be
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
