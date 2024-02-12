@@ -3,7 +3,7 @@ Type: ThemeFullscreen
 Name: 'Aniki-Remix'
 Author: 'Mike Aniki'
 ShortDescription: Upgrade your game experience with this theme.
-InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Remix/9dd4625df0b106bf34048b882f6708d16eb44a86/InstallerManifest.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Remix/main/InstallerManifest.yaml
 SourceUrl: https://github.com/Mike-Aniki/Aniki-Remix
 Tags: ["Light", "theme", "Remix", "Console", "Aniki", "Cool"]
 Links:
