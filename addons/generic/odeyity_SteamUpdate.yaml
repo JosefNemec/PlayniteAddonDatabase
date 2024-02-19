@@ -1,15 +1,24 @@
 AddonId: SteamUpdate_e9ecfc93-b000-4439-8dd8-a52b7b887a43
-Name: Steam Update
 Type: Generic
+Name: Steam Update
 Author: odeyity
 ShortDescription: Notifies you of any updates for a Steam game.
 InstallerManifestUrl: https://raw.githubusercontent.com/odeyity/Playnite-Steam-Update-Plugin/main/manifest.yaml
-SourceUrl: https://github.com/odeyity/Playnite-Steam-Update-Plugin/
-Description: On Playnite startup, this C# plugin simply opens a python script compiled into an executable that reads appmanifest data for Steam and alerts the user of any games that have updates.
+SourceUrl: https://github.com/odeyity/Playnite-Steam-Update-Plugin
+Description: |-
+    Info:
+    * On Playnite startup, this C# plugin simply opens a python script compiled into an executable that reads appmanifest data for Steam and alerts the user of any games that have updates.
+    
+    What this plugin requires:
+    * Steamapps folder location
+    
+
+
 Tags: ["Generic", "Steam", "Updates"]
 Links:
-    GitHub page: https://github.com/odeyity/Playnite-Steam-Update-Plugin
+    GitHub: https://github.com/odeyity/Playnite-Steam-Update-Plugin
+
+IconUrl: https://raw.githubusercontent.com/odeyity/Playnite-Steam-Update-Plugin/main/icon.png
 Screenshots:
-    Python Window: https://raw.githubusercontent.com/odeyity/Playnite-Steam-Update-Plugin/main/screenshots/alert.png
-    
-IconUrl: https://github.com/odeyity/Playnite-Steam-Update-Plugin/raw/main/icon.png
+    - Thumbnail: https://raw.githubusercontent.com/odeyity/Playnite-Steam-Update-Plugin/main/screenshots/main_thumb.png
+      Image: https://raw.githubusercontent.com/odeyity/Playnite-Steam-Update-Plugin/main/screenshots/main_full.png
