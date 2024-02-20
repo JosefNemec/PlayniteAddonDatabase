@@ -1,24 +1,24 @@
-AddonId: SteamUpdate_e9ecfc93-b000-4439-8dd8-a52b7b887a43
+AddonId: UpdateChecker_74fe180c-7038-4908-bec1-94194b73b2e4
 Type: Generic
-Name: Steam Update
+Name: Update Checker
 Author: odeyity
 ShortDescription: Notifies you of any updates for a Steam game.
-InstallerManifestUrl: https://raw.githubusercontent.com/odeyity/Playnite-Steam-Update-Plugin/main/manifest.yaml
-SourceUrl: https://github.com/odeyity/Playnite-Steam-Update-Plugin
+InstallerManifestUrl: https://raw.githubusercontent.com/odeyity/Playnite-Update-Checker-Plugin/main/manifest.yaml
+SourceUrl: https://github.com/odeyity/Playnite-Update-Checker-Plugin
 Description: |-
     Info:
-    * On Playnite startup, this C# plugin simply opens a python script compiled into an executable that reads appmanifest data for Steam and alerts the user of any games that have updates.
+    * On Playnite startup, this C# plugin simply opens a python script compiled into an executable that reads appmanifest data for various game launchers and alerts the user of any games that have updates.
     
     What this plugin requires:
     * Steamapps folder location
     
 
 
-Tags: ["Generic", "Steam", "Updates"]
+Tags: ["Generic", "Steam", "Epic", "Updates"]
 Links:
-    GitHub: https://github.com/odeyity/Playnite-Steam-Update-Plugin
+    GitHub: https://github.com/odeyity/Playnite-Update-Checker-Plugin
 
-IconUrl: https://raw.githubusercontent.com/odeyity/Playnite-Steam-Update-Plugin/main/icon.png
+IconUrl: https://raw.githubusercontent.com/odeyity/Playnite-Update-Checker-Plugin/main/icon.png
 Screenshots:
-    - Thumbnail: https://raw.githubusercontent.com/odeyity/Playnite-Steam-Update-Plugin/main/screenshots/main_thumb.png
-      Image: https://raw.githubusercontent.com/odeyity/Playnite-Steam-Update-Plugin/main/screenshots/main_full.png
+    - Thumbnail: https://raw.githubusercontent.com/odeyity/Playnite-Update-Checker-Plugin/main/screenshots/main_thumb.png
+      Image: https://raw.githubusercontent.com/odeyity/Playnite-Update-Checker-Plugin/main/screenshots/main_full.png
