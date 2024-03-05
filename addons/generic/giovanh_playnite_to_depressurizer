@@ -1,0 +1,13 @@
+Id: playnite_to_depressurizer
+Name: Export Completion to Depressurizer
+Author: GiovanH
+Version: 1.1
+Module: playniteToDepressurizer.psm1
+Type: Script
+InstallerManifestUrl: https://github.com/GiovanH/playnite-depressurizer/raw/master/installer.yaml
+SourceUrl: https://github.com/GiovanH/playnite-depressurizer
+ShortDescription: Playnite extension that exports completion info to depressurizer to use as Steam collections.
+Tags: ["Generic"]
+Links:
+  - GitHub: https://github.com/GiovanH/playnite-depressurizer
+  - Readme: https://github.com/GiovanH/playnite-depressurizer/blob/master/readme.md
