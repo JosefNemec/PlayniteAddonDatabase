@@ -1,0 +1,17 @@
+AddonId: TrailerLovers'
+Type: ThemeFullscreen
+Name: 'Trailerlovers'
+Author: 'blooderscrew'
+ShortDescription: theme for lovers of game trailers in a big and clean screen with autoplay trailer.
+InstallerManifestUrl: https://github.com/blooderscrew1/TrailerLovers/blob/main/InstallerManifest.yaml
+SourceUrl: https://github.com/blooderscrew1/TrailerLovers
+Tags: ["Light", "theme", "Clean", "Console", "Blooderscrew", "Cool", "Trailers","Fast"]
+Links:
+IconUrl: https://github.com/blooderscrew1/TrailerLovers/blob/main/icon.png
+Screenshots:
+      Thumbnail: https://github.com/blooderscrew1/TrailerLovers/blob/main/thumbnail01.png
+      Image: https://github.com/blooderscrew1/TrailerLovers/blob/main/screenshot01.png
+      Thumbnail: https://github.com/blooderscrew1/TrailerLovers/blob/main/thumbnail02.png
+      Image: https://github.com/blooderscrew1/TrailerLovers/blob/main/screenshot02.png
+      Image: https://github.com/blooderscrew1/TrailerLovers/blob/main/screenshot03.png
+      Image: https://github.com/blooderscrew1/TrailerLovers/blob/main/screenshot04.png 
