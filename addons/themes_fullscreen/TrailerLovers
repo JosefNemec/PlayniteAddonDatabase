@@ -1,0 +1,20 @@
+AddonId: 'TrailerLovers'
+Type: ThemeFullscreen
+Name: 'TrailerLovers'
+Author: 'Blooderscrew'
+ShortDescription: A modern fullscreen theme for Playnite for trailers in main screen.
+InstallerManifestUrl: https://1drv.ms/u/s!AsDU0qfFSlnNv2GYF_a3wtKlayPT?e=phawXA
+SourceUrl: https://github.com/blooderscrew1/TrailerLovers
+Tags: ["Theme", "Modern", "Trailer", "Logo", "Trailers", "Clean"]
+Links:
+    GitHub: https://github.com/blooderscrew1/TrailerLovers
+IconUrl: https://i.imgur.com/dLZSJ47.png
+Screenshots:
+    - Thumbnail: https://i.imgur.com/TQfuvHy.png
+      Image: https://i.imgur.com/IZ8PSto.png
+    - Thumbnail: https://i.imgur.com/y2TMTtU.png
+      Image: https://i.imgur.com/E5zIvjL.png
+    - Thumbnail: https://i.imgur.com/7BnygiM.png
+      Image: https://i.imgur.com/u70cho9.png
+    - Thumbnail: https://i.imgur.com/IWWjJG5.png
+      Image: https://i.imgur.com/0x9Ud2y.png
