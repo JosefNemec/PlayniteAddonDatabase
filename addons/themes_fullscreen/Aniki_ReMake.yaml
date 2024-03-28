@@ -2,7 +2,7 @@ AddonId: 'Aniki_ReMake_bb8728bd-ac83-4324-88b1-ee5c586527d1'
 Type: ThemeFullscreen
 Name: 'Aniki-ReMake'
 Author: 'Mike Aniki'
-ShortDescription: Upgrade your game experience with this theme.
+ShortDescription: A variant of Aniki Remix with an emphasis on animations and a revamped interface.
 InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/Aniki-ReMake/main/InstallerManifest.yaml
 SourceUrl: https://github.com/Mike-Aniki/Aniki-ReMake
 Tags: ["Light", "theme", "Remake", "Console", "Aniki", "Cool"]
@@ -13,3 +13,5 @@ Screenshots:
       Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-ReMake/main/screenshot01.png
     - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-ReMake/main/thumbnail02.png
       Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-ReMake/main/screenshot02.png
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-ReMake/main/thumbnail03.png
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-ReMake/main/screenshot03.png
