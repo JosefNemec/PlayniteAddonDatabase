@@ -7,13 +7,13 @@ InstallerManifestUrl: https://raw.githubusercontent.com/blooderscrew1/TrailerLov
 SourceUrl: https://github.com/blooderscrew1/TrailerLovers
 Tags: ["Theme", "Modern", "Trailer", "Logo", "Trailers", "Clean"]
 Links:
-IconUrl: https://i.imgur.com/dLZSJ47.png
+IconUrl: https://raw.githubusercontent.com/blooderscrew1/TrailerLovers/main/icon.png
 Screenshots:
-    - Thumbnail: https://i.imgur.com/TQfuvHy.png
-      Image: https://i.imgur.com/IZ8PSto.png
-    - Thumbnail: https://i.imgur.com/y2TMTtU.png
-      Image: https://i.imgur.com/E5zIvjL.png
-    - Thumbnail: https://i.imgur.com/7BnygiM.png
-      Image: https://i.imgur.com/u70cho9.png
-    - Thumbnail: https://i.imgur.com/IWWjJG5.png
-      Image: https://i.imgur.com/0x9Ud2y.png
+    - Thumbnail: hhttps://raw.githubusercontent.com/blooderscrew1/TrailerLovers/main/thumbnail01.png
+      Image: https://raw.githubusercontent.com/blooderscrew1/TrailerLovers/main/screenshot01.png
+    - Thumbnail: https://raw.githubusercontent.com/blooderscrew1/TrailerLovers/main/thumbnail02.png
+      Image: https://raw.githubusercontent.com/blooderscrew1/TrailerLovers/main/screenshot02.png
+    - Thumbnail: https://github.com/blooderscrew1/TrailerLovers/blob/main/thumbnail03.png
+      Image: https://raw.githubusercontent.com/blooderscrew1/TrailerLovers/main/screenshot03.png
+    - Thumbnail: https://raw.githubusercontent.com/blooderscrew1/TrailerLovers/main/thumbnail04.png
+      Image: https://raw.githubusercontent.com/blooderscrew1/TrailerLovers/main/screenshot04.png
