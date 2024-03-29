@@ -1,0 +1,16 @@
+AddonId: cf0a70bd-1cf6-4fb3-91fa-35f50f1b5913
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/CalAlaera/playnite-light-theme/default/support/Installer_Manifest.yaml
+ShortDescription: Finally, a light mode theme for Playnite.
+Description: Black on white, for those of us who need light to see. No issues known, many issues expected, please get in touch when you find them.
+Name: Light Mode
+Author: Cal Alaera
+Tags: ["Theme", "UI", "Light"]
+SourceUrl: https://github.com/CalAlaera/playnite-light-theme
+Links:
+  GitHub: https://github.com/CalAlaera/playnite-light-theme
+  "Report an issue": https://github.com/CalAlaera/playnite-light-theme/issues
+IconUrl: https://github.com/JosefNemec/Playnite/raw/master/source/Playnite.DesktopApp/Themes/Desktop/Default/Images/applogo.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/CalAlaera/playnite-light-theme/default/support/Screenie_0_1_0_thumb.jpg
+    Image: https://raw.githubusercontent.com/CalAlaera/playnite-light-theme/default/support/Screenie_0_1_0.png
