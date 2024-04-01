@@ -1,0 +1,21 @@
+AddonId: Raohmaru_Rwl_Desktop_e3065120-6742-4ebd-95de-b9ce142737ac
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/raohmaru/playnite-theme-rwl-desktop/main/Manifests/Installer_Manifest.yaml
+Name: Rwl
+Author: Raohmaru
+SourceUrl: https://github.com/raohmaru/playnite-theme-rwl-desktop
+ShortDescription: "Clean and animated theme for Playnite Desktop Mode."
+Description: "Clean, minimal and animated theme for Playnite Desktop Mode. Has support for these community extensions: LibraryManagement, ExtraMetadataLoader, ThemeExtras, ScreenshotsVisualizer."
+Tags: ["Theme", "Desktop", "UI"]
+IconUrl: https://raw.githubusercontent.com/raohmaru/playnite-theme-rwl-desktop/main/Images/applogo.png
+Links:
+- GitHub: https://github.com/raohmaru/playnite-theme-rwl-desktop
+- Issues Tracker: https://github.com/raohmaru/playnite-theme-rwl-desktop/issues
+- Ko-fi (Tips and Donations): https://ko-fi.com/raohmaru
+Screenshots:
+- Thumbnail: https://raw.githubusercontent.com/raohmaru/playnite-theme-rwl-desktop/main/Screenshots/playnite-theme-rwl-desktop-1-thumb.png
+  Image: https://raw.githubusercontent.com/raohmaru/playnite-theme-rwl-desktop/main/Screenshots/playnite-theme-rwl-desktop-1.jpg
+- Thumbnail: https://raw.githubusercontent.com/raohmaru/playnite-theme-rwl-desktop/main/Screenshots/playnite-theme-rwl-desktop-2-thumb.png
+  Image: https://raw.githubusercontent.com/raohmaru/playnite-theme-rwl-desktop/main/Screenshots/playnite-theme-rwl-desktop-2.jpg
+- Thumbnail: https://raw.githubusercontent.com/raohmaru/playnite-theme-rwl-desktop/main/Screenshots/playnite-theme-rwl-desktop-3-thumb.png
+  Image: https://raw.githubusercontent.com/raohmaru/playnite-theme-rwl-desktop/main/Screenshots/playnite-theme-rwl-desktop-3.jpg
