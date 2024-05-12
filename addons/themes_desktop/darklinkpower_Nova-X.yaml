@@ -1,0 +1,24 @@
+﻿AddonId: Nova_X_0a95b7a3-00e4-412d-b301-f2fa3f98dfad
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/darklinkpower/Nova-X/raw/master/manifests/Installer_Manifest.yaml
+ShortDescription: Theme inspired by the Xbox PC App for Playnite Desktop Mode.
+Description: Theme inspired by the Xbox PC App for Playnite Desktop Mode. The theme provides extensive support for a wide range of available Playnite extensions. Theme requires the "Segoe MDL2 Assets" font to be installed and it is suggested to use the Segoe UI font.
+Name: Nova X
+Author: darklinkpower
+Tags: ["Theme", "Xbox", "UI"]
+SourceUrl: https://github.com/darklinkpower/Nova-X
+Links:
+    GitHub: https://github.com/darklinkpower/Nova-X
+    Issues Tracker: https://github.com/darklinkpower/Nova-X/issues
+    Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://github.com/darklinkpower/Nova-X/raw/master/source/Images/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/Nova-X/raw/master/screenshots/thumb_01.jpg
+      Image: https://github.com/darklinkpower/Nova-X/raw/master/screenshots/screenshot_01.webp
+    - Thumbnail: https://github.com/darklinkpower/Nova-X/raw/master/screenshots/thumb_02.jpg
+      Image: https://github.com/darklinkpower/Nova-X/raw/master/screenshots/screenshot_02.webp
+    - Thumbnail: https://github.com/darklinkpower/Nova-X/raw/master/screenshots/thumb_03.jpg
+      Image: https://github.com/darklinkpower/Nova-X/raw/master/screenshots/screenshot_03.webp
+    - Thumbnail: https://github.com/darklinkpower/Nova-X/raw/master/screenshots/thumb_04.jpg
+      Image: https://github.com/darklinkpower/Nova-X/raw/master/screenshots/screenshot_04.webp

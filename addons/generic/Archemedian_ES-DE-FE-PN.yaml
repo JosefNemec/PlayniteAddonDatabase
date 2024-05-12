@@ -1,8 +1,0 @@
-AddonId: 'esdefepn'
-Type: Generic
-InstallerManifestUrl: https://github.com/ArchemedIan/esdefepn/raw/main/installer.yaml
-ShortDescription: 'E̲mulations̲tation D̲esktop E̲dition ̲F̲ronte̲nd for ̲Playn̲ite'
-Description: 'This plugin sets up a portable copy of Emulationstation DE in the plugin data foldr for use as a frontend to your Playnite games'
-Name: 'ES-DE-FE-PN'
-Author: 'Archemedian' 
-SourceUrl: https://github.com/ArchemedIan/esdefepn

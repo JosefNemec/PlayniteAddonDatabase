@@ -1,0 +1,11 @@
+AddonId: GamingTimeManager_8cb3c9f6-fe18-4f9f-ac4c-dfba4ef46a72
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/NMaxCarr/GamingTimeManager/master/InstallerManifest/NMaxCarr_GamingTimeManager.yaml
+ShortDescription: This Playnite extension adds feature to keep track of your gaming time.
+Name: Gaming Time Manager
+Author: NMaxCarr
+Tags: ["Session tracking", "Notification"]
+SourceUrl: https://github.com/NMaxCarr/GamingTimeManager
+Links:
+    GitHub: https://github.com/NMaxCarr/GamingTimeManager
+Description: 'This basic and simple extension keeps track of how much time your playing video games and can alert you if the limit set is reached. IMPORTANT: The time track works only when games are lunched via Playnite.'

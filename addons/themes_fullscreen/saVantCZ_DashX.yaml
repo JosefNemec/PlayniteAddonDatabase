@@ -1,0 +1,19 @@
+AddonId: 'DashX_saVantCZ'
+Type: ThemeFullscreen
+Name: 'DashX - XBOX Experience'
+Author: 'saVantCZ'
+ShortDescription: Playnite Theme inspired by XBOX Series new dashboard
+InstallerManifestUrl: https://raw.githubusercontent.com/saVantCZ/DashX/main/Manifest/InstallerManifest.yaml
+SourceUrl: https://github.com/saVantCZ/DashX
+Tags: ["xbox", "series", "dashboard", "new", "heavy", "experimental"]
+Links:
+IconUrl: https://raw.githubusercontent.com/saVantCZ/DashX/main/Media/Icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/saVantCZ/DashX/main/Media/Thumb1.jpg
+      Image: https://raw.githubusercontent.com/saVantCZ/DashX/main/Media/Big1.png
+    - Thumbnail: https://raw.githubusercontent.com/saVantCZ/DashX/main/Media/Thumb2.jpg
+      Image: https://raw.githubusercontent.com/saVantCZ/DashX/main/Media/Big2.png
+    - Thumbnail: https://raw.githubusercontent.com/saVantCZ/DashX/main/Media/Thumb3.jpg
+      Image: https://raw.githubusercontent.com/saVantCZ/DashX/main/Media/Big3.png
+    - Thumbnail: https://raw.githubusercontent.com/saVantCZ/DashX/main/Media/Thumb4.jpg
+      Image: https://raw.githubusercontent.com/saVantCZ/DashX/main/Media/Big4.png

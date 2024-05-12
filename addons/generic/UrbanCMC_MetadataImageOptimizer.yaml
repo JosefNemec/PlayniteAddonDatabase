@@ -1,0 +1,18 @@
+AddonId: MetadataImageOptimizer_17b571ff-6ffe-4bea-ad25-32e52b54f9d3
+Type: Generic
+Name: MetadataImageOptimizer
+Author: UrbanCMC
+ShortDescription: Automatically optimizes images of a game when it is saved.
+Description: |-
+    Automatically optimizes images of a game when it is saved.
+
+    * Optimize images either when they are modified, or any time a game is saved.
+    * Convert images to your preferred format.
+    * Define a maximum size per image category.
+    * Convert .ico files to high quality images.
+Tags: ['Generic', 'Images']
+Links:
+    GitHub: https://github.com/UrbanCMC/PlayniteExtensions
+InstallerManifestUrl: https://github.com/UrbanCMC/PlayniteExtensions/raw/release/manifests/Generic_MetadataImageOptimizer.yaml
+SourceUrl: https://github.com/UrbanCMC/PlayniteExtensions
+IconUrl: https://github.com/UrbanCMC/PlayniteExtensions/raw/release/src/MetadataImageOptimizer/icon.png

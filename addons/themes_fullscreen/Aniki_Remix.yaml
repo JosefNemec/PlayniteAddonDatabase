@@ -1,0 +1,15 @@
+AddonId: 'Aniki_Remix_df9e4536-addb-46a6-9a2c-4550c7cff461'
+Type: ThemeFullscreen
+Name: 'Aniki-Remix'
+Author: 'Mike Aniki'
+ShortDescription: Upgrade your game experience with this theme.
+InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Remix/main/InstallerManifest.yaml
+SourceUrl: https://github.com/Mike-Aniki/Aniki-Remix
+Tags: ["Light", "theme", "Remix", "Console", "Aniki", "Cool"]
+Links:
+IconUrl: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Remix/main/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Remix/main/thumbnail01.jpg
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Remix/main/screenshot01.png
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Remix/main/thumbnail02.jpg
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Remix/main/screenshot02.png

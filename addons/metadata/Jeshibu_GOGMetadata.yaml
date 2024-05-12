@@ -1,0 +1,14 @@
+AddonId: GOGMetadata
+Type: MetadataProvider
+Name: GOG Metadata
+Author: Jeshibu
+ShortDescription: Imports game metadata from the GOG store website.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_GOG.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: Imports game metadata from the GOG store website. Gets localized metadata, vertical/horizontal covers, and Steam-like tags.
+Tags: []
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    GOG website: https://www.gog.com/
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/GOGMetadata/icon.png

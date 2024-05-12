@@ -1,0 +1,10 @@
+AddonId: Bangumi_fea02b9a-ab77-47e3-8fb1-6512c9261fbe
+Type: MetadataProvider
+Name: Bangumi Metadata Provider
+Author: Ivanlon
+ShortDescription: Provide metadata from bangumi.tv
+InstallerManifestUrl: https://raw.githubusercontent.com/Ivanlon30000/PlayniteBangumiMetadata/master/manifest.yaml
+SourceUrl: https://github.com/Ivanlon30000/PlayniteBangumiMetadata
+IconUrl: https://raw.githubusercontent.com/Ivanlon30000/PlayniteBangumiMetadata/master/icon.png
+Links:
+    Github: https://github.com/Ivanlon30000/PlayniteBangumiMetadata

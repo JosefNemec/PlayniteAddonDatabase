@@ -1,6 +1,6 @@
 ﻿AddonId: NewsViewer_15e03ffe-90f6-4e8e-bd4d-94514777481d
 Type: Generic
-Name: News Viewer
+Name: Steam News and Players Viewer
 Author: darklinkpower
 ShortDescription: Adds support to display news for Steam games in compatible themes.
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_NewsViewer.yaml

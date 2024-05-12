@@ -1,0 +1,21 @@
+AddonId: GameRelations_a4c15d63-9ab4-4d96-9a0c-8f9b35d43a1f
+Type: Generic
+Name: Game Relations
+Author: darklinkpower
+ShortDescription: This extension detects and displays other games in your library related to the game that is currently displayed using their metadata in supported themes. 
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_GameRelations.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: |-
+    This extension detects and displays other games in your library related to the game that is currently displayed using their metadata in supported themes, including:
+    - Similar games.
+    - Games from the same series, developer or publisher.
+Tags: ["Generic", "Similar", "Match", "Relations", "Related"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/labels/Game%20Relations
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/GameRelations/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/GameRelations/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/GameRelations/screenshot_01.webp

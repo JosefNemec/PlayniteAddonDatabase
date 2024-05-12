@@ -1,0 +1,21 @@
+AddonId: KNARZnite_68cee656-e677-42ab-a33e-9d9e6dfbefb9
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Theme-KNARZnite/main/manifests/Installer_Manifest.yaml
+ShortDescription: A simple, lightweight and elegant theme
+Description: Based on the default theme with bits from Harmony and DH_Dawn and some own ideas thrown in. Supports several extensions.
+Name: KNARZnite
+Author: HerrKnarz
+Tags: ["Theme", "lightweight", "elegant", "UI"]
+SourceUrl: https://github.com/HerrKnarz/Playnite-Theme-KNARZnite
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Theme-KNARZnite
+    Issues Tracker: https://github.com/HerrKnarz/Playnite-Theme-KNARZnite/issues
+    Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
+IconUrl: https://github.com/HerrKnarz/Playnite-Theme-KNARZnite/raw/main/source/Images/applogo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/HerrKnarz/Playnite-Theme-KNARZnite/main/screenshots/GridViewThumb.jpg
+      Image: https://raw.githubusercontent.com/HerrKnarz/Playnite-Theme-KNARZnite/main/screenshots/GridView.webp
+    - Thumbnail: https://raw.githubusercontent.com/HerrKnarz/Playnite-Theme-KNARZnite/main/screenshots/DetailViewThumb.jpg
+      Image: https://raw.githubusercontent.com/HerrKnarz/Playnite-Theme-KNARZnite/main/screenshots/DetailView.webp
+    - Thumbnail: https://raw.githubusercontent.com/HerrKnarz/Playnite-Theme-KNARZnite/main/screenshots/ListViewThumb.jpg
+      Image: https://raw.githubusercontent.com/HerrKnarz/Playnite-Theme-KNARZnite/main/screenshots/ListView.webp

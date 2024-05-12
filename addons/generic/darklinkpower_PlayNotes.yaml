@@ -1,0 +1,27 @@
+AddonId: PlayNotes_4208657d-4f78-42d2-968f-39f24de275e1
+Type: Generic
+Name: Play Notes
+Author: darklinkpower
+ShortDescription: This extension provides an UI element with extensive functionality to create and manage notes, including markdown and multiple notes support.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_PlayNotes.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: |-
+    This extension provides an UI element with extensive functionality to create and manage notes in supported themes, including:
+    - Markdown support to create rich and formatted notes
+    - Support to create multiple notes for the same game
+    - Edit and manage your notes right in the extension UI element
+    - Support to import guides from Steam as notes
+    - Support to import your existing notes in Playnite from the main menu
+Tags: ["Generic", "Note", "Markdown", "Guide"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Issues Tracker: 'https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3A"Play+Notes"'
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/PlayNotes/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/PlayNotes/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/PlayNotes/screenshot_01.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/PlayNotes/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/PlayNotes/screenshot_02.webp
