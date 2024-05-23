@@ -1,0 +1,14 @@
+AddonId: 'Playnite.Sounds.Mod.baf1744c-72f6-4bc1-92cc-474403b279fb'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/PlayniteSound/main/PlayniteSounds.yaml
+ShortDescription: 'Modification of original PlayniteSound - an Extension for Playnite to play audio files on certain events and/or play background music per game or platform'
+Name: 'Playnite Sounds Mod'
+Author: 'Artem Shpynov'
+Tags: ['Sound', 'Music', 'Events']
+SourceUrl: https://github.com/ashpynov/PlayniteSound
+IconUrl: https://raw.githubusercontent.com/ashpynov/PlayniteSound/main/icon.png
+Description: 'Modification of original PlayniteSound - an Extension for Playnite to play audio files on certain events like gameselected, libraryupdated, applicationstarted, ... and play background music per game, platform or a single file for all games. It can do this in both fullscreen as desktop mode. Modification is allow to Pause background music during video playback. Please be aware Playnite since version 9 supports audio files out of the box now...'
+Links:
+    Github: https://github.com/ashpynov/PlayniteSound
+    Forum Post: https://www.playnite.link/forum/thread-432.html
+    Translate: https://crowdin.com/project/playnite-game-speak
