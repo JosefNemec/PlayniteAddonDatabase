@@ -1,0 +1,18 @@
+AddonId: SteamScreenshots_8e77fe31-5e62-41e2-8fa2-64844cfd5b6b
+Type: Generic
+Name: Steam Screenshots
+Author: darklinkpower
+ShortDescription: Displays screenshots from the Steam store in Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamScreenshots.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Displays screenshots from the Steam store in Playnite. It is required to use a custom theme that supports the extension.
+Tags: ["Generic", "Steam", "Screenshot", "Image"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/labels/Steam%20Screenshots
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SteamScreenshots/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SteamScreenshots/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SteamScreenshots/screenshot_01.webp
