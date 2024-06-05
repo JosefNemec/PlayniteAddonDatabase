@@ -1,0 +1,26 @@
+AddonId: 'BackToGame_c05dfa72-e302-44cf-9612-af1f7caa07f7'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/BackToGame/main/BackToGame.yaml
+ShortDescription: 'Extension for Playnite to activate back minimized game'
+Name: 'Back To Game'
+Author: 'Artem Shpynov'
+Tags: ["Generic"]
+SourceUrl: https://github.com/ashpynov/BackToGame
+IconUrl: https://raw.githubusercontent.com/ashpynov/BackToGame/main/icon.png
+Description: |-
+    About:
+    This is Extension to switch focus back to minimized games.
+
+    Extension check before playnite starts them game that it already executed and restore already running game windows.
+
+    It should be great companion to "Guide button focuses Playnite" option in fullsscreen mode: just select already running game and press 'X' on your gamepad to reactivate it.
+
+    It also allow for theme developers to implement button to return back to game. For example on Game Status screen: it may help if during execution game is not maximize itself.
+
+    It can do this in both fullscreen as desktop mode.
+
+Links:
+    Github: https://github.com/ashpynov/PlayniteSound
+    Issues: https://github.com/ashpynov/PlayniteSound/issues
+    Support: https://discord.com/channels/365863063296933888/808419165311467630
+
