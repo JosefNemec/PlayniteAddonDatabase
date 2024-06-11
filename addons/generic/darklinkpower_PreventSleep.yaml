@@ -1,0 +1,18 @@
+AddonId: PreventSleep_d1ccef15-c9aa-4df4-9041-14a2abcb2f13
+Type: Generic
+Name: Prevent Sleep
+Author: darklinkpower
+ShortDescription: Helps prevent the system and screen from sleeping.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_PreventSleep.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: |-
+  The Prevent Sleep extension ensures that your system and screen stay awake while using Playnite and playing games. It is intended to help in cases of problematic games that do this when there is no interaction with keyboard/mouse or controller for a set amount of time.
+  It is possible to toggle this behavior manually by clicking the extension item in the top panel on Desktop Mode.
+  Additionally, this feature can be configured to automatically apply when playing games globally for all games in the extension settings or set it up for individual games through the right-click menu.
+Tags: ["Generic", "Sleep", "Screen", "Suspend"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/labels/Prevent%20Sleep
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/PreventSleep/icon.png
