@@ -1,0 +1,23 @@
+AddonId: 'PS5reborn_saVantCZ'
+Type: ThemeFullscreen
+Name: 'PS5reborn - 2024'
+Author: 'saVantCZ'
+ShortDescription: Playnite Theme inspired by updated PS5 interface!
+InstallerManifestUrl: https://raw.githubusercontent.com/saVantCZ/PS5reborn/main/Manifest/InstallerManifest.yaml
+SourceUrl: https://github.com/saVantCZ/PS5reborn
+Description: Theme aims for nearly 100% look-alike copy of updated PS5 interface, support for SuccessStory, Steam Screenshots, HowLongToBeat and more!
+Tags: ["ps5", "playstation", "2024", "new", "heavy", "experimental"]
+Links:
+    GitHub: https://github.com/saVantCZ/PS5reborn
+    Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
+    Buy me a coffee (Tips and Donations): https://buymeacoffee.com/mtbivzu
+IconUrl: https://raw.githubusercontent.com/saVantCZ/PS5reborn/main/AddonImages/Logo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/saVantCZ/PS5reborn/main/AddonImages/MainThumb.png
+      Image: https://raw.githubusercontent.com/saVantCZ/PS5reborn/main/AddonImages/Main.png
+    - Thumbnail: https://raw.githubusercontent.com/saVantCZ/PS5reborn/main/AddonImages/Row1Thumb.png
+      Image: https://raw.githubusercontent.com/saVantCZ/PS5reborn/main/AddonImages/Row1.png
+    - Thumbnail: https://raw.githubusercontent.com/saVantCZ/PS5reborn/main/AddonImages/Row2Thumb.png
+      Image: https://raw.githubusercontent.com/saVantCZ/PS5reborn/main/AddonImages/Row2.png
+    - Thumbnail: https://raw.githubusercontent.com/saVantCZ/PS5reborn/main/AddonImages/GridThumb.png
+      Image: https://raw.githubusercontent.com/saVantCZ/PS5reborn/main/AddonImages/Grid.png
