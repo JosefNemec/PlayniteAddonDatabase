@@ -5,6 +5,7 @@ InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensio
 ShortDescription: Imports games from the Big Fish Games client and optionally website.
 Name: Big Fish Games library integration
 Author: Jeshibu
+Tags: ["Jeshibu", "Hidden Object", "Casual"]
 Links:
     Big Fish Games: https://www.bigfishgames.com/
     GitHub: https://github.com/Jeshibu/PlayniteExtensions

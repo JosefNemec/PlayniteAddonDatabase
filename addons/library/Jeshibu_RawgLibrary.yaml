@@ -6,7 +6,7 @@ ShortDescription: Imports games from RAWG.io user library and/or collections.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_Rawg.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Imports games from RAWG.io user library and/or collections. Requires you to make an account and get an API key.
-Tags: ["RAWG.io", "Library"]
+Tags: ["Jeshibu", "RAWG.io", "Library"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     RAWG: https://rawg.io

@@ -6,7 +6,7 @@ ShortDescription: Imports game metadata from the GOG store website.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_GOG.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Imports game metadata from the GOG store website. Gets localized metadata, vertical/horizontal covers, and Steam-like tags.
-Tags: []
+Tags: ["Jeshibu", "Good Old Games"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     GOG website: https://www.gog.com/

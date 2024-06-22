@@ -5,6 +5,7 @@ InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensio
 ShortDescription: Imports games from Groupees.
 Name: Groupees library integration
 Author: Jeshibu
+Tags: ["Jeshibu", "Historical"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Groupees: https://groupees.com

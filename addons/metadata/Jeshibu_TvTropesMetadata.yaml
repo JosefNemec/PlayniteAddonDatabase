@@ -1,0 +1,14 @@
+AddonId: TvTropesMetadata
+Type: MetadataProvider
+Name: TV Tropes Metadata
+Author: Jeshibu
+ShortDescription: Import tropes as tags per game, or per trope for all your games.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_TvTropes.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: Import tropes as tags per game, or per trope for all your games.
+Tags: ["Jeshibu", "Metadata", "Mass Tagging"]
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    TV Tropes: https://tvtropes.org/
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/TvTropesMetadata/icon.png

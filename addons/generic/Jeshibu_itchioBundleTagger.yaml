@@ -8,7 +8,7 @@ SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: |
     This extension will assign tags to itch.io games to indicate which bundle(s) they have been part of.
     Data source credit: https://randombundlegame.com/
-Tags: ["Generic", "itch.io", "Metadata"]
+Tags: ["Jeshibu", "itch.io"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Data source: https://randombundlegame.com/

@@ -4,7 +4,7 @@ Type: GameLibrary
 InstallerManifestUrl: https://github.com/Jeshibu/Playnite-OculusLibrary/raw/master/OculusLibraryInstaller.yaml
 ShortDescription: 'Loads Playnite with all your Oculus Rift games'
 Description: 'Imports your Oculus PCVR games as well as your Quest and Oculus Go games. Supports launching games via Revive (SteamVR). Does not make Quest or Go games playable on PC. Based on work by Shawson and mr-ransel.'
-Tags: ['VR', 'Oculus', 'Meta', 'Revive', 'Quest']
+Tags: ['Jeshibu', 'VR', 'Oculus Rift', 'Meta Quest', 'Revive', 'Virtual Reality']
 Name: 'Oculus Library Plugin'
 Author: 'Jeshibu'
 Links:
