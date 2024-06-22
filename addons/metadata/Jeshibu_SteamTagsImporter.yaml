@@ -2,17 +2,15 @@ AddonId: Steam_Tags_Importer_01b67948-33a1-42d5-bd39-e4e8a226d215
 Type: MetadataProvider
 Name: Steam Tags Importer
 Author: Jeshibu
-ShortDescription: This extension will get user tags from the Steam Store for selected games.
+ShortDescription: Select a Steam feature or tag and apply it to all matching games!
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_SteamTagsImporter.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: |
-    NOW OBSOLETE! See the link for an explanation on why.
-    This extension will get user tags from the Steam Store for selected or newly added games.
+    Select a Steam feature or tag and apply it to all matching games!
+    Also get user tags from the Steam Store for selected or newly added games (but you can use the regular Steam metadata plugin for that too - only preserved here to not inconvenience users)
     Based on work by darklinkpower.
-Tags: ["Steam", "Metadata"]
+Tags: ["Jeshibu", "Steam", "Metadata", "Mass Tagging"]
 Links:
-    Reasons this is now obsolete: https://www.reddit.com/r/playnite/comments/yw1nx6/steam_tags_importer_is_now_obsolete/
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
-    Playnite Forums thread: https://playnite.link/forum/thread-1186.html
     Support my work on Ko-fi: https://ko-fi.com/Jeshibu
 IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/SteamTagsImporter/icon.png
