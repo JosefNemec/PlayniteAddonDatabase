@@ -6,7 +6,7 @@ InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensio
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Fetches estimated install size from Steam for uninstalled games, and can fix install sizes for PS3 ROMs.
 ShortDescription: Fetches estimated install size from Steam for uninstalled games, and can fix install sizes for PS3 ROMs.
-Tags: ["Install", "Size", "Calculator", "Disk", "Space", "RPCS3", "PS3"]
+Tags: ["Jeshibu", "Install Size Calculator", "Disk Space", "RPCS3", "PS3"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Contribute translations: https://crowdin.com/project/jeshibu-playniteextensions

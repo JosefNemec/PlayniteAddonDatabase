@@ -6,7 +6,7 @@ ShortDescription: Imports game metadata from the Big Fish Games store website.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_BigFish.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Imports game metadata from the Big Fish Games store website. Features selectable language, install size, description, 640x480 backgrounds, but no developers/publishers for some reason. Useful as a last resort for games that can't be found elsewhere.
-Tags: ["Hidden", "Object", "Casual"]
+Tags: ["Jeshibu", "Hidden Object", "Casual"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Big Fish Games' website: https://www.bigfishgames.com

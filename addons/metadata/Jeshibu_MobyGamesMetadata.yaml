@@ -6,7 +6,7 @@ ShortDescription: Imports game metadata from the MobyGames website.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_MobyGames.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Imports game metadata from the MobyGames game website. Notable for a wide array of genres, all configurable individually as to what field they're assigned to and optionally renamed.
-Tags: []
+Tags: ["Jeshibu", "Mass Tagging"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     MobyGames website: https://www.mobygames.com/

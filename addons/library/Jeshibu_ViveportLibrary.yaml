@@ -6,7 +6,7 @@ ShortDescription: Imports VR games from Viveport's desktop client.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_Viveport.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Imports VR games from Viveport's desktop client. No authentication needed, but the desktop client must know about games for them to import.
-Tags: ["Viveport", "Library", "VR"]
+Tags: ["Jeshibu", "Viveport", "Library", "VR", "Virtual Reality"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Viveport: https://www.viveport.com

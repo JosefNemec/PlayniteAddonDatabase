@@ -6,7 +6,7 @@ ShortDescription: Imports game metadata from the Xbox website.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_Xbox.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: "Imports game metadata from the Xbox game website. Includes importing things like accessibility features (optional), install size, and 16:9 backgrounds."
-Tags: ["Xbox", "Metadata"]
+Tags: ["Jeshibu", "Xbox", "Metadata"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Xbox website: https://www.xbox.com/

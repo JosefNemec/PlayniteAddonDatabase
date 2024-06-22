@@ -8,6 +8,7 @@ Description: |
   As a workaround for GamersGate's very restrictive CloudFlare scraping/DDOS/botting protection, the import process uses a visible browser window.
 Name: GamersGate
 Author: Jeshibu
+Tags: ["Jeshibu", "DRM free"]
 Links:
   GamersGate: https://www.gamersgate.com/
   Playnite Forums thread: https://playnite.link/forum/thread-1239.html

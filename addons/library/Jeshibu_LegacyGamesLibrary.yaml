@@ -5,6 +5,7 @@ InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensio
 ShortDescription: Imports games from Legacy Games library.
 Name: Legacy Games library integration
 Author: Jeshibu
+Tags: ["Jeshibu", "Hidden Object", "Casual"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Playnite Forums thread: https://playnite.link/forum/thread-1191.html

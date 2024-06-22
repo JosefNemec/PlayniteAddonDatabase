@@ -6,7 +6,7 @@ ShortDescription: Imports game metadata from the IGN game database.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_IGN.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Imports game metadata from the IGN game database. Provides square game covers.
-Tags: ["IGN", "Metadata"]
+Tags: ["Jeshibu", "IGN", "Metadata"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     IGN: https://www.ign.com

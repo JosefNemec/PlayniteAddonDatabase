@@ -6,7 +6,7 @@ ShortDescription: Moved your folders around? Replace the paths in Playnite with 
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_PathReplacer.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: This extension will find-and-replace the start of game/emulator/auto-scan configuration file paths. Its main use is for when you've moved folders around.
-Tags: ["Generic", "Path", "Directory"]
+Tags: ["Jeshibu", "Directory"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     Support my work on Ko-fi: https://ko-fi.com/Jeshibu

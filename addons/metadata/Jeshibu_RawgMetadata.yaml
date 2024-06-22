@@ -6,7 +6,7 @@ ShortDescription: Imports game metadata from RAWG.io game database.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_Rawg.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Imports game metadata from RAWG.io game database. Requires you to make an account and get an API key.
-Tags: ["RAWG.io", "Metadata", "Tagging"]
+Tags: ["Jeshibu", "RAWG.io", "Metadata", "Tagging"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     RAWG: https://rawg.io

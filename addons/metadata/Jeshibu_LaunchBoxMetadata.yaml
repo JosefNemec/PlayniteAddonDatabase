@@ -6,7 +6,7 @@ ShortDescription: Imports game metadata from the LaunchBox game database.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Metadata_LaunchBox.yaml
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: Imports game metadata from the LaunchBox game database. Requires you to download the zipped LaunchBox metadata first - instructions in the settings.
-Tags: ["LaunchBox", "Metadata"]
+Tags: ["Jeshibu", "LaunchBox", "Metadata"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
     LaunchBox Games Database: https://gamesdb.launchbox-app.com/
