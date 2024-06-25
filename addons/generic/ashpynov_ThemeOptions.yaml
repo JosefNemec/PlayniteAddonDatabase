@@ -1,0 +1,25 @@
+AddonId: 'ThemeOptions_904cbf3b-573f-48f8-9642-0a09d05c64ef'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/ThemeOptions/main/ThemeOptions.yaml
+ShortDescription: 'Extension for Playnite to configure options for fullscreen and desktop themes'
+Name: 'Theme Options'
+Author: 'Artem Shpynov'
+Tags: ["Generic"]
+SourceUrl: https://github.com/ashpynov/ThemeOptions
+IconUrl: https://raw.githubusercontent.com/ashpynov/ThemeOptions/main/icon.png
+Description: |-
+    About:
+    This is Extension to to give ability to Theme designers to provide a wide range options configurable by User. Additionaly it will add to Theme Localization support.
+
+    So theme may have:
+    * Presets - a set of theme styles to be enabled by user. This presets my be be complex and drasticaly modify them look'n'feel. User may choose one option for each preset.
+    * Settings or Variables - some flags or texts to be used by themes. This may be simple flag to enable/disable some theme features or on screen texts like user name.
+    * Localizations - Theme may provide a support of locales string. This will be automaticly loaded if playnite language differ from en_US (en_US locale had to be defined in native theme file to be full functional if theme options extension absent).
+
+    This Extension add theme configuration options menu in both - Desktop at usual extension configuration place, and in Fullscreen mode at Main menu -> Settings -> Theme Options.
+
+Links:
+    Github: https://github.com/ashpynov/ThemeOptions
+    Issues: https://github.com/ashpynov/ThemeOptions/issues
+    Support: https://discord.com/channels/365863063296933888/808419165311467630
+
