@@ -11,7 +11,10 @@ Description: |-
     
     What this plugin requires:
     * Steamapps folder location
-    
+
+    How to setup:
+    * Go to addon settings and enter the steamapps path 
+    Example: C:/Program Files (x86)/Steam/steamapps
 
 
 Tags: ["Generic", "Steam", "Epic", "Updates"]
