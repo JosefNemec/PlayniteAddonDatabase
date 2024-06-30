@@ -2,11 +2,14 @@ AddonId: 'Aniki_ReMake_bb8728bd-ac83-4324-88b1-ee5c586527d1'
 Type: ThemeFullscreen
 Name: 'Aniki-ReMake'
 Author: 'Mike Aniki'
-ShortDescription: A variant of Aniki Remix with an emphasis on animations and a revamped interface.
+ShortDescription: A fullscreen theme focused on animations, offering customizable interface options, inspired by the interchangeable themes of consoles
 InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/Aniki-ReMake/main/InstallerManifest.yaml
 SourceUrl: https://github.com/Mike-Aniki/Aniki-ReMake
-Tags: ["Light", "theme", "Remake", "Console", "Aniki", "Cool"]
+Tags: ["animations", "fullscreen", "Remake", "Console", "Aniki", "Cool"]
 Links:
+    GitHub: https://github.com/Mike-Aniki/Aniki-ReMake
+    Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
+    Buy me a coffee : https://ko-fi.com/mikeaniki
 IconUrl: https://raw.githubusercontent.com/Mike-Aniki/Aniki-ReMake/main/icon.png
 Screenshots:
     - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-ReMake/main/thumbnail01.png
