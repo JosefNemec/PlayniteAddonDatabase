@@ -1,0 +1,26 @@
+AddonId: LauncherMenus_626f6c31-eac9-421b-bd20-82381da4dde8
+Type: Generic
+Name: Launcher Menus
+Author: odeyity
+ShortDescription: Adds buttons to access Steam/Epic Menus.
+InstallerManifestUrl: https://raw.githubusercontent.com/odeyity/Playnite-LauncherMenus-Plugin/main/manifest.yaml
+SourceUrl: https://github.com/odeyity/Playnite-LauncherMenus-Plugin
+Description: |-
+    Info:
+    * A C# plugin that simply adds top panel buttons to access the Steam and Epic Games menus
+    
+    What this plugin requires:
+    * Login to Steam and/or Epic Games
+
+    How to setup:
+    * Click the top panel buttons and login if needed
+
+
+Tags: ["Generic", "Steam", "Epic", "Menu", "Web"]
+Links:
+    GitHub: https://github.com/odeyity/Playnite-LauncherMenus-Plugin
+
+IconUrl: https://raw.githubusercontent.com/odeyity/Playnite-LauncherMenus-Plugin/main/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/odeyity/Playnite-LauncherMenus-Plugin/main/screenshots/main_thumb.png
+      Image: https://raw.githubusercontent.com/odeyity/Playnite-LauncherMenus-Plugin/main/screenshots/main_full.png
