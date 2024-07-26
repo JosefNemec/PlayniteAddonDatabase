@@ -1,0 +1,9 @@
+AddonId: 64ca9178-daac-44e7-a80b-0a33efaa9e6e
+IconUrl: https://raw.githubusercontent.com/SecurityJosh/HumbleChoiceUnselectedGamesPlaynitePlugin/main/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/SecurityJosh/HumbleChoiceUnselectedGamesPlaynitePlugin/main/Install.yaml
+ShortDescription: Imports unselected games from Humble Choice
+Description: A library plug-in extension for Playnite which queries Humble Bundle for unselected games from Humble Choice purchases.
+Name: Humble Choice (Unselected Games)
+Author: SecurityJosh
+SourceUrl: https://github.com/SecurityJosh/HumbleChoiceUnselectedGamesPlaynitePlugin
