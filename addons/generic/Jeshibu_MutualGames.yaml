@@ -1,0 +1,19 @@
+AddonId: MutualGames
+Type: Generic
+Name: Mutual Games
+Author: Jeshibu
+ShortDescription: Mark games you and your friends have in common, either through online accounts or through library exports and imports.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_MutualGames.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: |
+    Mark games you and your friends have in common!
+    Import data via your Steam, GOG and/or EA account, grouping your friends' multiple accounts under a single name.
+    Alternatively, if your friend uses Playnite, have them export their Playnite database into a .mutualgames file that you can import to mark your own games, and vice versa.
+    Supports categories or tags as target fields, and values per friend (Owned by Jack), or per friend + library (Owned by Jack on Steam).
+
+    Steam, GOG, and EA friend data collection based on PlayerActivities by Lacro59.
+Tags: ["Jeshibu"]
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/MutualGames/icon.png
