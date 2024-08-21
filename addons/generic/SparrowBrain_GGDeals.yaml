@@ -8,12 +8,8 @@ SourceUrl: https://github.com/SparrowBrain/Playnite.GGDeals
 Description: |-
     Add games from your Playnite library to you GG.deals collection.
 
-    Can add specific games, and it will try to add any new game in the library. In case it cannot add some games, you can review the failures and manually add them.
-
-    Warnings:
-    * Requires GG.deals authentication.
-    * Extension will be clicking the website on your behalf to add games.
-    * Extension adds games by guessing game page urls based on the game name. It will not be 100% accurate.
+    Can add specific games, and it will try to add any new game in the library.
+    The extension uses API provided by GG.deals to match and add the games.
 Tags: ['GG.deals']
 Links:
      GitHub: https://github.com/SparrowBrain/Playnite.GGDeals
