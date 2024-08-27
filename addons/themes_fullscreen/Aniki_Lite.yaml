@@ -1,0 +1,31 @@
+AddonId: 'Aniki_Lite'
+Type: ThemeFullscreen
+Name: 'Aniki Lite'
+Author: 'Mike Aniki'
+ShortDescription: A clean full-screen theme inspired by the Nintendo Switch 
+InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/InstallerManifest.yaml
+SourceUrl: https://github.com/Mike-Aniki/Aniki-Lite
+Description: This theme features a minimalist, simple and clean interface. It uses game backgrounds as covers. To take full advantage of these customizable features, be sure to install the Theme Options add-on. It also supports BackgroundChanger and SuccessStory. For full instructions and a step-by-step procedure, go to github.
+Tags: ["Clean", "Fullscreen", "Lite", "Console", "Aniki"]
+Links:
+    GitHub: https://github.com/Mike-Aniki/Aniki-Lite
+    Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
+    Buy me a coffee : https://ko-fi.com/mikeaniki
+IconUrl: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/thumbnail01.png
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/screenshot01.png
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/thumbnail02.png
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/screenshot02.png
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/thumbnail03.png
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/screenshot03.png
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/thumbnail04.png
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/screenshot04.png
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/thumbnail05.png
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/screenshot05.png
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/thumbnail06.png
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/screenshot06.png
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/thumbnail07.png
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/screenshot07.png
+    - Thumbnail: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/thumbnail08.png
+      Image: https://raw.githubusercontent.com/Mike-Aniki/Aniki-Lite/main/Images/screenshot08.png
