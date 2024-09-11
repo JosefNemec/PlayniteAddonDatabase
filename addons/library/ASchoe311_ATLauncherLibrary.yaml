@@ -1,6 +1,6 @@
 AddonId: ATLauncherInstanceImporter_40e56f44-4955-40ec-9bf3-682c4007e55b
 Type: GameLibrary
-Name: ATLauncher Instance Importer
+Name: ATLauncher Instance Library
 Author: Adam Schoenfeld
 ShortDescription: Imports minecraft instances from ATLauncher as games
 InstallerManifestUrl: https://raw.githubusercontent.com/ASchoe311/ATLauncher-Integration/master/manifest.yaml
