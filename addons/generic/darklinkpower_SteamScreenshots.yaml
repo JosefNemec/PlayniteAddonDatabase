@@ -1,6 +1,6 @@
 AddonId: SteamScreenshots_8e77fe31-5e62-41e2-8fa2-64844cfd5b6b
 Type: Generic
-Name: Steam Screenshots
+Name: Steam Store Screenshots Viewer
 Author: darklinkpower
 ShortDescription: Displays screenshots from the Steam store in Playnite.
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamScreenshots.yaml
