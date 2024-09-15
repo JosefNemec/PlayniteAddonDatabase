@@ -1,0 +1,10 @@
+AddonId: DuplicateFinder_d85c1809-6ab7-40c2-9434-af74feeae2d3
+Type: Generic
+Name: DuplicateFinder
+Author: elramidreju
+ShortDescription: Find duplicate games in your library.
+InstallerManifestUrl: https://raw.githubusercontent.com/elramidreju/Playnite-DuplicateFinder/main/DuplicateFinder.yaml
+SourceUrl: https://github.com/elramidreju/Playnite-DuplicateFinder
+Description: DuplicateFinder offers a simple way to find duplicate games in your library, allowing to use a similarity-based search for potentially duplicate games with non-matching names.
+Tags: ['duplicate', 'repetition', 'hide', 'view']
+IconUrl: https://raw.githubusercontent.com/elramidreju/Playnite-DuplicateFinder/main/icon.png
