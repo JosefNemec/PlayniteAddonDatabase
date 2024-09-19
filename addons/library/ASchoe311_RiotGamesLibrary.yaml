@@ -3,7 +3,7 @@ Type: GameLibrary
 Name: Riot Games Library
 Author: Adam Schoenfeld
 ShortDescription: Manages Riot Games library in Playnite
-InstallerManifestUrl: https://raw.githubusercontent.com/ASchoe311/RiotGamesLibrary/v1.0/InstallerManifest.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/ASchoe311/RiotGamesLibrary/master/InstallerManifest.yaml
 SourceUrl: https://github.com/ASchoe311/RiotGamesLibrary
 Links:
   Riot Games: https://riotgames.com/
