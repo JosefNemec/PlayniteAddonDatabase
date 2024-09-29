@@ -4,7 +4,7 @@ Name: Automatic Drive Detection
 Author: Mark A. Dockery Jr.
 ShortDescription: Automatically detects drive letter based on specified volume label and replaces drive letters on game installation paths accordingly.
 Description: Automatically detects drive letter based on specified volume label and replaces drive letters on game installation paths accordingly.
-IconUrl: https://raw.githubusercontent.com/DocJr90/PlayniteAutomaticDriveDetection/refs/heads/main/AutomaticDriveDetection/Icon.png
+IconUrl: https://raw.githubusercontent.com/DocJr90/PlayniteAutomaticDriveDetection/refs/heads/main/PlayniteAutomaticDriveDetection/Icon.png
 InstallerManifestUrl: https://raw.githubusercontent.com/DocJr90/PlayniteAutomaticDriveDetection/refs/heads/main/InstallerManifest.yaml
 SourceUrl: https://github.com/DocJr90/PlayniteAutomaticDriveDetection/
 Tags: ["Generic", "Drive", "Letter", "Detect", "Volume", "Label"]
