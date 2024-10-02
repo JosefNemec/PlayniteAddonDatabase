@@ -1,9 +1,9 @@
 ﻿AddonId: LANCommander.PlaynitePlugin_48e1bac7-e0a0-45d7-ba83-36f5e9e959fc
-IconUrl: https://raw.githubusercontent.com/LANCommander/LANCommander/main/LANCommander.Playnite.Extension/icon.png
+IconUrl: https://raw.githubusercontent.com/LANCommander/LANCommander.PlaynitePlugin/main/LANCommander.Playnite.Extension/icon.png
 Type: GameLibrary
-InstallerManifestUrl: https://raw.githubusercontent.com/LANCommander/LANCommander/main/LANCommander.Playnite.Extension/installermanifest.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/LANCommander/LANCommander.PlaynitePlugin/main/LANCommander.Playnite.Extension/installermanifest.yaml
 ShortDescription: Imports games from a LANCommander game library.
-Description: This addon is meant to pair with a LANCommander installation. LANCommander is a digital video game distribution system designed for LAN parties.
+Description: "This addon is meant to pair with a LANCommander installation. LANCommander is a digital video game distribution system designed for LAN parties. NOTE: This addon is only compatible with LANCommander v0.9.1 and earlier and is no longer being updated."
 Name: LANCommander library integration
 Author: LANCommander
 Links:
