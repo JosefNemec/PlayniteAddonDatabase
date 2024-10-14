@@ -1,0 +1,31 @@
+AddonId: 'Player'
+Type: ThemeFullscreen
+Name: 'Player'
+Author: 'Flaming Pumpkin'
+ShortDescription: A simple full-screen theme 
+InstallerManifestUrl: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/InstallerManifest.yaml
+SourceUrl: https://github.com/TheFlamingPumpkinDevWork/Player
+Description: This theme features a simple and clean interface based on the Playnite default theme.
+Tags: ["Clean", "Fullscreen", "21/9"]
+Links:
+    GitHub: https://github.com/TheFlamingPumpkinDevWork/Player
+    Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
+    Buy me a coffee : https://Ko-fi.com/flamingpumpkin 
+IconUrl: 
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/thumb02.png
+      Image: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/screenshot02.png
+    - Thumbnail: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/thumb04.png
+      Image: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/screenshot04.png
+    - Thumbnail: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/thumb06.png
+      Image: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/screenshot06.png
+    - Thumbnail: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/thumb01.png
+      Image: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/screenshot01.png
+    - Thumbnail: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/thumb03.png
+      Image: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/screenshot03.png
+    - Thumbnail: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/thumb05.png
+      Image: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/screenshot05.png
+    - Thumbnail: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/thumb07.png
+      Image: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/screenshot07.png
+    - Thumbnail: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/thumb08.png
+      Image: https://raw.githubusercontent.com/TheFlamingPumpkinDevWork/Player/main/previews/screenshot08.png
