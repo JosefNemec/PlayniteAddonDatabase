@@ -1,0 +1,15 @@
+AddonId: LaunchMate_61d7fcec-322d-4eb6-b981-1c8f8122ddc8
+Type: Generic
+Name: LaunchMate
+Author: Adam Schoenfeld
+ShortDescription: Plugin to launch any application alongside your games using simple conditional statements
+InstallerManifestUrl: https://raw.githubusercontent.com/ASchoe311/LaunchMate/master/InstallerManifest.yaml
+SourceUrl: https://github.com/ASchoe311/LaunchMate
+Description: |
+    Have you ever wanted to attach secondary applications to your games that launch and close with them? This is the way to do it!
+
+    Say goodbye to manually adding launch actions or scripts for each game, because LaunchMate allows you to select an application to launch and then set conditions that will make it launch with any game that meets them. It's that simple!
+
+    You can have it match games by many different attributes like title, developers, genres, categories, and more. LaunchMate also supports delaying the launch of applications if you need to ensure the game is launched first.
+IconUrl: https://raw.githubusercontent.com/ASchoe311/LaunchMate/master/icon.png
+Tags: ['Generic', 'applications', 'launch']
