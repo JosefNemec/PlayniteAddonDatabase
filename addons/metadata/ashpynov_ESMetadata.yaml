@@ -1,0 +1,24 @@
+AddonId: 'ESMetadata_71f952a8-4763-41e3-9934-7fe02a1e33d4'
+Type: MetadataProvider
+Name: 'EmulationStation Metadata'
+Author: 'Artem Shpynov'
+ShortDescription: Extract information for your existed EmulationStation based game collections.
+InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/ESMetadata/main/ESMetadata.yaml
+SourceUrl: https://github.com/ashpynov/ESMetadata
+Description: |-
+    EmulationStation is a graphical and themeable emulator front-end. It is well-known in retrogaming, and many retrogame emulators setup based on it, e.g. Retrobat, Batocera, RecallBox, RetroPie.
+
+    So if you are in Retrogaming word - most probably you already have your ROM collection, with your favourite covers and gameplay video. May be you spend many time to collect and polish it.
+
+    This Metadata source is aimed to help you to import your collection to Playnite.
+
+    The source is also supports importing of various media for ExtraMetadata extension too, but not only. Magazines, Manuals, Maps - may be copied to Playnile library and accessed via links.
+
+Tags: ['Generic', 'Metadata', 'Retro', 'EmulationStation', 'Retrobat', 'Batocera', 'Recallbox']
+IconUrl: https://raw.githubusercontent.com/ashpynov/ESMetadata/main/icon.png
+Links:
+    Github: https://github.com/ashpynov/ESMetadata
+    Issues: https://github.com/ashpynov/ESMetadata/issues
+    Support: https://discord.com/channels/365863063296933888/808419165311467630
+
+
