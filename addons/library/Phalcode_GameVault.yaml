@@ -2,8 +2,8 @@ AddonId: GameVault_fab8be77-18ab-4e6c-ad3d-89097b492d74
 Type: GameLibrary
 Name: GameVault Library Integration
 Author: Phalcode
-ShortDescription: Import your GameVault Library into Playnite. 
-InstallerManifestUrl: https://raw.githubusercontent.com/Phalcode/gamevault-playnite-integration/refs/heads/master/manifests/GameVault_Library.yaml
+ShortDescription: Import your GameVault library into Playnite. 
+InstallerManifestUrl: https://raw.githubusercontent.com/Phalcode/gamevault-playnite-integration/refs/heads/master/manifests/installer.yaml
 SourceUrl: https://github.com/Phalcode/gamevault-playnite-integration
 Description: |
     This plugin allows you to import your GameVault library into Playnite. 
