@@ -1,0 +1,16 @@
+AddonId: GameVault_fab8be77-18ab-4e6c-ad3d-89097b492d74
+Type: GameLibrary
+Name: GameVault Library Integration
+Author: Phalcode
+ShortDescription: Import your GameVault library into Playnite. 
+InstallerManifestUrl: https://raw.githubusercontent.com/Phalcode/gamevault-playnite-integration/refs/heads/master/manifests/installer.yaml
+SourceUrl: https://github.com/Phalcode/gamevault-playnite-integration
+Description: |
+    This plugin allows you to import your GameVault library into Playnite. 
+    It requires the GameVault Client APIs to work, which are exclusive to GameVault+.
+    It supports Importing, Downloading, Installing aswell as Uninstaling games using Playnite.
+Tags: ['gamevault']
+IconUrl: https://github.com/Phalcode/gamevault-playnite-integration/raw/master/source/Libraries/GameVaultLibrary/icon.png
+Links:
+    Website: https://github.com/Phalcode/gamevault-playnite-integration
+    Discord: https://discord.gg/NEdNen2dSu
