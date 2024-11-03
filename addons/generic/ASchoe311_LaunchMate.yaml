@@ -2,14 +2,13 @@ AddonId: LaunchMate_61d7fcec-322d-4eb6-b981-1c8f8122ddc8
 Type: Generic
 Name: LaunchMate
 Author: Adam Schoenfeld
-ShortDescription: Plugin to launch any application alongside your games using simple conditional statements
+ShortDescription: Automate your gaming environment through simple conditional actions
 InstallerManifestUrl: https://raw.githubusercontent.com/ASchoe311/LaunchMate/master/InstallerManifest.yaml
 SourceUrl: https://github.com/ASchoe311/LaunchMate
 Description: |
-    Have you ever wanted to have apps or websites open and close automatically alongside your games? This is the way to do it!
+    Tired of manually setting up launch actions for your games? Meet LaunchMate — the game-changing plugin for Playnite that automates the entire process!
 
-    Say goodbye to manually adding launch actions or scripts for each game, because LaunchMate allows you to select an application or website to launch and then set conditions that will make it launch with any game that meets them. It's that simple!
-
-    You can have it check games for many different aspects like title, developers, genres, categories, and more. LaunchMate also supports delaying the launch of applications if you need to ensure the game is launched first.
+    With LaunchMate, you can effortlessly manage your gaming environment. Whether it's launching applications, opening web pages, running scripts, stopping processes, or even starting or stopping Windows services — LaunchMate handles it all! 
+    Set precise conditions for when these actions should occur, based on various aspects of your game metadata, and let LaunchMate do the heavy lifting.
 IconUrl: https://raw.githubusercontent.com/ASchoe311/LaunchMate/master/icon.png
-Tags: ['Generic', 'applications', 'launch']
+Tags: ['Generic', 'applications', 'launch', 'script', 'automation', 'website', 'service']
