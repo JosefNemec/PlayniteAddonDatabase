@@ -1,0 +1,20 @@
+AddonId: "NileLibrary"
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/hawkeye116477/playnite-nile-plugin/main/installer.yaml
+ShortDescription: "Amazon Games library integration with Nile Launcher"
+Description: |-
+  It allows to:
+  * launch games (with or without using Nile),
+  * install, uninstall, repair and update games,
+  * migrate game entries from Amazon Games plugin.
+
+  Please read instructions mentioned at wiki and be careful, cuz you can meet a crocodile there.
+Name: "Nile (Amazon) library integration"
+Author: "hawkeye116477"
+Tags: ["amazon", "heroic"]
+SourceUrl: https://github.com/hawkeye116477/playnite-nile-plugin/
+Links:
+  Help: https://github.com/hawkeye116477/playnite-nile-plugin/wiki
+  Forum: https://github.com/hawkeye116477/playnite-nile-plugin/discussions
+  Translate: https://crowdin.com/project/playnite-legendary-plugin
+IconUrl: https://raw.githubusercontent.com/hawkeye116477/playnite-nile-plugin/main/src/Resources/icon.png
