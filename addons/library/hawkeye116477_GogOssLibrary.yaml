@@ -5,9 +5,9 @@ ShortDescription: "GOG library integration with open-source tools"
 Description: |-
   It allows to:
   * launch games (Comet required for leaderboards, multiplayer and achievements),
-  * install, uninstall, repair and update games and DLCs (heroic-gogdl required)
-  * migrate game entries from Gog plugin,
-  * automatically synchronize game saves with cloud before and after every session (optional).
+  * install, uninstall, repair and update games and DLCs (heroic-gogdl required),
+  * migrate game entries from GOG plugin,
+  * automatically synchronize game saves with cloud before and after every session (optional),
   * automatically synchronize playtime with cloud (optional).
 
   Please read instructions at wiki to make sure that everything is installed correctly.
