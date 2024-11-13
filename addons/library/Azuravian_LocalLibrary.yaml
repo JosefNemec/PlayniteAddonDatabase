@@ -6,5 +6,5 @@ ShortDescription: Library Plugin for Playnite to manage games stored locally.
 Name: Local Library
 Author: Azuravian
 Links:
-	Website: https://github.com/azuravian/playnite-LocalLibrary
+    Website: https://github.com/azuravian/playnite-LocalLibrary
 SourceUrl: https://github.com/azuravian/playnite-LocalLibrary
