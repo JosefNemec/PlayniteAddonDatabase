@@ -1,0 +1,10 @@
+AddonId: LocalLibrary_2d01017d-024e-444d-80d3-f62f5be3fca5
+IconUrl: https://raw.githubusercontent.com/azuravian/playnite-LocalLibrary/refs/heads/master/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/azuravian/playnite-LocalLibrary/refs/heads/master/manifests/LocalLibraryManifest.yaml
+ShortDescription: Library Plugin for Playnite to manage games stored locally.
+Name: Local Library
+Author: Azuravian
+Links:
+    Website: https://github.com/azuravian/playnite-LocalLibrary
+SourceUrl: https://github.com/azuravian/playnite-LocalLibrary
