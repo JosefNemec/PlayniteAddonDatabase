@@ -11,10 +11,9 @@ Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
     Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Special-K-Helper
     Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3ASpecialKHelper
-    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
     Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
     Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
-IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SpecialKHelper/icon.png
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SpecialKHelper/Core/Resources/icon.png
 Screenshots:
     - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/thumb_01.jpg
       Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SpecialKHelper/screenshot_01.jpg
