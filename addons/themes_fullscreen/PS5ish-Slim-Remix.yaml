@@ -1,21 +1,14 @@
-AddonId: ps5slimwithmain_a22222e0-9cf2-4115-954d-9ec241a5e307
+AddonId: 'ps5slimwithmain_a22222e0-9cf2-4115-954d-9ec241a5e307'
 Type: ThemeFullscreen
 Name: 'PS5ish Slim Remix'
 Author: 'DrWolfieStein'
-ShortDescription: 'PS5ish Slim is a Theme for Playnite that emulates the PS5 UI but toned down to be faster. Just a single row of games. Now includes Success Story UI on Main view without having to enter game details.'
-InstallerManifestUrl: https://github.com/DrWolfieStein/PS5ishSlim-Remix/blob/main/Manifests/Installer_Manifest.yaml
+ShortDescription: PS5ish Slim is a Theme for Playnite that emulates the PS5 UI but toned down to be faster. Just a single row of games. Now includes Success Story UI on Main view without having to enter game details. 
+InstallerManifestUrl:  https://github.com/DrWolfieStein/PS5ishSlim-Remix/raw/f98f87190931aea8a1e507bdc9560b52ce473949/Manifests/Installer_Manifest.yaml
 SourceUrl: https://github.com/DrWolfieStein/PS5ishSlim-Remix
 Tags: ["Theme", "Modern", "DKG", "UI", "PS5", "PS5ish", "Console"]
 Links:
     GitHub: https://github.com/DrWolfieStein/PS5ishSlim-Remix
-IconUrl: https://github.com/DrWolfieStein/PS5ishSlim-Remix/blob/main/Media/applogo.png
+IconUrl: https://github.com/DrWolfieStein/PS5ishSlim-Remix/raw/main/Media/applogo.png
 Screenshots:
-    - Thumbnail: https://github.com/DrWolfieStein/PS5ishSlim-Remix/blob/main/Media/Thumbnew.png
-      Image: https://github.com/DrWolfieStein/PS5ishSlim-Remix/blob/main/Media/image.png
-Packages:
-  - Version: 1.0.0
-    RequiredApiVersion: 2.4.0
-    ReleaseDate: 2024-11-29
-    PackageUrl: https://github.com/DrWolfieStein/PS5ishSlim-Remix/releases/download/Release/PS5ish_Slim_Remix.pthm
-    Changelog:
-      - Initial Release
+    - Thumbnail: https://github.com/DrWolfieStein/PS5ishSlim-Remix/raw/main/Media/Thumbnew.png
+      Image: https://github.com/DrWolfieStein/PS5ishSlim-Remix/raw/main/Media/image.png
