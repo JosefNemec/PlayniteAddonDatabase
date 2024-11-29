@@ -7,13 +7,14 @@ InstallerManifestUrl: https://raw.githubusercontent.com/roob-p/AutoCategories-Pl
 SourceUrl: https://github.com/roob-p/AutoCategories-PlayniteExtension
 Description: |
     This extension will automatically add, create and apply "platform/source" categories to your games, making it easy to organize your library especially after importing new games.
-    *You can specify short game's platform names for the categories (for example Nintendo Entertainment System -> Nintendo NES, Sony Playstation 2 -> Sony PS2, etc).
-    *You can also add sources like Ea App, Ubisoft Connect and add short names (like Origin, Uplay) or whatever you want.
-    *Edit Platforms.txt and Source.txt as you like without having to reload the extension.
+    
+    * You can specify short game's platform names for the categories (for example Nintendo Entertainment System -> Nintendo NES, Sony Playstation 2 -> Sony PS2, etc).
+    * You can also add sources like Ea App, Ubisoft Connect and add short names (like Origin, Uplay) or whatever you want.
+    * Edit Platforms.txt and Source.txt as you like without having to reload the extension.
 Tags: ["Generic", "Categories", "Organize", "Platforms", "Source", "Shortnames", "Custom names"]
 Links: 
      Github: https://github.com/roob-p/AutoCategories-PlayniteExtension/
-     Donate (Ko-fi): https://ko-fi/roobp
+     Donate (Ko-fi): https://ko-fi.com/roobp
 IconUrl: https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/main/icon.jpg
 
 
