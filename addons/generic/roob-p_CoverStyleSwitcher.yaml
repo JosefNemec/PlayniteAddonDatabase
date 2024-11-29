@@ -5,7 +5,7 @@ Author: roob-p
 ShortDescription: Switch game covers and choose your preferred styles, saving and loading multiple game's cover in different slots. Useful for backup too.
 InstallerManifestUrl: https://raw.githubusercontent.com/roob-p/CoverStyleSwitcher-PlayniteExtension/main/manifest.yaml
 SourceUrl: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension
-Description: |
+Description: |-
   Switch game covers and choose your preferred styles, saving and loading multiple game's cover in different slots.
   If you want to try different cover styles, this extension is for you! Also useful for backing up and organizing your covers.
 Tags:
@@ -19,7 +19,7 @@ Tags:
   - Change
 Links:
   Github: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/
-  Donate (Ko-fi): https://ko-fi/roobp
+  Donate (Ko-fi): https://ko-fi.com/roobp
 IconUrl: https://raw.githubusercontent.com/roob-p/CoverStyleSwitcher-PlayniteExtension/main/icon1.png
 Screenshots:
   - Thumbnail: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/thumbs/screen1.jpg
