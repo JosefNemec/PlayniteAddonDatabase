@@ -1,0 +1,27 @@
+AddonId: GOGSecondClassGameWatcher_2661ddac-946a-4fee-ba80-3ece762cb64b
+Type: Generic
+Name: GOG Second Class Game Watcher
+Author: darklinkpower
+ShortDescription: Detects games with missing features or issues on GOG, and adds tagging and display options in Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_GOGSecondClassGameWatcher.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: |-
+    This extension detects when a game on GOG is missing features or has issues compared to other platforms. The data is gathered from community-maintained lists and includes the following functionality:
+    - Display detailed issue information for affected games on supported custom themes.
+    - Automatically tag games with detected issues.
+    - Configure issue types to be tracked via settings.
+    - Automatic background updates to ensure the data remains current.
+Tags: ["Generic", "GOG"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/labels/GOG%20Second%20Class%20Game%20Watcher
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+    Games that treat GOG customers as 2nd Class v2: https://docs.google.com/spreadsheets/d/1zjwUN1mtJdCkgtTDRB2IoFp7PP41fraY-oFNY00fEkI/edit?gid=0#gid=0
+    Missing and Broken Galaxy Achievements: https://docs.google.com/spreadsheets/d/1pDO6WTHLHyrrtidQ1MAxW6u8j3BxUaGcFaJsVyWj2QY/edit?gid=0#gid=0
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/GOGSecondClassGameWatcher/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/GOGSecondClassGameWatcher/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/GOGSecondClassGameWatcher/screenshot_01.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/GOGSecondClassGameWatcher/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/GOGSecondClassGameWatcher/screenshot_02.webp
