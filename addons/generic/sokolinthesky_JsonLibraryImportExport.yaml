@@ -1,0 +1,17 @@
+AddonId: JsonLibraryImportExport_888ab97e-ea1b-40e5-a2da-ef917aee0603
+Type: Generic
+Name: Json Library Import Export
+Author: sokolinthesky
+ShortDescription: Imports/exports your library in JSON format.
+InstallerManifestUrl: https://raw.githubusercontent.com/sokolinthesky/JsonLibraryImportExport/refs/heads/master/manifest.yaml
+SourceUrl: https://github.com/sokolinthesky/JsonLibraryImportExport
+Description: Playnite plugin for importing/exporting your library in JSON format.
+Tags: ["Generic", "Export", "Import", "Json"]
+Links:
+    GitHub: https://github.com/sokolinthesky/JsonLibraryImportExport
+IconUrl: https://raw.githubusercontent.com/sokolinthesky/JsonLibraryImportExport/master/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/sokolinthesky/JsonLibraryImportExport/master/screenshots/export_t.jpg
+      Image: https://raw.githubusercontent.com/sokolinthesky/JsonLibraryImportExport/master/screenshots/export.png
+    - Thumbnail: https://raw.githubusercontent.com/sokolinthesky/JsonLibraryImportExport/master/screenshots/import_t.jpg
+      Image: https://raw.githubusercontent.com/sokolinthesky/JsonLibraryImportExport/master/screenshots/import.png
