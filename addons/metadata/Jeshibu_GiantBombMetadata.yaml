@@ -7,7 +7,7 @@ InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensio
 SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
 Description: |
     Imports game metadata from Giant Bomb's wiki game database. Requires you to make an account and get an API key.
-    Also allows you to import tags/genres/categories to multiple games from a single concept/character/person/object (not from themes or locations just yet).
+    Also allows you to import tags/genres/categories to multiple games from a single concept/character/person/object/location.
 Tags: ["Jeshibu", "Giant Bomb", "Metadata", "Mass Tagging"]
 Links:
     GitHub: https://github.com/Jeshibu/PlayniteExtensions
