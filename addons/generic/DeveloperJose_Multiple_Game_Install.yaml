@@ -1,0 +1,20 @@
+AddonId: Multiple_Game_Install_51a2784a-3dec-442c-841f-ad2cfab92363
+Type: Generic
+Name: Multiple Game Install
+Author: DeveloperJose
+ShortDescription: This extension allows you to install multiple games at once.
+InstallerManifestUrl: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/manifest.yaml
+SourceUrl: https://github.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/tree/main/src
+Description: |
+  "This extension allows you to install multiple games at once so you don't have to go around installing each one manually.
+  Just select some games, right-click, and select "Install Games". They will be installed one after the other automatically."
+Tags: ["Generic", "Install"]
+Links:
+  GitHub: https://github.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin
+  Issues: https://github.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/issues
+IconUrl: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/src/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/multi-install-right-click.png
+    Image:     https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/multi-install-right-click.png
+  - Thumbnail: https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/multi-install-start.png
+    Image:     https://raw.githubusercontent.com/DeveloperJose/CSharp-Playnite-Multiple-Game-Install-Plugin/main/multi-install-start.png
