@@ -1,0 +1,11 @@
+AddonId: HikariFieldClientImporter_a8050aa6-0fb3-4b28-8bac-491d644e81c7
+IconUrl: https://github.com/silevilence/HikariFieldClientImporter/raw/master/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://github.com/silevilence/HikariFieldClientImporter/raw/master/installer.yaml
+ShortDescription: Imports Hikari Field Client Installed Games.
+Name: Hikari Field Client Importer
+Author: Silevilence
+Links:
+    Website: https://github.com/silevilence/HikariFieldClientImporter
+    Support: https://github.com/silevilence/HikariFieldClientImporter/issues
+SourceUrl: https://github.com/silevilence/HikariFieldClientImporter
