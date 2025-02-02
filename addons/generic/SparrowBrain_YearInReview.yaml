@@ -1,0 +1,27 @@
+AddonId: SparrowBrain_YearInReview
+Type: Generic
+Name: Year In Review
+Author: SparrowBrain
+ShortDescription: Generates playtime reports for previous years (similar to Steam's Year In Review or Spotify's Wrapped).
+InstallerManifestUrl: https://raw.githubusercontent.com/SparrowBrain/Playnite.YearInReview/main/ci/installer_manifest.yaml
+SourceUrl: https://github.com/SparrowBrain/Playnite.YearInReview
+Description: |-
+    Year In Review generates playtime statistics reports for previous years. It is intended to be similar to Steam's Year In Review or Spotify's Wrapped.
+    
+    For it to work you will have to have the GameActivity addon installed and to have played with it in the previous years.
+    
+    The addon also comes with an ability to share your reports with your Playnite friends.
+    
+    Prerequisites:
+    * GameActivity
+    
+    Warnings:
+    * The addon browses the ExtensionData folder for integration with GameActivity.
+Tags: ['Report', 'Wrapped', 'Statistics']
+Links:
+    GitHub: https://github.com/SparrowBrain/Playnite.YearInReview
+    Translate: https://crowdin.com/project/sparrowbrain-playnite-year-in-review
+Screenshots:
+    - Thumbnail: https://github.com/SparrowBrain/Playnite.YearInReview/raw/main/ci/screenshots/01_thumb.png
+      Image: https://github.com/SparrowBrain/Playnite.YearInReview/raw/main/ci/screenshots/01.png
+IconUrl: https://github.com/SparrowBrain/Playnite.YearInReview/raw/main/YearInReview/icon.png
