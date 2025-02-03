@@ -1,0 +1,19 @@
+AddonId: HeliumWithTabs-8b15c46a-90c2-4fe5-9ebb-1ab25ba7fcb2  
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/tetj/HeliumWithTabs/raw/master/manifests/Installer_Manifest.yaml
+ShortDescription: Theme inspired by ThemeHelium for Playnite Desktop Mode.
+Description: Theme inspired by ThemeHelium for Playnite Desktop Mode. Has support for community extensions like SuccessStory, HowLongToBeat, GameActivity, DuplicateHider, etc.
+Name: HeliumWithTabs
+Author: JP
+Tags: ["Theme", "Steam", "UI"]
+SourceUrl: https://github.com/tetj/HeliumWithTabs
+Links:
+    GitHub: https://github.com/tetj/HeliumWithTabs
+    Issues Tracker: https://github.com/tetj/HeliumWithTabs/issues
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://github.com/tetj/HeliumWithTabs/raw/master/source/Images/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/tetj/HeliumWithTabs/raw/master/screenshots/1mini.png
+      Image: https://github.com/tetj/HeliumWithTabs/raw/master/screenshots/1.png
+    - Thumbnail: https://github.com/tetj/HeliumWithTabs/raw/master/screenshots/2mini.png
+      Image: https://github.com/tetj/HeliumWithTabs/raw/master/screenshots/2.png
