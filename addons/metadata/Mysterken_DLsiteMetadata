@@ -1,0 +1,29 @@
+AddonId: DLsiteMetadata
+Type: MetadataProvider
+Name: DLsite Metadata
+Author: Mysterken
+InstallerManifestUrl: https://raw.githubusercontent.com/Mysterken/DLsiteMetadata/refs/heads/master/manifests/InstallerManifest.yaml
+SourceUrl: https://github.com/Mysterken/DLsiteMetadata
+IconUrl: https://raw.githubusercontent.com/Mysterken/DLsiteMetadata/master/source/Resources/DLsiteLogo.png
+ShortDescription: A plugin that fetches metadata from DLsite.
+Description: |-
+    This plugin fetches the metadata of a game from DLsite. It supports multiple languages and multiple game categories (e.g., Maniax, Soft).
+    It supports directly fetching a game by its work ID or by its link.
+
+    **Supported metadata fields:**
+    * Age Rating
+    * Background Image
+    * Community Score
+    * Cover Image
+    * Description
+    * Developers
+    * Genres
+    * Icon
+    * Links
+    * Name
+    * Publishers
+    * Release Date
+    * Series
+Tags: [Metadata, DLsite]
+Links:
+    GitHub: https://github.com/Mysterken/DLsiteMetadata
