@@ -1,0 +1,10 @@
+AddonId: OpenCriticMetadata
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/OpenCriticMetadata/icon.png
+Type: MetadataProvider
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/refs/heads/main/manifests/Metadata_OpenCritic.yaml
+ShortDescription: Imports game metadata from OpenCritic. Provides critic and user scores, but also covers (normal and square) and backgrounds.
+Name: OpenCritic metadata provider
+Author: Jeshibu
+Links:
+    PCGamingWiki: https://www.pcgamingwiki.com/wiki/Home
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
