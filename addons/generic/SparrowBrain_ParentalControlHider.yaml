@@ -1,0 +1,20 @@
+AddonId: ParentalControlHider_134725de-cfcb-4474-849b-5d9c52babb75
+Type: Generic
+Name: Parental Control Hider
+Author: SparrowBrain
+ShortDescription: Automatically hide games not appropriate for younger audiences.
+InstallerManifestUrl: https://raw.githubusercontent.com/SparrowBrain/Playnite.ParentalControlHider/refs/heads/main/ci/installer_manifest.yaml
+SourceUrl: https://github.com/SparrowBrain/Playnite.ParentalControlHider
+Description: |-
+    Easily hide and unhide games based on age ratings, tags and genres.
+    
+    The solution has no protection against changing configuration or unhiding games, so it will only work with younger kids by making things a bit out of the way.
+
+Tags: ['Parental Control']
+Links:
+    GitHub: https://github.com/SparrowBrain/Playnite.ParentalControlHider
+    Translate: https://crowdin.com/project/sparrowbrain-playnite-parental
+Screenshots:
+    - Thumbnail: https://github.com/SparrowBrain/Playnite.ParentalControlHider/raw/main/ci/screenshots/01_thumb.jpg
+      Image: https://github.com/SparrowBrain/Playnite.ParentalControlHider/raw/main/ci/screenshots/01.jpg
+IconUrl: https://github.com/SparrowBrain/Playnite.ParentalControlHider/raw/main/ParentalControlHider/icon.png

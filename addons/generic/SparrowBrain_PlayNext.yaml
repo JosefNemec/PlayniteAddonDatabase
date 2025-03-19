@@ -8,8 +8,8 @@ SourceUrl: https://github.com/SparrowBrain/Playnite.PlayNext
 Description: |-
     Play Next recommends games based both on your activity and game's critical reception. The recommendation algorithm is highly customizable.
 
-    Warnings:
-    * The addon browses the ExtensionData folder for integration with other addons.
+    Disclaimer:
+    * The addon reads the ExtensionData folder for integration with other addons. Nothing is sent over the internet - everything happens locally.
 
     Integrates with addons:
     * GameActivity
