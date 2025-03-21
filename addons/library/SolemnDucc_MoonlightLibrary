@@ -1,0 +1,16 @@
+AddonId: MoonlightAppImport_60ea0079-bf4b-417c-a1f3-d5470ec5e96b
+Type: GameLibrary
+Name: Moonlight App Import
+Author: SolemnDucc
+ShortDescription: Imports games from Moonlight (Sunshine / Apollo server)
+InstallerManifestUrl: https://raw.githubusercontent.com/SolemnDucc/MoonlightAppImport/refs/heads/master/MoonlightAppImport/extension.yaml
+SourceUrl: https://github.com/SolemnDucc/MoonlightAppImport
+Links:
+  Moonlight: https://moonlight-stream.org/
+  Sunshine: https://app.lizardbyte.dev/Sunshine/?lng=en
+  Apollo: https://github.com/ClassicOldSong/Apollo
+Description: |
+    A Playnite Plugin to import games from a Sunshine or Apollo server to Playnite and open them directly with Moonlight. 
+    With this plugin there is no need to open the Moonlight UI ever again, except for configuring the stream quality.
+Tags: ["game streaming", "moonlight", "sunshine", "apollo"]
+IconUrl: https://raw.githubusercontent.com/SolemnDucc/MoonlightAppImport/refs/heads/master/MoonlightAppImport/icon.png
