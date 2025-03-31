@@ -1,0 +1,60 @@
+AddonId: SkipUacTask
+Type: Generic
+Name: SkipUacTask
+Author: roob-p
+ShortDescription: Play your favorite games with elevated rights, without being interrupted by UAC prompts.
+InstallerManifestUrl: https://raw.githubusercontent.com/roob-p/SkipUacTask-PlayniteExtension/main/manifest.yaml
+SourceUrl: https://github.com/roob-p/SkipUacTask-PlayniteExtension
+Description: |
+  * This extension allows you to automatically create administrator tasks in Task Scheduler for games that require elevated privileges, enabling them to run without triggering UAC prompts. 
+  * It generates a new script action containing all necessary commands. 
+  * Game time tracking works flawlessly.
+  * It supports standalone games, ROMs with emulators, and client-based titles.
+  * For Steam, Epic, and Ubisoft Connect games, the extension uses some workarounds: the client process will be terminated, restarted with elevated privileges, and then the game will be launched. Once the game is closed, the launcher will be restarted without administrator rights.
+  
+Tags:
+  - Generic
+  - Admin
+  - UAC
+  - Administrator
+  - Elevated privileges
+  - Elevated rights
+  - Bypass
+  - Trigger
+  - Script
+  - Action
+  - Gameaction
+  - Action Script
+  - Autoit
+  - Batkiller
+  - Time Tracking
+  - Game Time
+  - Powershell  
+  - Launcher
+Links:
+  Github: https://github.com/roob-p/SkipUacTask-PlayniteExtension/
+  Donate (Ko-fi): https://ko-fi/roobp
+IconUrl: https://raw.githubusercontent.com/roob-p/SkipUacTask-PlayniteExtension/main/icon.png
+Screenshots:
+  - Thumbnail: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/1.jpg
+    Image: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/1.jpg
+  - Thumbnail: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/2.jpg
+    Image: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/2.jpg
+  - Thumbnail: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/3.jpg
+    Image: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/3.jpg
+  - Thumbnail: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/4.jpg
+    Image: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/4.jpg
+  - Thumbnail: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/6.jpg
+    Image: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/6.jpg
+  - Thumbnail: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/7.jpg
+    Image: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/7.jpg
+  - Thumbnail: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/m1.jpg
+    Image: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/1.gif
+  - Thumbnail: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/m2.jpg
+    Image: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/2.gif
+  - Thumbnail: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/5.jpg
+    Image: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/5.jpg
+  - Thumbnail: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/thumbs/5.jpg
+    Image: https://github.com/roob-p/SkipUacTask-PlayniteExtension/raw/main/media/5.jpg
+
+
