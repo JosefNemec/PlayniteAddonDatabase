@@ -1,0 +1,18 @@
+AddonId: PlayniteGameOverlay_fc75626e-ec69-4287-972a-b86298555ebb
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/jonosellier/PlayniteGameOverlay/refs/heads/master/installer-manifest.yaml
+Tags: [overlay, handheld, gaming, achievements, battery, controller, steamdeck, rogally, playtime]
+ShortDescription: 'An in-game overlay for handheld devices that shows game stats, battery status, achievements, and provides essential controls without leaving your game.'
+Name: 'Playnite Game Overlay'
+Author: 'Jono'
+SourceUrl: https://github.com/jonosellier/PlayniteGameOverlay
+Links:
+  Website: https://jonosellier.github.io
+  Donate: https://www.paypal.com/donate/?business=387UB5GRWT53L&no_recurring=1&item_name=Buy+me+a+coffee+and+support+my+side+projects?&currency_code=USD
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/jonosellier/PlayniteGameOverlay/refs/heads/master/extras/ally-sm.png
+    Image: https://raw.githubusercontent.com/jonosellier/PlayniteGameOverlay/refs/heads/master/extras/ally.png
+  - Thumbnail: https://raw.githubusercontent.com/jonosellier/PlayniteGameOverlay/refs/heads/master/extras/mobile-sm.png
+    Image: https://raw.githubusercontent.com/jonosellier/PlayniteGameOverlay/refs/heads/master/extras/mobile.png
+  - Thumbnail: https://raw.githubusercontent.com/jonosellier/PlayniteGameOverlay/refs/heads/master/extras/desktop-sm.png
+    Image: https://raw.githubusercontent.com/jonosellier/PlayniteGameOverlay/refs/heads/master/extras/desktop.png
