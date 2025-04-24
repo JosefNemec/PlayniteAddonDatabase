@@ -1,0 +1,22 @@
+AddonId: CoverChange
+Type: Generic
+Name: CoverChange
+Author: roob-p
+ShortDescription: Change game covers effortlessly.
+InstallerManifestUrl: https://raw.githubusercontent.com/roob-p/CoverChange-PlayniteExtension/main/manifest.yaml
+SourceUrl: https://github.com/roob-p/CoverChange-PlayniteExtension
+Description: |
+  * This Playnite extension lets you change game covers in a faster way.
+  * Just click "Cover Change" on the context menu or choose "Batch" to select multiple images at once.
+  * The features of this extension are already included in the more advanced CoverStyleSwitcher. However, I created this extension to provide the fastest possible way to change a game's cover.
+
+Tags:
+  - Generic
+  - Cover
+  - Batch
+  - Images
+
+Links:
+  GitHub: https://github.com/roob-p/CoverChange-PlayniteExtension
+  Donate (Ko-fi): https://ko-fi.com/roobp
+IconUrl: https://raw.githubusercontent.com/roob-p/CoverChange-PlayniteExtension/main/icon.png
