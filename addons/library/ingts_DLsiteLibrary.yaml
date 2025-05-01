@@ -1,0 +1,10 @@
+AddonId: DLsiteLibrary_f3ae3dcc-72fc-4185-8cf2-76e5aeb277bc
+Name: DLsite Library
+Author: ingts
+Version: 1.0
+Type: GameLibrary
+Icon: icon.png
+SourceUrl: https://github.com/ingts/PlayniteDLsiteLibrary
+ShortDescription: Load purchases from DLsite
+InstallerManifestUrl: https://github.com/ingts/PlayniteDLsiteLibrary/raw/main/InstallerManifest.yaml
+IconUrl: https://raw.githubusercontent.com/ingts/PlayniteDLsiteLibrary/main/DLsiteLibrary/icon.png
