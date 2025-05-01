@@ -105,7 +105,7 @@ Installer manifest
 | PackageUrl | URL to an actual `.pext` or `.pthm` add-on file. |
 | RequiredApiVersion | Minimal API version (SDK version or theme API version) required by this add-on version. |
 | ReleaseDate | Package release date in `YYYY-MM-DD` format. |
-| Changelog | List of changes. Optional. |
+| Changelog | List of changes. |
 
 ### Example
 
