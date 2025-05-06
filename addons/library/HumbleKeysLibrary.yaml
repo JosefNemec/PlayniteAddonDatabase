@@ -5,8 +5,9 @@ InstallerManifestUrl: https://raw.githubusercontent.com/Dasmius007/HumbleKeysLib
 ShortDescription: Imports and tags game keys from Humble for user sorting purposes (supports Humble Choice too).
 Description: |
   Humble Keys Library is a library plug-in extension for Playnite which queries Humble Bundle for third-party keys, and also supports Humble Choice subscription games.
+
   The default Humble Library plug-in only reports DRM-free games, not the keys for third-party services like Steam. Humble Keys Library allows you to search your entire collection for a game, to make sure you don't buy a new copy in the latest sale if you already have one from a previous Humble Bundle.
-Name: Humble Keys
+Name: Humble Keys Library
 Author: Dasmius007
 Links:
   Playnite Forums thread: https://playnite.link/forum/thread-1244.html
