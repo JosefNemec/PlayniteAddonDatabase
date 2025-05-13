@@ -1,0 +1,15 @@
+AddonId: Yagrin_SimpleSyncPlugin
+Type: Generic
+Name: Simple Sync
+Author: Yalgrin
+ShortDescription: Self-hosted library synchronization plugin.
+InstallerManifestUrl: https://raw.githubusercontent.com/Yalgrin/playnite-simple-sync-plugin/refs/heads/master/Manifests/Yalgrin_SimpleSyncPlugin_Installer.yaml
+SourceUrl: https://github.com/Yalgrin/playnite-simple-sync-plugin
+Description: This plugin allows you to synchronize your library data with your own self-hosted server. It allows you to use multiple Playnite instances on different devices while maintaining a single shared library.
+Tags: ["Synchronization", "Library", "Metadata"]
+Links:
+    GitHub: https://github.com/Yalgrin/playnite-simple-sync-plugin
+    Issue Tracker: https://github.com/Yalgrin/playnite-simple-sync-plugin/issues
+    Server GitHub: https://github.com/Yalgrin/playnite-simple-sync-server
+    Server Issue Tracker: https://github.com/Yalgrin/playnite-simple-sync-server/issues
+IconUrl: https://raw.githubusercontent.com/Yalgrin/playnite-simple-sync-plugin/refs/heads/master/icon.png
