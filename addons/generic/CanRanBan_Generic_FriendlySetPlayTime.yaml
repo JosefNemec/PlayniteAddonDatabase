@@ -11,5 +11,5 @@ Links:
     Playnite Discord (#extensions-support): https://discord.com/channels/365863063296933888/808419165311467630
     Issues (Feature requests and Bugs): https://github.com/CanRanBan/PlayniteExtensionFork-FriendlySetPlayTime/issues
 InstallerManifestUrl: https://raw.githubusercontent.com/CanRanBan/PlayniteExtensionFork-FriendlySetPlayTime/main/Manifests/PackageInstaller/CanRanBan_Generic_FriendlySetPlayTime.yaml
-Description: The "Friendly Set Play Time" Playnite extension adds an item in the more menu of games to simplify the input of play time values. The possibility to input minutes, hours and days besides the default input of seconds is added.
-Tags: ["CanRanBan", "Friendly", "Set", "Play", "Time", "Simplify", "Input", "Menu", "Item", "Days", "Hours", "Minutes", "Seconds"]
+Description: The "Friendly Set Play Time" Playnite extension adds an item in the more menu of games to simplify the input of play time values. The possibility to input minutes, hours and days including decimal values besides the default input of seconds is added.
+Tags: ["CanRanBan", "Friendly", "Set", "Play", "Time", "Simplify", "Input", "Menu", "Item", "Decimal", "Days", "Hours", "Minutes", "Seconds"]
