@@ -1,0 +1,21 @@
+AddonId: StoveLibrary_2a62a584-2cc3-4220-8da6-cf4ac588a439
+Type: GameLibrary
+Name: STOVE Library integration
+Author: GooglyBlox
+ShortDescription: Import games from your STOVE library
+InstallerManifestUrl: https://raw.githubusercontent.com/GooglyBlox/playnite-stove-plugin/refs/heads/master/source/installermanifest.yaml
+SourceUrl: https://github.com/GooglyBlox/playnite-stove-plugin
+Description: |
+  Import and manage your STOVE library games in Playnite. This plugin fetches games from your STOVE profile and supports importing comprehensive metadata including game names, developers, publishers, release dates, icons, descriptions, genres, and tags.
+  
+  Supported Features:
+  • Game library import from STOVE profile
+  • Metadata import (name, developers, publishers, release date, description, genres, tags)
+  • Icon and cover image support
+  • Store page links
+  • STOVE client integration
+  • 18+ content support with age verification
+Tags: ['library', 'stove', 'korean', 'smilegate', 'metadata', 'gaming-platform']
+IconUrl: https://github.com/GooglyBlox/playnite-stove-plugin/blob/master/source/icon.png?raw=true
+Links:
+    Website: https://googlyblox.vercel.app
