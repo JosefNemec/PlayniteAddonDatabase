@@ -1,0 +1,26 @@
+AddonId: CoverCollageMaker_7713ea8c-cdec-46ac-b603-6d666515f3da
+Type: Generic
+Name: Covers Collage Maker
+Author: darklinkpower
+ShortDescription: Create and export customizable game cover collages from your Playnite library.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_CoverCollageMaker.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: |-
+    Cover Collage Maker is an extension that lets you generate and export image collages of your game covers with a variety of customization options. Ideal for sharing or displaying your library, it includes the following features:
+    - Select and arrange games to include in the collage.
+    - Set number of columns, cell width and height.
+    - Customize background color, padding, and margins.
+    - Optionally overlay game titles on cover images with full control over font, size, position, color, and style.
+    - Export the result to a high-quality image or copy to clipboard.
+Tags: ["Generic", "Cover", "Image", "Export"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/labels/Cover%20Collage%20Maker
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/CoverCollageMaker/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/CoverCollageMaker/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/CoverCollageMaker/screenshot_01.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/CoverCollageMaker/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/CoverCollageMaker/screenshot_02.webp
