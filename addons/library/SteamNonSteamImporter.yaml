@@ -1,0 +1,11 @@
+﻿AddonId: SteamNonSteamImporter
+IconUrl: https://raw.githubusercontent.com/Phalk/SteamNonSteamImporter/refs/heads/main/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/Phalk/SteamNonSteamImporter/refs/heads/main/manifests/SteamNonSteamImporter.yaml
+ShortDescription: Imports games from Steam "Non Steam" Games.
+Name: Steam Non Steam Importer
+Author: Phalk
+Links:
+    Website: https://github.com/Phalk/SteamNonSteamImporter
+    Support: https://github.com/Phalk/SteamNonSteamImporter
+SourceUrl: https://github.com/Phalk/SteamNonSteamImporter
