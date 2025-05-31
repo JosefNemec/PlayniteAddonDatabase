@@ -1,0 +1,13 @@
+AddonId: SteamNonSteamImporter_8d105bff-eac4-45c5-90ba-c77fdd66b882
+Type: GameLibrary
+Name: Steam Non Steam Importer
+Author: Phalk
+ShortDescription: Imports Steam non Steam (from Steam's shortcuts.vdf)
+InstallerManifestUrl: https://raw.githubusercontent.com/Phalk/SteamNonSteamImporter/refs/heads/main/manifests/manifest.yaml
+SourceUrl: https://github.com/Phalk/SteamNonSteamImporter
+Links:
+  Phalk's Website: https://phalk.net/
+Description: |
+   A Playnite plugin that imports non-Steam games from Steam shortcuts into your Playnite library.
+Tags: ["nonsteam", "steam"]
+IconUrl: https://raw.githubusercontent.com/Phalk/SteamNonSteamImporter/refs/heads/main/icon.png
