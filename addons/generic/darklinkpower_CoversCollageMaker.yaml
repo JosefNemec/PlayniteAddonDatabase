@@ -12,6 +12,8 @@ Description: |-
     - Customize background color, padding, and margins.
     - Optionally overlay game titles on cover images with full control over font, size, position, color, and style.
     - Export the result to a high-quality image or copy to clipboard.
+
+    How to use: In Playnite, select the games you want to include, then right-click and choose Covers Collage Maker from the context menu.
 Tags: ["Generic", "Cover", "Image", "Export"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
