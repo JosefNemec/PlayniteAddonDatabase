@@ -1,6 +1,6 @@
 AddonId: 'ReMiX_jonosellier'
 Type: ThemeFullscreen
-InstallerManifestUrl: https://raw.githubusercontent.com/jonosellier/ReMiX_jonosellier/refs/heads/main/installer-manifest.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/jonosellier/ReMiX_jonosellier/refs/heads/main/theme-installer-manifest.yaml
 ShortDescription: 'A theme primarily designed for horizontal browsing, making it easy to scroll through and view your games clearly. The theme is a modernized revival of the original ReMix theme, updated with current Playnite compatibility and more extension support'
 Name: 'Jonos Remix'
 Author: 'Jono'
