@@ -1,0 +1,22 @@
+AddonId: Mythos_9f42c1a7-6d8e-4b3f-b0a2-7e9c5d3f18a4
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/bansakai/Mythos/Master/Manifest/Installer_Manifest.yaml
+Name: Mythos
+Author: bansakai
+SourceUrl: https://github.com/bansakai/Mythos
+ShortDescription: OLED Theme for Playnite Desktop Mode.
+Description: Designed with OLED in mind, Mythos is a reimagining of the Playnite theme Mythic built on top of Dune.
+Tags: ["Theme", "Clean"]
+IconUrl: https://raw.githubusercontent.com/bansakai/Mythos/Master/Resources/applogo.png
+Links:
+    GitHub: https://github.com/bansakai/Mythos
+    Issues Tracker: https://github.com/bansakai/Mythos/issues
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/bansakai/Mythos/Master/Screenshots/Thumb_01.png
+      Image: https://raw.githubusercontent.com/bansakai/Mythos/Master/Screenshots/4.png
+    - Thumbnail: https://raw.githubusercontent.com/bansakai/Mythos/Master/Screenshots/Thumb_02.png
+      Image: https://raw.githubusercontent.com/bansakai/Mythos/Master/Screenshots/5.png
+    - Thumbnail: https://raw.githubusercontent.com/bansakai/Mythos/Master/Screenshots/Thumb_03.png
+      Image: https://raw.githubusercontent.com/bansakai/Mythos/Master/Screenshots/6.png
+    - Thumbnail: https://raw.githubusercontent.com/bansakai/Mythos/Master/Screenshots/Thumb_04.png
+      Image: https://raw.githubusercontent.com/bansakai/Mythos/Master/Screenshots/2.png
