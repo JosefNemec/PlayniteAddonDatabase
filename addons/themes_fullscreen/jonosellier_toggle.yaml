@@ -1,0 +1,11 @@
+AddonId: 'Toggle_28b7d2c0-105b-4632-8dca-d11348bd61d2'
+Type: ThemeFullscreen
+InstallerManifestUrl: https://raw.githubusercontent.com/jonosellier/toggle-theme-playnite/refs/heads/main/source/theme-installer-manifest.yaml
+ShortDescription: 'A handheld-first Playnite theme optimized for touch controls and performance on portable gaming devices'
+Name: 'Toggle'
+Author: 'Jono'
+Tags: ['handheld', 'touch', 'performance', 'minimal', 'switch', 'portable', 'gaming', 'modern', 'clean', 'lightweight', 'steamdeck', 'rogally', 'legion', 'tablet', 'mobile', 'controller', 'nintendo', 'rounded', 'cards', 'dark', 'blue', 'responsive', 'thumbs', 'navigation', 'sleek', 'optimized', 'fast', 'smooth']
+SourceUrl: https://github.com/jonosellier/toggle-theme-playnite
+Links:
+  Website: https://jonosellier.github.io
+  Donate: https://www.paypal.com/donate/?business=387UB5GRWT53L&no_recurring=1&item_name=Buy+me+a+coffee+and+support+my+side+projects?&currency_code=USD
