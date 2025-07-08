@@ -1,0 +1,11 @@
+AddonId: MoData_5a0a672a-998a-4cf3-94ea-44543de5afcb
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/jonosellier/MoData/refs/heads/main/installer-manifest.yaml
+Tags: [more, data, mo, modata, battery, wifi, disk, usage, storage, network]
+ShortDescription: 'Expose Network and Storage data to Playnite Themes'
+Name: 'MoData'
+Author: 'Jono'
+SourceUrl: https://github.com/jonosellier/MoData
+Links:
+  Website: https://jonosellier.github.io
+  Donate: https://www.paypal.com/donate/?business=387UB5GRWT53L&no_recurring=1&item_name=Buy+me+a+coffee+and+support+my+side+projects?&currency_code=USD
