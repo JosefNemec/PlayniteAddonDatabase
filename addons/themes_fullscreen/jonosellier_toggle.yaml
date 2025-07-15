@@ -4,8 +4,32 @@ InstallerManifestUrl: https://raw.githubusercontent.com/jonosellier/toggle-theme
 ShortDescription: 'A handheld-first Playnite theme optimized for touch controls and performance on portable gaming devices'
 Name: 'Toggle'
 Author: 'Jono'
+IconUrl: https://raw.githubusercontent.com/jonosellier/toggle-theme-playnite/refs/heads/main/source/Images/applogo_clean.png
 Tags: ['handheld', 'touch', 'performance', 'minimal', 'switch', 'portable', 'gaming', 'modern', 'clean', 'lightweight', 'steamdeck', 'rogally', 'legion', 'tablet', 'mobile', 'controller', 'nintendo', 'rounded', 'cards', 'dark', 'blue', 'responsive', 'thumbs', 'navigation', 'sleek', 'optimized', 'fast', 'smooth']
 SourceUrl: https://github.com/jonosellier/toggle-theme-playnite
 Links:
   Website: https://jonosellier.github.io
   Donate: https://www.paypal.com/donate/?business=387UB5GRWT53L&no_recurring=1&item_name=Buy+me+a+coffee+and+support+my+side+projects?&currency_code=USD
+Screenshots:
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/home-2.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/home-2.png
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/filter-labels.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/filter-labels.png
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/full-filter-presets.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/full-filter-presets.png
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/game-details-running.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/game-details-running.png
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/home-now-playing.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/home-now-playing.png
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/game-details.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/game-details.png
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/game-menu.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/game-menu.png
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/home-filter-states.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/home-filter-states.png
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/home.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/home.png
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/main-menu.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/main-menu.png
+  - Thumbnail: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/recommended-settings.png
+    Image: https://github.com/jonosellier/toggle-theme-playnite/raw/main/screenshots/recommended-settings.png
