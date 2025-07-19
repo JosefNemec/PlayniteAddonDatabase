@@ -1,0 +1,11 @@
+AddonId: SuccessStoryFullscreenHelper
+Type: Generic
+InstallerManifestUrl: https://github.com/saVantCZ/SuccessStoryFullscreenHelper/blob/main/Manifest/InstallerManifest.yaml
+ShortDescription: 'Expose Total achievements data and Game Score from SuccessStory plugin in Fullscreen Themes'
+Name: 'SuccessStory Fullscreen Helper'
+Author: 'saVantCZ'
+SourceUrl: https://github.com/saVantCZ/SuccessStoryFullscreenHelper
+Links:
+  GitHub: https://github.com/saVantCZ/SuccessStoryFullscreenHelper
+  Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
+  Buy me a coffee (Tips and Donations): https://buymeacoffee.com/mtbivzu
