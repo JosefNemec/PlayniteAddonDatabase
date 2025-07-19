@@ -1,6 +1,6 @@
 AddonId: SuccessStoryFullscreenHelper
 Type: Generic
-InstallerManifestUrl: https://github.com/saVantCZ/SuccessStoryFullscreenHelper/blob/main/Manifest/InstallerManifest.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/saVantCZ/SuccessStoryFullscreenHelper/refs/heads/main/Manifest/InstallerManifest.yaml
 ShortDescription: 'Expose Total achievements data and Game Score from SuccessStory plugin in Fullscreen Themes'
 Name: 'SuccessStory Fullscreen Helper'
 Author: 'saVantCZ'
