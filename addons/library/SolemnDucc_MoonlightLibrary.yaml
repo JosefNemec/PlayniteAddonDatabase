@@ -3,7 +3,7 @@ Type: GameLibrary
 Name: Moonlight App Import
 Author: SolemnDucc
 ShortDescription: Imports games from Moonlight (Sunshine / Apollo server)
-InstallerManifestUrl: https://raw.githubusercontent.com/SolemnDucc/MoonlightAppImport/refs/heads/master/MoonlightAppImport/extension.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/SolemnDucc/MoonlightAppImport/refs/heads/master/MoonlightAppImport/InstallerManifest.yaml
 SourceUrl: https://github.com/SolemnDucc/MoonlightAppImport
 Links:
   Moonlight: https://moonlight-stream.org/
