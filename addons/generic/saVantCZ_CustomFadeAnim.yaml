@@ -1,0 +1,12 @@
+AddonId: CustomFadeAnim_155b27bc-6c8c-47dc-ae41-e74568b2fe9f
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/saVantCZ/CustomFadeAnim/refs/heads/main/Manifest/InstallerManifest.yaml
+ShortDescription: 'Customizable Transitions for Default Background Images'
+Name: 'Custom Fade Animations'
+Author: 'saVantCZ'
+SourceUrl: https://github.com/saVantCZ/CustomFadeAnim
+IconUrl: https://raw.githubusercontent.com/saVantCZ/CustomFadeAnim/refs/heads/main/plugin_logo.png
+Links:
+  GitHub: https://github.com/saVantCZ/CustomFadeAnim
+  Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
+  Buy me a coffee (Tips and Donations): https://buymeacoffee.com/mtbivzu
