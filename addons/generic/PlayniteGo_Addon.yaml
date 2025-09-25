@@ -1,6 +1,6 @@
 AddonId: 'af7bd5e5-0ae0-4276-bb2a-cdf7fadea92e'
 Type: Generic
-SourceUrl: https://pub-583f09da8c0946178bc561b0bc5c9f5f.r2.dev/PlayniteGo_Addon.yaml
+SourceUrl: https://github.com/AnAvidEditor/PlayniteGo-Plugin
 InstallerManifestUrl: https://pub-583f09da8c0946178bc561b0bc5c9f5f.r2.dev/PlayniteGo_Installer.yaml
 ShortDescription: 'Companion plugin for the PlayniteGo iOS app.'
 Name: 'PlayniteGo'
