@@ -1,0 +1,21 @@
+﻿AddonId: HoYoPlayLibrary_faaf4c1f-14ca-487e-8f32-d7a40c6b9c9a
+Type: GameLibrary
+Name: HoYoPlay Library
+Author: darklinkpower
+ShortDescription: Import and manage games installed through the HoYoPlay launcher.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Library_HoyoPlayLibrary.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: |-
+    This extension integrates the HoYoPlay launcher with Playnite, enabling full library management.
+    Features include:
+    - Automatic detection and import of installed games.
+    - Launching supported games directly from Playnite.
+    - Initiating installation of uninstalled games (opens the game page in the launcher; installation must be started manually due to launcher limitations).
+    - Starting the uninstall process for installed games via the launcher.
+Tags: ["Library", "HoYo"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=state%3Aopen%20label%3A%22HoYoPlay%20Library%22
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Library/HoYoPlayLibrary/icon.png
