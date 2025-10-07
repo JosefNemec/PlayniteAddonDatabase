@@ -2,7 +2,7 @@ AddonId: playnite-isthereanydeal-plugin
 Type: Generic
 Name: IsThereAnyDeal
 Author: Lacro59
-ShortDescription: Manage your cover and background images with more formats and more options.
+ShortDescription: Track game prices, wishlists, and giveaways from multiple stores using IsThereAnyDeal.
 InstallerManifestUrl: https://raw.githubusercontent.com/Lacro59/playnite-isthereanydeal-plugin/master/manifest/Lacro59_IsThereAnyDeal.yaml
 SourceUrl: https://github.com/Lacro59/playnite-isthereanydeal-plugin
 Description: |-
