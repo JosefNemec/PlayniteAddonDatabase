@@ -1,0 +1,21 @@
+﻿AddonId: b46f5ca0-be71-4398-b924-216c7c20efdd
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/kushagr-m/Helium/raw/master/manifests/Installer_Manifest.yaml
+ShortDescription: Theme inspired by Steam, forked.
+Description: Theme inspired by Steam for Playnite Desktop Mode. Has support for community extensions like SuccessStory, HowLongToBeat, GameActivity, DuplicateHider, etc. The goal of my fork is to more closely align the visual styling of the theme with the official Steam client as well as make changes that better suit my use case.
+Name: Helium (kkcd fork)
+Author: kkcd, darklinkpower
+Tags: ["Theme", "Steam", "UI"]
+SourceUrl: https://github.com/kushagr-m/Helium
+Links:
+    GitHub: https://github.com/kushagr-m/Helium
+    Issues Tracker: https://github.com/kushagr-m/Helium/issues
+    Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
+IconUrl: https://github.com/kushagr-m/Helium/raw/master/source/Images/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/kushagr-m/Helium/raw/master/screenshots/thumb_01.png
+      Image: https://github.com/kushagr-m/Helium/raw/master/screenshots/screenshot_01.png
+    - Thumbnail: https://github.com/kushagr-m/Helium/raw/master/screenshots/thumb_02.png
+      Image: https://github.com/kushagr-m/Helium/raw/master/screenshots/screenshot_02.png
+    - Thumbnail: https://github.com/kushagr-m/Helium/raw/master/screenshots/thumb_03.png
+      Image: https://github.com/kushagr-m/Helium/raw/master/screenshots/screenshot_03.png

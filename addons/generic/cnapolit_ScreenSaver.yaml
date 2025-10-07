@@ -1,0 +1,13 @@
+AddonId: 'ScreenSaver.CN'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/cnapolit/ScreenSaver/main/ScreenSaver.yaml
+ShortDescription: 'Displays Dynamic Game Content as a ScreenSaver'
+Name: 'ScreenSaver'
+Author: 'Cameron Napolitano'
+Tags: ['Sound', 'Music', 'Video', 'Events']
+SourceUrl: https://github.com/cnapolit/ScreenSaver
+Description: 'A plugin that displays game content including video, music, logos, and backgrounds as a screen saver. These elements are obtained via Playnite, (Unreleased) Playnite Sounds, & MetaDataDownloader.'
+Links:
+    Github: https://github.com/cnapolit/ScreenSaver
+    Forum Post: https://playnite.link/forum/thread-1326.html
+    Translate: https://crowdin.com/project/screensaver

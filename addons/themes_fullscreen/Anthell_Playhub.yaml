@@ -1,0 +1,18 @@
+AddonId: 'Playhub'
+Type: ThemeFullscreen
+Name: 'Playhub'
+Author: 'Anthell'
+ShortDescription: A modern fullscreen theme for Playnite.
+InstallerManifestUrl: https://github.com/AnthelI/Playhub/raw/main/Manifest/InstallerManifest.yaml
+SourceUrl: https://github.com/AnthelI/Playhub
+Tags: ["Theme", "Modern", "Trailer", "Logo", "Achievements"]
+Links:
+    GitHub: https://github.com/AnthelI/Playhub
+IconUrl: https://github.com/AnthelI/Playhub/raw/main/Media/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/AnthelI/Playhub/raw/main/Media/1Main-thumb.jpg
+      Image: https://github.com/AnthelI/Playhub/raw/main/Media/1Main.jpg
+    - Thumbnail: https://github.com/AnthelI/Playhub/raw/main/Media/2Game%20Details-thumb.jpg
+      Image: https://github.com/AnthelI/Playhub/raw/main/Media/2Game%20Details.jpg
+    - Thumbnail: https://github.com/AnthelI/Playhub/raw/main/Media/MainMenu-thumb.jpg
+      Image: https://github.com/AnthelI/Playhub/raw/main/Media/MainMenu.jpg

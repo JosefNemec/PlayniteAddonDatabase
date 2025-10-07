@@ -1,0 +1,17 @@
+AddonId: GamesSizeCalculator_97cc59db-3f80-4852-8bfc-a80304f9efe9
+Type: MetadataProvider
+Name: Games Size Calculator
+Author: Jeshibu
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_GamesSizeCalculator.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: Fetches estimated install size from Steam for uninstalled games, and can fix install sizes for PS3 ROMs.
+ShortDescription: Fetches estimated install size from Steam for uninstalled games, and can fix install sizes for PS3 ROMs.
+Tags: ["Jeshibu", "Install Size Calculator", "Disk Space", "RPCS3", "PS3"]
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Contribute translations: https://crowdin.com/project/jeshibu-playniteextensions
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/GamesSizeCalculator/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/Jeshibu/PlayniteExtensions/raw/main/screenshots/GamesSizeCalculator/thumb_01.jpg
+      Image: https://github.com/Jeshibu/PlayniteExtensions/raw/main/screenshots/GamesSizeCalculator/screenshot_01.jpg

@@ -1,0 +1,20 @@
+AddonId: '(u)biquity_e71482ce-33e2-4b23-aaea-de576975d3a9'
+Type: ThemeFullscreen
+Name: '(u)biquity'
+Author: 'Red Schism'
+ShortDescription: A modern theme inspired by popular streaming services.
+InstallerManifestUrl: https://github.com/RedSchism/ubiquity/raw/main/InstallerManifest.yaml
+SourceUrl: https://github.com/RedSchism/ubiquity
+Tags: ["Modern", "Theme", "Minimalist", "Trailer"]
+Links:
+  GitHub: https://github.com/RedSchism/ubiquity
+IconUrl: https://github.com/RedSchism/ubiquity/raw/main/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/RedSchism/ubiquity/raw/main/thumbnail01.jpg
+      Image: https://github.com/RedSchism/ubiquity/raw/main/screenshot01.jpg
+    - Thumbnail: https://github.com/RedSchism/ubiquity/raw/main/thumbnail02.jpg
+      Image: https://github.com/RedSchism/ubiquity/raw/main/screenshot02.jpg
+    - Thumbnail: https://github.com/RedSchism/ubiquity/raw/main/thumbnail03.jpg
+      Image: https://github.com/RedSchism/ubiquity/raw/main/screenshot03.jpg
+    - Thumbnail: https://github.com/RedSchism/ubiquity/raw/main/thumbnail04.jpg
+      Image: https://github.com/RedSchism/ubiquity/raw/main/screenshot04.jpg

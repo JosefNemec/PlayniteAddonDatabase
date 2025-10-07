@@ -1,0 +1,30 @@
+AddonId: FanzaMetadata_db03c8d9-645a-4359-aafb-01cda945f301
+Type: MetadataProvider
+Name: Fanza Metadata
+Author: yuuta0331
+InstallerManifestUrl: https://raw.githubusercontent.com/yuuta0331/FanzaMetadata/master/manifests/InstallerManifest.yaml
+SourceUrl: https://github.com/yuuta0331/FanzaMetadata
+IconUrl: https://raw.githubusercontent.com/yuuta0331/FanzaMetadata/master/documentation/Logo.png
+ShortDescription: 'A Playnite plugin to fetch metadata for both general and doujin works from FANZA.'
+Description: |-
+    This plugin fetches metadata from FANZA for both general PC games and doujin works. By switching the "Game Category" setting between "PC Games" and "Doujin Games," users can choose which type of metadata to retrieve. 
+
+    Please note:
+    * The "Page Language" setting works best when set to Japanese. Using other languages may cause unexpected behavior.
+    * Metadata retrieval may not work properly outside Japan due to regional restrictions imposed by FANZA.
+
+    Supported metadata fields:
+    * Icon
+    * Cover Image
+    * Background Image
+    * Name
+    * Description
+    * Release Date
+    * Genres
+    * Developers
+    * Publishers
+    * Series
+    * Community Score
+Tags: ['Metadata', 'Fanza']
+Links:
+    GitHub: https://github.com/yuuta0331/FanzaMetadata

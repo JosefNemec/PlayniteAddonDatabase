@@ -1,0 +1,12 @@
+AddonId: PCGamingWikiMetadata_c038558e-427b-4551-be4c-be7009ce5a8d
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/PCGamingWikiMetadata/icon.png
+Type: MetadataProvider
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/refs/heads/main/manifests/Metadata_PCGamingWiki.yaml
+ShortDescription: |
+    Imports game metadata from PCGamingWiki.
+    Also lets you import a single property and apply it to all your matching games.
+Name: PCGamingWiki metadata provider
+Author: Jeshibu & sharkusmanch
+Links:
+    PCGamingWiki: https://www.pcgamingwiki.com/wiki/Home
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions

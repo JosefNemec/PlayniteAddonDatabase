@@ -1,0 +1,13 @@
+AddonId: EmudeckPlaynite_82cf60ec-8091-488d-9c85-63836ebee151
+Type: Generic
+Name: Emudeck
+Author: Jack Gallagher
+ShortDescription: Automatically add Emudeck configuration to Playnite
+InstallerManifestUrl: https://raw.githubusercontent.com/jackgllghr/PlayniteEmudeck/main/installer.yaml
+SourceUrl: https://github.com/jackgllghr/PlayniteEmudeck/tree/main
+Description: Automatically add Emudeck configuration to Playnite. Install Emudeck, go to Addons > Extension Settings > Generic > Emudeck, and set your installation path to have your emulators configured.
+IconUrl: https://raw.githubusercontent.com/jackgllghr/PlayniteEmudeck/main/icon.png
+Tags: ["Emudeck", "emulator"]
+Links:
+    GitHub: https://github.com/jackgllghr/PlayniteEmudeck
+    Ko-fi: https://ko-fi.com/jackofsometrades

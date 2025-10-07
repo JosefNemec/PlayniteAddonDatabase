@@ -1,0 +1,9 @@
+AddonId: SaveTracker_ad1eece9-6f59-460a-a7db-0d5fe5255ebd
+Name: Save Tracker
+Type: Generic
+Author: Hamza Chakib
+ShortDescription: SaveTracker tracks your game saves and optionally backs them up to the cloud for easy sync across devices.
+InstallerManifestUrl: https://raw.githubusercontent.com/KrachDev/SaveTracker/refs/heads/master/Installermanifest.yaml
+SourceUrl: https://github.com/KrachDev/SaveTracker
+Description: SaveTracker tracks your game saves and backs them up to the cloud for easy sync across devices.
+Tags: ["Generic", "Cloud Saving", "Saving"]

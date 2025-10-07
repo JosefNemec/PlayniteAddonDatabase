@@ -1,0 +1,16 @@
+AddonId: itchioBundleTagger_fc4fa75e-6e99-4c02-8547-113747efbb82
+Type: Generic
+Name: itch.io Bundle Tagger
+Author: Jeshibu
+ShortDescription: This extension will assign bundle tags to itch.io games
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_itchIoBundleTagger.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: |
+    This extension will assign tags to itch.io games to indicate which bundle(s) they have been part of.
+    Data source credit: https://randombundlegame.com/
+Tags: ["Jeshibu", "itch.io"]
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Data source: https://randombundlegame.com/
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/itchioBundleTagger/icon.png

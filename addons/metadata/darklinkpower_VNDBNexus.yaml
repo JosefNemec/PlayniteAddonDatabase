@@ -1,0 +1,27 @@
+AddonId: VNDBNexus_39229206-1199-4fee-a014-e8478ea4cd77
+Type: MetadataProvider
+Name: VNDB Nexus
+Author: darklinkpower
+ShortDescription: Obtains metadata from VNDB and displays the visual novel information in supported themes.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Metadata_VNDBNexus.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: |-
+    Focused in providing functionality related to VNDB to Playnite, including:
+    - Support to download metadata from VNDB, with extensive options to configure the process.
+    - Ability to display the visual novel information and data of the selected game in a panel with extensive configuration options, including general information, tags, characters, releases and screenshots. For this panel to display, the displayed game must have a link ponting to a VNDB page and a custom theme that supports the extension must be active.
+Tags: ["Generic", "Metadata", "VNDB", "Visual", "Novel"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/labels/VNDB%20Nexus
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Metadata/VNDBNexus/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/VNDBNexus/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/VNDBNexus/screenshot_01.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/VNDBNexus/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/VNDBNexus/screenshot_02.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/VNDBNexus/thumb_03.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/VNDBNexus/screenshot_03.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/VNDBNexus/thumb_04.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/VNDBNexus/screenshot_04.webp

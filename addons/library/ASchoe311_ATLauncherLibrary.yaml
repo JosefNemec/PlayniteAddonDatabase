@@ -1,0 +1,17 @@
+AddonId: ATLauncherInstanceImporter_40e56f44-4955-40ec-9bf3-682c4007e55b
+Type: GameLibrary
+Name: ATLauncher Instance Library
+Author: Adam Schoenfeld
+ShortDescription: Imports minecraft instances from ATLauncher as games
+InstallerManifestUrl: https://raw.githubusercontent.com/ASchoe311/ATLauncher-Integration/master/manifest.yaml
+SourceUrl: https://github.com/ASchoe311/ATLauncher-Integration
+Links:
+  ATLauncher: https://atlauncher.com/
+Description: |
+    This plugin will find all Minecraft instances created through ATLauncher and import them as games in Playnite.
+
+    The plugin populates game information for each instance with its Minecraft version, the number of mods, and information about each mod installed
+
+    Plugin settings are used to identify your ATLauncher directory and to choose whether or not the ATLauncher console and application are shown when launching an instance
+Tags: ["minecraft", "atlauncher"]
+IconUrl: https://raw.githubusercontent.com/ASchoe311/ATLauncher-Integration/master/icon.png

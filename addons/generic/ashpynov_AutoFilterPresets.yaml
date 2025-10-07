@@ -1,0 +1,27 @@
+AddonId: 'AutoFilterPresets_1844176c-4d02-4bf8-b852-78b36a9de193'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/AutoFilterPresets/main/AutoFilterPresets.yaml
+ShortDescription: 'Extension for Playnite to create auto Fullscreen presets'
+Name: 'Automatic Filter Presets'
+Author: 'Artem Shpynov'
+Tags: ["Generic"]
+SourceUrl: https://github.com/ashpynov/AutoFilterPresets
+IconUrl: https://raw.githubusercontent.com/ashpynov/AutoFilterPresets/main/icon.png
+Description: |-
+    About:
+
+    Automatic Filter Presets is an extension for Playnite game manager and launcher to automaticly create in-memory filter presets for grouping you games by Sources and Platforms in fullscreen mode.
+
+    Also it give you more controls on Fullscreen presets: Order, Automatic filters, Hide, change Filter images in supported theme.
+
+    You can modify Images right in fullscreen mode: Open preset menu (Left Stick Button) and press (or hold if theme support) Start button.
+
+    In plugin settings menu there are more options include sorting of filters and managing your own set of images for backup/restore.
+
+    It does not affect or change your existing presets or create auto presets in desktop mode.
+
+Links:
+    Github: https://github.com/ashpynov/AutoFilterPresets
+    Issues: https://github.com/ashpynov/AutoFilterPresets/issues
+    Support: https://discord.com/channels/365863063296933888/808419165311467630
+

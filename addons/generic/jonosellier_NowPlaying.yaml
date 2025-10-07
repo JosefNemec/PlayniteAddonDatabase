@@ -1,0 +1,11 @@
+AddonId: NowPlaying_db4e7ade-57fb-426c-8392-60e2347a0209
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/jonosellier/NowPlaying/refs/heads/master/installer-manifest.yaml
+Tags: [htps, handheld, gaming, controller, steamdeck, rogally, process management]
+ShortDescription: 'An easy way to return to your gaming session or exit your game directly from Playnite'
+Name: 'Now Playing'
+Author: 'Jono'
+SourceUrl: https://github.com/jonosellier/NowPlaying
+Links:
+  Website: https://jonosellier.github.io
+  Donate: https://www.paypal.com/donate/?business=387UB5GRWT53L&no_recurring=1&item_name=Buy+me+a+coffee+and+support+my+side+projects?&currency_code=USD

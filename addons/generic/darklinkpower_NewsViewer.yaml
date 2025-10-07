@@ -1,6 +1,6 @@
-AddonId: NewsViewer_15e03ffe-90f6-4e8e-bd4d-94514777481d
+﻿AddonId: NewsViewer_15e03ffe-90f6-4e8e-bd4d-94514777481d
 Type: Generic
-Name: News Viewer
+Name: Steam News and Players Viewer
 Author: darklinkpower
 ShortDescription: Adds support to display news for Steam games in compatible themes.
 InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_NewsViewer.yaml
@@ -9,6 +9,9 @@ Description: Adds support to display news for Steam games in compatible themes a
 Tags: ["Generic", "Steam", "News"]
 Links:
     GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
-    Playnite Forums thread: https://playnite.link/forum/thread-947.html
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/News-Viewer
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3ANewsViewer
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
     Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
 IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/NewsViewer/icon.png

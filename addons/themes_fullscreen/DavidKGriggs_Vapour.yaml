@@ -1,0 +1,20 @@
+AddonId: 'Vapour_dd1ccb2e-7025-4b6a-8b80-ddad9bdff48f'
+Type: ThemeFullscreen
+Name: 'Vapour'
+Author: 'DavidKGriggs'
+ShortDescription: Vapour is a Theme for Playnite that takes inspiration from Steam.
+InstallerManifestUrl: https://github.com/davidkgriggs/Vapour/raw/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/davidkgriggs/Vapour
+Tags: ["Theme", "Modern", "DKG", "UI", "Steam", "Console"]
+Links:
+    GitHub: https://github.com/davidkgriggs/Vapour
+IconUrl: https://github.com/davidkgriggs/Vapour/raw/main/Media/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/davidkgriggs/Vapour/raw/main/Media/thumb_01.jpg
+      Image: https://github.com/davidkgriggs/Vapour/raw/main/Media/screenshot_01.jpg
+    - Thumbnail: https://github.com/davidkgriggs/Vapour/raw/main/Media/thumb_02.jpg
+      Image: https://github.com/davidkgriggs/Vapour/raw/main/Media/screenshot_02.jpg
+    - Thumbnail: https://github.com/davidkgriggs/Vapour/raw/main/Media/thumb_03.jpg
+      Image: https://github.com/davidkgriggs/Vapour/raw/main/Media/screenshot_03.jpg
+    - Thumbnail: https://github.com/davidkgriggs/Vapour/raw/main/Media/thumb_04.jpg
+      Image: https://github.com/davidkgriggs/Vapour/raw/main/Media/screenshot_04.jpg

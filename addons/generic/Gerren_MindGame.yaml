@@ -1,0 +1,16 @@
+AddonId: gerren-mindgame
+Name: 'MindGame - Find a game to play'
+Author: 'Gerren'
+Type: Generic
+ShortDescription: Answer a pair of siple questions, and you'll have game to play in no time. 
+Description: |-
+    Don't you know what to play? Just browsing your library with no luck? Cannot choose and the built-in random selector doesn't suit you?
+    Look no more. This Playinte extension will help you find a game.
+
+    If you remember the famous fortune teller, oracle one might say, Akinator (yes, it still exists), this extension will let you ask simple questions, and it will narrow down your endless collection of games.'
+Tags: ["Library","Browse"]
+SourceUrl: 'https://github.com/Gerren/Playnite-MindGame'
+InstallerManifestUrl: https://raw.githubusercontent.com/Gerren/Playnite-MindGame/master/installer.yaml
+Links:
+    GitHub: https://github.com/Gerren/Playnite-MindGame
+    Forum: https://playnite.link/forum/thread-1406.html

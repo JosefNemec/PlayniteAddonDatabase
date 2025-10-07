@@ -1,0 +1,21 @@
+﻿AddonId: JastUsaLibrary_d407a620-5953-4ca4-a25c-8194c8559381
+Type: GameLibrary
+Name: JAST USA Library
+Author: darklinkpower
+ShortDescription: Import and manage your JAST USA store library directly within Playnite, including downloading your games.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Library_JastUsaLibrary.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Seamlessly import your JAST USA store library into Playnite. This plugin features a robust download manager that allows you to download games, patches, and extras, with full support for pausing and resuming downloads.
+Tags: ["Generic", "Library", "JAST", "Visual Novel", "VN"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/JAST-USA-Library
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3AJastUsaLibrary
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Library/JastUsaLibrary/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/screenshot_01.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/JastUsaLibrary/screenshot_02.webp

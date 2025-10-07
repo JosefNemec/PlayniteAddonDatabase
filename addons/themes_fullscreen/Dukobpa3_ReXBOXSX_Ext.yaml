@@ -1,0 +1,27 @@
+AddonId: 'Duk_FST_4e173c94-69a2-48de-938b-6feb2b393bc9'
+Type: ThemeFullscreen
+Name: 'Reskin XBOXSX Ext'
+Author: 'Dukobpa3'
+ShortDescription: Reskin XBOXSX Theme w/benefits
+Description: | 
+  "Reskin XBOXSX Theme with additional plugins support.
+  Trailers support (Extra Metadata Loader plugin); Features icons (Library Management plugin); 
+  Age Ratings icons (integrated to theme directly, not needed plugins); 
+  Achievements (SuccessStory plugin); Duplicate Hider support"
+InstallerManifestUrl: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Manifest/AddonManifest.yaml
+SourceUrl: https://github.com/Dukobpa3/Duk_FST_Packed_0/
+Tags: ["Theme", "Trailer", "Features Icons", "Age Ratings Icons", "Achievements", "DuplicateHider"]
+Links:
+    GitHub: https://github.com/Dukobpa3/Duk_FST_Packed_0/
+    Issues/Feedbacks/Support: https://github.com/Dukobpa3/Duk_FST_Packed_0/issues
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_01.png
+      Image: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_01.png
+    - Thumbnail: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_02.png
+      Image: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_02.png
+    - Thumbnail: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_03.png
+      Image: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_03.png
+    - Thumbnail: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_04.png
+      Image: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_04.png
+    - Thumbnail: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_05.png
+      Image: https://raw.githubusercontent.com/Dukobpa3/Duk_FST_Packed_0/master/Media/screenshot_05.png

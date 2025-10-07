@@ -1,0 +1,11 @@
+AddonId: TitleNormaliser_2a4b8ac6-f29c-4dc5-97dc-aa89504a0979
+Type: Generic
+Name: Game Title Normaliser
+Author: JHanlon95
+ShortDescription: Allows mass formatting of Game Titles to Title Case.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jhanlon95/playnite-title-normaliser/master/manifest/JHanlon95_TitleNormaliser.yaml
+SourceUrl: https://github.com/Jhanlon95/playnite-title-normaliser
+Description: Allows mass formatting of Game Titles to Title Case. Can also give terms that you wish to ignore, or wish to always be capatlised
+Tags: ["Generic", "Title", "Metadata"]
+Links:
+    GitHub: https://github.com/Jhanlon95/playnite-title-normaliser

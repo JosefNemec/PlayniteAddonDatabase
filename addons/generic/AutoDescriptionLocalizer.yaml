@@ -1,0 +1,11 @@
+AddonId: FD25D279-1A13-4028-8438-E468110B28A6
+Type: Generic
+Name: Auto Description Localizer
+Author: Adriano Vicentini Junior
+ShortDescription: 'Automatic game description translator'
+InstallerManifestUrl: https://raw.githubusercontent.com/For-otten/DescriptionLocalizer-PlayniteExtension/main/AutoDescriptionLocalizer/installer_manifest.yaml
+SourceUrl: https://github.com/For-otten/DescriptionLocalizer-PlayniteExtension
+IconUrl: https://github.com/For-otten/DescriptionLocalizer-PlayniteExtension/raw/main/AutoDescriptionLocalizer/logoADL.png
+Tags: ['Translation', 'Localization', 'Languages', 'Game descriptions']
+Links:
+    GitHub: https://github.com/For-otten/DescriptionLocalizer-PlayniteExtension

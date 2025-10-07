@@ -1,0 +1,22 @@
+﻿AddonId: SteamWishlistDiscountNotifier_d5825a82-42bf-426b-ac47-5bea5df7aede
+Type: Generic
+Name: Steam Wishlist Discount Notifier
+Author: darklinkpower
+ShortDescription: Checks your Steam wishlist in a view in Playnite and checks and notified you of new discounts in the background.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_SteamWishlistDiscountNotifier.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: Checks your Steam wishlist in a view in Playnite and checks and notified you of new discounts in the background.
+Tags: ["Generic", "Steam", "Sale", "Discount"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Steam-Wishlist-Discount-Notifier
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3A%22Steam+Wishlist+Discount+Notifier%22
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/SteamWishlistDiscountNotifier/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SteamWishlistDiscountNotifier/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SteamWishlistDiscountNotifier/screenshot_01.jpg
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SteamWishlistDiscountNotifier/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/SteamWishlistDiscountNotifier/screenshot_02.jpg

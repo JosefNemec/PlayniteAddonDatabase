@@ -5,11 +5,11 @@ InstallerManifestUrl: https://raw.githubusercontent.com/nosyn00b/playnite-fanati
 ShortDescription: Imports owned digital games from Fanatical Store account.
 Name: Fanatical library integration
 Author: NosyN00b
-SourceUrl: https://github.com/nosyn00b/playnite-fanatical-library
+SourceUrl: https://github.com/nosyn00b/playnite-fanatical-plugin
 Description: This plugin imports Fanatical games bought in the store and still not redeemed.
 Tags: ["Fanatical", "Library"]
 Links:
-    Github: https://github.com/nosyn00b/playnite-fanatical-library
+    Github: https://github.com/nosyn00b/playnite-fanatical-plugin
 Screenshots:
     - Thumbnail: https://raw.githubusercontent.com/nosyn00b/playnite-fanatical-plugin/master/Resources/Screenshot_1_thumb.png
       Image: https://raw.githubusercontent.com/nosyn00b/playnite-fanatical-plugin/master/Resources/Screenshot_1.png

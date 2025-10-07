@@ -1,0 +1,18 @@
+AddonId: 'XBOXreborn_26cb756a-91f1-4243-9d68-c97c2f64809b'
+Type: ThemeFullscreen
+Name: 'XBOXreborn'
+Author: 'saVantCZ'
+ShortDescription: Perfect modern XBOX experience for Playnite
+InstallerManifestUrl: https://github.com/saVantCZ/XBOXreborn/raw/main/Manifest/InstallerManifest.yaml
+SourceUrl: https://github.com/saVantCZ/XBOXreborn
+Tags: ["Theme", "XBOX", "XBOXreborn", "Dashboard", "Console", "Achievements", "Trailers", "MicroTrailers"]
+Links:
+    GitHub: https://github.com/saVantCZ/XBOXreborn
+IconUrl: https://github.com/saVantCZ/XBOXreborn/raw/main/Media/Icon.png
+Screenshots:
+    - Thumbnail: https://github.com/saVantCZ/XBOXreborn/raw/main/Media/Main_Thumb.jpg
+      Image: https://github.com/saVantCZ/XBOXreborn/raw/main/Media/Main.jpg
+    - Thumbnail: https://github.com/saVantCZ/XBOXreborn/raw/main/Media/Details1_Thumb.jpg
+      Image: https://github.com/saVantCZ/XBOXreborn/raw/main/Media/Details1.jpg
+    - Thumbnail: https://github.com/saVantCZ/XBOXreborn/raw/main/Media/AllGames_Thumb.jpg
+      Image: https://github.com/saVantCZ/XBOXreborn/raw/main/Media/AllGames.jpg

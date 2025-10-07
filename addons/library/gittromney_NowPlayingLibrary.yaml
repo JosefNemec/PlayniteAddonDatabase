@@ -1,0 +1,14 @@
+AddonId: NowPlaying_0dbead64-b7ed-47e5-904c-0ccdb5d5ff59
+Type: GameLibrary
+Name: NowPlaying Game Cacher
+Author: gittromney
+ShortDescription: Implements game caching for locally hosted PC (Windows) and supported emulated platform games.
+InstallerManifestUrl: https://raw.githubusercontent.com/gittromney/Playnite-NowPlaying/master/manifests/Library_NowPlaying.yaml
+SourceUrl: https://github.com/gittromney/Playnite-NowPlaying
+Description: This extension allows you to host your own library of PC (Windows) and supported emulated platform games on big-and-slow storage devices but play them from a game cache on your fast storage device(s).
+Tags: ["Library", "Game cacher", "RPCS3", "Xenia", "Ryujinx", "Yuzu"]
+Links:
+    GitHub: https://github.com/gittromney/Playnite-NowPlaying
+    Readme: https://github.com/gittromney/Playnite-NowPlaying#readme
+    Support: https://github.com/gittromney/Playnite-NowPlaying/issues
+IconUrl: https://raw.githubusercontent.com/gittromney/Playnite-NowPlaying/master/NowPlayingLogo.png

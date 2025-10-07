@@ -1,0 +1,12 @@
+AddonId: EGS_Free_Games_Checker_a3062a51-dfce-4e0d-9449-e29beb81f708
+Type: Generic
+Name: EGS Free Games checker
+Author: JulLeBarge
+ShortDescription: This extension will add a tag or category to Epic games given away by Epic Games Store.
+InstallerManifestUrl: https://raw.githubusercontent.com/jullebarge/Playnite_EgsFreeGamesChecker/main/manifest/Generic_EGSFreeGamesChecker.yaml
+SourceUrl: https://github.com/jullebarge/Playnite_EgsFreeGamesChecker
+Description: This extension will add a tag or category to Epic games given away by Epic Games Store. It doesn't match all games perfectly as it's based on their name.
+Tags: ["Generic"]
+Links:
+    GitHub: https://github.com/jullebarge/Playnite_EgsFreeGamesChecker
+IconUrl: https://raw.githubusercontent.com/jullebarge/Playnite_EgsFreeGamesChecker/main/source/icon.png

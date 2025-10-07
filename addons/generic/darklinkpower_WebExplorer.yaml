@@ -1,0 +1,28 @@
+AddonId: WebExplorer_181ddd05-2168-4162-a116-b9c2a20c652c
+Type: Generic
+Name: Web Explorer
+Author: darklinkpower
+ShortDescription: Adds web browsing capabilties to Playnite with different features.
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_WebExplorer.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: |-
+    Adds web browsing capabilties to Playnite, providing the following features:
+    - A fully functional web browser accessible from the sidebar in Desktop Mode, with support for custom bookmarks.
+    - Web browser integration for supported custom themes, allowing browsing game links within Playnite.
+    - Ability to open game links directly in a Playnite browser window from the right-click context menu.
+Tags: ["Generic", "Web", "Browser", "Internet"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/labels/Web%20Explorer
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/WebExplorer/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/WebExplorer/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/WebExplorer/screenshot_01.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/WebExplorer/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/WebExplorer/screenshot_02.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/WebExplorer/thumb_03.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/WebExplorer/screenshot_03.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/WebExplorer/thumb_04.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/WebExplorer/screenshot_04.webp

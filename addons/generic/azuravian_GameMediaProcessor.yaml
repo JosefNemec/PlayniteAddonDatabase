@@ -3,11 +3,11 @@ Type: Generic
 Name: Game Media Processor
 Author: azuravian
 ShortDescription: This extension provides multiple functions for modifying images of games in your library.
-InstallerManifestUrl: https://raw.githubusercontent.com/azuravian/playnite-gamemediaprocessor/Playnite9/manifests/Generic_GameMediaProcessor.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/azuravian/playnite-gamemediaprocessor/master/manifests/Generic_GameMediaProcessor.yaml
 SourceUrl: https://github.com/azuravian/playnite-gamemediaprocessor
 Description: "This extension provides multiple functions for modifying images of games in your library.  These include resizing, cropping, trimming, color-shifting, and flipping."
 Tags: ["Generic", "Metadata"]
 Links:
     GitHub: https://github.com/azuravian/playnite-gamemediaprocessor
     Playnite Forums thread: https://playnite.link/forum/thread-565.html
-IconUrl: https://raw.githubusercontent.com/azuravian/playnite-gamemediaprocessor/Playnite9/icon.png
+IconUrl: https://raw.githubusercontent.com/azuravian/playnite-gamemediaprocessor/master/icon.png

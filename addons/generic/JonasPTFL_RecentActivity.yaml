@@ -1,0 +1,24 @@
+AddonId: 'JonasPTFL_RecentActivity'
+Type: Generic
+Name: Recent Activity
+Author: JPTFL
+ShortDescription: Lists your recent gaming activity (similar to Steam's 'Recent activity' list).
+InstallerManifestUrl: https://github.com/JPTFL/Playnite.RecentActivity/raw/main/installer_manifest.yaml
+SourceUrl: https://github.com/JPTFL/Playnite.RecentActivity
+Description: |-
+  The addon lists your recent gaming activity with some additional information like session count, total playtime, etc.
+  
+  The time span of the activity list can be adjusted at the top of the list.
+  
+  Prerequisites:
+  * GameActivity
+  
+  Warnings:
+  * The addon browses the ExtensionData folder for integration with GameActivity.
+Tags: ['Recent', 'Activity', 'Statistics']
+Links:
+  GitHub: https://github.com/JPTFL/Playnite.RecentActivity
+Screenshots:
+  - Thumbnail: https://github.com/JPTFL/Playnite.RecentActivity/raw/main/demo/Screenshot01_thumb.png
+    Image: https://github.com/JPTFL/Playnite.RecentActivity/raw/main/demo/Screenshot01.png
+IconUrl: https://github.com/JPTFL/Playnite.RecentActivity/raw/main/icon.png

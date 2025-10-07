@@ -1,4 +1,4 @@
-AddonId: Harmony_d49ef7bc-49de-4fd0-9a67-bd1f26b56047
+﻿AddonId: Harmony_d49ef7bc-49de-4fd0-9a67-bd1f26b56047
 Type: ThemeDesktop
 InstallerManifestUrl: https://github.com/darklinkpower/Harmony/raw/master/manifests/Installer_Manifest.yaml
 ShortDescription: Clean theme with modern design for Playnite Desktop Mode.
@@ -9,14 +9,16 @@ Tags: ["Theme", "UI"]
 SourceUrl: https://github.com/darklinkpower/Harmony
 Links:
     GitHub: https://github.com/darklinkpower/Harmony
-    Playnite Forums thread: https://playnite.link/forum/thread-457.html
+    Issues Tracker: https://github.com/darklinkpower/Harmony/issues
+    Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
 IconUrl: https://github.com/darklinkpower/Harmony/raw/master/source/Images/applogo.png
 Screenshots:
     - Thumbnail: https://github.com/darklinkpower/Harmony/raw/master/screenshots/thumb_01.jpg
-      Image: https://github.com/darklinkpower/Harmony/raw/master/screenshots/screenshot_01.jpg
+      Image: https://github.com/darklinkpower/Harmony/raw/master/screenshots/screenshot_01.webp
     - Thumbnail: https://github.com/darklinkpower/Harmony/raw/master/screenshots/thumb_02.jpg
-      Image: https://github.com/darklinkpower/Harmony/raw/master/screenshots/screenshot_02.jpg
+      Image: https://github.com/darklinkpower/Harmony/raw/master/screenshots/screenshot_02.webp
     - Thumbnail: https://github.com/darklinkpower/Harmony/raw/master/screenshots/thumb_03.jpg
-      Image: https://github.com/darklinkpower/Harmony/raw/master/screenshots/screenshot_03.jpg
+      Image: https://github.com/darklinkpower/Harmony/raw/master/screenshots/screenshot_03.webp
     - Thumbnail: https://github.com/darklinkpower/Harmony/raw/master/screenshots/thumb_04.jpg
-      Image: https://github.com/darklinkpower/Harmony/raw/master/screenshots/screenshot_04.jpg
+      Image: https://github.com/darklinkpower/Harmony/raw/master/screenshots/screenshot_04.webp

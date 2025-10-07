@@ -1,0 +1,42 @@
+AddonId: CoverStyleSwitcher
+Type: Generic
+Name: Cover Style Switcher
+Author: roob-p
+ShortDescription: Switch game covers and choose your preferred styles, saving and loading multiple game's cover in different slots. Useful for backup too.
+InstallerManifestUrl: https://raw.githubusercontent.com/roob-p/CoverStyleSwitcher-PlayniteExtension/main/manifest.yaml
+SourceUrl: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension
+Description: |-
+  Switch game covers and choose your preferred styles, saving and loading multiple game's cover in different slots.
+  If you want to try different cover styles, this extension is for you! Also useful for backing up and organizing your covers.
+
+  Extra features:
+    - Change covers via Explorer.
+    - Replace multiple covers at once via Explorer (Batch).
+    - Quickly access the Playnite game's metadata images folder.
+Tags:
+  - Generic
+  - Cover
+  - Style
+  - Switch
+  - Organize
+  - Backup
+  - Slot
+  - Change
+  - Metadata
+Links:
+  Github: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/
+  Donate (Ko-fi): https://ko-fi.com/roobp
+IconUrl: https://raw.githubusercontent.com/roob-p/CoverStyleSwitcher-PlayniteExtension/main/icon1.png
+Screenshots:
+  - Thumbnail: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/thumbs/screen1.jpg
+    Image: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/screen1.jpg
+  - Thumbnail: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/thumbs/screen2.jpg
+    Image: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/screen2.jpg
+  - Thumbnail: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/thumbs/screen4.jpg
+    Image: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/screen4.jpg
+  - Thumbnail: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/thumbs/screen5.jpg
+    Image: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/screen5.jpg
+  - Thumbnail: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/thumbs/g1.jpg
+    Image: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/thumbs/1.gif
+  - Thumbnail: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/thumbs/g2.jpg
+    Image: https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/raw/main/media/thumbs/2.gif

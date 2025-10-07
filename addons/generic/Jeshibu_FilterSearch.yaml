@@ -1,0 +1,35 @@
+AddonId: FilterSearch
+Type: Generic
+Name: Filter Search
+Author: Jeshibu
+ShortDescription: Find filter presets, genres, tags, features, etc in the keyboard launcher, then use them to filter your library!
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_FilterSearch.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: |
+    Find filter presets and genres, tags, features, etc in the keyboard launcher, then use them to filter your library!
+
+    See documentation link for a better explanation.
+
+    Adds extra search contexts for most metadata items, including filter presets.
+    Can also add items to the main search context so you can find them even without switching context (might negatively affect startup time if there are a lot of them).
+    Use Playnite Settings > Search to configure their keywords.
+    Use Add-ons > Extension settings > Generic > Filter Search to configure:
+    - What search contexts are added
+    - What item types are added to the global search context
+    - What to do when triggering the search items' action: add to you current filter, or filter only to that item
+Tags: ["keyboard launcher", "filtering"]
+Links:
+    Documentation: https://github.com/Jeshibu/PlayniteExtensions/blob/main/docs/FilterSearch/readme.md
+    Playnite Keyboard Launcher: https://api.playnite.link/docs/manual/features/keyboardLauncher.html
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/FilterSearch/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/docs/FilterSearch/thumb_globalcontext.png
+    Image: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/docs/FilterSearch/globalcontext.png
+  - Thumbnail: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/docs/FilterSearch/thumb_searchcontexts.png
+    Image: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/docs/FilterSearch/searchcontexts.png
+  - Thumbnail: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/docs/FilterSearch/thumb_searchcontext-genres.png
+    Image: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/docs/FilterSearch/searchcontext-genres.png
+  - Thumbnail: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/docs/FilterSearch/thumb_playnite-settings.png
+    Image: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/docs/FilterSearch/playnite-settings.png

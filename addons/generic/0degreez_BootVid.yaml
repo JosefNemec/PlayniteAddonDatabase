@@ -1,0 +1,13 @@
+AddonId: BootVid_5c4269c6-48e8-44c6-a9a9-c72c1090d9f1
+Type: Generic
+Name: BootVid
+Author: 0degreez
+ShortDescription: Give your gaming device a console vibe with a custom video when launching Playnite in fullscreen mode.
+InstallerManifestUrl: https://github.com/0degreez-mx/BootVid/raw/refs/heads/main/InstallerManifest.yaml
+SourceUrl: https://github.com/0degreez-mx/BootVid
+Description: |
+    Enhance your Playnite experience with a personalized splash screen!
+    The BootVid Plugin allows you to play a custom video when launching Playnite in fullscreen mode.
+    Add a touch of style and creativity to your gaming device's startup.
+IconUrl: https://raw.githubusercontent.com/0degreez-mx/BootVid/refs/heads/main/Source/icon.png
+Tags: ['Generic', 'boot', 'splashscreen', 'video', 'animation']

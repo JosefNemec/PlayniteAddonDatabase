@@ -1,0 +1,27 @@
+﻿AddonId: 'AllyNite_e1f711b2-2e8e-41a7-a843-c931045cfaa6'
+Type: ThemeFullscreen
+Name: 'AllyNite'
+Author: 'Artem Shpynov'
+ShortDescription: A fullscreen theme inspired by the EmulationStation Carbon theme and ASUS ROG Ally
+InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/AllyNite/main/AllyNite.yaml
+SourceUrl: https://github.com/ashpynov/AllyNite
+Description: This theme inspired by the sleek design of the EmulationStation Carbon theme and the portability of the ASUS ROG Ally handheld. Perfect for handheld devices with extra-large fonts for small screens. Built from both "Remix" themes by ZeroAntix and Mike Aniki, it offers a perfect mix of style and functionality for portable gaming.
+Tags: ["ROG", "Ally", "Console", "Handheld", "Emulation"]
+Links:
+    GitHub: https://github.com/ashpynov/AllyNite
+    Support (Discord): https://discord.com/channels/365863063296933888/808419347105447957
+    Buy me a coffee : https://ko-fi.com/ashpynov
+IconUrl: https://raw.githubusercontent.com/ashpynov/AllyNite/main/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/thumbnail01.png
+      Image: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/screenshot01.png
+    - Thumbnail: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/thumbnail02.png
+      Image: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/screenshot02.png
+    - Thumbnail: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/thumbnail03.png
+      Image: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/screenshot03.png
+    - Thumbnail: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/thumbnail04.png
+      Image: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/screenshot04.png
+    - Thumbnail: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/thumbnail05.png
+      Image: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/screenshot05.png
+    - Thumbnail: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/thumbnail06.png
+      Image: https://raw.githubusercontent.com/ashpynov/AllyNite/refs/heads/main/.Thumbnail/screenshot06.png

@@ -1,0 +1,11 @@
+AddonId: felixkmh_Extras_Plugin
+Type: Generic
+Name: ThemeExtras
+Author: felixkmh
+ShortDescription: A collection of custom UI elements and other quality of life improvements for themes.
+InstallerManifestUrl: https://github.com/felixkmh/ThemeExtras-for-Playnite/raw/master/InstallerManifest/felixkmh_Extras_Plugin.yaml
+SourceUrl: https://github.com/felixkmh/ThemeExtras-for-Playnite
+Tags: ["themes","custom ui","qol"]
+IconUrl: https://github.com/felixkmh/ThemeExtras-for-Playnite/raw/master/source/icon.png
+Links:
+  Wiki: https://github.com/felixkmh/ThemeExtras-for-Playnite/wiki

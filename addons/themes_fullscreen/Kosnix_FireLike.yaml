@@ -1,0 +1,17 @@
+AddonId: 'FireLike_b3d4a675-3478-4af9-abd8-fa31053db67b'
+Type: ThemeFullscreen
+Name: 'FireLike'
+Author: 'Kosnix'
+ShortDescription: A new Fullscreen theme.
+InstallerManifestUrl: https://raw.githubusercontent.com/Kosnix/FireLike/main/FireLike.yaml
+SourceUrl: https://github.com/Kosnix/FireLike
+Tags: ["Fire", "theme", "Like", "Console", "Kosnix"]
+Links:
+IconUrl: https://github.com/Kosnix/FireLike/raw/main/logo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/FireLike/main/Screenshot1.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/FireLike/main/Screenshot1.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/FireLike/main/Screenshot2.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/FireLike/main/Screenshot2.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Kosnix/FireLike/main/Screenshot3.jpg
+      Image: https://raw.githubusercontent.com/Kosnix/FireLike/main/Screenshot3.jpg

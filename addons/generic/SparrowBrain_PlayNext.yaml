@@ -1,0 +1,30 @@
+AddonId: SparrowBrain_PlayNext
+Type: Generic
+Name: Play Next
+Author: SparrowBrain
+ShortDescription: Recommends games to play (similar to Steam's Play Next).
+InstallerManifestUrl: https://raw.githubusercontent.com/SparrowBrain/Playnite.PlayNext/main/ci/installer_manifest.yaml
+SourceUrl: https://github.com/SparrowBrain/Playnite.PlayNext
+Description: |-
+    Play Next recommends games based both on your activity and game's critical reception. The recommendation algorithm is highly customizable.
+
+    Disclaimer:
+    * The addon reads the ExtensionData folder for integration with other addons. Nothing is sent over the internet - everything happens locally.
+
+    Integrates with addons:
+    * GameActivity
+    * StartPage
+Tags: ['Recommendation', 'Steam']
+Links:
+    GitHub: https://github.com/SparrowBrain/Playnite.PlayNext
+    Translate: https://crowdin.com/project/sparrowbrain-playnite-playnext
+Screenshots:
+    - Thumbnail: https://github.com/SparrowBrain/Playnite.PlayNext/raw/main/ci/screenshots/01_thumb.jpg
+      Image: https://github.com/SparrowBrain/Playnite.PlayNext/raw/main/ci/screenshots/01.jpg
+    - Thumbnail: https://github.com/SparrowBrain/Playnite.PlayNext/raw/main/ci/screenshots/02_thumb.jpg
+      Image: https://github.com/SparrowBrain/Playnite.PlayNext/raw/main/ci/screenshots/02.jpg
+    - Thumbnail: https://github.com/SparrowBrain/Playnite.PlayNext/raw/main/ci/screenshots/03_thumb.jpg
+      Image: https://github.com/SparrowBrain/Playnite.PlayNext/raw/main/ci/screenshots/03.jpg
+    - Thumbnail: https://github.com/SparrowBrain/Playnite.PlayNext/raw/main/ci/screenshots/04_thumb.jpg
+      Image: https://github.com/SparrowBrain/Playnite.PlayNext/raw/main/ci/screenshots/04.jpg
+IconUrl: https://github.com/SparrowBrain/Playnite.PlayNext/raw/main/PlayNext/icon.png

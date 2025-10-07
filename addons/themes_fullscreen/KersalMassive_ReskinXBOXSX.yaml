@@ -1,0 +1,18 @@
+AddonId: 'ReXBOXSX'
+Type: ThemeFullscreen
+Name: 'Reskin XBOXSX'
+Author: 'TheKersalMassive'
+ShortDescription: A XBOX Series X reskin of the Playnite fullscreen theme
+InstallerManifestUrl: https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/TheKersalMassive/ReskinXBOXSX
+Tags: ["Theme", "XBOX", "Console", "Big Picture Mode"]
+Links:
+    GitHub: https://github.com/TheKersalMassive/ReskinXBOXSX
+IconUrl: https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Media/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Media/thumb-01.jpg
+      Image: https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Media/Screenshot-01.jpg    
+    - Thumbnail: https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Media/thumb-02.jpg
+      Image: https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Media/Screenshot-02.jpg
+    - Thumbnail: https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Media/thumb-03.jpg
+      Image: https://raw.githubusercontent.com/TheKersalMassive/ReskinXBOXSX/main/Media/Borders-01.jpg

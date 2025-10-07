@@ -1,0 +1,28 @@
+AddonId: FilterPresetsQuickLauncher_ef9df36c-24c2-418c-8468-eed95a09d950
+Type: Generic
+Name: Filter Presets Quick Launcher
+Author: darklinkpower
+ShortDescription: This extension offers diverse functionality to quickly launch Filter presets from the top panel, sidebar or from Playnite's Search keyboard launcher. 
+InstallerManifestUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/manifests/Generic_FilterPresetsQuickLauncher.yaml
+SourceUrl: https://github.com/darklinkpower/PlayniteExtensionsCollection
+Description: |-
+    This extension offers diverse functionality to quickly launcher Filter presets:
+    - Adds support to add buttons to apply Filter Presets to the Top Panel and sidebar by configuring them in the extension settings
+    - Adds support to search and apply Filter Presets from Playnite's Search keyboard launcher with the "fp" keyword
+    - Adds support to launch Filter Presets by using an URI with the "playnite://FiltersHelper/<FilterPresetName-or-Id>" format
+Tags: ["Generic", "Filter", "Preset", "Sidebar", "Topbar", "Search", "Quick", "Launch"]
+Links:
+    GitHub: https://github.com/darklinkpower/PlayniteExtensionsCollection
+    Help and Troubleshooting: https://github.com/darklinkpower/PlayniteExtensionsCollection/wiki/Filter-Presets-Quick-Launcher
+    Issues Tracker: https://github.com/darklinkpower/PlayniteExtensionsCollection/issues?q=is%3Aopen+is%3Aissue+label%3AFilterPresetsQuickLauncher
+    Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
+    Translate: https://crowdin.com/project/darklinkpower-playnite-extensi
+    Ko-fi (Tips and Donations): https://ko-fi.com/darklinkpower
+IconUrl: https://raw.githubusercontent.com/darklinkpower/PlayniteExtensionsCollection/master/source/Generic/FilterPresetsQuickLauncher/icon.png
+Screenshots:
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/thumb_01.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/screenshot_01.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/thumb_02.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/screenshot_02.webp
+    - Thumbnail: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/thumb_03.jpg
+      Image: https://github.com/darklinkpower/PlayniteExtensionsCollection/raw/master/screenshots/FilterPresetsQuickLauncher/screenshot_03.webp

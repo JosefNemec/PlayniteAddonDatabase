@@ -1,0 +1,17 @@
+AddonId: RiotGamesLibrary_91d13c6f-63d3-42ed-a100-6f811a8387ea
+Type: GameLibrary
+Name: Riot Games Library
+Author: Adam Schoenfeld
+ShortDescription: Manages Riot Games library in Playnite
+InstallerManifestUrl: https://raw.githubusercontent.com/ASchoe311/RiotGamesLibrary/master/InstallerManifest.yaml
+SourceUrl: https://github.com/ASchoe311/RiotGamesLibrary
+Links:
+  Riot Games: https://riotgames.com/
+Description: |
+    Allows Playnite to manage install, uninstall, and launching of games by Riot Games
+
+    Can attach companion applications to League of Legends and Valorant (e.g. U.GG, Porofesser, blitz.gg) that launch and close with the games
+
+    Enables Riot Client to be force closed when a game is closed so it isn't always running in the background
+Tags: ["riot", "riotgames", "leagueoflegends", "valorant", "legendsofruneterra"]
+IconUrl: https://raw.githubusercontent.com/ASchoe311/RiotGamesLibrary/master/icon.png

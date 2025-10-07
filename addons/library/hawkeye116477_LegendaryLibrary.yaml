@@ -1,0 +1,20 @@
+AddonId: "LegendaryLibrary"
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/hawkeye116477/playnite-legendary-plugin/main/installer.yaml
+ShortDescription: "Epic Games Store library integration with Legendary Launcher"
+Description: |-
+  It allows to:
+  * launch, install, uninstall and update games,
+  * migrate game entries from Epic plugin,
+  * automatically synchronize game saves with cloud before and after every session (optional).
+
+  It works good also if Heroic Games Launcher (non-portable) is installed.
+Name: "Legendary (Epic Games) library integration"
+Author: "hawkeye116477"
+Tags: ["epic", "heroic"]
+SourceUrl: https://github.com/hawkeye116477/playnite-legendary-plugin/
+Links:
+  Help: https://github.com/hawkeye116477/playnite-legendary-plugin/wiki
+  Forum: https://github.com/hawkeye116477/playnite-legendary-plugin/discussions
+  Translate: https://crowdin.com/project/playnite-legendary-plugin
+IconUrl: https://raw.githubusercontent.com/hawkeye116477/playnite-legendary-plugin/main/src/Resources/legendary_icon.ico

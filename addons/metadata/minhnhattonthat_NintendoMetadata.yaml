@@ -1,0 +1,12 @@
+AddonId: NintendoMetadata
+Type: MetadataProvider
+Name: Nintendo Metadata
+Author: Nathan Ton
+ShortDescription: Playnite metadata extension for retrieving data from Nintendo stores.
+InstallerManifestUrl: https://raw.githubusercontent.com/minhnhattonthat/playnite-nintendo-metadata-plugin/master/addon.yaml
+SourceUrl: https://github.com/minhnhattonthat/playnite-nintendo-metadata-plugin
+Description: Playnite metadata extension for retrieving data from Nintendo stores. Currently supports US, UK and Japan stores.
+Tags: ["Nintendo", "Metadata"]
+Links:
+    Github: https://github.com/minhnhattonthat/playnite-nintendo-metadata-plugin
+IconUrl: https://raw.githubusercontent.com/minhnhattonthat/playnite-nintendo-metadata-plugin/master/icon.png

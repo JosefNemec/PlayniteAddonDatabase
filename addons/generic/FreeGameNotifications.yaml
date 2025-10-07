@@ -1,0 +1,16 @@
+AddonId: FreeGameNotifications_e053a9fe-117f-40fd-ab46-0e09ac442ca9
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/epidemicz/FreeGameNotifications/master/manifest/installer.yaml
+ShortDescription: Get notifications for free games on the Epic Games Store
+Description: This plugin creates a notification when the Epic Games Store has free games to claim that you don't own
+Name: Free Game Notifications
+Author: Epidemicz
+Tags: ['Epic Games Store', 'Free', 'Free Games', 'Generic', 'Library']
+SourceUrl: https://github.com/epidemicz/FreeGameNotifications
+Links:
+    GitHub: https://github.com/epidemicz/FreeGameNotifications
+    Ko-fi (Support Development): https://ko-fi.com/epidemicz
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/epidemicz/FreeGameNotifications/master/screenshots/FreeGameNotifications-001.png
+      Image: https://raw.githubusercontent.com/epidemicz/FreeGameNotifications/master/screenshots/FreeGameNotifications-001.png
+IconUrl: https://raw.githubusercontent.com/epidemicz/FreeGameNotifications/master/source/icon.png

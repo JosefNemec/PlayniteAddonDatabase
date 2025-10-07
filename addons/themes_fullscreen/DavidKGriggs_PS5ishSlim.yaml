@@ -1,0 +1,20 @@
+AddonId: 'PS5ish Slim_595a8e66-1a8b-4628-874e-ed853daddc3d'
+Type: ThemeFullscreen
+Name: 'PS5ish Slim'
+Author: 'DavidKGriggs'
+ShortDescription: PS5ish Slim is a Theme for Playnite that emulates the PS5 UI but toned down to be faster. Just a single row of games.
+InstallerManifestUrl: https://github.com/davidkgriggs/PS5ishSlim/raw/main/Manifests/Installer_Manifest.yaml
+SourceUrl: https://github.com/davidkgriggs/PS5ishSlim
+Tags: ["Theme", "Modern", "DKG", "UI", "PS5", "PS5ish", "Console"]
+Links:
+    GitHub: https://github.com/davidkgriggs/PS5ishSlim
+IconUrl: https://github.com/davidkgriggs/PS5ishSlim/raw/main/Media/applogo.png
+Screenshots:
+    - Thumbnail: https://github.com/davidkgriggs/PS5ishSlim/raw/main/Media/thumb_01.jpg
+      Image: https://github.com/davidkgriggs/PS5ishSlim/raw/main/Media/screenshot_01.jpg
+    - Thumbnail: https://github.com/davidkgriggs/PS5ishSlim/raw/main/Media/thumb_02.jpg
+      Image: https://github.com/davidkgriggs/PS5ishSlim/raw/main/Media/screenshot_02.jpg
+    - Thumbnail: https://github.com/davidkgriggs/PS5ishSlim/raw/main/Media/thumb_03.jpg
+      Image: https://github.com/davidkgriggs/PS5ishSlim/raw/main/Media/screenshot_03.jpg
+    - Thumbnail: https://github.com/davidkgriggs/PS5ishSlim/raw/main/Media/thumb_04.jpg
+      Image: https://github.com/davidkgriggs/PS5ishSlim/raw/main/Media/screenshot_04.jpg

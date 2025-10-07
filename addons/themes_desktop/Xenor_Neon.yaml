@@ -1,0 +1,16 @@
+AddonId: 8b15c46a-90c2-4fe5-9ebb-1ab25ba7fcb2
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/XenorPLxx/Neon/master/manifests/Installer_Manifest.yaml
+ShortDescription: Theme based on darklinkpower's Helium with modified Grid View.
+Description: Theme based on darklinkpower's Helium with modified Grid View. It is suitable for displays with higher horizontal pixel counts. Check out the GitHub for relevant settings. Keep in mind that a similar effect can be achieved by using original Helium with the 'Details to Grid View Converter' add-on, which is a recommended way for most users.
+Name: Neon
+Author: Xenor
+Tags: ["Theme", "Steam", "UI"]
+SourceUrl: https://github.com/XenorPLxx/Neon
+Links:
+  GitHub: https://github.com/XenorPLxx/Neon
+  "Orignal darklinkpower's Helium": https://github.com/darklinkpower/Helium
+IconUrl: https://github.com/XenorPLxx/Neon/raw/master/source/Images/applogo.png
+Screenshots:
+  - Thumbnail: https://github.com/XenorPLxx/Neon/raw/master/screenshots/thumb_01.jpg
+    Image: https://github.com/XenorPLxx/Neon/raw/master/screenshots/screenshot_01.jpg

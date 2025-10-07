@@ -15,6 +15,8 @@ This process will create new pull request that will be awaiting a review. Once t
 
 **NOTE** You can of course use standard git process to clone this repository and submit pull request from your fork if you are more familiar with git workflow.
 
+**NOTE** You can use [Toolbox](https://playnite.link/docs/master/tutorials/toolbox.html) utility to verify if your manifest is valid and contains all required information.
+
 ### Installation URI
 
 If you want to provide users with an easy way to directly install your add-on, you can generate special URI that will start add-on installation directly:
@@ -103,7 +105,7 @@ Installer manifest
 | PackageUrl | URL to an actual `.pext` or `.pthm` add-on file. |
 | RequiredApiVersion | Minimal API version (SDK version or theme API version) required by this add-on version. |
 | ReleaseDate | Package release date in `YYYY-MM-DD` format. |
-| Changelog | List of changes. Optional. |
+| Changelog | List of changes. |
 
 ### Example
 
