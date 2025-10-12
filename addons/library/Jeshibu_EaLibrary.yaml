@@ -1,0 +1,11 @@
+AddonId: OriginLibrary_Builtin
+IconUrl: https://github.com/Jeshibu/PlayniteExtensions/raw/main/source/EaLibrary/Resources/ea_icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/refs/heads/main/manifests/Library_EA.yaml
+ShortDescription: Imports games from EA game library.
+Name: EA app library integration
+Author: Jeshibu
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
