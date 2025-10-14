@@ -1,12 +1,13 @@
 AddonId: AnikiHelper_96a983a3-3f13-4dce-a474-4052b718bb52
 Type: Generic
-InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/AnikiHelper/refs/heads/main/InstallerManifest.yaml
-ShortDescription: 'Aniki Helper is a Playnite plugin designed to enhance the Fullscreen experience by displaying advanced library statistics'
+InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/AnikiHelper/main/InstallerManifest.yaml
+ShortDescription: 'Aniki Helper is a Playnite plugin designed to enhance the Fullscreen experience by displaying advanced library statistics.'
 Name: 'Aniki Helper'
 Author: 'Mike Aniki'
 SourceUrl: https://github.com/Mike-Aniki/AnikiHelper
-IconUrl: https://raw.githubusercontent.com/Mike-Aniki/AnikiHelper/refs/heads/main/Source/icon.png
+IconUrl: https://raw.githubusercontent.com/Mike-Aniki/AnikiHelper/main/Source/icon.png
 Links:
-  GitHub: https://github.com/Mike-Aniki/AnikiHelper
-  Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
-  Buy me a coffee (Tips and Donations): https://ko-fi.com/mikeaniki
+  - GitHub: https://github.com/Mike-Aniki/AnikiHelper
+  - Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
+  - Buy me a coffee (Tips and Donations): https://ko-fi.com/mikeaniki
+
