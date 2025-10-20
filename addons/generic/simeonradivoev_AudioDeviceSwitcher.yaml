@@ -1,0 +1,13 @@
+AddonId: AudioDeviceSwitcher_4b207713-1cad-4236-8fb1-4e0ae60a75e3
+Type: Generic
+Name: AudioDeviceSwitcher
+Author: Simeon Radivoev
+ShortDescription: Audio Device Switching from the UI
+InstallerManifestUrl: https://raw.githubusercontent.com/simeonradivoev/audio-deive-switcher-playnite/refs/heads/master/manifest.yaml
+SourceUrl: https://github.com/simeonradivoev/audio-deive-switcher-playnite
+Description: A plugin that allows you to switch your Windows active sound device. It also allows for automatic audio device upon fullscreen launch.
+Tags: ["Generic", "Audio", "Settings"]
+Links:
+    GitHub: https://github.com/simeonradivoev/audio-deive-switcher-playnite
+    Ko-fi (Tips and Donations): https://ko-fi.com/simeonradivoev
+IconUrl: https://github.com/simeonradivoev/audio-deive-switcher-playnite/blob/master/icon.png?raw=true
