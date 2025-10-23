@@ -1,0 +1,20 @@
+AddonId: ScreenshotUtilities_485d682f-73e9-4d54-b16f-b8dd49e88f90
+Type: Generic
+Name: Screenshot Utilities
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_ScreenshotUtilities.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/ScreenshotUtilities/icon.png
+ShortDescription: 'plugin to view screenshots from different sources like Steam or Gog'
+Description: |-
+    This addon can display screenshots from different sources in Playnite. It provides a control for themes and a standalone window to view the screenshots as well as functionality to fetch and optionally download them from provider addons. Only works in tandem with at least one provider addon like Screenshot Utilities Steam Provider.
+Tags: ['Generic', 'screenshots']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    Help: https://knarzwerk.de/en/playnite-extensions/screenshot-utilities
+    AddOn database: https://playnite.link/addons.html#ScreenshotUtilities_485d682f-73e9-4d54-b16f-b8dd49e88f90
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
+    Ko-fi (Tips and Donations): https://ko-fi.com/herrknarz
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/refs/heads/master/screenshots/ScreenshotUtilitiesThumb.png
+      Image: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/refs/heads/master/screenshots/ScreenshotUtilities.png
