@@ -1,0 +1,12 @@
+AddonId: 7ad03f78-50f9-40d5-a7a3-cac5776e5482
+Type: Generic
+Name: Running Game To Json
+Author: stevo_ko
+ShortDescription: 'Save Running Game to Json'
+Description: 'Saves the Running Game with the Started or Stopped Event to RunningGame.json so you can do something with the Information and more code like changing Twitch Category when Game X is started'
+InstallerManifestUrl: https://raw.githubusercontent.com/stevo-ko/Running-Game-to-Json/refs/heads/main/installer_manifest.yaml
+SourceUrl: https://github.com/stevo-ko/Running-Game-to-Json
+IconUrl: https://raw.githubusercontent.com/stevo-ko/Running-Game-to-Json/refs/heads/main/icon.png
+Tags: ['Json', 'Game']
+Links:
+    GitHub: https://github.com/stevo-ko/Running-Game-to-Json
