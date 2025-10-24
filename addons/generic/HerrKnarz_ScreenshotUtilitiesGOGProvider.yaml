@@ -1,0 +1,17 @@
+AddonId: ScreenshotUtilitiesGOGProvider_228c70e8-7c89-46fc-b2c8-6e97966d01a4
+Type: Generic
+Name: Screenshot Utilities GOG Provider
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_ScreenshotUtilitiesGOGProvider.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/ScreenshotUtilitiesGOGProvider/icon.png
+ShortDescription: 'provider addon for Screenshot Utilities to display screenshots from the GOG store'
+Description: |-
+    This is a provider addon for Screenshot Utilities. It only works in tandem with Screenshot Utilities and provides screenshots from the GOG Store page of a game. It only works for games from the GOG or GOG OSS library addons for the moment.
+Tags: ['Generic', 'screenshots', 'GOG', 'ScreenshotUtilities']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    Help: https://knarzwerk.de/en/playnite-extensions/screenshot-utilities
+    AddOn database: https://playnite.link/addons.html#ScreenshotUtilitiesGOGProvider_228c70e8-7c89-46fc-b2c8-6e97966d01a4
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
+    Ko-fi (Tips and Donations): https://ko-fi.com/herrknarz
