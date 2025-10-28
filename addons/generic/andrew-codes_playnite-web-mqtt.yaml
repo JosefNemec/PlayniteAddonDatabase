@@ -1,0 +1,19 @@
+AddonId: PlayniteWebMqtt_8c8e0788-7c52-426a-a479-fcf0836ea64a
+Name: Playnite Web Mqtt
+Type: Generic
+Author: andrew-codes
+ShortDescription: Remote control Playnite via a Mqtt broker; useful for home automation systems and Playnite Web.
+InstallerManifestUrl: https://raw.githubusercontent.com/andrew-codes/playnite-web/refs/heads/main/apps/PlayniteWebMqttPlugin/src/manifest.yaml
+SourceUrl: https://github.com/andrew-codes/playnite-web
+Description: >-
+  Remote control Playnite via a Mqtt broker; useful for home automation systems. This can be paired with Playnite Web and another automation system, such as Home Asssistant, to create a fully automated gaming setup using Playnite Web as the remote.
+    
+  Playnite Web Mqtt offers:
+
+  - start, stop, restart, install, and uninstall games via Mqtt messages
+Tags: ["Generic", "MQTT", "Automation", "Remote Control"]
+Links:
+  Homepage: https://github.com/andrew-codes/playnite-web/blob/main/README.md
+  Andrew-Codes GitHub homepage: https://github.com/andrew-codes
+  Andrew-Codes homepage: https://andrew.codes
+IconUrl: https://raw.githubusercontent.com/andrew-codes/playnite-web/refs/heads/main/apps/PlayniteWebMqttPlugin/src/Resources/icon.png?raw=true
