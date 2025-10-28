@@ -6,16 +6,17 @@ ShortDescription: Self-hosted Playnite companion web app; offering remote contro
 InstallerManifestUrl: https://raw.githubusercontent.com/andrew-codes/playnite-web/refs/heads/main/apps/PlayniteWebPlugin/src/manifest.yaml
 SourceUrl: https://github.com/andrew-codes/playnite-web
 Description: >-
-    Share, remote control, and automate your game library online with self-hosted Playnite Web.
+  Share, remote control, and automate your game library online with self-hosted Playnite Web.
 
-    Playnite Web offers:
+  Playnite Web offers:
 
-    - a beautiful web UI for your Playnite library to share with friends
-    - remote control of staring and stopping games with home automation; locked behind a username/password login screen
-    - a graph API to help you build your own, unique experiences
-Tags: ["Generic", "Web", "Self-hosted", "Website", "Automation", "Remote Control"]
+  - a beautiful web UI for your Playnite library to share with friends
+  - remote control of staring and stopping games with home automation; locked behind a username/password login screen
+  - a graph API to help you build your own, unique experiences
+Tags:
+  ["Generic", "Web", "Self-hosted", "Website", "Automation", "Remote Control"]
 Links:
-    Homepage: https://github.com/andrew-codes/playnite-web/blob/main/README.md
-    Andrew-Codes GitHub homepage: https://github.com/andrew-codes
-    Andrew-Codes homepage: https://andrew.codes
-IconUrl: https://github.com/andrew-codes/playnite-web/blob/main/_docs/assets/images/logo.png?raw=true
+  Homepage: https://github.com/andrew-codes/playnite-web/blob/main/README.md
+  Andrew-Codes GitHub homepage: https://github.com/andrew-codes
+  Andrew-Codes homepage: https://andrew.codes
+IconUrl: https://raw.githubusercontent.com/andrew-codes/playnite-web/refs/heads/main/apps/PlayniteWebPlugin/src/Resources/icon.png?raw=true
