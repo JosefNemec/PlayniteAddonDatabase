@@ -1,0 +1,17 @@
+AddonId: ScreenshotUtilitiesArcadeDatabaseProvider_f2109af2-b240-4700-a61d-c316f47b8cf4
+Type: Generic
+Name: Screenshot Utilities Arcade Database Provider
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_ScreenshotUtilitiesArcadeDatabaseProvider.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/ScreenshotUtilitiesArcadeDatabaseProvider/icon.png
+ShortDescription: 'provider addon for Screenshot Utilities to display screenshots from the Arcade Database website.'
+Description: |-
+    This is a provider addon for Screenshot Utilities. It only works in tandem with Screenshot Utilities and provides screenshots from the Arcade Database (http://adb.arcadeitalia.net/) page of a game. It only works for games added as roms with standard MAME rom names for the moment.
+Tags: ['Generic', 'screenshots', 'ArcadeDatabase', 'ScreenshotUtilities']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    Help: https://knarzwerk.de/en/playnite-extensions/screenshot-utilities
+    AddOn database: https://playnite.link/addons.html#ScreenshotUtilitiesArcadeDatabaseProvider_f2109af2-b240-4700-a61d-c316f47b8cf4
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
+    Ko-fi (Tips and Donations): https://ko-fi.com/herrknarz
