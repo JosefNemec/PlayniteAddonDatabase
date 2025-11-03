@@ -1,0 +1,16 @@
+Id: playnite-controller-compatibility-plugin
+Name: Controller Compatibility
+Author: DreadHeadHippy
+Version: 1.0.1
+ShortDescription: Provides controller compatibility detection and management for Playnite.
+Description: A Playnite plugin that detects controllers, displays compatibility overlays, and recommends input methods for your games.
+Links:
+  - Name: GitHub
+    Url: https://github.com/DreadHeadHippy/Controller-Compatibility
+DownloadUrl: https://github.com/DreadHeadHippy/Controller-Compatibility/releases/download/v1.0.1/ControllerCompatibility.pext
+IconUrl: https://raw.githubusercontent.com/DreadHeadHippy/Controller-Compatibility/main/controller_overlay_icon.png
+Tags:
+  - controller
+  - compatibility
+  - input
+  - gamepad
