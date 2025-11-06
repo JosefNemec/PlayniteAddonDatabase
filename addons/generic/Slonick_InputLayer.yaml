@@ -1,0 +1,16 @@
+﻿AddonId: InputLayer
+Type: Generic
+Name: InputLayer
+Author: Slonick
+InstallerManifestUrl: https://raw.githubusercontent.com/Slonick/InputLayer/master/manifest/Slonick_InputLayer.yaml
+SourceUrl: https://github.com/Slonick/InputLayer
+IconUrl: https://raw.githubusercontent.com/Slonick/InputLayer/master/sources/InputLayer/icon.png
+ShortDescription: 'Plugin that allows to bind actions to gamepad buttons.'
+Description: |-
+  This plugin enables users to control their computer using a gamepad by binding custom actions to gamepad button combinations. Users can assign keyboard key presses with modifiers (like Ctrl+C or Alt+Tab), execute programs and scripts, run command line or PowerShell commands, or trigger Playnite-specific functions to any gamepad input. 
+Tags: ['Generic', 'Fullscreen', 'Controller', 'Input', 'Gamepad']
+Links:
+  Ko-fi (Tips and Donations): https://ko-fi.com/slonick
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/Slonick/InputLayer/master/screenshots/desktop-thumb.png
+    Image: https://raw.githubusercontent.com/Slonick/InputLayer/master/screenshots/desktop.png
