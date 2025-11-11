@@ -2,18 +2,19 @@ AddonId: 'Revisited_75824c9b-aa0e-43ad-a98c-9b4c44f07848'
 Type: ThemeFullscreen
 Name: 'Revisited'
 Author: 'ld892012'
-ShortDescription: It's just a Playnite default Fullscreen skin with modified visuals (Main, Details and Splash screen). Supports BackgroundChanger and ExtraMetadata logos.
+ShortDescription: It's just a Playnite default Fullscreen skin with modified visuals (Main, Details and Splash screen). Supports BackgroundChanger, ExtraMetadata logos and Back to Game.
 InstallerManifestUrl: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Manifest/Manifest.yaml
 SourceUrl: https://github.com/ld892012/PlayniteRevisitedSkin
 Tags: ["Theme", "Revisited", "UI"]
 Links:
     GitHub: https://github.com/ld892012/PlayniteRevisitedSkin
+IconUrl: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Playnite/Logo.png
 Screenshots:
-    - Thumbnail: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/T_Main.png
-      Image: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Main.png
-    - Thumbnail: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/T_Detail.png
-      Image: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Detail.png
-    - Thumbnail: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/T_DetailDesc.png
-      Image: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/DetailDesc.png
-    - Thumbnail: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/T_Status.png
-      Image: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Status.png
+    - Thumbnail: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Playnite/T_1.jpg
+      Image: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Playnite/1.jpg
+    - Thumbnail: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Playnite/T_2.jpg
+      Image: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Playnite/2.jpg
+    - Thumbnail: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Playnite/T_3.jpg
+      Image: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Playnite/3.jpg
+    - Thumbnail: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Playnite/T_4.jpg
+      Image: https://github.com/ld892012/PlayniteRevisitedSkin/raw/main/Media/Playnite/4.jpg
