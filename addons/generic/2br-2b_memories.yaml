@@ -3,7 +3,7 @@ Type: Generic
 Name: Playnite Memories
 Author: John Wuller
 ShortDescription: Take screenshots of your games automatically, add a screenshot button to all your libraries, and more!
-InstallerManifestUrl: https://raw.githubusercontent.com/2br-2b/PlayniteMemories/master/extension.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/2br-2b/PlayniteMemories/refs/heads/master/installer.yaml
 SourceUrl: https://github.com/2br-2b/PlayniteMemories
 Description: |
     Have you ever played a game for hours, only to completely forget about the game years later? The goal of this extension is to help change that.
