@@ -1,0 +1,15 @@
+AddonId: GameMemories
+Type: Generic
+Name: Playnite Memories
+Author: John Wuller
+ShortDescription: Take screenshots of your games automatically, add a screenshot button to all your libraries, and more!
+InstallerManifestUrl: https://raw.githubusercontent.com/2br-2b/PlayniteMemories/master/extension.yaml
+SourceUrl: https://github.com/2br-2b/PlayniteMemories
+Description: |
+    Have you ever played a game for hours, only to completely forget about the game years later? The goal of this extension is to help change that.
+
+    This extension will help you by taking screenshots in game automatically every so often (15 minutes by default, but you can change this). This way, when you look back, you'll be able to remember what you did as you played thru the game!
+
+    This extension also adds a unified screenshot button to all of your game libraries. By default, F12 is added to take screenshots in all your games outside of Steam, and a monitor folder is configured to copy over any screenshots you take in Steam.
+IconUrl: https://raw.githubusercontent.com/2br-2b/PlayniteMemories/master/icon.png
+Tags: ['Generic', 'screenshots']
