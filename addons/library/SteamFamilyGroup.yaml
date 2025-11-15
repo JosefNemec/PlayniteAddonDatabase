@@ -1,0 +1,12 @@
+AddonId: SteamFamilyGroup
+Type: GameLibrary
+Name: Steam Family Group
+Author: Antaneyes
+ShortDescription: Imports Steam Family Sharing libraries as a dedicated source in Playnite.
+Description: >
+  Syncs the combined libraries of your Steam Family Sharing members, downloads metadata
+  from the Steam store and exposes install/play actions for each shared game.
+InstallerManifestUrl: https://raw.githubusercontent.com/Antaneyes/SteamFamilyLibrary/main/manifests/SteamFamilyGroup/installer.yaml
+SourceUrl: https://github.com/Antaneyes/SteamFamilyLibrary
+Links:
+    GitHub: https://github.com/Antaneyes/SteamFamilyLibrary
