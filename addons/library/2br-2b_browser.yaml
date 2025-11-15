@@ -1,0 +1,18 @@
+AddonId: PlayniteBrowser_3c58c307-b26e-4569-855a-e19afa4a3b2f
+Type: GameLibrary
+Name: Playnite Browser
+Author: John Wuller
+ShortDescription: Add websites to your game library!
+InstallerManifestUrl: https://raw.githubusercontent.com/2br-2b/PlayniteBrowser/refs/heads/master/installer.yaml
+SourceUrl: https://github.com/2br-2b/PlayniteBrowser/
+Description: |
+  Add websites to your Playnite Library! You can choose a custom browser, add extensions, and more!
+
+  To add a game, first go to `Addons > Extension Settings > Browser` and add your websites. Then, go to `Update Game Library > Browser` to refresh your addons!
+IconUrl: https://raw.githubusercontent.com/2br-2b/PlayniteBrowser/master/icon.png
+Tags: ['Library', 'browser']
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/2br-2b/PlayniteBrowser/master/Screenshots/Library.png
+      Image: https://raw.githubusercontent.com/2br-2b/PlayniteBrowser/master/Screenshots/Library.png
+    - Thumbnail: https://raw.githubusercontent.com/2br-2b/PlayniteBrowser/master/Screenshots/Settings.png
+      Image: https://raw.githubusercontent.com/2br-2b/PlayniteBrowser/master/Screenshots/Settings.png
