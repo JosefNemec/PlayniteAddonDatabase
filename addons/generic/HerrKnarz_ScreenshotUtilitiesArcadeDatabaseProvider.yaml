@@ -7,7 +7,7 @@ SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
 IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/ScreenshotUtilitiesArcadeDatabaseProvider/icon.png
 ShortDescription: 'provider addon for Screenshot Utilities to display screenshots from the Arcade Database website.'
 Description: |-
-    This is a provider addon for Screenshot Utilities. It only works in tandem with Screenshot Utilities and provides screenshots from the Arcade Database (http://adb.arcadeitalia.net/) page of a game. It only works for games added as roms with standard MAME rom names for the moment.
+    This is a provider addon for Screenshot Utilities. It only works in tandem with Screenshot Utilities and provides screenshots from the Arcade Database (http://adb.arcadeitalia.net/) page of a game. It fetches screenshots automatically for games added as roms with standard MAME rom names. Screenshots to other games can be added via the search function.
 Tags: ['Generic', 'screenshots', 'ArcadeDatabase', 'ScreenshotUtilities']
 Links:
     GitHub: https://github.com/HerrKnarz/Playnite-Extensions
