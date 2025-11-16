@@ -1,0 +1,17 @@
+AddonId: ScreenshotUtilitiesKLOVProvider_10a18213-f522-4818-8e8d-2b063398b069
+Type: Generic
+Name: Screenshot Utilities Killer List Of Video Games Provider
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_ScreenshotUtilitiesKLOVProvider.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/ScreenshotUtilitiesKLOVProvider/icon.png
+ShortDescription: 'provider addon for Screenshot Utilities to display screenshots from the Arcade Database website.'
+Description: |-
+    This is a provider addon for Screenshot Utilities. It only works in tandem with Screenshot Utilities and provides screenshots from the Killer List Of Video Games (https://www.arcade-museum.com/) page of a game. It works for games with an existing link to the website or by trying to find the game via its name on the website.
+Tags: ['Generic', 'screenshots', 'KLOV', 'ScreenshotUtilities']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    Help: https://knarzwerk.de/en/playnite-extensions/screenshot-utilities
+    AddOn database: https://playnite.link/addons.html#ScreenshotUtilitiesKLOVProvider_10a18213-f522-4818-8e8d-2b063398b069
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
+    Ko-fi (Tips and Donations): https://ko-fi.com/herrknarz
