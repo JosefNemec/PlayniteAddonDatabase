@@ -13,3 +13,6 @@ Description: |
     This extension also adds a unified screenshot button to all of your game libraries. By default, F12 is added to take screenshots in all your games outside of Steam, and a monitor folder is configured to copy over any screenshots you take in Steam.
 IconUrl: https://raw.githubusercontent.com/2br-2b/PlayniteMemories/master/icon.png
 Tags: ['Generic', 'screenshots']
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/2br-2b/PlayniteMemories/master/Screenshots/Playnite%20Memories%201.png
+      Image: https://raw.githubusercontent.com/2br-2b/PlayniteMemories/master/Screenshots/Playnite%20Memories%201.png
