@@ -8,6 +8,7 @@ IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/
 ShortDescription: 'plugin to quickly add/remove/toggle often used categories, features and tags'
 Description: |-
     With this plugin you can add, remove or toggle often used categories, features and tags via the game context menu without having to go through the edit dialog. Which entries to show in the menu has to be configured in the addon settings!
+    Attention! This addon is deprecated and will only receive bugfixes. The features are merged into and extended in Metadata Utilities.
 Tags: ['Generic', 'tags', 'features', 'categories']
 Links:
     GitHub: https://github.com/HerrKnarz/Playnite-Extensions

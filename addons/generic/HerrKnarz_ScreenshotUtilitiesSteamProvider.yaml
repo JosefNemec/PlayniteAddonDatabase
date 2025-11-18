@@ -7,7 +7,7 @@ SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
 IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/ScreenshotUtilitiesSteamProvider/icon.png
 ShortDescription: 'provider addon for Screenshot Utilities to display screenshots from the steam store'
 Description: |-
-    This is a provider addon for Screenshot Utilities. It only works in tandem with Screenshot Utilities and provides screenshots from the Steam Store page of a game. It works for games from the Steam library addon out of the box. Other games need a link to steam to get the game id.
+    This is a provider addon for Screenshot Utilities. It only works in tandem with Screenshot Utilities and provides screenshots from the Steam Store page of a game. It automatically fetches screenshots for games from the Steam library addon or containing a link to steam. Screenshots to other games can be added via the search function.
 Tags: ['Generic', 'screenshots', 'steam', 'ScreenshotUtilities']
 Links:
     GitHub: https://github.com/HerrKnarz/Playnite-Extensions

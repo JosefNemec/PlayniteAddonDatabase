@@ -11,10 +11,14 @@ Description: |-
     * Quickly filter and edit categories, features, genres, series and tags in new Metadata Editor window.
     * Merge similar metadata. You can even merge different types like tags and features together.
     * Set up merge rules to do the merging automatically on metadata updates.
+    * Set up conditional actions to change metadata based on various conditions.
+    * Copy metadata from one game to others.
     * Define default categories and/or tags to add to newly installed games.
     * Automatically remove unused categories, features, genres, series and tags on start up (deactivated by default).
 Tags: ['Generic', 'metadata', 'categories', 'features', 'genres', 'series', 'tags', 'management', 'merge']
 Links:
     GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    Help: https://knarzwerk.de/en/playnite-extensions/metadata-utilities/
     AddOn database: https://playnite.link/addons.html#MetadataUtilities_485ab5f0-bfb1-4c17-93cc-20d8338673be
     Translate: https://crowdin.com/project/playnite-extension-linkutiliti
+    Ko-fi (Tips and Donations): https://ko-fi.com/herrknarz
