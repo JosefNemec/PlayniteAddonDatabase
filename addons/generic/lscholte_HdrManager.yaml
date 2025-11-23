@@ -5,5 +5,6 @@ Author: Liam Scholte
 ShortDescription: Automatically enables HDR for games that support it.
 InstallerManifestUrl: https://raw.githubusercontent.com/lscholte/PlayniteHdrManager/refs/heads/main/manifest.yaml
 SourceUrl: https://github.com/lscholte/PlayniteHdrManager
+IconUrl: https://raw.githubusercontent.com/lscholte/PlayniteHdrManager/refs/heads/main/icon.png
 Description: Automatically enables HDR for games that support it. Use in conjunction with the PCGamingWiki Metadata Provider extension
 Tags: ["Generic", "HDR"]
