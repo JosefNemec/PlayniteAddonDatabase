@@ -1,5 +1,5 @@
 AddonId: "E3C64309-3175-4740-8802-18118001602B"
-Type: GenericPlugin
+Type: Generic
 Name: YouTube Gameplay Search
 Author: Savvas Dalkitsis
 ShortDescription: Adds a right-click menu option to search YouTube gameplay videos.
