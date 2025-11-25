@@ -8,7 +8,7 @@ SourceUrl: https://github.com/savvasdalkitsis/playnite-youtube-search
 Description: |
   Adds a right-click menu option to search YouTube gameplay videos.
 Tags: ["Youtube", "Video", "Search"]
-Links:
-  - Name: GitHub
-    Url: https://github.com/savvasdalkitsis/playnite-youtube-search
 IconUrl: https://raw.githubusercontent.com/savvasdalkitsis/playnite-youtube-search/refs/heads/main/icon_128.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/savvasdalkitsis/playnite-youtube-search/refs/heads/main/assets/image.png
+      Image: https://raw.githubusercontent.com/savvasdalkitsis/playnite-youtube-search/refs/heads/main/assets/image.png
