@@ -1,29 +1,35 @@
 AddonId: AutoCategories
 Type: Generic
-Name: AutoCategories
+Name: QuickPlatformCategories
 Author: roob-p
-ShortDescription: Automatic platform/source categories to games with custom names.  
-InstallerManifestUrl: https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/main/manifest.yaml
-SourceUrl: https://github.com/roob-p/AutoCategories-PlayniteExtension
+ShortDescription: |
+ ✨ Automatically create and assign platform/source categories to your games for faster filtering in Playnite.
+ Perfect for large libraries, emulator setups, and mixed platforms.
+InstallerManifestUrl: https://raw.githubusercontent.com/roob-p/QuickPlatformCategories-PlayniteExtension/main/manifest.yaml
+SourceUrl: https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension
 Description: |
-    This extension will automatically add, create and apply "platform/source" categories to your games, making it easy to organize your library especially after importing new games.
-    
-    * You can specify short game's platform names for the categories (for example Nintendo Entertainment System -> Nintendo NES, Sony Playstation 2 -> Sony PS2, etc).
-    * You can also add sources like Ea App, Ubisoft Connect and add short names (like Origin, Uplay) or whatever you want.
-    * Edit Platforms.txt and Source.txt as you like without having to reload the extension.
-Tags: ["Generic", "Categories", "Organize", "Platforms", "Source", "Shortnames", "Custom names"]
-Links: 
-     Github: https://github.com/roob-p/AutoCategories-PlayniteExtension/
-     Donate (Ko-fi): https://ko-fi.com/roobp
-IconUrl: https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/main/icon.jpg
+    This extension automatically assigns each game to categories based on its platform or source, including short user-defined names (e.g. Sony PlayStation 2 → PS2) making it easy to keep your library organized, especially after importing new games.
+    It allows you to quickly filter games across different platforms in a much more intuitive and responsive way compared to Playnite's built-in "Platform" and "Library" filters.
 
+    Features:
+    * Assign categories automatically based on each game's platform and source.
+    * Define short, user-friendly names for platforms (e.g. Nintendo Entertainment System → NES) and sources (e.g. EA App → Origin).
+    * If a category for a platform or source is not defined, it will be created with the platform/source name.
+    * Existing categories are never deleted.
+    * Games with multiple platforms will only be assigned to the first platform listed in Playnite.
+    * Edit `Platforms.txt` and `Source.txt` at any time without reloading the extension.
+Tags: ["Generic", "Categories", "Organize", "Platforms", "Source", "Shortnames", "Custom names"]
+Links:
+     Github: https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/
+     Donate (Ko-fi): https://ko-fi.com/E1E214R1KB
+IconUrl: https://raw.githubusercontent.com/roob-p/QuickPlatformCategories-PlayniteExtension/main/icon.jpg
 
 Screenshots:
   - Thumbnail: >-
-      https://github.com/roob-p/AutoCategories-PlayniteExtension/raw/main/media/thumbs/screen1.jpg
+      https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/raw/main/media/thumbs/screen1.jpg
     Image: >-
-      https://github.com/roob-p/AutoCategories-PlayniteExtension/raw/main/media/screen1.jpg
+      https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/raw/main/media/screen1.jpg
   - Thumbnail: >-
-      https://github.com/roob-p/AutoCategories-PlayniteExtension/raw/main/media/thumbs/screen2.jpg
+      https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/raw/main/media/thumbs/screen2.jpg
     Image: >-
-      https://github.com/roob-p/AutoCategories-PlayniteExtension/raw/main/media/screen2.jpg
+      https://github.com/roob-p/QuickPlatformCategories-PlayniteExtension/raw/main/media/screen2.jpg
