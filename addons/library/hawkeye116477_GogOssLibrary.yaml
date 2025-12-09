@@ -5,8 +5,8 @@ ShortDescription: "GOG library integration with open-source tools"
 Description: |-
   It allows to:
   * launch games (Comet required for leaderboards, multiplayer and achievements),
-  * install, uninstall, repair and update games and DLCs (heroic-gogdl required),
-  * migrate game entries from GOG plugin,
+  * install, uninstall, repair and update games and DLCs (applying game update patches will work only if Xdelta 3 is installed),
+  * migrate game entries from GOG plugin and revert that,
   * automatically synchronize game saves with cloud before and after every session (optional),
   * automatically synchronize playtime with cloud (optional).
 
