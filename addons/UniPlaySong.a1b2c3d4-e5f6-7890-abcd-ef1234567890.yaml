@@ -1,7 +1,7 @@
 AddonId: 'UniPlaySong.a1b2c3d4-e5f6-7890-abcd-ef1234567890'
 Type: Generic
 Name: 'UniPlaySong'
-Author: 'aHuddini'
+Author: 'Huddini'
 ShortDescription: 'Console-like game music preview experience with controller support, customizable fade-in and fade-out effects, audio normalization, and silence trimming. Music plays when browsing your library, creating an immersive experience similar to PlayStation and Xbox game selection screens.'
 InstallerManifestUrl: 'https://github.com/aHuddini/UniPlaySong/releases/latest/download/installer.yaml'
 SourceUrl: 'https://github.com/aHuddini/UniPlaySong'
