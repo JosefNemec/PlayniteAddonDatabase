@@ -1,0 +1,38 @@
+AddonId: 'UniPlaySong.a1b2c3d4-e5f6-7890-abcd-ef1234567890'
+Type: Generic
+Name: 'UniPlaySong'
+Author: 'aHuddini'
+ShortDescription: 'Console-like game music preview experience with controller support, customizable fade-in and fade-out effects, audio normalization, and silence trimming. Music plays when browsing your library, creating an immersive experience similar to PlayStation and Xbox game selection screens.'
+InstallerManifestUrl: 'https://github.com/aHuddini/UniPlaySong/releases/latest/download/installer.yaml'
+SourceUrl: 'https://github.com/aHuddini/UniPlaySong'
+Description: |
+  UniPlaySong provides a console-like game music preview experience and controller-friendly song management for Playnite. 
+  
+  Key Features:
+  - Automatic music playback when selecting games in your library
+  - Fullscreen Xbox controller support for complete music management from your couch
+  - Audio normalization using FFmpeg (EBU R128 standard, no FFmpeg-normalize required)
+  - Silence trimming to remove leading silence from audio files
+  - Download music directly from YouTube and KHInsider
+  - Customizable fade transitions, preview times, and randomization
+  - Primary song system for setting default tracks per game
+  - Default/fallback music support with position preservation
+  - Works seamlessly with all Playnite themes (desktop and fullscreen)
+  
+  Perfect for:
+  - Creating an immersive game browsing experience
+  - Managing game music libraries with controller support
+  - Normalizing and cleaning up audio files
+  - Enjoying console-like music previews while browsing your collection
+  
+  Designed for both Desktop and Fullscreen mode, with compatibility to modern themes like ANIKI REMAKE.
+Tags:
+  - 'music'
+  - 'audio'
+  - 'controller'
+  - 'fullscreen'
+  - 'normalization'
+  - 'trimming'
+  - 'youtube'
+  - 'download'
+IconUrl: 'https://github.com/aHuddini/UniPlaySong/raw/main/icon.png'
