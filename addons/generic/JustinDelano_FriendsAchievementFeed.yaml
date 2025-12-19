@@ -1,14 +1,11 @@
 AddonId: FriendsAchievementFeed
-Name: Friends Achievement Feed
 Author: Justin Delano
-Version: 1.0
-Module: FriendsAchievementFeed.dll
 ShortDescription: A Playnite extension that displays a feed of your friends' achievements.
-InstallerManifestUrl: https://github.com/justin-delano/playnite-friendsachievementfeed-plugin/raw/main/manifest/FriendsAchievementFeed.yaml
+InstallerManifestUrl: https://github.com/justin-delano/playnite-friendsachievementfeed-plugin/raw/main/InstallerManifest.yaml
+SourceUrl: https://github.com/justin-delano/playnite-friendsachievementfeed-plugin
 Type: Generic
-Icon: icon.png
+Icon: https://raw.githubusercontent.com/justin-delano/playnite-friendsachievementfeed-plugin/main/source/icon.png
 Links:
   GitHub: https://github.com/justin-delano/playnite-friendsachievementfeed-plugin
   Issues Tracker: https://github.com/justin-delano/playnite-friendsachievementfeed-plugin/issues
   Translate: https://crowdin.com/project/playnite-extensions
-SourceUrl: https://github.com/justin-delano/playnite-friendsachievementfeed-plugin
