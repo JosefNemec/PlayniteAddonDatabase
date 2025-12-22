@@ -1,0 +1,19 @@
+AddonId: f15771cd-b6d7-4a3d-9b8e-08786a13d9c7
+Type: GameLibrary
+Name: Non-Steam Sync
+Author: hikaps
+ShortDescription: Two-way sync for non-Steam shortcuts between Playnite and Steam
+InstallerManifestUrl: https://raw.githubusercontent.com/hikaps/non-steam-sync/main/manifests/installer.yaml
+SourceUrl: https://github.com/hikaps/non-steam-sync
+IconUrl: https://raw.githubusercontent.com/hikaps/non-steam-sync/main/manifests/icon.png
+Description: |
+  Import and export non-Steam shortcuts between Playnite and Steam.
+  
+  Features:
+  - Import existing non-Steam shortcuts from Steam into Playnite
+  - Export Playnite games to Steam as non-Steam shortcuts
+  - Sync artwork (grid, hero, logo, icon) automatically
+  - SteamGridDB integration for missing artwork
+  - Full controller support through Steam Input
+  - Backup and restore functionality
+Tags: ['steam', 'shortcuts', 'sync', 'controller', 'artwork']
