@@ -1,6 +1,6 @@
 AddonId: SteamFriendsFullscreen_d8d67c7e-a797-45d7-ae44-3d53ddecc8d1
 Type: Generic
-InstallerManifestUrl: https://github.com/Mike-Aniki/Steam_Friends_Fullscreen/blob/main/InstallerManifest.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/Steam_Friends_Fullscreen/refs/heads/main/InstallerManifest.yaml
 ShortDescription: 'Steam Friends Fullscreen is a Playnite plugin designed to display your Steam friends presence directly inside Playnite Fullscreen mode.'
 Name: 'Steam Friends Fullscreen'
 Author: 'Mike Aniki'
