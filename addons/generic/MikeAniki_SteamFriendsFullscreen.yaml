@@ -6,7 +6,7 @@ Name: 'Steam Friends Fullscreen'
 Author: 'Mike Aniki'
 SourceUrl: https://github.com/Mike-Aniki/Steam_Friends_Fullscreen
 IconUrl: https://raw.githubusercontent.com/Mike-Aniki/Steam_Friends_Fullscreen/refs/heads/main/icon.png
-Description: Steam Friends Fullscreen is a Playnite plugin designed to display your Steam friends presence directly inside Playnite Fullscreen mode. Displays your Steam friends presence: In-game, Online, Away, Busy, Offline (optional). The plugin runs exclusively in Playnite Fullscreen mode.
+Description: Steam Friends Fullscreen is a Playnite plugin designed to display your Steam friends presence directly inside Playnite Fullscreen mode. Displays your Steam friends presence, In-game, Online, Away, Busy, Offline (optional). The plugin runs exclusively in Playnite Fullscreen mode.
 Links:
   GitHub: https://github.com/Mike-Aniki/Steam_Friends_Fullscreen
   Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
