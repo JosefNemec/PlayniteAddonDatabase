@@ -1,0 +1,12 @@
+AddonId: 'Local_Metadata_Importer_7fdd3f44-0209-49f3-a1f0-40297c22b8f2'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/joyrider3774/Playnite_Local_Metadata_Importer/main/Local_Metadata_Importer.yaml
+ShortDescription: 'Import local (media) metadata into Playnite.'
+Name: 'Local Metadata Importer'
+Author: 'Joyrider3774'
+Tags: ['Media', 'Importer', 'Metadata', 'Local']
+SourceUrl: https://github.com/joyrider3774/Playnite_Local_Metadata_Importer
+IconUrl: https://github.com/joyrider3774/Playnite_Local_Metadata_Importer/raw/main/icon.png
+Description: 'A Plugin to import localy existing metadata like icons, backgrounds, covers, logos and videos in your Playnite library based on rom or gamename.'
+Links:
+    Github: https://github.com/joyrider3774/Playnite_Local_Metadata_Importer
