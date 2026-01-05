@@ -2,7 +2,7 @@ AddonId: 'UniPlaySong.a1b2c3d4-e5f6-7890-abcd-ef1234567890'
 Type: Generic
 Name: 'UniPlaySong'
 Author: 'Huddini'
-ShortDescription: 'Console-like game music preview experience with controller support and audio management features. Music plays when selecting games in your library.'
+ShortDescription: 'Console-like game music preview experience with controller support and audio management features.'
 InstallerManifestUrl: 'https://github.com/aHuddini/UniPlaySong/releases/latest/download/installer.yaml'
 SourceUrl: 'https://github.com/aHuddini/UniPlaySong'
 Description: |
