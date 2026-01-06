@@ -1,0 +1,17 @@
+AddonId: Yalgrin_WineBridgePlugin
+Type: Generic
+Name: Wine Bridge
+Author: Yalgrin
+ShortDescription: Partial Wine support for Playnite
+InstallerManifestUrl: https://raw.githubusercontent.com/Yalgrin/playnite-wine-bridge-plugin/refs/heads/master/Manifests/Yalgrin_WineBridgePlugin_Installer.yaml
+SourceUrl: https://github.com/Yalgrin/playnite-wine-bridge-plugin
+Description: |-
+  This plugin fixes some issues caused by running Playnite under Wine. Features:
+    - installation, uninstallation and launching of Steam games
+    - option to add custom play actions for any game
+Tags: [ "Generic", "Linux", "Wine", "Steam" ]
+Links:
+  GitHub: https://github.com/Yalgrin/playnite-wine-bridge-plugin
+  Issue Tracker: https://github.com/Yalgrin/playnite-wine-bridge-plugin/issues
+  Ko-fi: https://ko-fi.com/yalgrin
+IconUrl: https://raw.githubusercontent.com/Yalgrin/playnite-wine-bridge-plugin/refs/heads/master/icon.png

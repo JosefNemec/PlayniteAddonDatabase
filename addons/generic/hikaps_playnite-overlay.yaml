@@ -1,0 +1,14 @@
+AddonId: playnite-overlay
+Type: Generic
+Name: Playnite Overlay
+Author: hikaps
+ShortDescription: In-game overlay for quick game switching and management
+InstallerManifestUrl: https://raw.githubusercontent.com/hikaps/playnite-overlay/main/installer.yaml
+SourceUrl: https://github.com/hikaps/playnite-overlay
+Description: |
+    In-game overlay for quick game switching and management. Open with hotkey or Xbox Guide button to switch between running games, manage your current session, and browse recent games.
+    
+    - Controller and keyboard navigation
+    - Hotkey and Xbox Guide button activation
+IconUrl: https://raw.githubusercontent.com/hikaps/playnite-overlay/main/extension/icon.png
+Tags: ['Generic', 'Overlay', 'Controller', 'Fullscreen']

@@ -1,0 +1,14 @@
+AddonId: SimpleExporttoWeb_7f89f66d-1cac-4d0e-9c2f-c1f97d82357a
+Type: Generic
+Name: Simple Export to Web
+Author: Michael Z Freeman
+ShortDescription: Export to HTML.
+InstallerManifestUrl: https://raw.githubusercontent.com/Michael-Z-Freeman/Simple-Export-to-Web/refs/heads/master/installer-manifest.yaml
+SourceUrl: https://github.com/Michael-Z-Freeman/Simple-Export-to-Web
+Description: Scratching a personal itch. Just wanted a simple way to export to a web page.
+Tags: ["Generic", "Export", "HTML", "Web"]
+Links:
+    GitHub: https://github.com/Michael-Z-Freeman/Simple-Export-to-Web
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Michael-Z-Freeman/Simple-Export-to-Web/master/images/thumb.png
+      Image: https://raw.githubusercontent.com/Michael-Z-Freeman/Simple-Export-to-Web/master/images/Screenshot.png
