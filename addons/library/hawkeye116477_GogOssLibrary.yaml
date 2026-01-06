@@ -4,13 +4,13 @@ InstallerManifestUrl: https://raw.githubusercontent.com/hawkeye116477/playnite-g
 ShortDescription: "GOG library integration with open-source tools"
 Description: |-
   It allows to:
-  * launch games (Comet required for leaderboards, multiplayer and achievements),
-  * install, uninstall, repair and update games and DLCs (heroic-gogdl required),
-  * migrate game entries from GOG plugin,
-  * automatically synchronize game saves with cloud before and after every session (optional),
-  * automatically synchronize playtime with cloud (optional).
+  * launch games,
+  * install, uninstall, repair and update games and DLCs,
+  * migrate game entries from GOG plugin and revert that,
+  * synchronize game saves with cloud before and after every session (optional),
+  * synchronize playtime with cloud (optional).
 
-  Please read instructions at wiki to make sure that everything is installed correctly.
+  Note: Some additional tools may be required for some functions, so please read instructions mentioned at help site to make sure that everything is installed correctly.
 Name: "GOG OSS library integration"
 Author: "hawkeye116477"
 Tags: ["gog", "heroic"]
