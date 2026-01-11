@@ -1,0 +1,14 @@
+AddonId: Yalgrin_SteamCollectionImporter
+Type: Generic
+Name: Steam Collection Importer
+Author: Yalgrin
+ShortDescription: Simple utility to import Steam collections to Playnite
+InstallerManifestUrl: https://raw.githubusercontent.com/Yalgrin/playnite-steam-collection-importer-plugin/refs/heads/master/Manifests/Yalgrin_SteamCollectionImporter_Installer.yaml
+SourceUrl: https://github.com/Yalgrin/playnite-wine-bridge-plugin
+Description: Gives you an option to import basic Steam collections to Playnite.
+Tags: [ "Generic", "Steam", "Categories", "Import" ]
+Links:
+  GitHub: https://github.com/Yalgrin/playnite-steam-collection-importer-plugin
+  Issue Tracker: https://github.com/Yalgrin/playnite-steam-collection-importer-plugin/issues
+  Ko-fi: https://ko-fi.com/yalgrin
+IconUrl: https://raw.githubusercontent.com/Yalgrin/playnite-steam-collection-importer-plugin/refs/heads/master/icon.png
