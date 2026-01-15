@@ -7,9 +7,10 @@ InstallerManifestUrl: https://raw.githubusercontent.com/Yalgrin/playnite-wine-br
 SourceUrl: https://github.com/Yalgrin/playnite-wine-bridge-plugin
 Description: |-
   This plugin fixes some issues caused by running Playnite under Wine. Features:
-    - installation, uninstallation and launching of Steam games
-    - option to add custom play actions for any game
-Tags: [ "Generic", "Linux", "Wine", "Steam" ]
+    - installation, uninstallation and launching of games from various libraries using Linux launchers such as Steam, Heroic Games Launcher and Lutris
+    - option to add play actions for any of the supported Linux clients or completely custom commands
+    - and more!
+Tags: [ "Generic", "Linux", "Wine", "Steam", "Heroic", "Lutris" ]
 Links:
   GitHub: https://github.com/Yalgrin/playnite-wine-bridge-plugin
   Issue Tracker: https://github.com/Yalgrin/playnite-wine-bridge-plugin/issues
