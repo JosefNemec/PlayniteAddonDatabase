@@ -1,0 +1,13 @@
+AddonId: FriendsAchievementFeedFullscreenCompanion_9fc60469-d8db-4dec-b5c8-65b4b5a88123
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/Friends-Achievement-Feed-Fullscreen-Companion/refs/heads/main/InstallerManifest.yaml
+ShortDescription: 'A lightweight companion plugin that brings FriendsAchievementFeed data to Playnite Fullscreen themes.'
+Name: 'Friends Achievement Feed – Fullscreen Companion'
+Author: 'Mike Aniki'
+SourceUrl: https://github.com/Mike-Aniki/Friends-Achievement-Feed-Fullscreen-Companion
+IconUrl: https://raw.githubusercontent.com/Mike-Aniki/Friends-Achievement-Feed-Fullscreen-Companion/refs/heads/main/icon.png
+Description: This companion plugin connects FriendsAchievementFeed with compatible Playnite Fullscreen themes to display friends’ achievements in a clean, fullscreen-friendly way.
+Links:
+  GitHub: https://github.com/Mike-Aniki/Friends-Achievement-Feed-Fullscreen-Companion
+  Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
+  Buy me a coffee: https://ko-fi.com/mikeaniki
