@@ -5,18 +5,19 @@ Author: 'Huddini'
 ShortDescription: 'Console-like game music preview experience with controller support and audio management features.'
 InstallerManifestUrl: 'https://github.com/aHuddini/UniPlaySong/releases/latest/download/installer.yaml'
 SourceUrl: 'https://github.com/aHuddini/UniPlaySong'
+IconUrl: 'https://github.com/aHuddini/UniPlaySong/raw/main/icon.png'
 Description: |
-  UniPlaySong provides a console-like game music preview experience and controller-friendly song management for Playnite. 
+  UniPlaySong is an add-on that provides a console-like game music preview experience and controller-friendly song management for Playnite. 
   
   Key Features:
   - Automatic music playback when selecting games in your library
+  - Configurable Desktop Media Controls (Play/Pause, Skip, Song Info)
+  - Customizable fade transitions, preview lengths, and live reverb effects
   - Fullscreen Xbox controller support for complete music management from your couch
-  - Audio normalization tools using FFmpeg (EBU R128 standard)
-  - Trimming tools to change song start position
-  - Download music directly from online sources manually or automatically
-  - Customizable fade transitions, preview times, and randomization
-  - Primary song system for setting default tracks on Playnite boot
-  - Default/fallback music support for games with no music
+  - Download music directly from online sources manually or automatically (YT-DLP)
+  - Audio Processing Tools (FFMPEG): Audio normalization, Amplify & Trimming (Precise & Silence gap)
+  - Migration, Backup & Cleanup Tools
+  - Default/fallback music can be set for games with no music
   - Works seamlessly with all Playnite themes (desktop and fullscreen)
   
   Designed for both Desktop and Fullscreen mode, with compatibility to modern themes like ANIKI REMAKE.
@@ -25,11 +26,9 @@ Tags:
   - 'audio'
   - 'controller'
   - 'fullscreen'
-  - 'normalization'
-  - 'trimming'
-  - 'youtube'
-  - 'download'
+  - 'preview'
+  - 'console'
 Links:
   GitHub: https://github.com/aHuddini/UniPlaySong
   Discord: https://discord.gg/czSZBSMG85
-IconUrl: 'https://github.com/aHuddini/UniPlaySong/raw/main/icon.png'
+  Buy me a coffee: https://ko-fi.com/huddini
