@@ -1,0 +1,24 @@
+AddonId: SaveManager
+Type: Generic
+Name: Save Manager
+Author: Jurangren
+ShortDescription: 智能存档备份与管理插件，支持自动路径识别、备注编辑、配置导入导出等功能
+Description: |
+  Save Manager 是一个功能强大的 Playnite 存档管理插件，提供智能化的存档备份和恢复方案。
+  
+  核心特性：
+  - 智能路径识别：自动判断游戏相对路径和系统环境变量路径，无需手动选择
+  - 便携化设计：支持 {GameDir} 和 %USERPROFILE% 变量，游戏移动后自动适配
+  - 备份管理：支持备注编辑、快速备份、导入外部备份包
+  - 配置共享：支持导入导出存档路径配置，方便分享或迁移
+  - 智能清理：自动清理空文件夹，保持目录整洁
+  - 用户友好：添加路径时自动定位游戏目录，支持多文件选择
+InstallerManifestUrl: https://raw.githubusercontent.com/Jurangren/save-manager/main/installer.yaml
+SourceUrl: https://github.com/Jurangren/save-manager
+Tags:
+  - Utility
+  - Backup
+  - Save Management
+Links:
+  GitHub: https://github.com/Jurangren/save-manager
+  Issues: https://github.com/Jurangren/save-manager/issues
