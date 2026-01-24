@@ -13,8 +13,6 @@ Description: |
   - Config Sharing: Import/export save path configurations for easy sharing or migration
   - Smart Cleanup: Automatically cleans empty folders to keep directories tidy
   - User Friendly: Auto-locates game directory when adding paths, supports multi-file selection
-  
-  Note: The extension UI is currently available in Chinese (Simplified) only.
 InstallerManifestUrl: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/installer.yaml
 SourceUrl: https://github.com/Jurangren/save-manager
 Tags:
@@ -24,3 +22,9 @@ Tags:
 Links:
   GitHub: https://github.com/Jurangren/save-manager
   Issues: https://github.com/Jurangren/save-manager/issues
+IconUrl: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/src/SaveManager/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/doc/img/Main_thumb_en.jpg
+      Image: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/doc/img/Main_en.png
+    - Thumbnail: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/doc/img/Menu_thumb_en.jpg
+      Image: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/doc/img/Menu_en.png
