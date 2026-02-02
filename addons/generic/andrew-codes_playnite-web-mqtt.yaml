@@ -13,7 +13,7 @@ Description: >-
   - start, stop, restart, install, and uninstall games via Mqtt messages
 Tags: ["Generic", "MQTT", "Automation", "Remote Control"]
 Links:
-  Homepage: https://github.com/andrew-codes/playnite-web/blob/main/README.md
+  Homepage: https://public.home.playniteweb.com/wiki/spaces/PW/overview
   Andrew-Codes GitHub homepage: https://github.com/andrew-codes
   Andrew-Codes homepage: https://andrew.codes
 IconUrl: https://raw.githubusercontent.com/andrew-codes/playnite-web/refs/heads/main/apps/PlayniteWebMqttPlugin/src/Resources/icon.png?raw=true
