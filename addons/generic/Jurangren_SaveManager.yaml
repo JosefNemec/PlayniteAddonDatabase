@@ -14,7 +14,7 @@ Description: |
   - 📂 Portable Design: Supports {GameDir}, {EmulatorDir} and %USERPROFILE% environment variables
   - 🌍 Multi-language: Full English and Chinese (Simplified) support
   - 🧹 Smart Cleanup: Automatically cleans empty folders to keep directories tidy
-InstallerManifestUrl: https://raw.githubusercontent.com/Jurangren/save-manager/main/installer.yaml
+InstallerManifestUrl: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/installer.yaml
 SourceUrl: https://github.com/Jurangren/save-manager
 Tags:
   - Utility
