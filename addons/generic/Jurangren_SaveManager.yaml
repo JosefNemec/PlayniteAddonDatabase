@@ -2,23 +2,25 @@ AddonId: SaveManager
 Type: Generic
 Name: Save Manager
 Author: Jurangren
-ShortDescription: Smart save backup and management plugin with auto path detection, notes editing, and config import/export
+ShortDescription: Smart save backup plugin with Cloud Sync and auto path detection
 Description: |
-  Save Manager is a powerful Playnite plugin for managing game saves, providing intelligent backup and restore solutions.
+  Save Manager is a powerful Playnite plugin for managing game saves, providing intelligent backup, restore, and cloud synchronization solutions.
   
   Key Features:
-  - Smart Path Detection: Automatically identifies game-relative paths and system environment variable paths
-  - Portable Design: Supports {GameDir} and %USERPROFILE% variables, auto-adapts when games are moved
-  - Backup Management: Notes editing, quick backup, import external backup packages
-  - Config Sharing: Import/export save path configurations for easy sharing or migration
-  - Smart Cleanup: Automatically cleans empty folders to keep directories tidy
-  - User Friendly: Auto-locates game directory when adding paths, supports multi-file selection
+  - ☁️ Cloud Sync: Integrated Rclone support for syncing saves across devices
+  - ⚡ Smart Path Detection: Automatically identifies game-relative, emulator-relative ({EmulatorDir}), and system paths
+  - 📦 Backup Management: Quick backup, notes editing, and import external backup packages
+  - ↩️ Restore Exclusions: Restore game saves while preserving local config files
+  - 📂 Portable Design: Supports {GameDir}, {EmulatorDir} and %USERPROFILE% environment variables
+  - 🌍 Multi-language: Full English and Chinese (Simplified) support
+  - 🧹 Smart Cleanup: Automatically cleans empty folders to keep directories tidy
 InstallerManifestUrl: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/installer.yaml
 SourceUrl: https://github.com/Jurangren/save-manager
 Tags:
   - Utility
   - Backup
   - Save Management
+  - Cloud Backup
 Links:
   GitHub: https://github.com/Jurangren/save-manager
   Issues: https://github.com/Jurangren/save-manager/issues
@@ -28,3 +30,5 @@ Screenshots:
       Image: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/doc/img/Main_en.png
     - Thumbnail: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/doc/img/Menu_thumb_en.jpg
       Image: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/doc/img/Menu_en.png
+    - Thumbnail: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/doc/img/Match_thumb_en.jpg
+      Image: https://raw.githubusercontent.com/Jurangren/save-manager/refs/heads/main/doc/img/Match_en.png
