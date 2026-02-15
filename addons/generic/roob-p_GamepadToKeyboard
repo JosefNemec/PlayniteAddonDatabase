@@ -1,0 +1,41 @@
+AddonId: GamepadToKeyboard
+Type: Generic
+Name: GamepadToKeyboard
+Author: roob-p
+ShortDescription: |
+ 🕹️ Emulate mouse and keyboard input with your gamepad in a quick, easy and highly customizable manner.
+ Perfect for old games without native controller support or with incomplete Xinput functionality.
+InstallerManifestUrl: https://raw.githubusercontent.com/roob-p/GamepadToKeyboard-PlayniteExtension/main/manifest.yaml
+SourceUrl: https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension
+Description: |
+    🕹️ Emulate mouse and keyboard input with your gamepad in a quick, easy and highly customizable manner.
+    Perfect for old games without native controller support or with incomplete Xinput functionality.
+
+    Features:
+    * The program is very easy to use and configure: just edit the assignments in the `.ini` file and the application will be started automatically after launching the game.
+    * A dedicated config can be created per game, or a global config can be used for all games.
+    * Also possible to browse the config to use directly from the menu panel, or create a list of favourite configs that can be switched via sub-menu.
+    * Multiple games can be selected at once. Every new config will be created.
+    * The program's functionalities can be changed with a click through the menu.
+    * Clear and intuitive: "LED" icons indicate the state of the program, the active config and much more.
+    * The program also allows fine control over several controller aspects: deadzones (per stick, axis, or direction), axis inversion and more.
+    * Config files can be edited and reloaded on-the-fly using a hotkey, without restarting the application.
+    * Planned features: MACRO, COMBO and TURBO functionalities. Stay tuned.
+    * ⚠️ Requires an Xinput gamepad (native or emulated via tools like DS4Windows, DualSenseX or x360ce).
+Tags: ["Generic", "Keyboard", "Mouse", "Xinput", "Controller", "Gamepad", "Input", "Support", "Joystick"]
+Links:
+     Github: https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/
+     32-bit exe (manual download, for x86): https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/releases
+     Donate (Ko-fi): https://ko-fi.com/E1E214R1KB
+IconUrl: https://raw.githubusercontent.com/roob-p/GamepadToKeyboard-PlayniteExtension/main/icon.png
+
+Screenshots:
+  - Thumbnail: >-
+      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/thumbs/1.jpg
+    Image: >-
+      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/1.jpg
+  - Thumbnail: >-
+      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/thumbs/2.jpg
+    Image: >-
+      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/2.jpg
+  
