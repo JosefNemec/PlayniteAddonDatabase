@@ -1,0 +1,11 @@
+AddonId: PS2MemoryLane
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/Jprummel/PS2MemoryLane/main/InstallerManifest.yaml
+ShortDescription: A PCSX2 Memory card manager
+Name: PS2 Memory Lane
+Author: Salogeo
+SourceUrl: https://github.com/Jprummel/PS2MemoryLane
+IconUrl: https://jordiprummel.com/Images/Apps/PS2MemoryLane/icon.png
+Description: A PCSX2 Memory card manager that allows you to quickly and automatically create memory cards on a per-game basis, either all in one go or whenever you boot up a game. It also allows for automatically swapping memory cards based on the games name.
+Links:
+  GitHub: https://github.com/Jprummel/PS2MemoryLane
