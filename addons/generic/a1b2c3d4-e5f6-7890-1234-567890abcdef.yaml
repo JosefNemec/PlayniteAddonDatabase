@@ -1,0 +1,12 @@
+AddonId: a1b2c3d4-e5f6-7890-1234-567890abcdef
+Name: Local Achievements
+Author: uWaazy
+Type: Generic
+Description: Synchronizes local Steam achievements (via .bin/.lua files) and injects them seamlessly into the SuccessStory plugin database.
+Links:
+  - Name: GitHub
+    Url: https://github.com/uWaazy/Local-Achievements
+  - Name: Ko-fi
+    Url: https://ko-fi.com/uWaazy
+IconUrl: https://raw.githubusercontent.com/uWaazy/Local-Achievements/main/icon.png
+InstallerManifestUrl: https://raw.githubusercontent.com/uWaazy/Local-Achievements/main/extension.yaml
