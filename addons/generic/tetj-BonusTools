@@ -1,0 +1,12 @@
+﻿AddonId: BonusTools_ca24e37a-76d9-49bf-89ab-d3cba4a54bd2
+Type: Generic
+Name: Bonus Tools
+Author: tetj
+ShortDescription: Extension to import data from various sources 
+InstallerManifestUrl: https://raw.githubusercontent.com/tetj/BonusTools/refs/heads/main/Installer_Manifest.yaml
+SourceUrl: https://github.com/tetj/BonusTools/
+Description: Extension to import data from various sources (Steam, IGDB, Senscritique, PlayStation, Nintendo Switch)
+Tags: ["Generic", "Reviews", "Price", "PlayStation", "Nintendo", "Steam"]
+Links:
+    GitHub: https://github.com/tetj/BonusTools/
+IconUrl: https://raw.githubusercontent.com/tetj/BonusTools/refs/heads/main/icons/BonusTools.png
