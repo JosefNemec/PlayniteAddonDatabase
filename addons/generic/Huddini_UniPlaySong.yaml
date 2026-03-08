@@ -1,38 +1,40 @@
 AddonId: 'UniPlaySong.a1b2c3d4-e5f6-7890-abcd-ef1234567890'
 Type: Generic
 Name: 'UniPlaySong'
-Author: 'aHuddini'
-ShortDescription: 'Console-like game music preview experience with controller support, live reverb effects, spectrum visualizer, audio normalization, and silence trimming. Music plays when browsing your library, creating an immersive experience similar to PlayStation and Xbox game selection screens.'
+Author: 'Huddini'
+ShortDescription: 'Console-like game music preview experience with controller support and audio management features.'
 InstallerManifestUrl: 'https://raw.githubusercontent.com/aHuddini/UniPlaySong/main/Manifest/installer.yaml'
 SourceUrl: 'https://github.com/aHuddini/UniPlaySong'
+IconUrl: 'https://github.com/aHuddini/UniPlaySong/raw/main/icon.png'
 Description: |
-  UniPlaySong provides a console-like game music preview experience and controller-friendly song management for Playnite.
-
+  UniPlaySong is an add-on that provides a console-like game music preview experience and controller-friendly song management for Playnite.
+  
   Key Features:
   - Automatic music playback when selecting games in your library
-  - Fullscreen Xbox controller support for music management on Fullscreen Mode
-  - Live reverb effects
-  - Audio-reactive spectrum visualizer
-  - Audio normalization using FFmpeg (EBU R128 standard)
-  - Silence trimming to remove leading silence from audio files
+  - Configurable Desktop Media Controls (Play/Pause, Skip, Song Info)
+  - Fullscreen Xbox controller support for music management
+  - Live Effects: Reverb & Visualizer
+  - Jingles: Play fanfare when marking games Complete
+  - Audio Processing Tools (FFMPEG): Audio normalization, Amplify & Trimming (Precise & Silence gap)
   - Customizable fade transitions, preview times, and randomization
-  - Primary song system for setting default tracks per game
-  - Default/fallback music support with 6 source options
+  - Migration, Backup & Cleanup Tools
+  - Default/fallback music can be set for games with no music
   - Radio Mode for continuous background music
-
-  Perfect for:
-  - Creating an immersive game browsing experience
-  - Enhancing audio with live reverb effects and visualizer
-  - Enjoying console-like music previews while browsing your collection
 
   Designed for both Desktop and Fullscreen mode, with compatibility to modern themes like ANIKI REMAKE.
 Tags:
   - 'music'
   - 'audio'
+  - 'preview'
   - 'controller'
   - 'fullscreen'
-  - 'normalization'
-  - 'trimming'
   - 'visualizer'
-  - 'reverb'
-IconUrl: 'https://raw.githubusercontent.com/aHuddini/UniPlaySong/main/icon.png'
+  - 'console'
+Links:
+  GitHub: https://github.com/aHuddini/UniPlaySong
+  Issue Tracker: https://github.com/aHuddini/UniPlaySong/issues
+  Discord: https://discord.gg/czSZBSMG85
+  Buy me a coffee: https://ko-fi.com/huddini
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/aHuddini/UniPlaySong/main/docs/assets/DEMOVisualizer.png
+    Image: https://raw.githubusercontent.com/aHuddini/UniPlaySong/main/docs/assets/DEMOVisualizer.png
