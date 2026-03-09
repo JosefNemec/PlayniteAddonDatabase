@@ -9,7 +9,7 @@ Description: |
   Playnite's community score scale, and can also add Backloggd rating count to
   game descriptions.
 SourceUrl: https://github.com/annie-things/playnite-backloggd-plugin
-InstallerManifestUrl: https://github.com/annie-things/playnite-backloggd-plugin/releases/download/v0.1.0/installer.yaml
+InstallerManifestUrl: https://github.com/annie-things/playnite-backloggd-plugin/releases/latest/download/installer.yaml
 Links:
   Github: https://github.com/annie-things/playnite-backloggd-plugin
 Tags:
