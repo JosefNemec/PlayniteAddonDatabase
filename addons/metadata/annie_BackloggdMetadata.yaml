@@ -1,7 +1,7 @@
 AddonId: 05106d44-f505-4fd9-9e57-cc8cc737f3a9
 Type: MetadataProvider
 Name: Backloggd Community Score
-IconUrl: https://i.ibb.co/B5Y1T2PD/images.png
+IconUrl: https://
 Author: Annie
 ShortDescription: Imports Backloggd community ratings into Playnite metadata.
 Description: |
@@ -9,7 +9,7 @@ Description: |
   Playnite's community score scale, and can also add Backloggd rating count to
   game descriptions.
 SourceUrl: https://github.com/annie-things/playnite-backloggd-plugin
-InstallerManifestUrl: https://github.com/annie-things/playnite-backloggd-plugin/releases/download/v0.1.1/installer.yaml
+InstallerManifestUrl: https://github.com/annie-things/playnite-backloggd-plugin/releases/latest/download/installer.yaml
 Links:
   Github: https://github.com/annie-things/playnite-backloggd-plugin
 Tags:
