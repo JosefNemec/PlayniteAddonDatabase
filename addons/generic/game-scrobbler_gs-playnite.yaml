@@ -1,10 +1,43 @@
 AddonId: 32975fed-6915-4dd3-a230-030cdc5265ae
 Name: Game Scrobbler
-ShortDescription: Track and visualize your gaming stats
+ShortDescription: Turn your Playnite library into a living gaming profile
 Author: GameScrobbler
 Type: Generic
-Tags: ['Report', 'Statistics']
+Tags: ['Analytics', 'Statistics', 'Visualization', 'Tracking']
 SourceUrl: https://github.com/game-scrobbler/gs-playnite
 InstallerManifestUrl: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/installer_manifest.yaml
 IconUrl: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/icon.png
-Description: Game Scrobbler — a Playnite plugin that tracks your game sessions and visualizes your stats with interactive insights.
+Description: |-
+  GameScrobbler connects your Playnite library to a unified gaming data layer.
+
+  Instead of leaving your play history scattered across launchers and platforms, it collects and analyzes your gameplay into a structured player profile.
+
+  The plugin tracks your play sessions, builds a behavioral map of your gaming activity, and generates insights about how you play.
+
+  Your gaming history becomes more than a list of games. It becomes a living identity graph of your gaming behavior.
+
+  Features:
+  * Sync your gaming activity — automatically capture play sessions from your Playnite library
+  * Unified player profile — aggregate your gaming behavior across genres, games, and platforms
+  * Interactive gaming graph — explore your gaming identity through a visual graph connecting genres, games, and play patterns
+  * Timeline of play sessions — view your gaming history as a chronological timeline
+  * AI-powered gaming insights — GameScrobbler analyzes your library and generates commentary about your habits
+  * Cross-platform foundation — designed as a player data layer that can power dashboards, overlays, and analytics tools
+Links:
+  Website: https://gamescrobbler.com
+  Playnite Plugin Page: https://gamescrobbler.com/playnite
+  GitHub: https://github.com/game-scrobbler/gs-playnite
+  Discord: https://discord.gg/gamescrobbler
+  Support: https://gamescrobbler.com/support
+  FAQ: https://gamescrobbler.com/faqs
+  Privacy Policy: https://gamescrobbler.com/privacy
+  Terms of Service: https://gamescrobbler.com/terms-and-conditions
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/screenshots/gamer-mind-map.png
+    Image: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/screenshots/gamer-mind-map.png
+  - Thumbnail: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/screenshots/timeline-screenshot.jpg
+    Image: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/screenshots/timeline-screenshot.jpg
+  - Thumbnail: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/screenshots/roast-screenshot.jpg
+    Image: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/screenshots/roast-screenshot.jpg
+  - Thumbnail: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/screenshots/plugin-settings.png
+    Image: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/screenshots/plugin-settings.png
