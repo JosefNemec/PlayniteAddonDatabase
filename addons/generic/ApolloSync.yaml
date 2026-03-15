@@ -1,0 +1,14 @@
+AddonId: ApolloSync_f987343d-4168-4f44-9fb0-e3a21da314ad
+Type: Generic
+Name: ApolloSync
+Author: sharkusmanch
+ShortDescription: "Automatically sync your Playnite game library to Apollo/Sunshine streaming applications."
+InstallerManifestUrl: https://raw.githubusercontent.com/sharkusmanch/playnite-apollo-sync/master/manifest.yaml
+SourceUrl: https://github.com/sharkusmanch/playnite-apollo-sync
+IconUrl: https://raw.githubusercontent.com/sharkusmanch/playnite-apollo-sync/master/icon.png
+Tags:
+  - Streaming
+  - Apollo
+  - Sunshine
+Links:
+  GitHub: https://github.com/sharkusmanch/playnite-apollo-sync
