@@ -6,9 +6,3 @@ ShortDescription: "Automatically sync your Playnite game library to Apollo/Sunsh
 InstallerManifestUrl: https://raw.githubusercontent.com/sharkusmanch/playnite-apollo-sync/master/manifest.yaml
 SourceUrl: https://github.com/sharkusmanch/playnite-apollo-sync
 IconUrl: https://raw.githubusercontent.com/sharkusmanch/playnite-apollo-sync/master/icon.png
-Tags:
-  - Streaming
-  - Apollo
-  - Sunshine
-Links:
-  GitHub: https://github.com/sharkusmanch/playnite-apollo-sync
