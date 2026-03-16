@@ -1,0 +1,8 @@
+AddonId: MediaAudit_2e6b5e8ac42d4e5b
+Type: Generic
+Name: Media Audit
+Author: sharkusmanch
+ShortDescription: "Scans your game library for missing or non-conforming media and tags affected games."
+InstallerManifestUrl: https://raw.githubusercontent.com/sharkusmanch/playnite-media-audit/master/manifest.yaml
+SourceUrl: https://github.com/sharkusmanch/playnite-media-audit
+IconUrl: https://raw.githubusercontent.com/sharkusmanch/playnite-media-audit/master/icon.png
