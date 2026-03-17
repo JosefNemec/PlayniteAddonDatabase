@@ -1,0 +1,12 @@
+AddonId: UpcomingGamesTagger_22b532e7-0caa-4c5a-bacf-3009c4eb7eeb
+Type: Generic
+Name: Upcoming Games Tagger
+Author: sharkusmanch
+ShortDescription: Automatically tags games with upcoming release dates for easy filtering.
+InstallerManifestUrl: https://raw.githubusercontent.com/sharkusmanch/playnite-upcoming-games-tagger/master/manifest.yaml
+SourceUrl: https://github.com/sharkusmanch/playnite-upcoming-games-tagger
+Description: |
+    Automatically creates and manages a tag for games with future release dates.
+    Configurable tag name, days-ahead threshold, and optional inclusion of games without release dates.
+    Updates automatically on library changes or manually from the menu.
+IconUrl: https://raw.githubusercontent.com/sharkusmanch/playnite-upcoming-games-tagger/master/icon.png
