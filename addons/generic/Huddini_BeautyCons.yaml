@@ -1,0 +1,36 @@
+AddonId: 'BeautyCons.eb7017af-c0ee-4416-aec5-27d516530af7'
+Type: Generic
+Name: 'BeautyCons'
+Author: 'Huddini'
+ShortDescription: 'Beautiful glow effects, metallic shimmer, and transform animations for Desktop game icons.'
+InstallerManifestUrl: 'https://raw.githubusercontent.com/aHuddini/BeautyCons/main/Manifest/installer.yaml'
+SourceUrl: 'https://github.com/aHuddini/BeautyCons'
+IconUrl: 'https://github.com/aHuddini/BeautyCons/raw/main/docs/screenshots/BeautyConsLOGO_tiny.png'
+Description: |
+  BeautyCons enhances your Playnite game library with customizable visual effects on game icons in the Desktop detail view.
+
+  Key Features:
+  - 8 glow styles with 13+ color presets or auto-extracted icon colors
+  - Metallic shimmer with style-specific luster tinting (Gold, Platinum, Crimson, Holographic, Icon Colors)
+  - Transform effects: levitation, 3D rotation, hover, breathing scale
+  - Shadow drift and parallax for depth
+  - Square and Circular effect shapes
+  - 13 theme presets for quick setup
+  - Sparkles, pulse, color cycle, and spin animations
+
+  Desktop mode only. Effects are applied via visual tree injection — see About tab for known limitations.
+Tags:
+  - 'icons'
+  - 'glow'
+  - 'effects'
+  - 'shimmer'
+  - 'visual'
+  - 'desktop'
+Links:
+  GitHub: https://github.com/aHuddini/BeautyCons
+  Issue Tracker: https://github.com/aHuddini/BeautyCons/issues
+  Buy me a coffee: https://ko-fi.com/huddini
+  Live Effect Previews: https://ahuddini.github.io/BeautyCons/preview/
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/aHuddini/BeautyCons/main/docs/screenshots/demo.png
+    Image: https://raw.githubusercontent.com/aHuddini/BeautyCons/main/docs/screenshots/demo.png
