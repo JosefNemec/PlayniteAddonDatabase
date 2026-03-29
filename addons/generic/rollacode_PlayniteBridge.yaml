@@ -1,12 +1,8 @@
 AddonId: PlayniteBridge_f47ac10b
-Type: GenericPlugin
+Type: Generic
 Name: Playnite Bridge
 Author: rollacode
 ShortDescription: HTTP API plugin exposing 50+ REST endpoints for AI-powered game library management
 InstallerManifestUrl: https://raw.githubusercontent.com/rollacode/playnite-bridge/main/InstallerManifest.yaml
 SourceUrl: https://github.com/rollacode/playnite-bridge
-Tags:
-  - API
-  - HTTP
-  - automation
-  - AI
+Tags: ['Generic', 'API', 'HTTP', 'automation', 'AI']
