@@ -1,0 +1,33 @@
+AddonId: 'Playnite.Sounds.Mod.baf1744c-72f6-4bc1-92cc-474403b279fb'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/PlayniteSound/main/PlayniteSounds.yaml
+ShortDescription: 'Modification of original PlayniteSound - an Extension for Playnite to play audio files on certain events and/or play background music per game or platform'
+Name: 'Playnite Sounds Mod'
+Author: 'Artem Shpynov'
+Tags: ['Sound', 'Music', 'Events']
+SourceUrl: https://github.com/ashpynov/PlayniteSound
+IconUrl: https://raw.githubusercontent.com/ashpynov/PlayniteSound/main/icon.png
+Description: |-
+    Warnings:
+    * This plugin is modification of original PlayniteSound. Uninstall it first before instal this mod.
+    * As soon as Planite is support it own background misic please mute it in settings.
+
+    About: 
+    This is Extension for Playnite to play audio files on certain events like gameselected, libraryupdated, applicationstarted, ...
+    and play background music per game, platform or a single file for all games. 
+
+    It can do this in both fullscreen as desktop mode.
+
+    It allow to search and download Music for your game from YouTube and KHinsider.com (ffmpeg and yt-dlp tools are required).
+        
+    This Mod Changes:
+    * Sligtly refreshed codebase.
+    * It is allow to Pause background music during video playback.
+    * Theme designers may show name of current playing music.
+    * YouTube downloader was redisigned. 
+    
+Links:
+    Github: https://github.com/ashpynov/PlayniteSound
+    Issues: https://github.com/ashpynov/PlayniteSound/issues
+    Support: https://discord.com/channels/365863063296933888/808419165311467630
+
