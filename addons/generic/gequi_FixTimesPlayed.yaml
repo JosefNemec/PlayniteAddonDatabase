@@ -2,9 +2,9 @@ AddonId: 'FixTimesPlayed-b8e32c17-6f9d-4bf4-9957-93d08bae1a42'
 Type: Generic
 Name: 'Fix Times Played'
 Author: 'Gequi'
-InstallerManifestUrl: https://raw.githubusercontent.com/gequi/FixTimesPlayed-PlaynitePlugin/master/FixTimesPlayed.yaml
 ShortDescription: 'Extension for Playnite to fix the "Times Played" counter when you launch more than 1 app at the same time, like Retroarch with Steam.'
+InstallerManifestUrl: https://raw.githubusercontent.com/gequi/FixTimesPlayed-PlaynitePlugin/refs/heads/main/FixTimesPlayed.yaml
+SourceUrl: https://github.com/gequi/FixTimesPlayed-PlaynitePlugin
 Tags: ['Times Played', 'Metadata']
-SourceUrl: https://github.com/gequi/FixTimesPlayed-PlaynitePlugin/
 Links:
-    GitHub: https://github.com/gequi/FixTimesPlayed-PlaynitePlugin/
+    GitHub: https://github.com/gequi/FixTimesPlayed-PlaynitePlugin
