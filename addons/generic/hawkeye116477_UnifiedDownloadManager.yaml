@@ -1,0 +1,23 @@
+AddonId: "UnifiedDownloadManager"
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/hawkeye116477/playnite-unifiedDownloadManager-plugin/main/installer.yaml
+ShortDescription: "One common interface for all downloads from compatible plugins"
+Description: |-
+  It allows to:
+  * manage queue
+  * automatically remove completed downloads
+  * display desktop notifications about finished tasks
+  * turn off your PC after download is complete
+
+  However it won't work if your library plugin doesn't support it.
+Name: "Unified Download Manager"
+Author: "hawkeye116477"
+SourceUrl: https://github.com/hawkeye116477/playnite-unifiedDownloadManager-plugin
+Links:
+  Help: https://github.com/hawkeye116477/playnite-unifiedDownloadManager-plugin/wiki
+  Forum: https://github.com/hawkeye116477/playnite-unifiedDownloadManager-plugin/discussions
+  Translate: https://crowdin.com/project/playnite-legendary-plugin
+IconUrl: https://raw.githubusercontent.com/hawkeye116477/playnite-unifiedDownloadManager-plugin/main/src/plugin/Resources/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/hawkeye116477/playnite-unifiedDownloadManager-plugin/main/screenshots/screenshot_UDM_thumb.png
+    Image: https://raw.githubusercontent.com/hawkeye116477/playnite-unifiedDownloadManager-plugin/main/screenshots/screenshot_UDM.png
