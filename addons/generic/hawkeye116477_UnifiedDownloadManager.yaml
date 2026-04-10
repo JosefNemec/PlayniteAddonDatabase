@@ -9,7 +9,7 @@ Description: |-
   * display desktop notifications about finished tasks
   * turn off your PC after download is complete
 
-  However it won't work if your library plugin doesn't support it.
+  However it won't work if your library plugin doesn't support it (currently handled only by Legendary, GOG OSS and Nile plugins).
 Name: "Unified Download Manager"
 Author: "hawkeye116477"
 SourceUrl: https://github.com/hawkeye116477/playnite-unifiedDownloadManager-plugin
