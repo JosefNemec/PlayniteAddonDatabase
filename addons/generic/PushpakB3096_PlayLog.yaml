@@ -1,0 +1,17 @@
+AddonId: Pulse_d1ac11bf-1668-455f-ad91-6fdb334a54c5
+Type: Generic
+Name: PlayLog
+Author: PushpakB3096
+ShortDescription: Connect Playnite to PlayLog—sync your library, playtime, and play sessions with the mobile app. Link your account in extension settings.
+InstallerManifestUrl: https://raw.githubusercontent.com/PushpakB3096/pulse-playnite/master/packaging/installer.yaml
+SourceUrl: https://github.com/PushpakB3096/pulse-playnite
+Description: |
+  PlayLog is a mobile companion for your game library: browse what you own, build playlists, see playtime, and open rich game details.
+
+  This extension links Playnite to your PlayLog account. It syncs library changes (games, playtime, adds and removals), includes a full “Sync all games” action from the main menu, and reports play sessions. After installation, link this PC from the extension settings (pairing code in the signed-in PlayLog app).
+Tags:
+  - PlayLog
+  - Sync
+  - Library
+  - Playtime
+  - Sessions
