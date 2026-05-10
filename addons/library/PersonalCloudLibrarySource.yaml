@@ -6,19 +6,16 @@ ShortDescription: 'Import your own cloud, NAS, external-drive, or local manifest
 InstallerManifestUrl: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/playnite-addon/installer.yaml
 SourceUrl: https://github.com/KurtusCobain/PersonalCloudLibrarySource
 IconUrl: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/PersonalCloudLibrarySource/icon.png
-Description: >-
-  Personal Cloud Library Source lets you keep a user-supplied personal library catalog inside Playnite.
-  Entries can appear before they are downloaded, be enriched with Playnite metadata, copied or downloaded
-  to a local cache when needed, launched locally, and later uninstalled from cache while keeping the
-  catalog entry.
+Description: |
+  Personal Cloud Library Source treats a user-supplied manifest as a library source for Playnite.
 
-  Supports LocalFile, LocalFolder, and RcloneRemote providers. Google Drive, OneDrive, Dropbox, and
-  similar cloud services are supported through rclone. Local folders, external drives, mapped drives,
-  synced folders, and NAS paths are supported directly.
+  It can be useful if you keep a large personal collection on cloud storage, a NAS, an external drive, a mapped drive, or another machine with more storage than the device where you normally play. Entries can appear in Playnite before they are downloaded, allowing you to organize them, filter installed/uninstalled items, and use Playnite's normal metadata tools before caching the actual file locally.
 
-  This is not a gameplay streaming service. It does not provide games, ROMs, BIOS files, cracks, keys,
-  copyrighted content, scraping, or download sources. It catalogs user-supplied entries and copies or
-  downloads user-owned files from configured local folders or rclone remotes.
+  When you are ready to play an entry, the plugin can copy or download it to a local cache, then Playnite launches the cached file like a normal local game. Cached files can later be uninstalled from the local cache while keeping the catalog entry and metadata in Playnite.
+
+  Provider modes include LocalFile, LocalFolder, and RcloneRemote. Google Drive, OneDrive, Dropbox, and similar cloud services are supported through rclone. Local folders, external drives, mapped drives, synced cloud folders, and NAS paths are supported directly.
+
+  This is not a gameplay streaming service. It does not provide games, ROMs, BIOS files, cracks, keys, copyrighted content, scraping, or download sources. It catalogs user-supplied entries and copies or downloads user-owned files from configured local folders or rclone remotes.
 Tags:
   - library
   - cloud
