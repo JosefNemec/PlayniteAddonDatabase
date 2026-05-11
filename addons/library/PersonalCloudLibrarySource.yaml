@@ -1,0 +1,37 @@
+AddonId: 'PersonalCloudLibrarySource_61993828-67a8-4468-93a2-293442e36328'
+Type: GameLibrary
+Name: 'Personal Cloud Library Source'
+Author: 'The Bearclaw & ztwslayer'
+ShortDescription: 'Import your own cloud, NAS, external-drive, or local manifest library into Playnite.'
+InstallerManifestUrl: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/playnite-addon/installer.yaml
+SourceUrl: https://github.com/KurtusCobain/PersonalCloudLibrarySource
+IconUrl: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/PersonalCloudLibrarySource/icon.png
+Description: |
+  Personal Cloud Library Source treats a user-supplied manifest as a library source for Playnite.
+
+  It can be useful if you keep a large personal collection on cloud storage, a NAS, an external drive, a mapped drive, or another machine with more storage than the device where you normally play. Entries can appear in Playnite before they are downloaded, allowing you to organize them, filter installed/uninstalled items, and use Playnite's normal metadata tools before caching the actual file locally.
+
+  When you are ready to play an entry, the plugin can copy or download it to a local cache, then Playnite launches the cached file like a normal local game. Cached files can later be uninstalled from the local cache while keeping the catalog entry and metadata in Playnite.
+
+  Provider modes include LocalFile, LocalFolder, and RcloneRemote. Google Drive, OneDrive, Dropbox, and similar cloud services are supported through rclone. Local folders, external drives, mapped drives, synced cloud folders, and NAS paths are supported directly.
+
+  This is not a gameplay streaming service. It does not provide games, ROMs, BIOS files, cracks, keys, copyrighted content, scraping, or download sources. It catalogs user-supplied entries and copies or downloads user-owned files from configured local folders or rclone remotes.
+Tags:
+  - library
+  - cloud
+  - rclone
+  - local
+  - nas
+  - manifest
+Links:
+  GitHub: https://github.com/KurtusCobain/PersonalCloudLibrarySource
+  Documentation: https://github.com/KurtusCobain/PersonalCloudLibrarySource/tree/main/docs
+  Issues: https://github.com/KurtusCobain/PersonalCloudLibrarySource/issues
+  Changelog: https://github.com/KurtusCobain/PersonalCloudLibrarySource/blob/main/CHANGELOG.md
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-workflow.png
+    Image: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-workflow.png
+  - Thumbnail: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-provider.png
+    Image: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-provider.png
+  - Thumbnail: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-cache-uninstall.png
+    Image: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-cache-uninstall.png
