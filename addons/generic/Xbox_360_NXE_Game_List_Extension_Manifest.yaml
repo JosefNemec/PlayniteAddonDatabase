@@ -1,0 +1,10 @@
+AddonId: 'Xbox_360_NXE_Game_List_Extension'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/Neon-Silicon/Xbox_360_Playnite_Theme/refs/heads/main/Extension%20Installer%20Manifest/InstallerManifest.yaml
+ShortDescription: 'Extension to allow Xbox 360 NXE Dashboard style scrolling. *Required by Xbox 360 NXE Dashboard Theme*'
+Name: 'Xbox 360 NXE Game List Extension'
+Author: 'Neon Silicon'
+SourceUrl: https://github.com/Neon-Silicon/Xbox_360_Playnite_Theme/
+Links:
+    Github: https://github.com/Neon-Silicon/Xbox_360_Playnite_Theme/
+IconUrl: https://raw.githubusercontent.com/Neon-Silicon/Xbox_360_Playnite_Theme/refs/heads/main/Source/Xbox_360_NXE_Dashboard_Theme/Images/Xbox%20Logo.png
