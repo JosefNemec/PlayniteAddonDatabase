@@ -1,0 +1,10 @@
+AddonId: 'Xbox_360_NXE_Dashboard_Theme'
+Type: ThemeFullscreen
+InstallerManifestUrl: https://raw.githubusercontent.com/Neon-Silicon/Xbox_360_Playnite_Theme/refs/heads/main/Theme%20Installer%20Manifest/InstallerManifest.yaml
+ShortDescription: '*Requires Xbox 360 NXE Game List Extension* Xbox 360 NXE Dashboard theme for Playnite. Not meant to be a direct clone, but rather a modern interpretation.'
+Name: 'Xbox 360 NXE Dashboard'
+Author: 'Neon Silicon'
+SourceUrl: https://github.com/Neon-Silicon/Xbox_360_Playnite_Theme/
+Links:
+    Github: https://github.com/Neon-Silicon/Xbox_360_Playnite_Theme/
+IconUrl: https://raw.githubusercontent.com/Neon-Silicon/Xbox_360_Playnite_Theme/refs/heads/main/Source/Xbox_360_NXE_Dashboard_Theme/Images/Xbox%20Logo.png
