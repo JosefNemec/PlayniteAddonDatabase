@@ -1,0 +1,14 @@
+Id: d827618c-3c3b-48bc-9f17-1f4a9b8e0101
+Name: GamesNexus
+Author: AliKabbadj
+Type: GenericPlugin
+Description: "A comprehensive ecosystem bridging your Playnite library with the world of game repacks and releases. Browse, discover, and download directly inside Playnite."
+SourceUrl: "https://github.com/Omegatrixus/Playnite-Store"
+Links:
+  - Name: "GitHub"
+    Url: "https://github.com/Omegatrixus/Playnite-Store"
+Tags:
+  - Downloader
+  - Store
+  - Utilities
+InstallerManifestUrl: "https://raw.githubusercontent.com/Omegatrixus/Playnite-Store/main/playnite/playnite-extension/playnite-extension/extension.yaml"
