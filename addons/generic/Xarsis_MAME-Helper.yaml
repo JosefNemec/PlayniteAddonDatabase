@@ -1,0 +1,9 @@
+AddonId: MAME-Helper_77ed2204-c7d1-48cc-9e62-034fd035e803
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/Xarsis/MAME-Helper/refs/heads/main/InstallerManifest.yaml
+ShortDescription: A comprehensive MAME library management plugin for Playnite that combines ROM filtering, tagging, renaming, media management, and library export into a single integrated tool.
+Name: MAME-Helper
+Author: Xarsis
+Tags: ['Generic', 'MAME']
+SourceUrl: https://github.com/Xarsis/MAME-Helper
+IconURL: https://github.com/Xarsis/MAME-Helper/blob/main/icon.png?raw=true
