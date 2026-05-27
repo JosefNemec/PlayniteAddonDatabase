@@ -12,17 +12,21 @@ Description: |
     Perfect for old games without native controller support or with incomplete Xinput functionality.
 
     Features:
-    * The program is very easy to use and configure: just edit the assignments in the `.ini` file and the application will be started automatically after launching the game.
-    * A dedicated config can be created per game, or a global config can be used for all games.
-    * Also possible to browse the config to use directly from the menu panel, or create a list of favourite configs that can be switched via sub-menu.
-    * Multiple games can be selected at once. Every new config will be created.
-    * The program's functionalities can be changed with a click through the menu.
-    * Clear and intuitive: "LED" icons indicate the state of the program, the active config and much more.
-    * The program also allows fine control over several controller aspects: deadzones (per stick, axis, or direction), axis inversion and more.
-    * Config files can be edited and reloaded on-the-fly using a hotkey, without restarting the application.
-    * Planned features: MACRO, COMBO and TURBO functionalities. Stay tuned.
+    * Easy and fast configuration through editable `.ini` files.
+    * Dedicated per-game configs or global shared configs.
+    * Automatic startup when launching configured games.
+    * Config selection directly from the Playnite menu.    
+    * Favourite config profiles accessible through dynamic sub-menus.
+    * Multiple game selection support, with batch config creation.
+    * Live config reload via hotkey, without restarting the application.
+    * Mouse and keyboard emulation with fully customizable button assignments.
+    * Mouse movement can be mapped to an analog stick with a dedicated variable. 
+    * Supports modifiers such as Toggle, Turbo, Combo, Execute, ComboAsync, Sequence and others.
+    * Fine control over deadzones, deadzone shapes (rectangular and circular), axis inversion and analog behavior.
+    * Supports both digital and analog mouse wheel input.
+    * Clear and intuitive menu with LED-style status indicators, and one-click functionality toggles.
     * ⚠️ Requires an Xinput gamepad (native or emulated via tools like DS4Windows, DualSenseX or x360ce).
-Tags: ["Generic", "Keyboard", "Mouse", "Xinput", "Controller", "Gamepad", "Input", "Support", "Joystick"]
+Tags: ["Generic", "Keyboard", "Mouse", "Xinput", "Controller", "Gamepad", "Input", "Support", "Joystick", "Hotkeys", "Emulation"]
 Links:
      Github: https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/
      32-bit exe (manual download, for x86): https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/releases
@@ -35,7 +39,14 @@ Screenshots:
     Image: >-
       https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/1.jpg
   - Thumbnail: >-
-      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/thumbs/2.jpg
+      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/thumbs/3.jpg
     Image: >-
-      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/2.jpg
-  
+      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/3.jpg
+  - Thumbnail: >-
+      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/thumbs/4.jpg
+    Image: >-
+      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/4.jpg
+  - Thumbnail: >-
+      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/thumbs/5.jpg
+    Image: >-
+      https://github.com/roob-p/GamepadToKeyboard-PlayniteExtension/raw/main/media/5.jpg      
