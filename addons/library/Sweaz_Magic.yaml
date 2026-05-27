@@ -1,0 +1,10 @@
+AddonId: Magic_6be4d8fa-b4cc-4a6c-97ea-6850c09dc5b4
+IconUrl: https://raw.githubusercontent.com/Sweazou/Magic/refs/heads/main/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/Sweazou/Magic/refs/heads/main/manifests/Magic_installer.yaml
+ShortDescription: Magic is an Automatic Games Importer Compagnion for Playnite
+Name: Magic
+Author: Sweaz
+Links:
+    GitHub: https://github.com/Sweazou/Magic
+SourceUrl: https://github.com/Sweazou/Magic
