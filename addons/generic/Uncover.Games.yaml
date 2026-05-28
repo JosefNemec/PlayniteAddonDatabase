@@ -1,0 +1,8 @@
+AddonId: UncoverGamesExporter_d0ec6248-2b1f-421a-9ed4-722e5623f61f
+Type: Generic
+Name: Uncover.Games
+Author: RichardGG
+ShortDescription: "View your Playnite library from anywhere! Syncs data via Google Drive"
+InstallerManifestUrl: https://raw.githubusercontent.com/RichardGG/UncoverGamesExporter/refs/heads/master/InstallerManifest.yaml
+SourceUrl: https://github.com/RichardGG/UncoverGamesExporter
+IconUrl: https://raw.githubusercontent.com/RichardGG/UncoverGamesExporter/refs/heads/master/icon.png
