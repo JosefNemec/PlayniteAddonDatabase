@@ -1,0 +1,16 @@
+AddonId: SteamUpdateChecker_dc6d19b6-72ba-479c-8d04-0a360dd1399e
+Type: Generic
+Name: Steam Update Checker
+Author: OLuckyO
+ShortDescription: Checks Steam update and patch events for non-Steam games and marks likely outdated entries.
+InstallerManifestUrl: https://raw.githubusercontent.com/OLuckyO/playnite-steam-update-checker/main/manifests/Generic_SteamUpdateChecker.yaml
+SourceUrl: https://github.com/OLuckyO/playnite-steam-update-checker
+Description: |-
+    Steam Update Checker identifies Steam AppIDs for non-Steam Playnite games,
+    reads Steam update or patch events, compares them with Playnite recent
+    activity and local executable timestamps, and marks games that may need a
+    manual update.
+
+    This is a practical update-event check, not an official Steam build or depot
+    version comparison.
+Tags: ["Generic", "Steam", "Updates"]
