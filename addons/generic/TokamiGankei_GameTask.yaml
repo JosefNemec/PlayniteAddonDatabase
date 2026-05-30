@@ -1,0 +1,21 @@
+AddonId: GameTaskPlugin_d6d798db-6a1f-4c6e-9b1d-000000000001
+Name: GameTask
+Author: TokamiGankei
+Type: GenericPlugin
+InstallerManifestUrl: https://raw.githubusercontent.com/TokamiGankei/GameTask/master/manifest.yaml
+ShortDescription: Launch games without UAC prompts using Windows Scheduled Tasks
+Description: >
+  Launch games without UAC elevation prompts by registering them as Windows
+  Scheduled Tasks. Features automatic executable detection, FocusGuard for
+  window focus in Playnite fullscreen mode, Steam game support, Diagnostics
+  page, and configurable settings.
+SourceUrl: https://github.com/TokamiGankei/GameTask
+Tags:
+  - UAC
+  - Launcher
+  - Fullscreen
+Links:
+  - Name: GitHub
+    Url: https://github.com/TokamiGankei/GameTask
+  - Name: Buy Me a Coffee
+    Url: https://buymeacoffee.com/TokamiGankei
