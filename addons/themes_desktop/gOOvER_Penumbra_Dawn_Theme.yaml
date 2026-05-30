@@ -1,0 +1,34 @@
+AddonId: Penumbra_Dawn_Theme
+Type: ThemeDesktop
+Name: Penumbra Dawn
+Author: gOOvER
+ShortDescription: Dark desktop theme with warm accents, animations and extensive extension support.
+InstallerManifestUrl: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/InstallerManifest/Penumbra_Dawn_Theme.yaml
+SourceUrl: https://github.com/gOOvER/Penumbra-Themes
+Tags: ["dark", "penumbra", "dawn", "animated", "duplicatehider", "themeextras", "extensions", "backgroundchanger", "gameactivity", "successstory"]
+Links:
+    GitHub: https://github.com/gOOvER/Penumbra-Themes
+IconUrl: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/source/PenumbraDawn/Images/applogo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Dawn_Details_Thumb.jpg
+      Image: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Dawn_Details.jpg
+    - Thumbnail: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Dawn_Grid_Thumb.jpg
+      Image: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Dawn_Grid.jpg
+Description: |-
+    Dark desktop theme with warm accents, smooth animations and a compact filter panel.
+    Floating action buttons in the details view and extensive plugin integration.
+
+    Supported extension integrations:
+    - ThemeExtras (Library Banners, platform banners, animated controls)
+    - DuplicateHider
+    - ExtraMetadataLoader (logo + video)
+    - SuccessStory
+    - BackgroundChanger (custom background + cover image)
+    - HowLongToBeat
+    - GameActivity
+    - CheckDLC
+    - ScreenshotsVisualizer
+    - ReviewViewer
+    - NewsViewer
+    - ThemeModifier
+    - ThemesDetailsViewToGridViewConverter

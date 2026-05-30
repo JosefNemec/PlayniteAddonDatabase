@@ -1,0 +1,24 @@
+AddonId: Penumbra_Blur_Theme
+Type: ThemeFullscreen
+Name: Penumbra Blur
+Author: gOOvER
+ShortDescription: Dark fullscreen theme with blur effects, noise texture, teal accents and extension support.
+InstallerManifestUrl: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/InstallerManifest/Penumbra_Blur_Theme.yaml
+SourceUrl: https://github.com/gOOvER/Penumbra-Themes
+Tags: ["dark", "penumbra", "blur", "fullscreen", "teal", "duplicatehider", "thememodifier", "extrametadataloader"]
+Links:
+    GitHub: https://github.com/gOOvER/Penumbra-Themes
+IconUrl: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/source/PenumbraBlur/Images/applogo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Blur_Main_Thumb.png
+      Image: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Blur_Main.png
+    - Thumbnail: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Blur_Main_Thumb.png
+      Image: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Blur_Detail.png
+Description: |-
+    Dark fullscreen theme with blur effects, noise texture and teal accents.
+    Designed for controller and couch-gaming use.
+
+    Supported extension integrations:
+    - DuplicateHider
+    - ExtraMetadataLoader (logo + video)
+    - ThemeModifier (configurable blur, colors, grid corner radius)
