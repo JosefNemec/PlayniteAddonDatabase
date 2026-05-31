@@ -1,0 +1,33 @@
+AddonId: Penumbra_Night_Theme
+Type: ThemeDesktop
+Name: Penumbra Night
+Author: gOOvER
+ShortDescription: Dark desktop theme with noise texture, teal accents, smooth animations and extensive extension support.
+InstallerManifestUrl: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/InstallerManifest/Penumbra_Night_Theme.yaml
+SourceUrl: https://github.com/gOOvER/Penumbra-Themes
+Tags: ["dark", "penumbra", "night", "teal", "animated", "duplicatehider", "themeextras", "extensions", "backgroundchanger", "gameactivity", "successstory"]
+Links:
+    GitHub: https://github.com/gOOvER/Penumbra-Themes
+IconUrl: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/source/PenumbraNight/Images/applogo.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Night_Thumb.png
+      Image: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Night.png
+    - Thumbnail: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Night_Grid_Thumb.jpg
+      Image: https://raw.githubusercontent.com/gOOvER/Penumbra-Themes/main/Screenshot_Night_Grid.png
+Description: |-
+    Dark desktop theme with noise texture, teal accents and smooth animations.
+    Compact filter panel and floating action buttons in the details view.
+
+    Supported extension integrations:
+    - ThemeExtras (Library Banners, platform banners, animated controls)
+    - DuplicateHider
+    - ExtraMetadataLoader (logo + video)
+    - SuccessStory
+    - BackgroundChanger (custom background + cover image)
+    - HowLongToBeat
+    - GameActivity
+    - CheckDLC
+    - ScreenshotsVisualizer
+    - ReviewViewer
+    - NewsViewer
+    - ThemesDetailsViewToGridViewConverter
