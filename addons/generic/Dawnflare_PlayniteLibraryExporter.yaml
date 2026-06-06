@@ -1,0 +1,12 @@
+﻿AddonId: PlayniteLibraryExporter_7d089a0e-b862-44df-bca8-df3dc13165ee
+Type: Generic
+Name: Playnite Library Exporter
+Author: Dawnflare
+ShortDescription: Export your Playnite library to JSON, plain text, Markdown, and CSV.
+Description: Playnite Library Exporter adds manual and automatic library export actions for JSON, plain text, Markdown, and CSV. It supports multiple output formats at once, conservative Steam AppID inference, deterministic output ordering, and an optional tag/genre filter for visual novels.
+InstallerManifestUrl: https://raw.githubusercontent.com/Dawnflare/PlayniteLibraryExport/main/installer.yaml
+SourceUrl: https://github.com/Dawnflare/PlayniteLibraryExport
+IconUrl: https://raw.githubusercontent.com/Dawnflare/PlayniteLibraryExport/main/PlayniteLibraryExporter/icon.png
+Tags: [export, library, csv, json, markdown, automation]
+Links:
+    GitHub: https://github.com/Dawnflare/PlayniteLibraryExport
