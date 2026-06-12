@@ -1,0 +1,13 @@
+AddonId: MetaDataIAPlugin_2f42c46c-9e3f-48cb-99b6-7f41f12d9b83
+Type: MetadataProvider
+Name: Metadata AI
+Author: Narian
+ShortDescription: AI-assisted metadata normalization, descriptions and media for Playnite libraries.
+InstallerManifestUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-metadata-ia/main/installer.yaml
+SourceUrl: https://github.com/Naerian/playnite-nx-metadata-ia
+IconUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-metadata-ia/main/media/icon.png
+Tags: [metadata, ai, media, localization, automation]
+Links:
+    GitHub: https://github.com/Naerian/playnite-nx-metadata-ia
+    Support: https://ko-fi.com/naerian
+Description: Metadata AI helps normalize and enrich Playnite libraries with consistent descriptions, tags, categories, features, links, sorting names, covers, icons and backgrounds. It is designed for mixed libraries imported from different stores, emulators, launchers and manual entries, where metadata often ends up using different languages, naming styles and structures. It supports multiple AI providers, local models through LM Studio or Ollama, configurable templates, per-field apply rules and external media sources.
