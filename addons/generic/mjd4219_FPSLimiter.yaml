@@ -1,0 +1,23 @@
+AddonId: FPSLimiter_4b308964-9a0d-4775-b7c2-78b92af4d7b6
+Type: Generic
+Name: FPS Limiter
+Author: mjd4219
+ShortDescription: Set per-game FPS caps through RTSS when launching games from Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/mjd4219/playnite-fps-limiter/main/manifest/FPSLimiter.yaml
+SourceUrl: https://github.com/mjd4219/playnite-fps-limiter
+Description: |-
+    FPS Limiter lets you configure per-game framerate caps from Playnite's Desktop and Fullscreen menus.
+
+    It uses RivaTuner Statistics Server (RTSS) to apply caps while games are launched through Playnite, then restores the previous RTSS profile state when the game stops.
+
+    Features:
+    * Configurable FPS presets
+    * Custom FPS caps
+    * Fullscreen controller-friendly menu support
+    * Desktop manual target executable override
+    * RTSS auto-detection
+    * One-time RTSS profile access setup for normal, non-admin Playnite
+Tags: ['FPS', 'RTSS', 'Performance', 'Framerate']
+Links:
+    GitHub: https://github.com/mjd4219/playnite-fps-limiter
+    Releases: https://github.com/mjd4219/playnite-fps-limiter/releases
