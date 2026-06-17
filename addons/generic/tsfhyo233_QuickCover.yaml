@@ -1,9 +1,14 @@
-AddonId:QuickCover_ef18df4f-b6a1-4ab3-9a6f-67b8bbd4f8f8
-Type:Generic
-Name:Quick Cover
-Author:tsfhyo233
-ShortDescription:Quick Cover is a Playnite Generic Plugin for quickly setting a game's cover and background images from local files or URL.
-InstallerManifestUrl:https://github.com/tsfhyo233/quick-cover/blob/main/manifest.yaml
-SourceUrl:https://github.com/tsfhyo233/quick-cover
-IconUrl:https://raw.githubusercontent.com/tsfhyo233/quick-cover/refs/heads/main/source/icon.png
-Links:https://github.com/tsfhyo233/quick-cover
+AddonId: QuickCover_ef18df4f-b6a1-4ab3-9a6f-67b8bbd4f8f8
+Packages:  
+  - Version: 1.1.0
+    RequiredApiVersion: 6.16.0
+    ReleaseDate: 2026-06-18
+    PackageUrl: https://github.com/tsfhyo233/quick-cover/releases/download/v1.1.0/QuickCover-1.1.0.pext
+    Changelog:
+      - Add a quick access extension icon in the top-right corner.
+  - Version: 1.0.0
+    RequiredApiVersion: 6.16.0
+    ReleaseDate: 2026-05-18
+    PackageUrl: https://github.com/tsfhyo233/quick-cover/releases/download/v1.0.0/QuickCover.pext
+    Changelog:
+      - Add basic functionality to the context menu.
