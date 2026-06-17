@@ -5,7 +5,7 @@ Author: Narian
 ShortDescription: Switch Windows audio output devices directly from Playnite Desktop and Fullscreen mode.
 InstallerManifestUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-audio-switcher/main/installer.yaml
 SourceUrl: https://github.com/Naerian/playnite-nx-audio-switcher
-Description: Audio Switcher lets you change the default Windows playback device from Playnite, including Fullscreen mode, game context menus, controller quick switch, per-game audio profiles, custom device names and icons, optional device hiding, and theme integration support. Experimental Spatial Sound switching is available through a user-provided SoundVolumeView or svcl executable.
+Description: Audio Switcher lets you change the default Windows playback device from Playnite, including Fullscreen mode, game context menus, controller quick switch, per-game audio profiles, custom device names and icons, optional device hiding, and theme integration support. Fullscreen themes can integrate a gamepad-friendly device selector and volume slider. Experimental Spatial Sound switching is available through a user-provided SoundVolumeView or svcl executable.
 Tags: ["audio", "fullscreen", "controller", "utility"]
 IconUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-audio-switcher/main/media/icon.png
 Links:
