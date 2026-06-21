@@ -1,0 +1,21 @@
+AddonId: GGDealsWishlist_ea4636ef-91da-441c-9efb-99dc751c5189
+Type: GameLibrary
+Name: GG.deals Wishlist
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_GGDealsWishlist.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Library/GGDealsWishlist/icon.png
+ShortDescription: 'plugin to import your GG.deals wishlist as games into Playnite'
+Description: |
+    Import your GG.deals wishlist into your Playnite library to have your wishlisted games always at your fingertips!
+    Clicking on Install/Play will send you to the GG.deals page of the game.
+    You can set up a special category to give your wishlisted games after import to separate them from your owned games.
+    
+    In the future there also will be options to be notified of discounts, removal of wishlist games once they are imported from another library etc.
+Tags: ['Library', 'GG.deals', 'Wishlist']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    Help: https://knarzwerk.de/en/playnite-extensions
+    AddOn database: https://playnite.link/addons.html#GGDealsWishlist_ea4636ef-91da-441c-9efb-99dc751c5189
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
+    Ko-fi (Tips and Donations): https://ko-fi.com/herrknarz
