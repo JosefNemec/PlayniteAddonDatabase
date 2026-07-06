@@ -7,7 +7,8 @@ SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
 IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Library/GGDealsWishlist/icon.png
 ShortDescription: 'plugin to import your GG.deals wishlist as games into Playnite'
 Description: |
-    Import your GG.deals wishlist into your Playnite library to have your wishlisted games always at your fingertips!
+    View and filter discounts to your GG.deals Wishlist directly in Playnite!
+    Optionally import your GG.deals wishlist into your Playnite library to have your wishlisted games always at your fingertips!
     Clicking on Install/Play will send you to the GG.deals page of the game.
     You can set up a special category to give your wishlisted games after import to separate them from your owned games.
     
