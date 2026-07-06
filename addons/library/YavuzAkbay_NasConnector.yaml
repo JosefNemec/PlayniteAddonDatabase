@@ -1,0 +1,10 @@
+AddonId: NasConnector_7f3a9d12-4b8e-4c21-a5f6-9e0b1c2d3e4f
+IconUrl: https://raw.githubusercontent.com/YavuzAkbay/SMBGameLibrary/master/NasConnector/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/YavuzAkbay/SMBGameLibrary/master/installer.yaml
+ShortDescription: Install DRM-free games from an SMB share (NAS / home server) directly into Playnite.
+Name: NAS Connector
+Author: YavuzAkbay
+Links:
+    Website: https://github.com/YavuzAkbay/SMBGameLibrary
+SourceUrl: https://github.com/YavuzAkbay/SMBGameLibrary
