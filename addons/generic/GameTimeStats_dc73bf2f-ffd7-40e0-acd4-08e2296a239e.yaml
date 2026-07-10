@@ -6,9 +6,9 @@ ShortDescription: View Playnite game time trends, daily activity, hourly habits,
 InstallerManifestUrl: https://github.com/baozhidaoa/playnite-game-time-stats/raw/refs/heads/main/manifests/installer.yaml
 SourceUrl: https://github.com/baozhidaoa/playnite-game-time-stats
 Description: |
-    Game Time Statistics adds a standalone statistics window to Playnite. It tracks local game sessions, recovers interrupted sessions, visualizes daily and hourly play patterns, and can optionally enrich data with Steam playtime information.
+    Game Time Statistics adds a standalone statistics window to Playnite. It tracks local game sessions, recovers interrupted sessions, visualizes daily and hourly play patterns, and can optionally enrich data with Steam playtime information. The interface follows Playnite localization and supports English and Chinese.
 
-    Game Time Statistics 为 Playnite 添加独立统计窗口。插件会记录本地游戏会话、恢复异常中断的会话、可视化每日和每小时游玩习惯，并可选择使用 Steam 时长数据进行补充。
+    Game Time Statistics 为 Playnite 添加独立统计窗口。插件会记录本地游戏会话、恢复异常中断的会话、可视化每日和每小时游玩习惯，并可选择使用 Steam 时长数据进行补充。界面跟随 Playnite 本地化，支持英文和中文。
 IconUrl: https://github.com/baozhidaoa/playnite-game-time-stats/raw/refs/heads/main/icon.png
 Tags: ["Generic", "Statistics", "Playtime", "Charts", "Steam", "Sessions", "游戏统计", "游戏时长"]
 Links:
