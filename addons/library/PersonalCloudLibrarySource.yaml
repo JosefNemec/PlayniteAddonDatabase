@@ -6,45 +6,44 @@ ShortDescription: 'Import and manage your own cloud, NAS, external-drive, or loc
 InstallerManifestUrl: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/playnite-addon/installer.yaml
 SourceUrl: https://github.com/KurtusCobain/PersonalCloudLibrarySource
 IconUrl: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/PersonalCloudLibrarySource/icon.png
+
 Description: |
-Personal Cloud Library Source treats a user-supplied manifest as a normal Playnite library source.
+  Personal Cloud Library Source treats a user-supplied manifest as a normal Playnite library source.
 
-Latest update: v0.2.0, released June 15, 2026. This release adds a guided setup flow, in-Playnite manifest generation, verification reports, safer plugin-generated file writes, and improved dark-theme readability in the settings screen.
+  Latest update: v0.2.0, released June 15, 2026. This release adds a guided setup flow, in-Playnite manifest generation, verification reports, safer plugin-generated file writes, and improved dark-theme readability in the settings screen.
 
-It is designed for personal libraries stored on cloud storage, a NAS, an external drive, a mapped drive, a synced cloud folder, or another machine with more storage than the device where you normally play. Entries can appear in Playnite before they are downloaded or copied locally, so you can organize them, filter installed and uninstalled items, and use Playnite's normal metadata tools before caching the actual files.
+  It is designed for personal libraries stored on cloud storage, a NAS, an external drive, a mapped drive, a synced cloud folder, or another machine with more storage than the device where you normally play. Entries can appear in Playnite before they are downloaded or copied locally, so you can organize them, filter installed and uninstalled items, and use Playnite's normal metadata tools before caching the actual files.
 
-The v0.2.0 guided setup can generate a v3 manifest from local folders, external drives, mapped drives, and NAS paths directly inside Playnite settings. Advanced users can still use the included manifest-generation scripts for scripted local or rclone workflows.
+  The v0.2.0 guided setup can generate a v3 manifest from local folders, external drives, mapped drives, and NAS paths directly inside Playnite settings. Advanced users can still use the included manifest-generation scripts for scripted local or rclone workflows.
 
-Provider modes include LocalFile, LocalFolder, and RcloneRemote. Google Drive, OneDrive, Dropbox, and similar cloud services are supported through rclone. Local folders, external drives, mapped drives, synced cloud folders, and NAS paths are supported directly.
+  Provider modes include LocalFile, LocalFolder, and RcloneRemote. Google Drive, OneDrive, Dropbox, and similar cloud services are supported through rclone. Local folders, external drives, mapped drives, synced cloud folders, and NAS paths are supported directly.
 
-When you are ready to play an entry, the plugin can copy or download user-owned files to a local cache, then Playnite launches the cached file like a normal local game. Cached files can later be removed from the local cache while keeping the catalog entry and Playnite metadata.
+  When you are ready to play an entry, the plugin can copy or download user-owned files to a local cache, then Playnite launches the cached file like a normal local game. Cached files can later be removed from the local cache while keeping the catalog entry and Playnite metadata.
 
-Verification reports help troubleshoot manifest loading, cache paths, missing metadata, download eligibility, and safe uninstall targets without dumping a full private library inventory by default.
+  Verification reports help troubleshoot manifest loading, cache paths, missing metadata, download eligibility, and safe uninstall targets without dumping a full private library inventory by default.
 
-This is not a gameplay streaming service. It does not provide games, ROMs, BIOS files, cracks, keys, copyrighted content, scraping, storefront access, or download sources. It catalogs user-supplied entries and copies or downloads files only from user-configured local folders or rclone remotes.
+  This is not a gameplay streaming service. It does not provide games, ROMs, BIOS files, cracks, keys, copyrighted content, scraping, storefront access, or download sources. It catalogs user-supplied entries and copies or downloads files only from user-configured local folders or rclone remotes.
 
 Tags:
-
-* library
-* cloud
-* rclone
-* local
-* nas
-* manifest
-* external drive
-* metadata
+  - library
+  - cloud
+  - rclone
+  - local
+  - nas
+  - manifest
+  - external drive
+  - metadata
 
 Links:
-GitHub: https://github.com/KurtusCobain/PersonalCloudLibrarySource
-Documentation: https://github.com/KurtusCobain/PersonalCloudLibrarySource/tree/main/docs
-Issues: https://github.com/KurtusCobain/PersonalCloudLibrarySource/issues
-Changelog: https://github.com/KurtusCobain/PersonalCloudLibrarySource/blob/main/CHANGELOG.md
+  GitHub: https://github.com/KurtusCobain/PersonalCloudLibrarySource
+  Documentation: https://github.com/KurtusCobain/PersonalCloudLibrarySource/tree/main/docs
+  Issues: https://github.com/KurtusCobain/PersonalCloudLibrarySource/issues
+  Changelog: https://github.com/KurtusCobain/PersonalCloudLibrarySource/blob/main/CHANGELOG.md
 
 Screenshots:
-
-* Thumbnail: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-workflow.png
-  Image: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-workflow.png
-* Thumbnail: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-provider.png
-  Image: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-provider.png
-* Thumbnail: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-cache-uninstall.png
-  Image: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-cache-uninstall.png
+  - Thumbnail: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-workflow.png
+    Image: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-workflow.png
+  - Thumbnail: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-provider.png
+    Image: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-provider.png
+  - Thumbnail: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-cache-uninstall.png
+    Image: https://raw.githubusercontent.com/KurtusCobain/PersonalCloudLibrarySource/main/docs/images/pcls-settings-cache-uninstall.png
