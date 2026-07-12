@@ -7,7 +7,7 @@ InstallerManifestUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-game
 SourceUrl: https://github.com/Naerian/playnite-nx-gamepad-tester
 Description: Gamepad Tester lets you test controllers directly from Playnite Desktop, with live visual layouts, button and trigger feedback, stick diagnostics, calibration helpers, latency checks, input logs, rumble tests, device information, and optional Fullscreen theme integration blocks for theme authors.
 Tags: ["gamepad", "controller", "input", "diagnostics", "fullscreen", "utility"]
-IconUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-gamepad-tester/main/GamepadTester/media/icon.png
+IconUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-gamepad-tester/main/media/icon.png
 Links:
     GitHub: https://github.com/Naerian/playnite-nx-gamepad-tester
     Support: https://ko-fi.com/naerian
