@@ -1,0 +1,13 @@
+AddonId: PhalkProfiles_89cb4f84-54e2-480c-8536-781fc826ef63
+Type: Generic
+Name: Phalk Profiles
+Author: Phalk
+ShortDescription: Phalk Profiles play data sync addon
+InstallerManifestUrl: https://raw.githubusercontent.com/Phalk/PhalkProfiles-Playnite/refs/heads/main/manifests/manifest.yaml
+SourceUrl: https://github.com/Phalk/PhalkProfiles-Playnite
+Links:
+  Phalk's Website: https://phalk.net/
+Description: |
+   A Playnite plugin that uploads your play data and achievements (from Playnite Achievements) to your profile at phalk.net/profiles.
+Tags: ["playdata", "social"]
+IconUrl: https://raw.githubusercontent.com/Phalk/PhalkProfiles-Playnite/refs/heads/main/icon.png
