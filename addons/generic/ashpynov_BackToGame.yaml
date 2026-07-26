@@ -1,12 +1,12 @@
 AddonId: 'BackToGame_c05dfa72-e302-44cf-9612-af1f7caa07f7'
 Type: Generic
-InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/BackToGame/main/BackToGame.yaml
+InstallerManifestUrl: https://codeberg.org/ashpynov/BackToGame/raw/branch/main/BackToGame.yaml
 ShortDescription: 'Extension for Playnite to activate back minimized game'
 Name: 'Back To Game'
 Author: 'Artem Shpynov'
 Tags: ["Generic"]
-SourceUrl: https://github.com/ashpynov/BackToGame
-IconUrl: https://raw.githubusercontent.com/ashpynov/BackToGame/main/icon.png
+SourceUrl: https://codeberg.org/ashpynov/BackToGame
+IconUrl: https://codeberg.org/ashpynov/BackToGame/raw/branch/main/icon.png
 Description: |-
     About:
     This is Extension to switch focus back to minimized games.
@@ -20,7 +20,7 @@ Description: |-
     It can do this in both fullscreen as desktop mode.
 
 Links:
-    Github: https://github.com/ashpynov/PlayniteSound
-    Issues: https://github.com/ashpynov/PlayniteSound/issues
+    Github: https://codeberg.org/ashpynov/PlayniteSoundMod
+    Issues: https://codeberg.org/ashpynov/PlayniteSoundMod/issues
     Support: https://discord.com/channels/365863063296933888/808419165311467630
 

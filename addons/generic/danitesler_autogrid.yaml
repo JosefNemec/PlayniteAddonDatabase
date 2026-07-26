@@ -1,0 +1,18 @@
+AddonId: Autogrid_7F3E9B82
+Type: Generic
+Name: Autogrid
+Author: danitesler
+ShortDescription: Tight Desktop Grid with stable columns—auto-adjusts cover width on resize.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/Autogrid/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/Autogrid
+Description: |
+  Autogrid keeps your Playnite Desktop Grid visually tight and easy to scan: you can pull covers together so the grid reads as a continuous wall of art, with far less empty gutter between tiles than the default layout.
+
+  Set a target column count once. When you resize the window, the extension adjusts cover width so that column count stays stable and the grid does not constantly reflow.
+
+  Includes optional viewport adjustment for theme gutters and debug measurement logging for troubleshooting.
+Tags: [Desktop, Grid, Layout, Generic, UI]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/Autogrid/info/icon.png
+Links:
+  Plugin homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/Autogrid
+  Report issue: https://github.com/danitesler/playnite-extensions/issues

@@ -1,0 +1,28 @@
+AddonId: ErogameScapeMetadata_b8e3f2a1-5c4d-4e6f-9a1b-2d3e4f5a6b7c
+Type: MetadataProvider
+Name: ErogameScape Metadata
+Author: minuspiral
+ShortDescription: Imports game metadata from ErogameScape for Japanese visual novels / eroge.
+Description: |-
+    Fetches metadata for Japanese visual novels and eroge from ErogameScape (批評空間),
+    with fallbacks to DLsite, Getchu, VNDB, and DMM for richer information.
+
+    Supported fields:
+    * Name / Furigana
+    * Developer / Publisher (brand)
+    * Release date
+    * Community score (ErogameScape median)
+    * Cover image (VNDB portrait preferred, DMM fallback)
+    * Background image (VNDB SFW screenshots)
+    * Description (DLsite / Getchu / VNDB fallback chain)
+    * Genres (DLsite / ErogameScape)
+    * Tags (POV data)
+    * Series (game group)
+    * Features (attributes)
+    * Links (ErogameScape, official site, DLsite, DMM)
+InstallerManifestUrl: https://raw.githubusercontent.com/minuspiral/playnite-with-erogamescape/main/installer.yaml
+SourceUrl: https://github.com/minuspiral/playnite-with-erogamescape
+IconUrl: https://raw.githubusercontent.com/minuspiral/playnite-with-erogamescape/main/icon.png
+Tags: ['Metadata', 'Visual Novel', 'Eroge', 'ErogameScape', 'Japanese']
+Links:
+    GitHub: https://github.com/minuspiral/playnite-with-erogamescape

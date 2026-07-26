@@ -1,0 +1,17 @@
+AddonId: ScreenshotUtilitiesHG101Provider_dde4dbbb-d889-4b48-aeda-e663a6e11c1a
+Type: Generic
+Name: Screenshot Utilities Hardcore Gaming 101 Provider
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_ScreenshotUtilitiesHG101Provider.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/ScreenshotUtilitiesHG101Provider/icon.png
+ShortDescription: 'provider addon for Screenshot Utilities to display screenshots of game reviews from the website Hardcore Gaming 101'
+Description: |-
+    This is a provider addon for Screenshot Utilities. It only works in tandem with Screenshot Utilities and enables the display of game review screenshots from the website Hardcore Gaming 101. The addon uses an existing link to the website and also tries to find a review based on the game name if no link was found. You can also search for the right review manually.
+Tags: ['Generic', 'screenshots', 'ScreenshotUtilities']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    Help: https://knarzwerk.de/en/playnite-extensions/screenshot-utilities
+    AddOn database: https://playnite.link/addons.html#ScreenshotUtilitiesHG101Provider_dde4dbbb-d889-4b48-aeda-e663a6e11c1a
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
+    Ko-fi (Tips and Donations): https://ko-fi.com/herrknarz

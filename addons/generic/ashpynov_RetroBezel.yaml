@@ -1,12 +1,12 @@
 AddonId: 'RetroBezel_6d1b536f-c1e9-42f5-91d1-4fec74687d3c'
 Type: Generic
-InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/RetroBezel/main/RetroBezel.yaml
+InstallerManifestUrl: https://codeberg.org/ashpynov/RetroBezel/raw/branch/main/RetroBezel.yaml
 ShortDescription: 'Extension for Playnite to configure fullscreen bezel for retrogaming using Retroarch configuration.'
 Name: 'Retro Bezel'
 Author: 'Artem Shpynov'
 Tags: ['Generic', 'Retro', 'retroarch', 'Bezel']
-SourceUrl: https://github.com/ashpynov/RetroBezel
-IconUrl: https://raw.githubusercontent.com/ashpynov/RetroBezel/main/icon.png
+SourceUrl: https://codeberg.org/ashpynov/RetroBezel
+IconUrl: https://codeberg.org/ashpynov/RetroBezel/raw/branch/main/icon.png
 Description: |-
     Bezels are pictures aside of your wide screen when you are gaming old retrogames which are usually 4:3.
 
@@ -18,7 +18,7 @@ Description: |-
     As soon as Bezel was found - it will modify a bit retroach configuration to show one.
 
 Links:
-    Github: https://github.com/ashpynov/RetroBezel
-    Issues: https://github.com/ashpynov/RetroBezel/issues
+    Github: https://codeberg.org/ashpynov/RetroBezel
+    Issues: https://codeberg.org/ashpynov/RetroBezel/issues
     Support: https://discord.com/channels/365863063296933888/808419165311467630
 

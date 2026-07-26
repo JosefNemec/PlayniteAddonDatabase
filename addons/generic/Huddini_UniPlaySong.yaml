@@ -3,32 +3,38 @@ Type: Generic
 Name: 'UniPlaySong'
 Author: 'Huddini'
 ShortDescription: 'Console-like game music preview experience with controller support and audio management features.'
-InstallerManifestUrl: 'https://github.com/aHuddini/UniPlaySong/releases/latest/download/installer.yaml'
+InstallerManifestUrl: 'https://raw.githubusercontent.com/aHuddini/UniPlaySong/main/Manifest/installer.yaml'
 SourceUrl: 'https://github.com/aHuddini/UniPlaySong'
 IconUrl: 'https://github.com/aHuddini/UniPlaySong/raw/main/icon.png'
 Description: |
-  UniPlaySong is an add-on that provides a console-like game music preview experience and controller-friendly song management for Playnite. 
+  UniPlaySong is an add-on that provides a console-like game music preview experience and controller-friendly song management for Playnite.
   
   Key Features:
   - Automatic music playback when selecting games in your library
   - Configurable Desktop Media Controls (Play/Pause, Skip, Song Info)
-  - Customizable fade transitions, preview lengths, and live reverb effects
-  - Fullscreen Xbox controller support for complete music management from your couch
-  - Download music directly from online sources manually or automatically (YT-DLP)
+  - Fullscreen Xbox controller support for music management
+  - Live Effects: Reverb & Visualizer
+  - Jingles: Play fanfare when marking games Complete
   - Audio Processing Tools (FFMPEG): Audio normalization, Amplify & Trimming (Precise & Silence gap)
+  - Customizable fade transitions, preview times, and randomization
   - Migration, Backup & Cleanup Tools
   - Default/fallback music can be set for games with no music
-  - Works seamlessly with all Playnite themes (desktop and fullscreen)
-  
+  - Radio Mode for continuous background music
+
   Designed for both Desktop and Fullscreen mode, with compatibility to modern themes like ANIKI REMAKE.
 Tags:
   - 'music'
   - 'audio'
+  - 'preview'
   - 'controller'
   - 'fullscreen'
-  - 'preview'
+  - 'visualizer'
   - 'console'
 Links:
   GitHub: https://github.com/aHuddini/UniPlaySong
+  Issue Tracker: https://github.com/aHuddini/UniPlaySong/issues
   Discord: https://discord.gg/czSZBSMG85
   Buy me a coffee: https://ko-fi.com/huddini
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/aHuddini/UniPlaySong/main/docs/assets/DEMOVisualizer.png
+    Image: https://raw.githubusercontent.com/aHuddini/UniPlaySong/main/docs/assets/DEMOVisualizer.png

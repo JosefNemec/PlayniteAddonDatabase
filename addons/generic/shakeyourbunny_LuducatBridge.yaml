@@ -1,0 +1,28 @@
+AddonId: LuducatBridge
+Type: Generic
+Name: Luducat Bridge
+Author: shakeyourbunny
+ShortDescription: Remote game launching bridge for luducat - launch Playnite games from Linux or Windows over LAN
+InstallerManifestUrl: https://raw.githubusercontent.com/luducat/luducat-bridge/master/InstallerManifest.yaml
+SourceUrl: https://github.com/luducat/luducat-bridge
+Description: |-
+  Enables remote launching of Playnite-managed games from luducat (Linux or Windows)
+  over the local network. After pairing via encrypted channel, games are started by
+  matching library name and game ID. Communication is secured via TLS with ECDSA key
+  exchange and HMAC-TOTP sessions and any handshake certificates are stored securely via the
+  CredentialsManager. Access between both sides of the bridge are restricted to LAN and local
+  VMs.
+IconUrl: https://raw.githubusercontent.com/luducat/luducat-bridge/master/icon.png
+Tags: ['Generic', 'Luducat', 'Bridge', 'Linux', 'Windows', 'Remote', 'LAN']
+Links:
+  GitHub: https://github.com/luducat/luducat-bridge
+  Issues: https://github.com/luducat/luducat-bridge/issues
+  luducat: https://github.com/luducat/luducat
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/luducat/luducat-bridge/master/screenshots/thumbs/01_luducat_bridge_pairing.jpg
+    Image: https://raw.githubusercontent.com/luducat/luducat-bridge/master/screenshots/01_luducat_bridge_pairing.jpg
+  - Thumbnail: https://raw.githubusercontent.com/luducat/luducat-bridge/master/screenshots/thumbs/02_luducat_bridge_starting.jpg
+    Image: https://raw.githubusercontent.com/luducat/luducat-bridge/master/screenshots/02_luducat_bridge_starting.jpg
+  - Thumbnail: https://raw.githubusercontent.com/luducat/luducat-bridge/master/screenshots/thumbs/03_luducat_bridge_running.jpg
+    Image: https://raw.githubusercontent.com/luducat/luducat-bridge/master/screenshots/03_luducat_bridge_running.jpg
+    

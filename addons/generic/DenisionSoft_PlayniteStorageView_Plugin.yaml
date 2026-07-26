@@ -1,0 +1,30 @@
+AddonId: DenisionSoft_PlayniteStorageView_Plugin
+Type: Generic
+Name: Storage View
+Author: DenisionSoft
+ShortDescription: Steam-style per-drive storage overview for your installed Playnite games.
+InstallerManifestUrl: https://raw.githubusercontent.com/DenisionSoft/PlayniteStorageView/main/InstallerManifest/DenisionSoft_PlayniteStorageView_Plugin.yaml
+SourceUrl: https://github.com/DenisionSoft/PlayniteStorageView
+Description: |
+  Adds a Storage page to Playnite's sidebar showing a stacked bar of how much space 
+  your installed games take up on a given drive versus other files and free space, 
+  and a sortable list of every installed game on that drive with its size and install directory. 
+  Useful for deciding where to install the next game or which games to move manually.
+
+  Inspired by the Storage page in Steam settings.
+
+  Respects the Hidden flag — games hidden via Playnite's "Hide this game" or via
+  the DuplicateHider plugin are excluded from totals and the list.
+
+  Desktop mode only.
+Tags: ["storage", "library", "utility"]
+Links:
+  GitHub: https://github.com/DenisionSoft/PlayniteStorageView
+IconUrl: https://raw.githubusercontent.com/DenisionSoft/PlayniteStorageView/main/source/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/DenisionSoft/PlayniteStorageView/main/screenshots/thumbs/1-thumb.png
+    Image:     https://raw.githubusercontent.com/DenisionSoft/PlayniteStorageView/main/screenshots/1.png
+  - Thumbnail: https://raw.githubusercontent.com/DenisionSoft/PlayniteStorageView/main/screenshots/thumbs/2-thumb.png
+    Image:     https://raw.githubusercontent.com/DenisionSoft/PlayniteStorageView/main/screenshots/2.png
+  - Thumbnail: https://raw.githubusercontent.com/DenisionSoft/PlayniteStorageView/main/screenshots/thumbs/3-thumb.png
+    Image:     https://raw.githubusercontent.com/DenisionSoft/PlayniteStorageView/main/screenshots/3.png

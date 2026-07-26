@@ -1,12 +1,12 @@
 AddonId: 'ThemeOptions_904cbf3b-573f-48f8-9642-0a09d05c64ef'
 Type: Generic
-InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/ThemeOptions/main/ThemeOptions.yaml
+InstallerManifestUrl: https://codeberg.org/ashpynov/ThemeOptions/raw/branch/main/ThemeOptions.yaml
 ShortDescription: 'Extension for Playnite to configure options for fullscreen and desktop themes'
 Name: 'Theme Options'
 Author: 'Artem Shpynov'
 Tags: ["Generic"]
-SourceUrl: https://github.com/ashpynov/ThemeOptions
-IconUrl: https://raw.githubusercontent.com/ashpynov/ThemeOptions/main/icon.png
+SourceUrl: https://codeberg.org/ashpynov/ThemeOptions
+IconUrl: https://codeberg.org/ashpynov/ThemeOptions/raw/branch/main/icon.png
 Description: |-
     About:
     This is Extension to to give ability to Theme designers to provide a wide range options configurable by User. Additionaly it will add to Theme Localization support.
@@ -19,7 +19,7 @@ Description: |-
     This Extension add theme configuration options menu in both - Desktop at usual extension configuration place, and in Fullscreen mode at Main menu -> Settings -> Theme Options.
 
 Links:
-    Github: https://github.com/ashpynov/ThemeOptions
-    Issues: https://github.com/ashpynov/ThemeOptions/issues
+    Github: https://codeberg.org/ashpynov/ThemeOptions
+    Issues: https://codeberg.org/ashpynov/ThemeOptions/issues
     Support: https://discord.com/channels/365863063296933888/808419165311467630
 

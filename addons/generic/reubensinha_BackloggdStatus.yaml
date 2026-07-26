@@ -1,0 +1,22 @@
+AddonId: BackloggdStatus_228e1135-a326-4a8d-8ee9-edc1c61c0982
+Type: Generic
+Name: Backloggd Status
+Author: reubensinha
+ShortDescription: Update your Backloggd status from within Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/reubensinha/PlayniteBackloggdStatus/master/manifests/Generic_BackloggdStatus.yaml
+SourceUrl: https://github.com/reubensinha/PlayniteBackloggdStatus
+Description: |-
+  Sync your Playnite library with Backloggd. Set Playing, Backlog, Wishlist,
+  and Played sub-statuses (Completed, Retired, Shelved, Abandoned, Played)
+  directly from Playnite's game context menu.
+IconUrl: https://raw.githubusercontent.com/reubensinha/PlayniteBackloggdStatus/master/icon.png
+Tags: ["Generic", "Status", "Backloggd"]
+Links:
+  GitHub: https://github.com/reubensinha/PlayniteBackloggdStatus
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/reubensinha/PlayniteBackloggdStatus/master/docs/img/context_menu.png
+    Image: https://raw.githubusercontent.com/reubensinha/PlayniteBackloggdStatus/master/docs/img/context_menu.png
+  - Thumbnail: https://raw.githubusercontent.com/reubensinha/PlayniteBackloggdStatus/master/docs/img/search_dialog.png
+    Image: https://raw.githubusercontent.com/reubensinha/PlayniteBackloggdStatus/master/docs/img/search_dialog.png
+  - Thumbnail: https://raw.githubusercontent.com/reubensinha/PlayniteBackloggdStatus/master/docs/img/settings.png
+    Image: https://raw.githubusercontent.com/reubensinha/PlayniteBackloggdStatus/master/docs/img/settings.png

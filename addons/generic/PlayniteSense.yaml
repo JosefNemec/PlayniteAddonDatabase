@@ -1,0 +1,13 @@
+AddonId: PlayniteSense_ceb0583b-3a53-4448-989b-e3943a6d397b
+Type: Generic
+Name: PlayniteSense
+Author: Phalk
+ShortDescription: Use a DualSense (PS5) controller seamlessly in Playnite and your games as a virtual Xbox 360 or DualShock 4 controller.
+InstallerManifestUrl: https://raw.githubusercontent.com/Phalk/PlayniteSense/refs/heads/main/manifests/manifest.yaml
+SourceUrl: https://github.com/Phalk/PlayniteSense
+Links:
+  Phalk's Website: https://phalk.net/
+Description: |
+   PlayniteSense bridges a real DualSense (PS5) controller into a virtual Xbox 360 or DualShock 4 controller via ViGEm, so games that don't natively support the DualSense or that behave inconsistently with it just work, without a Steam Input detour.
+Tags: ["dualsense", "xinput", "x360", "dualshock"]
+IconUrl: https://raw.githubusercontent.com/Phalk/PlayniteSense/refs/heads/main/icon.png

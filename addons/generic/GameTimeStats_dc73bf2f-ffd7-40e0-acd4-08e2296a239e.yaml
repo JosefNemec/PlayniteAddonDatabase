@@ -1,0 +1,16 @@
+AddonId: GameTimeStats_dc73bf2f-ffd7-40e0-acd4-08e2296a239e
+Type: Generic
+Name: Game Time Statistics
+Author: baozhidaoa
+ShortDescription: View Playnite game time trends, daily activity, hourly habits, genres, and top games in a standalone statistics window. / 在独立窗口查看游戏时长趋势、每日活跃、时段习惯、类型分布和热门游戏。
+InstallerManifestUrl: https://github.com/baozhidaoa/playnite-game-time-stats/raw/refs/heads/main/manifests/installer.yaml
+SourceUrl: https://github.com/baozhidaoa/playnite-game-time-stats
+Description: |
+    Game Time Statistics adds a standalone statistics window to Playnite. It tracks local game sessions, recovers interrupted sessions, visualizes daily and hourly play patterns, and can optionally enrich data with Steam playtime information. The interface follows Playnite localization and supports English and Chinese.
+
+    Game Time Statistics 为 Playnite 添加独立统计窗口。插件会记录本地游戏会话、恢复异常中断的会话、可视化每日和每小时游玩习惯，并可选择使用 Steam 时长数据进行补充。界面跟随 Playnite 本地化，支持英文和中文。
+IconUrl: https://github.com/baozhidaoa/playnite-game-time-stats/raw/refs/heads/main/icon.png
+Tags: ["Generic", "Statistics", "Playtime", "Charts", "Steam", "Sessions", "游戏统计", "游戏时长"]
+Links:
+    GitHub: https://github.com/baozhidaoa/playnite-game-time-stats
+    Issues: https://github.com/baozhidaoa/playnite-game-time-stats/issues

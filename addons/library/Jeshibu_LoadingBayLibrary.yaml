@@ -1,0 +1,12 @@
+﻿AddonId: LoadingBayLibrary
+IconUrl: https://github.com/Jeshibu/PlayniteExtensions/raw/main/source/LoadingBayLibrary/icon.png
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Library_LoadingBay.yaml
+ShortDescription: "Imports games from LoadingBay, NetEase's client"
+Name: LoadingBay library
+Author: Jeshibu
+Tags: ["Jeshibu", "NetEase"]
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Links:
+    LoadingBay website: https://store.loadingbay.com/
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu

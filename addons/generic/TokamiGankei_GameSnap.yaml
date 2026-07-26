@@ -1,0 +1,20 @@
+AddonId: 1826881c-4e6e-4ed3-ac6c-8605f953daf4
+Name: GameSnap
+Author: TokamiGankei
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/TokamiGankei/GameSnap/master/manifest.yaml
+ShortDescription: Automatically organizes game screenshots into per-game folders
+Description: >
+  Automatically organizes your game screenshots into per-game folders — works with
+  Xbox Game Bar, ShareX, Steam, and any other capture tool, plus native emulator
+  screenshot folders (RetroArch and others). Detects the active game via Playnite,
+  a learning dictionary, or the active window, with a fullscreen review mode for
+  anything left unmatched.
+SourceUrl: https://github.com/TokamiGankei/GameSnap
+Tags:
+  - Screenshots
+  - Organization
+  - Automation
+Links:
+  GitHub: https://github.com/TokamiGankei/GameSnap
+  BuyMeACoffee: https://buymeacoffee.com/TokamiGankei

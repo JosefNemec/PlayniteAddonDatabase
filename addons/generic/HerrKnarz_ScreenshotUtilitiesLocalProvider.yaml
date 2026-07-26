@@ -1,0 +1,17 @@
+AddonId: ScreenshotUtilitiesLocalProvider_a049eff8-fd41-4dbc-9e35-01acc6b1a0cb
+Type: Generic
+Name: Screenshot Utilities Local Provider
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_ScreenshotUtilitiesLocalProvider.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Generic/ScreenshotUtilitiesLocalProvider/icon.png
+ShortDescription: 'provider addon for Screenshot Utilities to display locally stored screenshots'
+Description: |-
+    This is a provider addon for Screenshot Utilities. It only works in tandem with Screenshot Utilities and enables the display of locally stored screenshots from your games. You can set up paths with placeholders like game name, steam id etc. to your screenshots on your PC in the addon settings. In a later version it also will be possible to set up paths per game.
+Tags: ['Generic', 'screenshots', 'ScreenshotUtilities']
+Links:
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    Help: https://knarzwerk.de/en/playnite-extensions/screenshot-utilities
+    AddOn database: https://playnite.link/addons.html#ScreenshotUtilitiesLocalProvider_a049eff8-fd41-4dbc-9e35-01acc6b1a0cb
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
+    Ko-fi (Tips and Donations): https://ko-fi.com/herrknarz

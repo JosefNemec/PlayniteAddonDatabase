@@ -1,12 +1,12 @@
 AddonId: 'AutoFilterPresets_1844176c-4d02-4bf8-b852-78b36a9de193'
 Type: Generic
-InstallerManifestUrl: https://raw.githubusercontent.com/ashpynov/AutoFilterPresets/main/AutoFilterPresets.yaml
+InstallerManifestUrl: https://codeberg.org/ashpynov/AutoFilterPresets/raw/branch/main/AutoFilterPresets.yaml
 ShortDescription: 'Extension for Playnite to create auto Fullscreen presets'
 Name: 'Automatic Filter Presets'
 Author: 'Artem Shpynov'
 Tags: ["Generic"]
-SourceUrl: https://github.com/ashpynov/AutoFilterPresets
-IconUrl: https://raw.githubusercontent.com/ashpynov/AutoFilterPresets/main/icon.png
+SourceUrl: https://codeberg.org/ashpynov/AutoFilterPresets
+IconUrl: https://codeberg.org/ashpynov/AutoFilterPresets/raw/branch/main/icon.png
 Description: |-
     About:
 
@@ -21,7 +21,7 @@ Description: |-
     It does not affect or change your existing presets or create auto presets in desktop mode.
 
 Links:
-    Github: https://github.com/ashpynov/AutoFilterPresets
-    Issues: https://github.com/ashpynov/AutoFilterPresets/issues
+    Github: https://codeberg.org/ashpynov/AutoFilterPresets
+    Issues: https://codeberg.org/ashpynov/AutoFilterPresets/issues
     Support: https://discord.com/channels/365863063296933888/808419165311467630
 
