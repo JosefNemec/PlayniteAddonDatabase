@@ -1,0 +1,22 @@
+AddonId: GameHQ_Integration
+Type: Generic
+Name: GameHQ Integration
+Author: underfusion
+ShortDescription: Connect Playnite to GameHQ for controller-first screenshots and recent gameplay capture.
+InstallerManifestUrl: https://raw.githubusercontent.com/underfusion/GameHQ/main/integrations/playnite/InstallerManifest.yaml
+SourceUrl: https://github.com/underfusion/GameHQ
+Description: |-
+    Connects Playnite with GameHQ, a controller-first screenshot and recent gameplay capture application for Windows.
+    - Discovers and launches GameHQ when needed.
+    - Forwards game start and stop lifecycle events.
+    - Restores active game state after reconnects.
+    - Provides connection, version and path diagnostics.
+Tags: ["Generic", "Capture", "Screenshots", "Replay", "Integration"]
+Links:
+    GitHub: https://github.com/underfusion/GameHQ
+    GameHQ Downloads: https://github.com/underfusion/GameHQ/releases/latest
+    Manual Plugin Download: https://github.com/underfusion/GameHQ/releases/download/playnite-v0.4.12/GameHQ_Playnite_Integration_0_4_12.pext
+IconUrl: https://raw.githubusercontent.com/underfusion/GameHQ/main/integrations/playnite/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/underfusion/GameHQ/main/docs/assets/gamehq-gallery.png
+      Image: https://raw.githubusercontent.com/underfusion/GameHQ/main/docs/assets/gamehq-gallery.png
