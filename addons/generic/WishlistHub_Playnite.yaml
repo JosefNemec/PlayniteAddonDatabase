@@ -1,0 +1,23 @@
+AddonId: WishlistHub_Playnite
+Type: Generic
+Name: Wishlist Hub
+Author: Wishlist Hub / niagaevil
+ShortDescription: Envie jogos do Playnite para a biblioteca do Wishlist Hub (merge aditivo).
+InstallerManifestUrl: https://raw.githubusercontent.com/niagaevil/wishlist-hub-playnite/main/ci/installer_manifest.yaml
+SourceUrl: https://github.com/niagaevil/wishlist-hub-playnite
+Description: |-
+  Extensao Generic que envia jogos das suas bibliotecas Playnite (Steam, Epic, GOG,
+  Ubisoft, EA, Battle.net, Xbox, Amazon e outras) para o Wishlist Hub.
+
+  - Sync manual pelo menu Extensions / menu do jogo
+  - Sync automatica opcional ao adicionar jogos (debounce + fila)
+  - Tags locais de status ([WishlistHub] Synced, etc.)
+  - O Hub faz merge aditivo - nao remove jogos ja importados por OAuth, cookies ou navegador
+
+  Gere o token em https://wishlist-hub.paz.poa.br/ferramentas#playnite
+Tags: ['wishlist', 'library', 'prices', 'Wishlist Hub']
+Links:
+  Website: https://wishlist-hub.paz.poa.br
+  Help: https://wishlist-hub.paz.poa.br/ajuda#playnite
+  GitHub: https://github.com/niagaevil/wishlist-hub-playnite
+IconUrl: https://github.com/niagaevil/wishlist-hub-playnite/raw/main/WishlistHub/icon.png

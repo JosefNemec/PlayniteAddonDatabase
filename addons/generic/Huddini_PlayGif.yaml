@@ -1,0 +1,48 @@
+AddonId: 'PlayGif.2e196d25-24d1-4db3-b732-9766c994a496'
+Type: Generic
+Name: 'PlayGif'
+Author: 'Huddini'
+ShortDescription: 'Brings game descriptions to life. Steam store trailers, GIFs, and animated art play inline instead of being flattened into static text.'
+InstallerManifestUrl: 'https://raw.githubusercontent.com/aHuddini/PlayGif/main/Manifest/installer.yaml'
+SourceUrl: 'https://github.com/aHuddini/PlayGif'
+Description: |
+  PlayGif replaces Playnite's static description details panel with an animated renderer that can play videos from Steam store pages.
+
+  Key Features:
+  - Animated descriptions: video, GIF, animated WebP, APNG, and AVIF all play inline
+  - Injects into your theme's existing description panel, so theme layouts stay intact
+  - Automatically fetch rich, media-filled descriptions from Steam or GOG for a single game
+  - Add your own media to any description: local file, direct URL, or built-in web image search
+  - Remove added media just as easily, with the tag stripped from the description too
+  - Per-game video scale (25/50/75%), plus a global scale and a max-height limit
+  - Poster-only mode that freezes videos on their first frame while keeping GIFs animated
+  - Offline media cache with a configurable per-game size limit
+  - Playback pauses automatically while a game is running or Playnite loses focus
+
+  Requirements:
+  - Windows 10 (version 2004 / May 2020 update) or newer, or Windows 11
+  - WebView2 Evergreen Runtime, preinstalled on Windows 11 and most Windows 10 machines
+  - FFmpeg (optional) — only used for the rare video a store publishes exclusively as WebM; those still play without it
+
+  Perfect for:
+  - Seeing store-page trailers and animated art without leaving Playnite
+  - Curating your own screenshots or clips into a game's description
+
+  Designed for Desktop mode. Fullscreen support is included but experimental and disabled by default.
+Tags:
+  - 'description'
+  - 'metadata'
+  - 'video'
+  - 'gif'
+  - 'animation'
+  - 'steam'
+  - 'gog'
+  - 'desktop'
+IconUrl: 'https://raw.githubusercontent.com/aHuddini/PlayGif/main/icon.png'
+Links:
+  GitHub: https://github.com/aHuddini/PlayGif
+  Issue Tracker: https://github.com/aHuddini/PlayGif/issues
+  Buy me a coffee: https://ko-fi.com/huddini
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/aHuddini/PlayGif/main/docs/assets/screenshot-desktop.png
+    Image: https://raw.githubusercontent.com/aHuddini/PlayGif/main/docs/assets/screenshot-desktop.png
