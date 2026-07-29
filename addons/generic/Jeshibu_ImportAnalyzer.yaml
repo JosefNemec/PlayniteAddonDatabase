@@ -1,0 +1,25 @@
+AddonId: ImportAnalyzer
+Type: Generic
+Name: Import Analyzer
+Author: Jeshibu
+ShortDescription: Take a detailed look at what's happening when you import games from library plugins. Useful for pinpointing problems.
+InstallerManifestUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/manifests/Generic_ImportAnalyzer.yaml
+SourceUrl: https://github.com/Jeshibu/PlayniteExtensions
+Description: |
+    Take a detailed look at what's happening when you import games from library plugins.
+
+    Are you missing a specific game when you update your game libraries?
+    Are you not seeing playtime updates reflected in your library?
+    Did you kick someone with a lot of games out of your Steam Family, or cancel Xbox Game Pass?
+
+    Use this to:
+    - See which games would be newly added, are already imported, are excluded from import, or are in your Playnite library but missing from the import
+    - Check what the playtime and last-played date for your games are in the library import
+    - Check if the game name in your libary differs from the one in the import
+    - Export those results to a CSV file to better share them
+    - Tag the games that are in your library but missing from the import to view or delete them
+Tags: []
+Links:
+    GitHub: https://github.com/Jeshibu/PlayniteExtensions
+    Support my work on Ko-fi: https://ko-fi.com/Jeshibu
+IconUrl: https://raw.githubusercontent.com/Jeshibu/PlayniteExtensions/main/source/ImportAnalyzer/icon.png
