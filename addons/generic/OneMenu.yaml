@@ -1,0 +1,22 @@
+AddonId: OneMenu
+Type: Generic
+Name: OneMenu
+Author: BuddySen
+ShortDescription: Adds a clean, always-accessible sidebar button that opens a flyout menu for instant navigation across custom filter presets.
+InstallerManifestUrl: https://raw.githubusercontent.com/NiceGlassesDude/Playnite-OneMenu/main/installer.yaml
+SourceUrl: https://github.com/NiceGlassesDude/Playnite-OneMenu
+Description: |
+  OneMenu adds a clean, always-accessible sidebar button to Playnite that opens a flyout menu for instant navigation across your custom filter presets.
+
+  Features:
+  - Quick-Access Flyout Menu
+  - Hierarchical Categorization (top-level categories & nested sub-items)
+  - Display Modes: Text Only, Icon Only, Icon and Text
+  - Custom Icon Assignment & Direct Binding to Playnite Filter Presets
+Tags:
+  - Utility
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/NiceGlassesDude/Playnite-OneMenu/main/set1.png
+    Image: https://raw.githubusercontent.com/NiceGlassesDude/Playnite-OneMenu/main/set1.png
+  - Thumbnail: https://raw.githubusercontent.com/NiceGlassesDude/Playnite-OneMenu/main/set2.png
+    Image: https://raw.githubusercontent.com/NiceGlassesDude/Playnite-OneMenu/main/set2.png
