@@ -2,6 +2,7 @@ AddonId: OneMenu
 Type: Generic
 Name: OneMenu
 Author: BuddySen
+IconUrl: https://raw.githubusercontent.com/NiceGlassesDude/Playnite-OneMenu/refs/heads/main/icon.png
 ShortDescription: Adds a clean, always-accessible sidebar button that opens a flyout menu for instant navigation across custom filter presets.
 InstallerManifestUrl: https://raw.githubusercontent.com/NiceGlassesDude/Playnite-OneMenu/main/installer.yaml
 SourceUrl: https://github.com/NiceGlassesDude/Playnite-OneMenu
