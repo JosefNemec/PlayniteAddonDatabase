@@ -1,0 +1,19 @@
+AddonId: DuneRev_aa8df0f9-9406-4ea6-a31a-3bd13853fd40
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/hugsyf/dune-rev/main/Manifest/Installer_Manifest.yaml
+Name: Dune Rev
+Author: hugsyf
+SourceUrl: https://github.com/hugsyf/dune-rev
+ShortDescription: A Fluent-inspired Playnite Desktop theme with broad extension support.
+Description: A personal fork of Dune maintained by hugsyf, with a low-glare Fluent Dim palette, responsive layouts, and extensive extension integration.
+Tags: ["Theme", "Fluent", "Dark", "Desktop"]
+IconUrl: https://raw.githubusercontent.com/hugsyf/dune-rev/main/Source/Images/applogo.png
+Links:
+    GitHub: https://github.com/hugsyf/dune-rev
+    Issues Tracker: https://github.com/hugsyf/dune-rev/issues
+    Original Dune: https://github.com/sakasakiking/Dune
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/hugsyf/dune-rev/main/Screenshots/Thumb_Details_View.png
+      Image: https://raw.githubusercontent.com/hugsyf/dune-rev/main/Screenshots/Details%20View.png
+    - Thumbnail: https://raw.githubusercontent.com/hugsyf/dune-rev/main/Screenshots/Thumb_Grid_Details_View.png
+      Image: https://raw.githubusercontent.com/hugsyf/dune-rev/main/Screenshots/Grid%20Details%20View.png
