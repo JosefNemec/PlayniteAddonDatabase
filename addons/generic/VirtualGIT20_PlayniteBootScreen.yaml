@@ -1,0 +1,23 @@
+AddonId: PlayniteBoot_71b5c099-3c25-4fe7-b26f-1262c7f0e138
+Type: Generic
+Name: Playnite Boot Screen
+Author: VirtualGIT20
+ShortDescription: Display a customizable boot video while Playnite Fullscreen starts, with managed video selection and streaming preload support.
+InstallerManifestUrl: https://raw.githubusercontent.com/VirtualGIT20/Playnite-Boot-Screen/main/distribution/installer.yaml
+SourceUrl: https://github.com/VirtualGIT20/Playnite-Boot-Screen
+Description: >-
+  Displays a configurable fullscreen boot video while Playnite Fullscreen starts in the background.
+  Includes direct Desktop and Start menu shortcuts, a managed persistent video library, multi-monitor
+  detection, English and Italian localization, and generic Prep/Detached preload commands for Sunshine,
+  Apollo, and compatible forks.
+Tags:
+  - Generic
+  - Fullscreen
+  - Startup
+  - Video
+  - Streaming
+Links:
+  Website: https://github.com/VirtualGIT20/Playnite-Boot-Screen
+  Issues: https://github.com/VirtualGIT20/Playnite-Boot-Screen/issues
+  Changelog: https://github.com/VirtualGIT20/Playnite-Boot-Screen/blob/main/CHANGELOG.md
+IconUrl: https://raw.githubusercontent.com/VirtualGIT20/Playnite-Boot-Screen/main/PlayniteBoot/icon.png
