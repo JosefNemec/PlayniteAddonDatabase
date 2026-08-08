@@ -6,11 +6,7 @@ ShortDescription: Simple utility to import Epic collections to Playnite
 InstallerManifestUrl: https://github.com/rfastolfe/playnite-epic-collection-importer-plugin/blob/main/Manifests/Luxtos_EpicCollectionsImporter.yaml
 SourceUrl: https://github.com/rfastolfe/playnite-epic-collection-importer-plugin
 Description: Gives you an option to import basic Epic collections to Playnite.
-Version: 1.0
-Module: EpicCollectionsImporter.dll
-Type: GenericPlugin
-Icon: icon.png
 Links:
-  - GitHub: https://github.com/rfastolfe/playnite-epic-collection-importer-plugin
-  - Issue Tracker: https://github.com/rfastolfe/playnite-epic-collection-importer-plugin/issues
+    GitHub: https://github.com/rfastolfe/playnite-epic-collection-importer-plugin
+    Issue Tracker: https://github.com/rfastolfe/playnite-epic-collection-importer-plugin/issues
 IconUrl: https://github.com/rfastolfe/playnite-epic-collection-importer-plugin/blob/main/icon.png
