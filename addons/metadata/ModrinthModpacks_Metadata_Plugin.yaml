@@ -1,0 +1,22 @@
+AddonId: ModrinthModpacks_Metadata_Plugin
+Type: MetadataProvider
+Name: Modrinth Modpacks
+Author: NarasimaPandiyan
+ShortDescription: Download metadata for Minecraft Modpacks directly from Modrinth.
+InstallerManifestUrl: https://raw.githubusercontent.com/NarasimaPandiyan/Playnite-Modrinth-Metadata/main/ModrinthModpacksMetadata/installer.yaml
+SourceUrl: https://github.com/NarasimaPandiyan/Playnite-Modrinth-Metadata
+Description: |
+  Fetches rich metadata for Minecraft Modpacks from the official Modrinth API v2 (Labrinth).
+
+  Features:
+  - Interactive search modal with live search suggestions.
+  - Automatic background metadata matching with Minecraft prefix stripping.
+  - Full Markdown description converted to native Playnite HTML.
+  - High-resolution cover art, icons, and background screenshots.
+  - Modloader, Minecraft version, and environment compatibility tags.
+  - Links to Modrinth page, source code, issues, wiki, Discord, and donations.
+Tags: ["Minecraft", "Modpack", "Modrinth"]
+Links:
+    GitHub: https://github.com/NarasimaPandiyan/Playnite-Modrinth-Metadata
+    Modrinth: https://modrinth.com/
+IconUrl: https://raw.githubusercontent.com/NarasimaPandiyan/Playnite-Modrinth-Metadata/main/ModrinthModpacksMetadata/icon.png
