@@ -1,0 +1,31 @@
+AddonId: UVLMetadata_b825766b-c151-43cd-a918-7322fdc1868f
+Type: MetadataProvider
+Name: UVL Metadata
+Author: HerrKnarz
+InstallerManifestUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Manifest/HerrKnarz_UVLMetadata.yaml
+SourceUrl: https://github.com/HerrKnarz/Playnite-Extensions
+IconUrl: https://raw.githubusercontent.com/HerrKnarz/Playnite-Extensions/master/Metadata/UVLMetadata/icon.png
+ShortDescription: 'Imports game metadata from the Universal Videogame List'
+Description: |-
+    This plugin fetches metadata from the Universal Videogame List. It supports the following fields:
+    * Name
+    * Release Date
+    * Genres
+    * Developers
+    * Publishers
+    * Features
+    * Tags (extensive tag system with configurable prefixes)
+    * Links
+    * Series
+    * Platform
+    * Critic Score
+    * Description
+    * Age Rating
+Tags: ['Metadata', 'UVL']
+Links:
+    UVL: https://www.uvlist.net/
+    GitHub: https://github.com/HerrKnarz/Playnite-Extensions
+    Help: https://knarzwerk.de/en/playnite-extensions
+    AddOn database: https://playnite.link/addons.html#UVLMetadata_b825766b-c151-43cd-a918-7322fdc1868f
+    Translate: https://crowdin.com/project/playnite-extension-linkutiliti
+    Ko-fi (Tips and Donations): https://ko-fi.com/herrknarz
