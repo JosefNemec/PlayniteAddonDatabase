@@ -1,0 +1,19 @@
+AddonId: hdr-upscale-manager
+Type: Generic
+Name: HDR & Upscale Manager
+Author: matheusfaustino
+ShortDescription: 'Per-game HDR and upscaler (FSR/OptiScaler) setup for Playnite.'
+Description: >
+  Configure ReShade, RenoDX/Luma HDR mods, DXVK, and OptiScaler (FSR/XeSS) per game from inside Playnite. AMD-focused today, with NVIDIA support planned.
+Tags: ['HDR', 'Upscaling', 'ReShade', 'Mods', 'Luma', 'RenoDX']
+SourceUrl: https://github.com/matheusfaustino/playnite-hdr-upscale-manager
+IconUrl: https://raw.githubusercontent.com/matheusfaustino/playnite-hdr-upscale-manager/master/Resources/icon.png
+InstallerManifestUrl: https://raw.githubusercontent.com/matheusfaustino/playnite-hdr-upscale-manager/master/addon_manifest.json
+Links:
+  Issues Tracker: https://github.com/matheusfaustino/playnite-hdr-upscale-manager/issues
+  Documentation: https://github.com/matheusfaustino/playnite-hdr-upscale-manager/blob/master/README.md
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/matheusfaustino/playnite-hdr-upscale-manager/master/Screenshots/desktop-manager.png
+    Image: https://raw.githubusercontent.com/matheusfaustino/playnite-hdr-upscale-manager/master/Screenshots/desktop-manager.png
+  - Thumbnail: https://raw.githubusercontent.com/matheusfaustino/playnite-hdr-upscale-manager/master/Screenshots/fullscreen-manager.png
+    Image: https://raw.githubusercontent.com/matheusfaustino/playnite-hdr-upscale-manager/master/Screenshots/fullscreen-manager.png
