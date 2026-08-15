@@ -1,0 +1,34 @@
+AddonId: 'MarqueePlaynite_9f1e2713_Plugin'
+Type: Generic
+Name: 'Marquee Display'
+Author: 'Rawrcarnag3'
+ShortDescription: 'Displays a game-specific marquee image or video on a second monitor, updating automatically as you browse and launch games.'
+Description: >
+  Marquee Display shows a per-game image or looping video on a dedicated
+  monitor or marquee panel, hooked directly into Playnite's native
+  selection and launch events - no external scripts or manual Script
+  Actions required.
+
+
+  Features:
+
+  - Crossfades smoothly between marquees on a persistent full-screen
+  black window, so nothing flashes through mid-transition.
+
+  - Optional startup intro screen with a configurable hold period, so
+  it isn't immediately replaced by Playnite's auto-highlighted first
+  library item.
+
+  - Fully configurable from Playnite's own Settings UI: target
+  monitor, marquee size, crossfade duration, and Marquees folder
+  location.
+
+  - Looks up media per game by Game ID or Game Name, with a
+  configurable fallback image/video.
+
+
+  Supported file types: .png, .jpg, .jpeg, .webp, .mp4 (looping,
+  muted).
+InstallerManifestUrl: https://raw.githubusercontent.com/Rawrcarnag3/MarqueePlaynite/main/installer-manifest.yaml
+SourceUrl: https://github.com/Rawrcarnag3/MarqueePlaynite
+Tags: ['Marquee', 'Arcade Cabinet', 'Second Monitor', 'MAME']
