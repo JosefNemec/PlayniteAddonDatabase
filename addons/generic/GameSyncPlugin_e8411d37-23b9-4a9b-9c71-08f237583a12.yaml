@@ -1,0 +1,10 @@
+AddonId: e8411d37-23b9-4a9b-9c71-08f237583a12
+Type: Generic
+Name: Game Sync & Cleanup
+Author: Krop
+ShortDescription: Automatically removes deleted games from connected game launchers and syncs library.
+InstallerManifestUrl: https://raw.githubusercontent.com/Krops/GameSyncPlugin/main/installer.yaml
+SourceUrl: https://github.com/Krops/GameSyncPlugin
+IconUrl: https://raw.githubusercontent.com/Krops/GameSyncPlugin/main/icon.png
+Links:
+  GitHub: https://github.com/Krops/GameSyncPlugin
