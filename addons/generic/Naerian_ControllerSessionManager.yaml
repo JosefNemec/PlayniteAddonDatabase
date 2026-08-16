@@ -1,0 +1,14 @@
+AddonId: ControllerSessionManager_6f3e7a21-98f4-4f2b-92ad-3fc0e6e941dc
+Type: Generic
+Name: Controller Session Manager
+Author: Narian
+ShortDescription: Detect controllers and protect active game sessions when a participating controller disconnects.
+InstallerManifestUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-session-controller-manager/main/installer.yaml
+SourceUrl: https://github.com/Naerian/playnite-nx-session-controller-manager
+Description: |
+  Controller Session Manager identifies connected controllers, tracks which ones actually participate in a game session and reacts when a participant disconnects. It supports adaptive controller handover and local multiplayer, configurable Fullscreen notifications and an external disconnect overlay, conservative pause policies, custom names and icons, trustworthy battery states, Desktop quick access, theme integration and privacy-conscious support reports.
+IconUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-session-controller-manager/main/media/icon.png
+Tags: ['controller', 'gamepad', 'battery', 'fullscreen', 'accessibility', 'utility']
+Links:
+  GitHub: https://github.com/Naerian/playnite-nx-session-controller-manager
+  Support: https://ko-fi.com/naerian
