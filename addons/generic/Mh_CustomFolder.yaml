@@ -1,0 +1,7 @@
+AddonId: 'CustomFolder_7b4a1b34-6c57-4ef6-9d35-7e4e64b7c0a1'
+Type: Generic
+Name: 'CustomFolder'
+Author: 'Mh'
+ShortDescription: 'Organize game-related files by instantly creating and opening preset-based folders for each game'
+InstallerManifestUrl: https://raw.githubusercontent.com/MinhHoag/CustomFolder/refs/heads/main/installer.yaml
+SourceUrl: https://github.com/MinhHoag/CustomFolder
