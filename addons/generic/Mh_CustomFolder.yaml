@@ -5,3 +5,25 @@ Author: 'Mh'
 ShortDescription: 'Organize game-related files by instantly creating and opening preset-based folders for each game'
 InstallerManifestUrl: https://raw.githubusercontent.com/MinhHoag/CustomFolder/refs/heads/main/installer.yaml
 SourceUrl: https://github.com/MinhHoag/CustomFolder
+Description:
+  Create and quickly access organized per-game folders directly from your Playnite library
+
+  CustomFolder automatically creates folders based on the selected game and customizable presets, making it easy to keep installation files, media, highlights, mods, guides, download links, or other game-related files organized in one setup location.
+
+  - Right-click any game and select a preset to instantly create or open its folder
+  - Create, rename, remove, and reorder presets for different storing purposes
+  - Uses {PlayniteDir} as its base root, making paths portable with your Playnite installation
+  - Customizable the parent directory and use relative paths for more advanced folder layouts options
+  - Provided a live preview of the folder structure for each preset
+  - Presets and their order are saved and preserved across updates
+  - Removing a preset does not delete any folders or files that were previously created
+
+  Default folder structure {PlayniteDir}\CustomFolder\{Preset}\{GameName}
+Links:
+  GitHub: https://github.com/MinhHoag/CustomFolder
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/MinhHoag/CustomFolder/refs/heads/main/setting_screenshot.png
+    Image:     https://raw.githubusercontent.com/MinhHoag/CustomFolder/refs/heads/main/setting_screenshot.png
+  - Thumbnail: https://raw.githubusercontent.com/MinhHoag/CustomFolder/refs/heads/main/folder_tree.png
+    Image:     https://raw.githubusercontent.com/MinhHoag/CustomFolder/refs/heads/main/folder_tree.png
+IconUrl: https://raw.githubusercontent.com/MinhHoag/CustomFolder/refs/heads/main/icon.png
