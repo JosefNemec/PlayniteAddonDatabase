@@ -5,7 +5,7 @@ Author: 'Mh'
 ShortDescription: 'Organize game-related files by instantly creating and opening preset-based folders for each game'
 InstallerManifestUrl: https://raw.githubusercontent.com/MinhHoag/CustomFolder/refs/heads/main/installer.yaml
 SourceUrl: https://github.com/MinhHoag/CustomFolder
-Description:
+Description: |
   Create and quickly access organized per-game folders directly from your Playnite library
 
   CustomFolder automatically creates folders based on the selected game and customizable presets, making it easy to keep installation files, media, highlights, mods, guides, download links, or other game-related files organized in one setup location.
