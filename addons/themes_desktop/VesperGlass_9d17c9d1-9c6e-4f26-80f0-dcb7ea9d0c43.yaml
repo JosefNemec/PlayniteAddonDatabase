@@ -1,0 +1,11 @@
+AddonId: VesperGlass_9d17c9d1-9c6e-4f26-80f0-dcb7ea9d0c43
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/huseyincancalti/VesperGlass/main/distribution/installer.yaml
+ShortDescription: A dark tactile glass theme for Playnite Desktop Mode.
+Description: Vesper Glass is a neo-minimalist Playnite Desktop theme with cinematic acrylic surfaces, a vivid configurable accent color, and animated edge panels.
+Name: Vesper Glass
+Author: hsync
+Tags: ["Theme", "Desktop", "Dark", "Glass", "Minimal"]
+SourceUrl: https://github.com/huseyincancalti/VesperGlass
+Links:
+  GitHub: https://github.com/huseyincancalti/VesperGlass
