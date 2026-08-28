@@ -10,10 +10,10 @@ Description: >-
   Game Routines manages recurring and long-term game activities with multiple named routines,
   per-routine checklists, reset schedules, reminders, and task completion tracking. It also provides
   pop-out checklist windows, context-menu actions, persistent Playnite notifications, and optional
-  task tagging. Core functionality works independently of the active Playnite theme, and FusionX
-  is not required to use the extension. Version 0.9.0 was developed and tested primarily with
-  FusionX, while other Playnite Desktop themes have not yet been officially validated and may have
-  missing or incorrectly rendered Game Routines UI elements. Some screenshots show additional
+  task tagging. Core functionality works independently of the active Playnite Desktop theme.
+  Playnite's stock Default Desktop theme is officially validated for the core experience, while
+  FusionX 2.1.1 is regression-tested as the primary optional enhanced integration and reference
+  implementation. FusionX is not required to use the extension. Some screenshots show additional
   embedded Game Routines controls in the modified FusionX setup used during development; those
   additions are not currently included in the official FusionX theme.
 Links:
