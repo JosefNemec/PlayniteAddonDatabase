@@ -7,26 +7,19 @@ InstallerManifestUrl: https://raw.githubusercontent.com/felipeaucc/playnite-game
 SourceUrl: https://github.com/felipeaucc/playnite-gameroutines-plugin
 IconUrl: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/source/icon.png
 Description: >-
-  Game Routines manages recurring and long-term game activities with multiple named routines,
-  per-routine checklists, reset schedules, reminders, and task completion tracking. It also provides
-  pop-out checklist windows, context-menu actions, persistent Playnite notifications, and optional
-  task tagging. Core functionality works independently of the active Playnite Desktop theme.
-  Playnite's stock Default Desktop theme is officially validated for the core experience, while
-  FusionX 2.1.1 is regression-tested as the primary optional enhanced integration and reference
-  implementation. FusionX is not required to use the extension. Some screenshots show additional
-  embedded Game Routines controls in the modified FusionX setup used during development; those
-  additions are not currently included in the official FusionX theme.
+  Game Routines helps you manage recurring and long-term activities for your games. Create multiple
+  routines per game, add checklists, set Never, Daily, Weekly, or Biweekly reset schedules, schedule
+  reminders, and track completion. Open checklists from the game context menu or in separate windows,
+  and optionally manage a Tasks Available! tag for unfinished routines. Game Routines works with
+  Playnite's standard Default Desktop theme. No third-party theme is required. Some themes can
+  optionally show extra Game Routines controls directly in the game view.
 Links:
   GitHub: https://github.com/felipeaucc/playnite-gameroutines-plugin
   Issues: https://github.com/felipeaucc/playnite-gameroutines-plugin/issues
 Screenshots:
   - Thumbnail: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/01-settings.png
     Image: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/01-settings.png
-  - Thumbnail: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/03-fusionx-checklists.png
-    Image: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/03-fusionx-checklists.png
   - Thumbnail: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/02-manage-checklist.png
     Image: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/02-manage-checklist.png
-  - Thumbnail: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/04-fusionx-tasks-indicator.png
-    Image: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/04-fusionx-tasks-indicator.png
   - Thumbnail: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/05-context-menu.png
     Image: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/05-context-menu.png
