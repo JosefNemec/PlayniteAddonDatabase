@@ -8,11 +8,11 @@ SourceUrl: https://github.com/felipeaucc/playnite-gameroutines-plugin
 IconUrl: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/source/icon.png
 Description: >-
   Game Routines helps you manage recurring and long-term activities for your games. Create multiple
-  routines per game, add checklists, set Never, Daily, Weekly, or Biweekly reset schedules, schedule
+  routines per game, add checklists, set Never, Daily, Weekly, or Biweekly reset schedules, add
   reminders, and track completion. Open checklists from the game context menu or in separate windows,
   and optionally manage a Tasks Available! tag for unfinished routines. Game Routines works with
   Playnite's standard Default Desktop theme. No third-party theme is required. Some themes can
-  optionally show extra Game Routines controls directly in the game view.
+  show optional Game Routines controls directly in the game view.
 Links:
   GitHub: https://github.com/felipeaucc/playnite-gameroutines-plugin
   Issues: https://github.com/felipeaucc/playnite-gameroutines-plugin/issues
