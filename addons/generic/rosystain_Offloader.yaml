@@ -1,0 +1,7 @@
+AddonId: Offloader_5180751b-c8af-41cf-b9de-76253984e71c
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/rosystain/playnite-offloader/refs/heads/main/manifest.yaml
+ShortDescription: Offloader is a cold-storage archiving extension designed for Playnite. When SSD storage is constrained, Offloader allows you to safely migrate space-consuming games to secondary HDD or NAS storage while preserving full library metadata. Games can be restored at any time via Playnite's native installation workflow.
+Name: Offloader
+Author: Chock
+SourceUrl: https://github.com/rosystain/playnite-offloader#documentation
