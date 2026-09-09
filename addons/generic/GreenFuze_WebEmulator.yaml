@@ -1,0 +1,20 @@
+AddonId: WebEmulator_41d5bc40-a7e8-46a6-888e-d52cf719c397
+Type: Generic
+Name: Web Emulator
+Author: GreenFuze
+ShortDescription: Runs supported classic games in your browser through managed web-emulator profiles.
+InstallerManifestUrl: https://raw.githubusercontent.com/GreenFuze/PlayniteWebEmulator/master/installer.yaml
+SourceUrl: https://github.com/GreenFuze/PlayniteWebEmulator
+Description: |-
+  Registers managed Playnite emulator profiles backed by EmulatorJS, js-dos,
+  and ScummVM WebAssembly. Runtimes are downloaded from pinned upstream sources
+  on first use, hash-verified, and stored in Playnite's extension-data folder.
+  The add-on does not include or download games, ROMs, firmware, or BIOS files.
+Tags: ["Emulation", "Browser", "DOS", "ScummVM", "Arcade"]
+Links:
+  GitHub: https://github.com/GreenFuze/PlayniteWebEmulator
+  Support: https://github.com/GreenFuze/PlayniteWebEmulator/issues
+  Credits: https://github.com/GreenFuze/PlayniteWebEmulator/blob/master/THIRD_PARTY_NOTICES.md
+UserAgreement:
+  Updated: 2026-08-27
+  AgreementUrl: https://raw.githubusercontent.com/GreenFuze/PlayniteWebEmulator/master/USER_AGREEMENT.md
