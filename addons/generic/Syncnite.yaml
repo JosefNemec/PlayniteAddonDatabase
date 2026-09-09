@@ -1,0 +1,14 @@
+AddonId: Syncnite
+Type: Generic
+Name: Syncnite
+Author: Tolga Yigit
+ShortDescription: Sync your Playnite library to the cloud and browse or edit it from any browser.
+InstallerManifestUrl: https://raw.githubusercontent.com/TolgaYigit/syncnite-playnite-plugin/main/InstallerManifest.yaml
+SourceUrl: https://github.com/TolgaYigit/syncnite-playnite-plugin
+IconUrl: https://raw.githubusercontent.com/TolgaYigit/syncnite-playnite-plugin/main/pluginicon.png
+Description: 'Syncnite pushes your Playnite library to the cloud and pulls edits back down. Pair once with a short code from the web app, and Syncnite keeps your library in sync automatically: playtime, install status, and covers flow up to the web, while tags, notes, and completion status you set on the web land back in Playnite. Works alongside PlayniteAchievements (syncs achievement counts) and Duplicate Hider (hidden copies still sync, powering an Also owned on switcher on the web).'
+Tags: [cloud, sync, backup]
+Links:
+    GitHub: https://github.com/TolgaYigit/syncnite-playnite-plugin
+    Website: https://syncnite.com
+    Feedback: https://github.com/TolgaYigit/syncnite-feedback
