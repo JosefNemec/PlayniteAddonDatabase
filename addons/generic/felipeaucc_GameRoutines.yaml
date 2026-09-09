@@ -1,0 +1,25 @@
+AddonId: GameRoutines_cb076ecb-ea40-4036-8094-f1c554566b49
+Type: Generic
+Name: Game Routines
+Author: felipeaucc
+ShortDescription: Manage recurring and long-term game activities with routines, checklists, schedules, and reminders.
+InstallerManifestUrl: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/installer.yaml
+SourceUrl: https://github.com/felipeaucc/playnite-gameroutines-plugin
+IconUrl: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/source/icon.png
+Description: >-
+  Game Routines helps you manage recurring and long-term activities for your games. Create multiple
+  routines per game, add checklists, set Never, Daily, Weekly, or Biweekly reset schedules, add
+  reminders, and track completion. Open checklists from the game context menu or in separate windows,
+  and optionally manage a Tasks Available! tag for unfinished routines. Game Routines works with
+  Playnite's standard Default Desktop theme. No third-party theme is required. Some themes can
+  show optional Game Routines controls directly in the game view.
+Links:
+  GitHub: https://github.com/felipeaucc/playnite-gameroutines-plugin
+  Issues: https://github.com/felipeaucc/playnite-gameroutines-plugin/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/01-settings.png
+    Image: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/01-settings.png
+  - Thumbnail: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/02-manage-checklist.png
+    Image: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/02-manage-checklist.png
+  - Thumbnail: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/05-context-menu.png
+    Image: https://raw.githubusercontent.com/felipeaucc/playnite-gameroutines-plugin/main/assets/screenshots/05-context-menu.png
