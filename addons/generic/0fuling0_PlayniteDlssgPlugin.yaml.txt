@@ -1,0 +1,12 @@
+Id: PlayniteDlssgPlugin_e3e4de51-1731-43fc-9008-d40767b4d513
+Name: Playnite DLSSG Plugin
+Author: fuling
+Version: 1.0
+Module: PlayniteDlssgPlugin.dll
+Type: GenericPlugin
+Icon: 256.png
+AddonId: PlayniteDlssgPlugin_e3e4de51-1731-43fc-9008-d40767b4d513
+ShortDescription: Deploys DLSSG SM86 (version.dll + dlssg_sm86.ini) to game directories containing nvngx_dlssg.dll
+SourceUrl: https://github.com/0fuling0/PlayniteDlssgPlugin
+InstallerManifestUrl: https://raw.githubusercontent.com/0fuling0/PlayniteDlssgPlugin/master/manifest/installer.yaml
+
