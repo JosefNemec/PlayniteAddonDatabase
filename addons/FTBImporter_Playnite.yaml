@@ -1,0 +1,12 @@
+﻿AddonId: FTBImporter_Playnite
+Packages:
+  - Version: 1.0.0
+    RequiredApiVersion: 6.2.2
+    ReleaseDate: 2026-09-11
+    PackageUrl: https://github.com/gokublacko7/playnite-minecraft-modpacks/releases/download/v1.0.0/FTBImporter.pext
+    Changelog:
+      - Standalone game tiles for Feed The Beast (FTB) modpacks
+      - Auto-discovery from FTB settings.json and custom instances
+      - High-res logo and artwork sync
+      - Direct hover-to-play automated 1-click launch
+      - Auto-sync on Playnite startup and library refresh
