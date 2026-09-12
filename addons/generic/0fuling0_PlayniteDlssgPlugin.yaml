@@ -11,6 +11,8 @@ Description: |
   Features:
   - Auto-detects games with DLSS 3 Frame Generation (nvngx_dlssg.dll)
   - One-click deployment of proxy DLL and INI config
+  - One-click uninstall of previously deployed DLSSG files
+  - Localized UI: English (default) and Simplified Chinese
   - GPU auto-detection (RTX 20 -> SM75, RTX 30/40 -> SM86)
   - Custom INI parameters: Router, KernelImage, HardwareBilinear, MaxGeneratedFrames, LogLevel
   - Multiple DLL injection methods: version.dll, dinput8.dll, dxgi.dll, winhttp.dll, winmm.dll
