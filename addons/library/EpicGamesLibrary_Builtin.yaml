@@ -1,11 +1,11 @@
 ﻿AddonId: EpicGamesLibrary_Builtin
-IconUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/source/Libraries/EpicLibrary/Resources/epicicon.png
+IconUrl: https://codeberg.org/CrowIsTaken/PlayniteExtensions/raw/branch/main10/source/Libraries/EpicLibrary/Resources/epicicon.png
 Type: GameLibrary
-InstallerManifestUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/manifests/EpicGamesLibrary_Builtin.yaml
+InstallerManifestUrl: https://playnite.link/download/extensions/manifests/EpicGamesLibrary_Builtin.yaml
 ShortDescription: Imports games from Epic store library.
 Name: Epic Store library integration
 Author: Playnite
 Links:
-    Website: https://github.com/JosefNemec/PlayniteExtensions
-    Support: https://github.com/JosefNemec/PlayniteExtensions/wiki
-SourceUrl: https://github.com/JosefNemec/PlayniteExtensions
+    Website: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
+    Support: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki
+SourceUrl: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10

@@ -1,11 +1,11 @@
 ﻿AddonId: UplayLibrary_Builtin
-IconUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/source/Libraries/UplayLibrary/Resources/uplayicon.png
+IconUrl: https://codeberg.org/CrowIsTaken/PlayniteExtensions/raw/branch/main10/source/Libraries/UplayLibrary/Resources/uplayicon.png
 Type: GameLibrary
-InstallerManifestUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/manifests/UplayLibrary_Builtin.yaml
+InstallerManifestUrl: https://playnite.link/download/extensions/manifests/UplayLibrary_Builtin.yaml
 ShortDescription: Imports games from Ubisoft Connect game library.
 Name: Ubisoft Connect library integration
 Author: Playnite
 Links:
-    Website: https://github.com/JosefNemec/PlayniteExtensions
-    Support: https://github.com/JosefNemec/PlayniteExtensions/wiki
-SourceUrl: https://github.com/JosefNemec/PlayniteExtensions
+    Website: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
+    Support: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki
+SourceUrl: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
