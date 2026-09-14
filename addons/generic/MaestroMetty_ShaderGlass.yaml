@@ -1,0 +1,27 @@
+AddonId: ShaderGlass_b3ea67cd-a2e7-4f91-88c4-8486e31fc900
+Type: Generic
+Name: Shader Glass
+Author: MaestroMetty
+ShortDescription: Automatically launches ShaderGlass with custom profiles when games with specific tags are started.
+InstallerManifestUrl: https://github.com/MaestroMetty/shaderglass-playnite/raw/refs/heads/main/InstallerManifest.yaml
+SourceUrl: https://github.com/MaestroMetty/shaderglass-playnite
+Description: |
+    Automatically launch ShaderGlass with custom shader profiles when starting games!
+    
+    The Shader Glass Plugin allows you to automatically inject shaders into your games by simply tagging them.
+    
+    Features:
+    - Automatic ShaderGlass launch when games with ShaderGlass tags are started
+    - Custom profile selection via game tags
+    - Configurable ShaderGlass executable path and profiles directory
+    - Support for fullscreen and windowed modes
+    - Paused mode support (with warning)
+    - Automatic cleanup when games are stopped
+    
+    Simply tag your games with [ShaderGlass] profile-name to enable automatic shader injection.
+
+IconUrl: https://raw.githubusercontent.com/MaestroMetty/shaderglass-playnite/refs/heads/main/Resources/icon.png
+Tags: ['Generic', 'shader', 'ShaderGlass', 'graphics', 'enhancement', 'automation', 'retro-gaming', 'retro']
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/MaestroMetty/shaderglass-playnite/refs/heads/main/screenshots/thumb.png
+      Image: https://raw.githubusercontent.com/MaestroMetty/shaderglass-playnite/refs/heads/main/screenshots/main.png
