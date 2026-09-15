@@ -9,3 +9,8 @@ Links:
     Website: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
     Support: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki
 SourceUrl: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
+FaqTopics:
+    - Name: Should I use Web or API login?
+      Answer: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki/Steam-troubleshooting#should-i-use-web-or-api-login
+    - Name: Steam installation not found
+      Answer: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki/Steam-troubleshooting#steam-installation-not-found

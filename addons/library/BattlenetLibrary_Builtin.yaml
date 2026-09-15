@@ -9,3 +9,10 @@ Links:
     Website: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
     Support: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki
 SourceUrl: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
+FaqTopics:
+    - Name: Authentication being lost after some time
+      Answer: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki/Battle.net-troubleshooting#authentication-being-lost-after-some-time
+    - Name: Games not reported as installed
+      Answer: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki/Battle.net-troubleshooting#games-not-reported-as-installed
+    - Name: Newly published game not being imported
+      Answer: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki/Battle.net-troubleshooting#newly-published-game-not-being-imported

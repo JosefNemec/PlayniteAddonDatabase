@@ -9,3 +9,6 @@ Links:
     Website: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
     Support: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki
 SourceUrl: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
+FaqTopics:
+    - Name: Some games appearing as uninstalled in Playnite
+      Answer: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki/GOG-troubleshooting#some-games-appearing-as-uninstalled-in-playnite
