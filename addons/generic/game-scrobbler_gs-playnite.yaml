@@ -8,13 +8,11 @@ SourceUrl: https://github.com/game-scrobbler/gs-playnite
 InstallerManifestUrl: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/installer_manifest.yaml
 IconUrl: https://raw.githubusercontent.com/game-scrobbler/gs-playnite/main/icon.png
 Description: |-
-    GameScrobbler connects your Playnite library to a unified gaming data layer.
+    Game Scrobbler brings your playtime, statistics and achievements from Playnite and your gaming accounts together in one profile, so you see all of your gaming and not only the sessions on this PC.
 
-    Instead of leaving your play history scattered across launchers and platforms, it collects and analyzes your gameplay into a structured player profile.
+    The plugin records your play sessions and syncs your Playnite library in the background. It supports games from the Steam, Epic Games, GOG, Xbox, PlayStation, Battle.net, Ubisoft Connect, Amazon Games, itch.io and Humble libraries, plus community libraries such as Legendary and GOG OSS.
 
-    The plugin tracks your play sessions, builds a behavioral map of your gaming activity, and generates insights about how you play.
-
-    Your gaming history becomes more than a list of games. It becomes a living identity graph of your gaming behavior.
+    Link the plugin to your gamescrobbler.com account to also connect Steam, Xbox, PlayStation, Nintendo and Epic Games directly. Playtime and achievements from your consoles and other PCs then join the same profile, depending on what each platform shares.
 
     Features:
     * Sync your gaming activity — automatically capture play sessions from your Playnite library
@@ -26,7 +24,7 @@ Description: |-
 Links:
     Website: https://gamescrobbler.com
     GitHub: https://github.com/game-scrobbler/gs-playnite
-    Discord: https://discord.gg/gamescrobbler
+    Discord: https://discord.gg/ynEGCAEBun
     Support: https://gamescrobbler.com/support
     FAQ: https://gamescrobbler.com/faqs
     "Privacy Policy": https://gamescrobbler.com/privacy
