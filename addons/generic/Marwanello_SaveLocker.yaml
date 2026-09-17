@@ -1,0 +1,20 @@
+AddonId: '4d7017e5-87c0-4011-92c4-83f5dde2ada2'
+Type: Generic
+Name: 'SaveLocker'
+Author: 'SkorcherX'
+ShortDescription: 'Pre-launch save sync gate for SaveLocker: pulls the newer save, or blocks on a genuine conflict, before a game starts — and pushes the moment it exits.'
+InstallerManifestUrl: https://raw.githubusercontent.com/Marwanello/SaveLocker-Playnite/main/installer.yaml
+SourceUrl: https://github.com/Marwanello/SaveLocker-Playnite
+Description: |
+    Gives SaveLocker (https://github.com/SkorcherX/SaveLocker) a genuine pre-launch save gate on
+    Windows: pulls the newer save, or blocks on a real conflict, *before* Playnite starts the game —
+    the same guarantee the Linux agent's launch wrapper already gives Steam Deck.
+
+    Requires the SaveLocker Windows agent to be installed and running. With no agent reachable the
+    plugin fails open — games always launch, SaveLocker is never the reason one won't start.
+
+    After exit, pushes the save the moment Playnite notices the game closed, rather than waiting for
+    the agent's own background poller.
+Tags: ['sync', 'saves', 'backup', 'cloud-save', 'multi-pc']
+Links:
+    SaveLocker: https://github.com/SkorcherX/SaveLocker
