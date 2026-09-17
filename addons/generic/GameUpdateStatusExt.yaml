@@ -6,6 +6,7 @@ Name: 'Game Update Status'
 Author: 'FunkyKwak'
 Tags: ['update', 'status']
 SourceUrl: https://github.com/FunkyKwak/playnite-get-update-status
+IconUrl: https://raw.githubusercontent.com/FunkyKwak/playnite-get-update-status/refs/heads/main/docs/images/icon.png
 Screenshots:
     - Thumbnail: https://raw.githubusercontent.com/FunkyKwak/playnite-get-update-status/refs/heads/main/docs/images/screenshot-grid-thumb.png
       Image: https://raw.githubusercontent.com/FunkyKwak/playnite-get-update-status/refs/heads/main/docs/images/screenshot-grid.png
