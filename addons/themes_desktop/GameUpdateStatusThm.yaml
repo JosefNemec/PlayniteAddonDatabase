@@ -1,0 +1,16 @@
+AddonId: 'GameUpdateStatus_Theme'
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/FunkyKwak/playnite-get-update-status/refs/heads/main/PlayniteAddonDatabase/GameUpdateStatusThmInstaller.yaml
+ShortDescription: 'Displays the update status of installed games directly in Playnite'
+Name: 'Game Update Status'
+Author: 'FunkyKwak'
+Tags: ['update', 'status']
+SourceUrl: https://github.com/FunkyKwak/playnite-get-update-status
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/FunkyKwak/playnite-get-update-status/refs/heads/main/docs/images/screenshot-grid-thumb.png
+      Image: https://raw.githubusercontent.com/FunkyKwak/playnite-get-update-status/refs/heads/main/docs/images/screenshot-grid.png
+FaqTopics:
+    - Name: How do I install this addon ?
+      Answer: Install this extension, then install the "Game Update Status" theme, they work together to display the status icons. 
+    - Name: What libraries/sources are compatible ?
+      Answer: Currently Steam and Epic. If you want to add another source, feel free to submit an issue on the github repository, I'll see what I can do.
