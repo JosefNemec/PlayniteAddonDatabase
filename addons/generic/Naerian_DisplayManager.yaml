@@ -1,0 +1,15 @@
+AddonId: PlayniteDisplayManager_9c2e4a71-b8d3-4f6a-a1c5-0e7d92f3b846
+Type: Generic
+Name: Display Manager
+Author: Narian
+ShortDescription: Display Manager applies a Windows display and HDR profile when a game starts and restores the previous desktop state when the game stops.
+InstallerManifestUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-display-session/main/installer.yaml
+SourceUrl: https://github.com/Naerian/playnite-nx-display-session
+Description: |
+  Display Manager is built for living-room gaming — a PC on the sofa connected to a TV, or setups that switch between a TV and another screen. Choose the primary display and which HDR policy applies — global radios, Features/Tags metadata matching, or a per-game override — then bring the desktop back when the session ends. RestoreHost keeps topology and HDR write-off durable if Playnite exits unexpectedly. HDR status under Automatic Color Management is treated honestly (Unknown when readback cannot be trusted). Night Light is not managed in v1.
+IconUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-display-session/main/media/icon.png
+Tags: ['display', 'hdr', 'tv', 'living-room', 'utility', 'qol', 'fullscreen', 'desktop']
+Links:
+  GitHub: https://github.com/Naerian/playnite-nx-display-session
+  Wiki: https://github.com/Naerian/playnite-nx-display-session/wiki
+  Support: https://ko-fi.com/naerian
