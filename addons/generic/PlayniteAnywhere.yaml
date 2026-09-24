@@ -1,0 +1,15 @@
+AddonId: 'PlayniteAnywhere'
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/FunkyKwak/playnite-anywhere/refs/heads/main/PlayniteAddonDatabase/PlayniteAnywhereInstaller.yaml
+ShortDescription: 'Navigate throw your games from any browser on yoour local network !'
+Name: 'Playnite Anywhere'
+Author: 'FunkyKwak'
+Tags: ['remote', 'web', 'mobile']
+SourceUrl: https://github.com/FunkyKwak/playnite-anywhere
+IconUrl: https://raw.githubusercontent.com/FunkyKwak/playnite-anywhere/refs/heads/main/docs/images/icon.png
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/FunkyKwak/playnite-anywhere/refs/heads/main/docs/images/screenshot-main-thumb.png
+      Image: https://raw.githubusercontent.com/FunkyKwak/playnite-anywhere/refs/heads/main/docs/images/screenshot-main.png
+FaqTopics:
+    - Name: How do I use this addon ?
+      Answer: Install this extension, then navigate to http://localhost:32650 froom your computer or to http://YOUR-PC-IP:32650 from any other device on your network. 
