@@ -2,11 +2,15 @@ AddonId: PlayniteDisplayManager_9c2e4a71-b8d3-4f6a-a1c5-0e7d92f3b846
 Type: Generic
 Name: Display Manager
 Author: Narian
-ShortDescription: Display Manager applies a Windows display and HDR profile when a game starts and restores the previous desktop state when the game stops.
+ShortDescription: Applies Windows display layout, resolution, refresh rate, and HDR when a game starts, then restores your desktop when it stops.
 InstallerManifestUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-display-session/main/installer.yaml
 SourceUrl: https://github.com/Naerian/playnite-nx-display-session
 Description: |
-  Display Manager is built for living-room gaming — a PC on the sofa connected to a TV, or setups that switch between a TV and another screen. Choose the primary display and which HDR policy applies — global radios, Features/Tags metadata matching, or a per-game override — then bring the desktop back when the session ends. RestoreHost keeps topology and HDR write-off durable if Playnite exits unexpectedly. HDR status under Automatic Color Management is treated honestly (Unknown when readback cannot be trusted). Night Light is not managed in v1.
+  Display Manager configures Windows displays for each game session and puts everything back when you quit.
+
+  Pick a primary display for games (or keep Windows as-is), optionally turn other screens off, and wait for a TV to wake before falling back. Set global defaults for HDR, refresh rate, and resolution, then override them per game or per platform from the context menu. Profiles cover Solo TV and PC/Desktop style setups; game and platform overrides win when present.
+
+  When a session ends—or Playnite exits unexpectedly—layout, resolution, refresh rate, and HDR are restored. RestoreHost keeps that safety net alive outside Playnite. Identity stays stable via EDID aliases, with Identify labels, a Desktop top bar, Fullscreen Theme API controls, and an honest Overview when Automatic Color Management makes HDR readback unreliable.
 IconUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-display-session/main/media/icon.png
 Tags: ['display', 'hdr', 'tv', 'living-room', 'utility', 'qol', 'fullscreen', 'desktop']
 Links:
