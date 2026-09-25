@@ -1,0 +1,16 @@
+AddonId: AbyssVII_GameVault
+Type: Generic
+Name: GameVault 游戏库存
+Author: AbyssVII
+ShortDescription: It tracks playtime statistics across different game libraries and includes a feature to view playtime over the past two weeks.
+InstallerManifestUrl:https://github.com/AbyssVII/playnite-gamevault/blob/main/manifests/installer.yaml
+SourceUrl:https://github.com/AbyssVII/playnite-gamevault
+Description:Based on the addon "GameAcitivity".
+Tags:["Playtime", "Statistics", "Metacritic"]
+Module: GameVault.dll
+IconUrl: 
+Links:
+  - Name: GitHub
+    Url: https://github.com/AbyssVII/playnite-gamevault
+  - Name: Report issues
+    Url: https://github.com/AbyssVII/playnite-gamevault/issues
