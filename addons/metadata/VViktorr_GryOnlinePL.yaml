@@ -1,0 +1,10 @@
+AddonId: GryOnlineMetadata_7b963b1a-21e9-4a3b-a18c-49c74cf8d652
+Type: MetadataProvider
+Name: GryOnlinePL
+Author: Viktor by chatgpt
+ShortDescription: Polish game metadata from GRYOnline.pl, including descriptions, release dates and ratings.
+Description: Fetches game metadata from GRYOnline.pl with configurable description sections and optional artwork from SteamGridDB.
+InstallerManifestUrl: https://raw.githubusercontent.com/VViktorr/PlaynitePlugins/main/installers/GryOnlinePL.yaml
+SourceUrl: https://github.com/VViktorr/PlaynitePlugins/tree/main/GryOnlineMetadata
+IconUrl: https://raw.githubusercontent.com/VViktorr/PlaynitePlugins/main/GryOnlineMetadata/icon.png
+Tags: [metadata, gryonline, polish]
