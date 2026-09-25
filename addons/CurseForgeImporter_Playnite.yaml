@@ -1,0 +1,11 @@
+AddonId: CurseForgeImporter_Playnite
+Packages:
+  - Version: 1.0.1
+    RequiredApiVersion: 6.2.2
+    ReleaseDate: 2026-09-11
+    PackageUrl: https://github.com/gokublacko7/playnite-minecraft-modpacks/releases/download/v1.0.1/CurseForgeImporter.pext
+    Changelog:
+      - Standalone game tiles for CurseForge Minecraft modpacks
+      - High-res cover art and thumbnail synchronization
+      - Smart 1-click auto-launch with dynamic DPI & resolution awareness
+      - Auto-sync on Playnite startup and library refresh
