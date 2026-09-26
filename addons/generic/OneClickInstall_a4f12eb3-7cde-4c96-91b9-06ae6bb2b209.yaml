@@ -1,0 +1,12 @@
+AddonId: OneClickInstall_a4f12eb3-7cde-4c96-91b9-06ae6bb2b209
+Type: Generic
+Name: One Click Install
+Author: SPYBG
+ShortDescription: Start supported game installs with one click and track them on a controller-friendly screen.
+Description: Supports direct Steam and Ubisoft Connect installs, optional Legendary and Nile adapters, and progress from Unified Download Manager. Launcher sign-in and setup may be required. Other launchers retain their normal install actions.
+InstallerManifestUrl: https://raw.githubusercontent.com/theartofvalio-cmyk/PlayniteOneClickInstall/main/installer.yaml
+SourceUrl: https://github.com/theartofvalio-cmyk/PlayniteOneClickInstall
+IconUrl: https://raw.githubusercontent.com/theartofvalio-cmyk/PlayniteOneClickInstall/main/src/OneClickInstall/icon.png
+Tags: [Generic, games, installation, controller]
+Links:
+  Source: https://github.com/theartofvalio-cmyk/PlayniteOneClickInstall
