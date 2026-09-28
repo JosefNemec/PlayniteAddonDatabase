@@ -1,0 +1,22 @@
+AddonId: FusionZ_1e05f9eb-8760-41dc-ad68-58ca379961b0
+Type: ThemeDesktop
+InstallerManifestUrl: https://github.com/Gameil7/FusionZ/raw/refs/heads/main/Manifest/Installer_Manifest.yaml
+Name: FusionZ
+Author: Gameil
+SourceUrl: https://github.com/Gameil7/FusionZ
+ShortDescription: Fork of FusionX, adding additional features.
+Description: Adds additionals QOL improvments like hiding header while playing video, disabling name if logo is visible, quick access to EML Menu, etc.
+Tags: ["Theme", "Dark", "Custom UI"]
+IconUrl: https://raw.githubusercontent.com/Gameil7/FusionZ/main/Source/Images/applogo.png
+Links:
+    GitHub: https://github.com/Gameil7/FusionZ
+    Issues Tracker: https://github.com/Gameil7/FusionZ/issues
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/Gameil7/FusionZ/main/Screenshots/Thumb_01.jpg
+      Image: https://raw.githubusercontent.com/Gameil7/FusionZ/main/Screenshots/Screenshots01.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Gameil7/FusionZ/main/Screenshots/Thumb_02.jpg
+      Image: https://raw.githubusercontent.com/Gameil7/FusionZ/main/Screenshots/Screenshots02.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Gameil7/FusionZ/main/Screenshots/Thumb_03.jpg
+      Image: https://raw.githubusercontent.com/Gameil7/FusionZ/main/Screenshots/Screenshots03.jpg
+    - Thumbnail: https://raw.githubusercontent.com/Gameil7/FusionZ/main/Screenshots/Thumb_04.jpg
+      Image: https://raw.githubusercontent.com/Gameil7/FusionZ/main/Screenshots/Screenshots04.jpg
