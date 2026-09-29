@@ -1,0 +1,23 @@
+AddonId: MaterialUi_79924819
+Type: ThemeDesktop
+Name: Material UI
+Author: danitesler
+ShortDescription: A fully dark desktop theme built on Material UI's default dark theme.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/MaterialUi/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/MaterialUi
+Description: |
+  Material UI brings MUI's default dark theme to the Playnite desktop app: #121212 surfaces lifted by Material's elevation overlays, and MUI's light blue as the accent.
+
+  The layout is Material's app bar and mini drawer: an elevated bar across the window with the classic app bar search and round icon buttons with Material icons. Buttons are text buttons with uppercase labels (contained for the Play button and default buttons), tabs are uppercase with a blue indicator, inputs are filled with an animated underline, and checkboxes, radios, and sliders use Material's shapes and hover state layers.
+
+  Inspired by Material UI; not affiliated with MUI or Google.
+Tags: [Dark, Desktop, Material, MUI]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/MaterialUi/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/MaterialUi
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/MaterialUi/info/screenshots/grid.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/MaterialUi/info/screenshots/grid.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/MaterialUi/info/screenshots/details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/MaterialUi/info/screenshots/details.png

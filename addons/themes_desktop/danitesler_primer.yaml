@@ -1,0 +1,23 @@
+AddonId: Primer_55D3FC28
+Type: ThemeDesktop
+Name: Primer
+Author: danitesler
+ShortDescription: A fully dark desktop theme built on GitHub's Primer design system.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primer/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Primer
+Description: |
+  Primer brings the look of GitHub's dark mode to the Playnite desktop app, using the Primer design system's own color tokens: a #0D1117 canvas, blue for selection and focus, and green primary buttons.
+
+  The layout follows GitHub: a dark header band with the search and Octicons on the right, and a navigation rail with GitHub's blue current-item bar. Buttons, inputs, and menus follow Primer's components, tabs use GitHub's underline navigation with the coral active bar, radio buttons get Primer's thick blue ring, and keyboard focus shows a 2px blue outline inside the control.
+
+  Inspired by Primer; not affiliated with GitHub.
+Tags: [Dark, Minimal, Desktop, Primer]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primer/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Primer
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primer/info/screenshots/grid.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primer/info/screenshots/grid.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primer/info/screenshots/details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primer/info/screenshots/details.png

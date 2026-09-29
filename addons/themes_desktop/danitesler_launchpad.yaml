@@ -1,0 +1,23 @@
+AddonId: Launchpad_5B2E91A4
+Type: ThemeDesktop
+Name: Launchpad
+Author: danitesler
+ShortDescription: A dark game-launcher theme with an icon rail, a game list, a full-width-art game page and a big blue Play button. Inspired by the Battle.net app.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Launchpad
+Description: |
+  Launchpad gives Playnite the look of a modern game-launcher app (inspired by the Battle.net desktop app): near-black blue-grey surfaces, white text and one bright launcher blue for Play, selection and focus.
+
+  The layout follows the app. An icon rail on the left holds the logo button (it opens Playnite's main menu) and the view icons, and the top bar holds search and the view controls. The details view becomes the game list with a blue bar on the selected row, next to a game page: the game's background art runs full width and fades into the page, its name sits on the art, About and Game details cards follow, and a bottom bar carries the big blue Play button, the context action and an Options button with a gear. Buttons, inputs, menus, tabs, sliders and scroll bars are restyled to match, with Phosphor line icons.
+
+  The colors are approximated by eye, not sampled from the client, and no logos or icons from any launcher are included. Inspired by the Battle.net app; not affiliated with or endorsed by Blizzard Entertainment. Battle.net is a trademark of Blizzard Entertainment.
+Tags: [Dark, Desktop, Launcher]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Launchpad
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/info/screenshots/grid.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/info/screenshots/grid.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/info/screenshots/details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/info/screenshots/details.png

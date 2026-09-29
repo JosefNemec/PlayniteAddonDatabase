@@ -1,0 +1,23 @@
+AddonId: ChakraUi_2C9CE76E
+Type: ThemeDesktop
+Name: Chakra UI
+Author: danitesler
+ShortDescription: A fully dark desktop theme built on Chakra UI's dark tokens and teal color palette.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ChakraUi/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/ChakraUi
+Description: |
+  Chakra UI brings Chakra UI's dark mode to the Playnite desktop app: near-black surfaces, gray panels, and Chakra's teal as the accent.
+
+  Everything sits on one flat surface with Chakra's roomy spacing: a 64px top bar with the view controls in a segmented group and a borderless search field, and a sidebar with teal highlights. Buttons and inputs are borderless like Chakra's subtle and solid variants, tabs use Chakra's underline style, sliders follow Chakra's outline slider, and keyboard focus shows Chakra's 2px teal ring.
+
+  Inspired by Chakra UI; not affiliated with the Chakra UI project.
+Tags: [Dark, Minimal, Desktop, Chakra UI]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ChakraUi/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/ChakraUi
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ChakraUi/info/screenshots/grid.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ChakraUi/info/screenshots/grid.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ChakraUi/info/screenshots/details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ChakraUi/info/screenshots/details.png

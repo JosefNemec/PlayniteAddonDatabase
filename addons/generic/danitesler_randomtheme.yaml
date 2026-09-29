@@ -1,0 +1,12 @@
+﻿AddonId: RandomTheme_C3F8A2D1
+Type: Generic
+Name: RandomTheme
+Author: danitesler
+ShortDescription: Randomly selects a Playnite theme on each launch.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/RandomTheme/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/RandomTheme
+Description: |
+  Randomly selects a Playnite theme on each launch.
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/RandomTheme/info/icon.png
+Links:
+  Plugin homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/RandomTheme

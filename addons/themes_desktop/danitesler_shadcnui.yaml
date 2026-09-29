@@ -1,0 +1,23 @@
+AddonId: ShadcnUi_B66DB7B1
+Type: ThemeDesktop
+Name: Shadcn UI
+Author: danitesler
+ShortDescription: A fully dark desktop theme built on shadcn/ui's zinc palette and component styles.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ShadcnUi/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/ShadcnUi
+Description: |
+  Shadcn UI brings the shadcn/ui look to the Playnite desktop app: near-black zinc surfaces, rounded controls, quiet monochrome accents, and no divider lines.
+
+  The layout is shadcn's inset dashboard: the library sits on a rounded card inside the sidebar-colored frame, with a slim header that holds the search and lucide icons. Buttons, inputs, selects, checkboxes, tabs, menus, tooltips, sliders, progress bars, and scrollbars follow shadcn/ui's components, and cover tiles get a ring on hover and selection.
+
+  Inspired by shadcn/ui; not affiliated with the shadcn/ui project.
+Tags: [Dark, Minimal, Desktop, shadcn]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ShadcnUi/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/ShadcnUi
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ShadcnUi/info/screenshots/grid.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ShadcnUi/info/screenshots/grid.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ShadcnUi/info/screenshots/details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ShadcnUi/info/screenshots/details.png

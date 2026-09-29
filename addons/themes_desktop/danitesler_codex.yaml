@@ -1,0 +1,25 @@
+AddonId: Codex_8D4F60B2
+Type: ThemeDesktop
+Name: Codex
+Author: danitesler
+ShortDescription: A dark desktop theme in charcoal, ivory and gold, with a left icon rail and entry-style game screens. Inspired by the Assassin's Creed menus.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Codex/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Codex
+Description: |
+  Codex gives Playnite the look of a game codex (inspired by the menus of the Assassin's Creed games): near-black charcoal surfaces, warm ivory text, one gold accent, hairline rules, and diamonds and corner brackets wherever something is current.
+
+  The layout follows the menus. The sidebar is an icon rail on the left (it follows Playnite's sidebar position), and the current item is marked with a gold bar and a diamond. The top bar holds the search field on the left and the view, sort, filter and notification buttons on the right. In the Details view the game list sits on the left and the game info screen fills the rest like an entry screen: the title in small caps over a gold divider, the action buttons, the cover in a frame with gold corner brackets, a small-caps property list and the description under its own heading. The Grid view has the same screen in a side panel, and selected covers get a gold frame and brackets.
+
+  Controls follow the same language: glass buttons with a hairline edge and a solid gold default button, inset fields with a gold focus edge, diamond check boxes and radio buttons, a diamond slider thumb, hairline scroll bars and progress bars. The icons are original thin-line artwork drawn for this theme, and no game assets are included. It uses fonts that ship with Windows (Segoe UI Semilight and Palatino Linotype).
+
+  Inspired by the Assassin's Creed games; not affiliated with or endorsed by Ubisoft Entertainment. Assassin's Creed is a trademark of Ubisoft.
+Tags: [Dark, Desktop, Gold, Codex]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Codex/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Codex
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Codex/info/screenshots/grid.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Codex/info/screenshots/grid.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Codex/info/screenshots/details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Codex/info/screenshots/details.png

@@ -1,0 +1,20 @@
+AddonId: AutoStatus_66B775F8
+Type: Generic
+Name: AutoStatus
+Author: danitesler
+ShortDescription: Keeps completion status honest—stale "Playing" games go On Hold, and starting a game sets it back to Playing.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/AutoStatus/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/AutoStatus
+Description: |
+  Your "Playing" list fills up with games you dropped months ago, and games marked On Hold or Plan to Play stay that way after you pick them back up.
+
+  AutoStatus fixes both with two rules:
+  - Games still marked Playing that you have not played for a set number of days (30 by default) move to On Hold.
+  - Starting a game that is On Hold, Abandoned, or Plan to Play sets it back to Playing.
+
+  Both rules use your own completion statuses, so you can pick any source and target. Games you have never played in Playnite are left alone, and a game you just marked Playing again is not moved back until the window passes. Rules run at startup, every 6 hours, after saving settings, and from the Extensions menu.
+Tags: [Completion status, Automation, Backlog, Generic]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/AutoStatus/info/icon.png
+Links:
+  Plugin homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/AutoStatus
+  Report issue: https://github.com/danitesler/playnite-extensions/issues

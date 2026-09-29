@@ -1,0 +1,23 @@
+AddonId: Fluent2_3EA906E4
+Type: ThemeDesktop
+Name: Fluent 2
+Author: danitesler
+ShortDescription: A fully dark desktop theme built on Microsoft's Fluent 2 design system.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Fluent2/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Fluent2
+Description: |
+  Fluent 2 gives Playnite the look of a native Windows 11 app, using Microsoft's Fluent 2 dark tokens: #1F1F1F canvas, #292929 controls, Segoe UI, and Fluent's two blues.
+
+  The layout is a Windows 11 app: a compact navigation rail, a title bar with the search centered and Windows 11 caption buttons, and the library on a content layer with a rounded corner. Icons are Fluent System Icons. Inputs and dropdowns get Fluent's accessible bottom edge and a blue focus underline that grows from the center, tabs use the rounded Fluent indicator, primary buttons are Fluent brand blue, and checkboxes, radios, and sliders follow Fluent's shapes. Keyboard focus shows Fluent's 2px white outline.
+
+  Inspired by Fluent 2; not affiliated with Microsoft.
+Tags: [Dark, Minimal, Desktop, Fluent, Windows 11]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Fluent2/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Fluent2
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Fluent2/info/screenshots/grid.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Fluent2/info/screenshots/grid.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Fluent2/info/screenshots/details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Fluent2/info/screenshots/details.png

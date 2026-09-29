@@ -1,0 +1,25 @@
+AddonId: Questlog_C6A03E17
+Type: ThemeDesktop
+Name: Questlog
+Author: danitesler
+ShortDescription: A dark fantasy desktop theme with gold frames, red leather buttons and a quest-log game page. Inspired by the World of Warcraft Vanilla interface.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Questlog
+Description: |
+  Questlog gives Playnite the look of a classic fantasy RPG interface (inspired by the World of Warcraft Vanilla interface): gold and bronze frames, red leather panel buttons with gold text, the navy tooltip, the stone bars of the main menu, item slots for covers, and the quest log's plus and minus headers on the game lists.
+
+  The game details are set like the quest log. The properties are an item tooltip: gold labels, white values, scores in the item quality colors. The description and notes are quest text on paper, inside a gold frame. Progress bars are the casting bar, scroll bars have arrow buttons and a beige knob, dialogs get a gold frame with the title on a plaque, and every icon is drawn in the same style: a spellbook, an hourglass, a quill, a treasure chest, dice.
+
+  Text uses Friz Quadrata when it is installed and Constantia, Palatino Linotype or Georgia when it is not; the font is not bundled. All artwork is original, drawn for this theme: no game files are included.
+
+  Inspired by the World of Warcraft Vanilla interface; not affiliated with or endorsed by Blizzard Entertainment. World of Warcraft is a trademark of Blizzard Entertainment.
+Tags: [Dark, Fantasy, Desktop, RPG, Classic]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Questlog
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/info/screenshots/grid.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/info/screenshots/grid.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/info/screenshots/details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/info/screenshots/details.png
