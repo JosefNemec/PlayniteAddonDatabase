@@ -1,0 +1,21 @@
+AddonId: MGA_02db01ef-50e6-49cd-8460-9ee06d324b74
+Type: GameLibrary
+Name: MyGamesAnywhere
+Author: GreenFuze
+ShortDescription: Connect your self-hosted MyGamesAnywhere game library to Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/GreenFuze/PlayniteMGA/main/installer.yaml
+SourceUrl: https://github.com/GreenFuze/PlayniteMGA
+Description: >-
+  Import games, metadata, and artwork from your MyGamesAnywhere server.
+  Sign in with an MGA profile and download authorized file-backed games with
+  progress, cancellation, and resume. Storefront games are handed to their stores.
+  Requires a separately installed MyGamesAnywhere server; no games or emulators are bundled.
+Tags:
+  - library
+  - self-hosted
+  - server
+Links:
+  Documentation: https://github.com/GreenFuze/PlayniteMGA#readme
+  Releases: https://github.com/GreenFuze/PlayniteMGA/releases
+  Privacy: https://github.com/GreenFuze/PlayniteMGA/blob/main/PRIVACY.md
+IconUrl: https://raw.githubusercontent.com/GreenFuze/PlayniteMGA/main/src/MGA.Playnite/Resources/mga.png
