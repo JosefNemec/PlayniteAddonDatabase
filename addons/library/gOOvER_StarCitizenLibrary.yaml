@@ -1,0 +1,31 @@
+AddonId: StarCitizenLibrary_d2146b15-4cfc-40cc-93dd-1297e2e0aa49
+Type: GameLibrary
+Name: Roberts Space Industries
+Author: gOOvER
+ShortDescription: Automatic detection, tracking, and management of Star Citizen installations.
+InstallerManifestUrl: https://raw.githubusercontent.com/gOOvER/Playnite-StarCitizen-Library/main/installer.yaml
+SourceUrl: https://github.com/gOOvER/Playnite-StarCitizen-Library
+Description: |-
+  A native Playnite library plugin that automatically detects, imports, and launches Star Citizen channels (LIVE, PTU, EPTU, TECH-PREVIEW) without manual path configuration.
+
+  Features:
+  - Zero-configuration detection across all fixed and removable drives.
+  - Multi-channel support (LIVE, PTU, EPTU, HOTFIX, TECH-PREVIEW).
+  - Accurate SSD footprint calculation and semantic game versioning.
+  - Dedicated AutomaticPlayController launches via RSI Launcher with Bin64 process lifecycle tracking.
+  - Single clean play action to avoid redundant selection popups.
+  - Automatic extraction of pilot identity and shard/cluster info from logs.
+  - Safe playtime, stats, and metadata inheritance.
+  - Full English and German localization.
+  - Dedicated RSI source branding for modern Playnite desktop themes (e.g. Penumbra, DuplicateHider).
+  - Context menu shortcuts to Game Install directory, USER folder, and shader cache.
+  - In-game r_displayinfo switcher (Levels 0-3) via user.cfg.
+Tags:
+  - Star Citizen
+  - Roberts Space Industries
+  - RSI
+  - Library
+Links:
+  GitHub: https://github.com/gOOvER/Playnite-StarCitizen-Library
+  Ko-fi: https://ko-fi.com/goover
+IconUrl: https://raw.githubusercontent.com/gOOvER/Playnite-StarCitizen-Library/main/icon.png
