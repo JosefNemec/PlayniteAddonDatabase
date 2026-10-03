@@ -1,0 +1,27 @@
+AddonId: goover_DuplicateHiderNG_Plugin
+Type: Generic
+Name: DuplicateHiderNG
+Author: gOOvER
+ShortDescription: Hides duplicate game copies based on configurable source priority.
+InstallerManifestUrl: https://raw.githubusercontent.com/gOOvER/Playnite-DuplicateHiderNG/master/InstallerManifest/goover_DuplicateHiderNG_Plugin.yaml
+SourceUrl: https://github.com/gOOvER/Playnite-DuplicateHiderNG
+Description: |-
+  DuplicateHiderNG automatically hides duplicate copies of games across multiple digital distribution platforms (Steam, GOG, Epic, Amazon, RSI, etc.) based on configurable source priorities.
+
+  Key Features:
+  - Seamless migration from legacy felixkmh DuplicateHider (preserves existing configurations, custom groups, rules, and priorities).
+  - Configurable source priority list and automated rank scoring.
+  - Option to select/view duplicate copies in the Playnite library instead of immediately launching or installing them.
+  - Platform-specific user icon support prioritizing platform over generic source icons.
+  - Quick action buttons to select or clear all fields at once in copy fields dialog.
+  - Optional automatic [DH] Hidden and [DH] Revealed game tagging.
+  - "Never Hide Installed" and "Include All Platforms" options.
+  - Custom UI integration support for desktop and fullscreen themes.
+Tags:
+  - duplicates
+  - library
+Links:
+  GitHub: https://github.com/gOOvER/Playnite-DuplicateHiderNG
+  Ko-fi: https://ko-fi.com/goover
+  Playnite Forum: https://playnite.link/forum/thread-308.html
+IconUrl: https://raw.githubusercontent.com/gOOvER/Playnite-DuplicateHiderNG/master/source/icon.png
