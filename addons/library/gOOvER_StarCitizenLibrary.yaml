@@ -17,7 +17,7 @@ Description: |-
   - Automatic extraction of pilot identity and shard/cluster info from logs.
   - Safe playtime, stats, and metadata inheritance.
   - Full English and German localization.
-  - Dedicated RSI source branding for modern Playnite desktop themes (e.g. Penumbra, DuplicateHider).
+  - Dedicated RSI source branding for modern Playnite desktop themes (e.g. Penumbra) and plugins (e.g. DuplicateHider).
   - Context menu shortcuts to Game Install directory, USER folder, and shader cache.
   - In-game r_displayinfo switcher (Levels 0-3) via user.cfg.
 Tags:
@@ -29,3 +29,4 @@ Links:
   GitHub: https://github.com/gOOvER/Playnite-StarCitizen-Library
   Ko-fi: https://ko-fi.com/goover
 IconUrl: https://raw.githubusercontent.com/gOOvER/Playnite-StarCitizen-Library/main/icon.png
+
