@@ -1,0 +1,16 @@
+AddonId: ColdSeat_7099F9B8
+Type: ThemeDesktop
+Name: Cold Seat
+Author: danitesler
+ShortDescription: 'An unofficial dark Playnite desktop theme inspired by the Warcraft III: The Frozen Throne main menu. Not affiliated with Blizzard Entertainment.'
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ColdSeat/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/ColdSeat
+Description: |
+  A dark Playnite desktop theme inspired by the Warcraft III: The Frozen Throne main menu.
+
+  Unofficial; not affiliated with, endorsed by or sponsored by Blizzard Entertainment. Warcraft is a trademark of Blizzard Entertainment, Inc. No game assets included.
+Tags: [Dark, Desktop]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/ColdSeat/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/ColdSeat
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
