@@ -1,0 +1,47 @@
+AddonId: Laylu_8766de46-0b2f-4c87-9538-b591f5c6a239
+Type: ThemeDesktop
+InstallerManifestUrl: https://raw.githubusercontent.com/Kyerstorm/Playnite-Laylu-Theme/main/installer.yaml
+ShortDescription: A dark, cinematic Desktop theme with trailer backgrounds and broad extension support.
+Description: |-
+    Covers on a pure black grid, a slim sidebar, a top bar that stays out of the way, and a details page with the trailer as its background.
+    Works with no extensions installed. Each integration appears only when its extension is installed and has something for the selected game.
+    Colours and layout options are configurable through ThemeModifier, including a performance mode for large libraries and slower machines.
+    Designed at 4K with 150% scaling. English only.
+
+    Supported extension integrations:
+    - ThemeModifier (colours, performance mode, reduce motion, grid and details options)
+    - Extra Metadata Loader (trailer background + game logo as title)
+    - ThemeExtras (favourite, completion status, rating, link icons)
+    - HowLongToBeat
+    - Playnite Achievements
+    - GameActivity
+    - Screenshot Utilities
+    - News Viewer
+    - Review Viewer
+    - Universal Steam Player Count
+    - CheckDlc
+    - Game Relations
+    - PlayNotes
+    - ImageRotater
+Name: Laylu
+Author: Kyerstorm
+Tags: ["Theme", "Desktop", "Dark", "UI", "Cinematic", "OLED", "Grid View", "Details View", "trailers", "thememodifier", "extrametadataloader", "themeextras", "howlongtobeat", "gameactivity"]
+SourceUrl: https://github.com/Kyerstorm/Playnite-Laylu-Theme
+IconUrl: https://raw.githubusercontent.com/Kyerstorm/Playnite-Laylu-Theme/main/logo/laylu-logo-256.png
+Links:
+  GitHub: https://github.com/Kyerstorm/Playnite-Laylu-Theme
+  Issues Tracker: https://github.com/Kyerstorm/Playnite-Laylu-Theme/issues
+  Releases: https://github.com/Kyerstorm/Playnite-Laylu-Theme/releases
+  Discord: https://discord.gg/3D78HtzAvU
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/Kyerstorm/Playnite-Laylu-Theme/main/screenshots/grid_thumb.jpg
+    Image: https://raw.githubusercontent.com/Kyerstorm/Playnite-Laylu-Theme/main/screenshots/grid.jpg
+  - Thumbnail: https://raw.githubusercontent.com/Kyerstorm/Playnite-Laylu-Theme/main/screenshots/details_thumb.jpg
+    Image: https://raw.githubusercontent.com/Kyerstorm/Playnite-Laylu-Theme/main/screenshots/details.jpg
+FaqTopics:
+  - Name: Where are the Laylu theme settings?
+    Answer: Install the ThemeModifier extension and restart Playnite. Laylu's colours and options then appear in ThemeModifier's settings. Without it the defaults apply.
+  - Name: Why is there no trailer or logo on the details page?
+    Answer: Both come from the Extra Metadata Loader extension. Install it and download a video and a logo for the game.
+  - Name: Laylu feels slow on my machine or with a large library
+    Answer: Turn on Performance mode in ThemeModifier. It removes the cover glow, the rounded covers and the trailer background.
