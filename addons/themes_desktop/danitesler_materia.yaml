@@ -1,0 +1,22 @@
+AddonId: Materia_79924819
+Type: ThemeDesktop
+Name: Materia
+Author: danitesler
+ShortDescription: A dark desktop theme inspired by Material Design and MUI's default dark theme. Unofficial; not affiliated with Google or MUI.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Materia/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Materia
+Description: |
+  A look inspired by Material Design and the default dark theme of the MUI Material UI library: an elevated app bar, a mini drawer, filled inputs and uppercase buttons.
+
+  Unofficial; not affiliated with, endorsed by or sponsored by Google or MUI. Material Design is a trademark of Google LLC; MUI and Material UI are trademarks of Material UI SAS. They are mentioned only to say what inspired the look.
+Tags: [Dark, Desktop, Material]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Materia/info/icon.png
+Links:
+  Inspired by (MUI Material UI): https://mui.com
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Materia
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Materia/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Materia/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Materia/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Materia/art/screenshot-settings.png
