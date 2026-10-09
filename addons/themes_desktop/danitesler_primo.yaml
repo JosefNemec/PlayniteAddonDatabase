@@ -1,0 +1,22 @@
+AddonId: Primo_55D3FC28
+Type: ThemeDesktop
+Name: Primo
+Author: danitesler
+ShortDescription: An unofficial dark desktop theme inspired by GitHub's Primer design system. Not affiliated with GitHub.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primo/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Primo
+Description: |
+  An unofficial dark desktop theme inspired by GitHub's Primer design system, with a header band, a navigation rail, Octicons and green primary buttons.
+
+  This theme is not affiliated with, endorsed by or sponsored by GitHub, Inc. Primer and GitHub are trademarks of GitHub, Inc., mentioned only to say what inspired the look. No GitHub logos or artwork are included.
+Tags: [Dark, Minimal, Desktop]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primo/info/icon.png
+Links:
+  Inspired by (GitHub Primer): https://primer.style
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Primo
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primo/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primo/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primo/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Primo/art/screenshot-settings.png
