@@ -1,0 +1,19 @@
+AddonId: Tumbleweed_F1F0BE78
+Type: ThemeDesktop
+Name: Tumbleweed
+Author: danitesler
+ShortDescription: 'A dark Western theme inspired by the Red Dead Redemption menus: maroon headings, white-on-select grey text, red duotone art.'
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Tumbleweed/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Tumbleweed
+Description: |
+  Pure black pages, maroon headings over flat grey rules, grey text that turns white when selected, prompt-keycap buttons and game art washed in a red duotone, inspired by the original Red Dead Redemption menus. Unofficial fan theme: no Rockstar assets, original artwork only. Install Chinese Rocks (and Oswald) for the closest type; otherwise it falls back to Anton or Impact.
+Tags: [Dark, Desktop]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Tumbleweed/info/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Tumbleweed/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Tumbleweed/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Tumbleweed/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Tumbleweed/art/screenshot-settings.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Tumbleweed
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
