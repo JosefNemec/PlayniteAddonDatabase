@@ -1,0 +1,19 @@
+AddonId: Blacklist_9E4B7AB8
+Type: ThemeDesktop
+Name: Blacklist
+Author: danitesler
+ShortDescription: 'A dark street-racing theme inspired by the Need for Speed: Most Wanted (2005) menus: amber type, hazard-striped headers, corner-bracket selection.'
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Blacklist/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Blacklist
+Description: |
+  Amber type and glyphs on warm near-black and amber-brown panels, black and amber hazard stripes on header bands and dialog title bars, and the game's amber L brackets around whatever is selected, inspired by the Need for Speed: Most Wanted (2005) menus. Unofficial fan theme: no EA assets, original artwork only. Install Eurostile for the closest type; otherwise it falls back to Bahnschrift. Game titles use Old English Text MT when installed.
+Tags: [Dark, Desktop]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Blacklist/info/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Blacklist/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Blacklist/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Blacklist/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Blacklist/art/screenshot-settings.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Blacklist
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
