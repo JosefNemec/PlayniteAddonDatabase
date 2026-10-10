@@ -11,6 +11,11 @@ Description: |
   Unofficial; not affiliated with, endorsed by or sponsored by Bethesda Softworks, ZeniMax Media, Obsidian Entertainment or Microsoft. Fallout and Pip-Boy are trademarks of Bethesda Softworks LLC, a ZeniMax Media company. No game assets included.
 Tags: [Dark, Desktop]
 IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Holotape/info/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Holotape/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Holotape/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Holotape/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Holotape/art/screenshot-settings.png
 Links:
   Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Holotape
   Report issue: https://github.com/danitesler/playnite-extensions/issues
