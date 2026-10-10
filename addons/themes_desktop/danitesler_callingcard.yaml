@@ -2,7 +2,7 @@ AddonId: CallingCard_D3778C9D
 Type: ThemeDesktop
 Name: Calling Card
 Author: danitesler
-ShortDescription: A dark theme inspired by the Persona 5 menus: red, black and white, slanted plates with a blue sliver, heavy capitals.
+ShortDescription: 'A dark theme inspired by the Persona 5 menus: red, black and white, slanted plates with a blue sliver, heavy capitals.'
 InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/CallingCard/info/InstallerManifest.yaml
 SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/CallingCard
 Description: |
