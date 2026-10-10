@@ -1,0 +1,15 @@
+AddonId: GameRandomiser_5a1e7c3d-9b2f-4e68-a0c4-7d3b91f2e865
+Type: Generic
+Name: Game Randomiser
+Author: Kyerstorm
+ShortDescription: A Wheel-of-Names style game picker built into Playnite's sidebar, with transparent, equal-probability spins.
+InstallerManifestUrl: https://raw.githubusercontent.com/Kyerstorm/Playnite-Game-Randomiser/main/installer.yaml
+SourceUrl: https://github.com/Kyerstorm/Playnite-Game-Randomiser
+Description: |
+    A Wheel-of-Names style game picker built natively into Playnite's sidebar. Create multiple
+    named wheels manually or from criteria (filter, genre, platform, tag, category, play status,
+    playtime, installed state). Spins are cryptographically random and equal-probability, with an
+    animated wheel, tick sounds, spin history, and a winner card offering Install/Launch/View
+    details. Fully offline, no web dependency.
+IconUrl: https://raw.githubusercontent.com/Kyerstorm/Playnite-Game-Randomiser/main/src/GameRandomiser/icon.png
+Tags: ['randomiser', 'randomizer', 'wheel', 'game picker', 'utility']
