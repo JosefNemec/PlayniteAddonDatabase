@@ -1,0 +1,21 @@
+AddonId: 'CoverArtExporter_68c44f4f-7701-4ea9-9cac-23b29fb1431d'
+Type: Generic
+Name: 'PC Game Cover Art Exporter'
+Author: 'ShawnPlays'
+ShortDescription: 'Lets the PC Game Cover Art Screensaver show your Playnite library as a coverflow or flipping mosaic screensaver.'
+Description: |
+  Companion add-on for the PC Game Cover Art Screensaver, a Windows screensaver that shows your game covers as a
+  classic 3D coverflow or a wall of flipping tiles, optionally with your installed Steam soundtracks playing.
+
+  Playnite keeps its database locked while it runs, so this add-on saves a small snapshot of your library (names,
+  cover art paths, tags, play time and so on) to %LOCALAPPDATA%\PCGameCoverArt\library.json whenever the library
+  changes. The screensaver reads that file. The add-on has no settings and never goes online.
+
+  You also need the screensaver itself, from the project's Releases page.
+IconUrl: https://raw.githubusercontent.com/ShawnPlays/pc-game-cover-art-screensaver/main/src/CoverArtExporter/icon.png
+Tags: ['screensaver', 'cover art', 'coverflow', 'mosaic']
+SourceUrl: https://github.com/ShawnPlays/pc-game-cover-art-screensaver
+InstallerManifestUrl: https://github.com/ShawnPlays/pc-game-cover-art-screensaver/releases/latest/download/installer.yaml
+Links:
+    Screensaver download: https://github.com/ShawnPlays/pc-game-cover-art-screensaver/releases/latest
+    Help: https://github.com/ShawnPlays/pc-game-cover-art-screensaver#install
