@@ -1,0 +1,22 @@
+AddonId: 'HandheldHero_8f49363a-c1ad-47f0-9b9e-2f09aecae44d'
+Type: ThemeFullscreen
+Name: 'Handheld Hero'
+Author: 'nickhighland'
+ShortDescription: A gamepad-first fullscreen theme for handhelds with a centered carousel, A-Z library grid and a trailer button.
+Description: |
+  A fullscreen theme designed for small 1080p handheld screens and controller-only use.
+  Centered one-row carousel on tabs like RECENT and FAVORITES with PLAY / INFO right on the cover,
+  an A-Z rail library grid on ALL GAMES, a redesigned details screen and a trailer button.
+  Uses Extra Metadata Loader (logos, trailers) and SuccessStory (achievements) when installed.
+InstallerManifestUrl: https://raw.githubusercontent.com/nickhighland/HandheldHero/main/Manifest/InstallerManifest.yaml
+SourceUrl: https://github.com/nickhighland/HandheldHero
+Tags: ["Theme", "Handheld", "Carousel", "Controller", "Trailer", "Logo", "Achievements"]
+Links:
+    GitHub: https://github.com/nickhighland/HandheldHero
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/nickhighland/HandheldHero/main/Media/1-Carousel-thumb.png
+      Image: https://raw.githubusercontent.com/nickhighland/HandheldHero/main/Media/1-Carousel.png
+    - Thumbnail: https://raw.githubusercontent.com/nickhighland/HandheldHero/main/Media/2-Library-thumb.png
+      Image: https://raw.githubusercontent.com/nickhighland/HandheldHero/main/Media/2-Library.png
+    - Thumbnail: https://raw.githubusercontent.com/nickhighland/HandheldHero/main/Media/3-Details-thumb.png
+      Image: https://raw.githubusercontent.com/nickhighland/HandheldHero/main/Media/3-Details.png
