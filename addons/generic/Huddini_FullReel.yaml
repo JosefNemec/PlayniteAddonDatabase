@@ -1,0 +1,45 @@
+AddonId: 'FullVid.087df234-b55b-4824-a7a2-3adac1aec1ec'
+Type: Generic
+Name: 'FullReel'
+Author: 'Huddini'
+ShortDescription: 'Browse and watch YouTube videos for your games in a beautiful, fullscreen, controller-navigable player.'
+InstallerManifestUrl: 'https://raw.githubusercontent.com/aHuddini/FullReel/main/Manifest/installer.yaml'
+SourceUrl: 'https://github.com/aHuddini/FullReel'
+Description: |
+  FullReel is a fullscreen, controller-friendly video browser for your Playnite games. Search YouTube for a game's videos, watch them in an embedded player, and download trailers into the ExtraMetadataLoader folder — a complement to ExtraMetadataLoader.
+
+  Key Features:
+  - Right-click a game and pick "FullReel" to search YouTube for its videos, browsed by category tab (trailers, gameplay, walkthroughs, reviews, guides)
+  - Results with thumbnails, titles, durations, channel, and view counts
+  - Fullscreen borderless player that streams direct from YouTube, autoplays, and requests hd1080 for 60fps streams
+  - Full controller AND keyboard control (play/pause, seek, volume, fullscreen, screenshot, download, close)
+  - Frosted-glass player UI with 6 selectable controls-bar styles and a live preview in settings
+  - Download a video into the game's ExtraMetadataLoader folder as VideoTrailer.mp4 (H.264/AAC) so EML plays it as the game's trailer
+  - UniPlaySong integration: pauses your game music while a video plays and resumes it on close (no-op if UniPlaySong isn't installed)
+  - Tool-path validation in settings for yt-dlp, ffmpeg, and deno
+
+  Requirements:
+  - yt-dlp, ffmpeg, and deno (user-installed) for searching and downloading
+  - ExtraMetadataLoader (optional) for the downloaded-trailer complement
+
+  Perfect for:
+  - Watching game trailers, gameplay, and guides on a controller from your couch
+  - Quickly grabbing a trailer into ExtraMetadataLoader for a game in your library
+
+  Designed for Fullscreen first, Desktop second.
+Tags:
+  - 'video'
+  - 'youtube'
+  - 'trailers'
+  - 'controller'
+  - 'fullscreen'
+  - 'metadata'
+  - 'extrametadataloader'
+IconUrl: 'https://raw.githubusercontent.com/aHuddini/FullReel/main/icon.png'
+Links:
+  GitHub: https://github.com/aHuddini/FullReel
+  Issue Tracker: https://github.com/aHuddini/FullReel/issues
+  Buy me a coffee: https://ko-fi.com/huddini
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/aHuddini/FullReel/main/docs/assets/DemoFullReel.png
+    Image: https://raw.githubusercontent.com/aHuddini/FullReel/main/docs/assets/DemoFullReel.png

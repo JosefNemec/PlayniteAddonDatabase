@@ -1,0 +1,14 @@
+AddonId: 'PlayniteR2modman_66e5c414-0820-4919-be6d-3179c4013fc1'
+Type: Generic
+Name: 'r2modman Launch Options'
+Author: 'Laurin Sorgend'
+ShortDescription: 'Adds launch entries for r2modman profiles to supported Steam games.'
+Description: 'Reads r2modman profiles from disk and adds them as launch options on supported Steam games, so you can pick a modded profile from the Play menu. Profiles are read live, so there is nothing to keep in sync. Game support is generated from r2modman''s upstream ecosystem list and can be extended with manual overrides in the settings. Covers BepInEx 5 and 6 games via Doorstop 3 and 4.'
+InstallerManifestUrl: https://codeberg.org/LaurinS/playnite_r2modman_integration/raw/branch/main/installer.yaml
+SourceUrl: https://codeberg.org/LaurinS/playnite_r2modman_integration
+IconUrl: https://codeberg.org/LaurinS/playnite_r2modman_integration/raw/branch/main/src/PlayniteR2modman/icon.png
+Tags: ['r2modman', 'Thunderstore', 'BepInEx', 'Mods', 'Steam', 'Launch Options']
+Links:
+    Source: https://codeberg.org/LaurinS/playnite_r2modman_integration
+    Releases: https://codeberg.org/LaurinS/playnite_r2modman_integration/releases
+    Issues: https://codeberg.org/LaurinS/playnite_r2modman_integration/issues

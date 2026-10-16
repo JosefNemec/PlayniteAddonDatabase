@@ -1,0 +1,21 @@
+AddonId: Questlog_C6A03E17
+Type: ThemeDesktop
+Name: Questlog
+Author: danitesler
+ShortDescription: A dark fantasy desktop theme with gold frames, red leather buttons and a quest-log game page. Inspired by the World of Warcraft Vanilla interface.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Questlog
+Description: |
+  A dark fantasy look inspired by the World of Warcraft Vanilla interface: gold frames, red leather buttons and a quest-log game page. All artwork is original.
+
+  Unofficial; not affiliated with Blizzard Entertainment. World of Warcraft is a trademark of Blizzard Entertainment.
+Tags: [Dark, Fantasy, Desktop, RPG, Classic]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Questlog
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Questlog/art/screenshot-settings.png

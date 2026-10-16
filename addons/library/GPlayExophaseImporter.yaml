@@ -1,0 +1,17 @@
+AddonId: GPlayExophaseImporter
+Type: GameLibrary
+Name: GPlay Exophase Importer
+Author: Tisma & Denka Akuma Pedro
+ShortDescription: Import Google Play / Android games and playtime from Exophase into Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/DenkaAkumaPedro/GPlay-Exophase-Importer/main/manifests/installer.yaml
+SourceUrl: https://github.com/DenkaAkumaPedro/GPlay-Exophase-Importer
+Tags: ["google play", "android", "playtime", "exophase", "sync"]
+IconUrl: https://raw.githubusercontent.com/DenkaAkumaPedro/GPlay-Exophase-Importer/main/icon.png
+Description: |
+  Pulls your Google Play / Android games and playtime from your Exophase profile
+  into Playnite. Platform and source are tagged as "Google Play", so the
+  PlayniteAchievements extension can match achievements automatically via its
+  Exophase provider.
+Links:
+  Tisma GitHub (reference project author): https://github.com/MatisAgr
+  Denka Akuma Pedro GitHub: https://github.com/DenkaAkumaPedro

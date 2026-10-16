@@ -1,0 +1,8 @@
+AddonId: a1312fcb-7107-4168-95ba-181dd6069299
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/penpenlovesrei-dotcom/Playnite-physical-cartridge-disc/main/manifests/CartridgeShelf.yaml
+ShortDescription: 'Identifies SNES cartridges via the Epilogue SN Operator USB reader, no OCR needed'
+Name: CartridgeShelf
+Author: PenPen
+Tags: ['SNES', 'Cartridge', 'Physical media', 'Emulation']
+SourceUrl: https://github.com/penpenlovesrei-dotcom/Playnite-physical-cartridge-disc

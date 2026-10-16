@@ -1,0 +1,16 @@
+AddonId: DualSenseBatteryLevel_524ab3e7-e7bd-4f77-9b42-9a37645076a8
+Type: Generic
+Name: DualSense Battery Level
+Author: jia-sss
+ShortDescription: Shows DualSense battery level in Playnite with configurable low-battery notifications.
+InstallerManifestUrl: https://raw.githubusercontent.com/jia-sss/DualSenseBatteryLevel/main/installer.yaml
+SourceUrl: https://github.com/jia-sss/DualSenseBatteryLevel
+Description: |
+  A lightweight, read-only battery display for DualSense and DualSense Edge controllers.
+  Supports USB, Windows Bluetooth and compatible dongles that expose a standard DualSense
+  input report. Adds a desktop top-panel indicator, configurable low-battery notifications
+  and optional fullscreen theme integration. It does not modify input, vibration, lighting,
+  adaptive triggers or audio.
+Tags: ['controller', 'gamepad', 'battery', 'dualsense', 'utility']
+Links:
+  GitHub: https://github.com/jia-sss/DualSenseBatteryLevel

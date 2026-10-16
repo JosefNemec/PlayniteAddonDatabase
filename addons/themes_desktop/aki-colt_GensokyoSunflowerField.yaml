@@ -1,0 +1,14 @@
+AddonId: GensokyoSunflowerField_0a253ef3-d129-4307-81c2-90fbc9b7e6ff
+Type: ThemeDesktop
+Name: 幻想乡·太阳花田
+Author: aki-colt
+ShortDescription: 以幻想乡太阳花田与风见幽香意象为核心的透明玻璃风 Playnite 桌面主题。
+Description: 深叶绿、向日葵金与暖白色构成的东方幻想风主题，包含原创徽记、工具栏图标，以及统一的列表、详情和网格视图样式。
+InstallerManifestUrl: https://raw.githubusercontent.com/aki-colt/playnite-gensokyo-sunflower-field/main/manifests/installer.yaml
+SourceUrl: https://github.com/aki-colt/playnite-gensokyo-sunflower-field
+Tags: [Desktop, Touhou, Anime, Transparent, Green]
+Links:
+  GitHub: https://github.com/aki-colt/playnite-gensokyo-sunflower-field
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/aki-colt/playnite-gensokyo-sunflower-field/main/screenshots/thumbnail.png
+    Image: https://raw.githubusercontent.com/aki-colt/playnite-gensokyo-sunflower-field/main/screenshots/preview.png

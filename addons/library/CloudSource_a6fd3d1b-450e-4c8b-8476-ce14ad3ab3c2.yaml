@@ -1,0 +1,22 @@
+AddonId: CloudSource_a6fd3d1b-450e-4c8b-8476-ce14ad3ab3c2
+Type: GameLibrary
+Name: Cloud Storage
+Author: GreenFuze
+ShortDescription: Discover and install games stored in Google Drive and OneDrive.
+InstallerManifestUrl: https://raw.githubusercontent.com/GreenFuze/PlayniteCloudSource/main/installer.yaml
+SourceUrl: https://github.com/GreenFuze/PlayniteCloudSource
+Description: >-
+  Connect a read-only Google Drive or OneDrive folder as a Playnite library.
+  Cloud Storage discovers archives, installer bundles, and ROMs; installs them
+  below one managed directory; and provides managed uninstall and source
+  reconciliation.
+Tags:
+  - cloud
+  - storage
+  - google-drive
+  - onedrive
+Links:
+  Website: https://greenfuze.is-a.dev/PlayniteCloudSource/
+  Privacy policy: https://greenfuze.is-a.dev/PlayniteCloudSource/privacy.html
+  Terms of service: https://greenfuze.is-a.dev/PlayniteCloudSource/terms.html
+IconUrl: https://raw.githubusercontent.com/GreenFuze/PlayniteCloudSource/main/src/CloudSource.Playnite/Resources/cloud-storage.png

@@ -1,0 +1,8 @@
+AddonId: 7c3e2d1a-9f61-4c7d-8b4e-123456789abc
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/penpenlovesrei-dotcom/Playnite-physical-cartridge-disc/main/manifests/DiscShelf.yaml
+ShortDescription: 'Identifies physical discs (PS1, PS2, Saturn, Dreamcast, Mega-CD, Neo Geo CD) via an optical drive'
+Name: DiscShelf
+Author: PenPen
+Tags: ['PlayStation', 'Saturn', 'Dreamcast', 'Physical media', 'Emulation']
+SourceUrl: https://github.com/penpenlovesrei-dotcom/Playnite-physical-cartridge-disc

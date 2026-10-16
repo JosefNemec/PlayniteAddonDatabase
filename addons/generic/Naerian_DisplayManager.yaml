@@ -1,0 +1,19 @@
+AddonId: PlayniteDisplayManager_9c2e4a71-b8d3-4f6a-a1c5-0e7d92f3b846
+Type: Generic
+Name: Display Manager
+Author: Narian
+ShortDescription: Applies Windows display layout, resolution, refresh rate, and HDR when a game starts, then restores your desktop when it stops.
+InstallerManifestUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-display-session/main/installer.yaml
+SourceUrl: https://github.com/Naerian/playnite-nx-display-session
+Description: |
+  Display Manager configures Windows displays for each game session and puts everything back when you quit.
+
+  Pick a primary display for games (or keep Windows as-is), optionally turn other screens off, and wait for a TV to wake before falling back. Set global defaults for HDR, refresh rate, and resolution, then override them per game or per platform from the context menu. Profiles cover Solo TV and PC/Desktop style setups; game and platform overrides win when present.
+
+  When a session ends—or Playnite exits unexpectedly—layout, resolution, refresh rate, and HDR are restored. RestoreHost keeps that safety net alive outside Playnite. Identity stays stable via EDID aliases, with Identify labels, a Desktop top bar, Fullscreen Theme API controls, and an honest Overview when Automatic Color Management makes HDR readback unreliable.
+IconUrl: https://raw.githubusercontent.com/Naerian/playnite-nx-display-session/main/media/icon.png
+Tags: ['display', 'hdr', 'tv', 'living-room', 'utility', 'qol', 'fullscreen', 'desktop']
+Links:
+  GitHub: https://github.com/Naerian/playnite-nx-display-session
+  Wiki: https://github.com/Naerian/playnite-nx-display-session/wiki
+  Support: https://ko-fi.com/naerian

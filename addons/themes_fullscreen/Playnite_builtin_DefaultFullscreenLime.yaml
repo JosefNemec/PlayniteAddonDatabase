@@ -1,9 +1,9 @@
 ﻿AddonId: Playnite_builtin_DefaultFullscreenLime
 Type: ThemeFullscreen
-InstallerManifestUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/manifests/themes/Playnite_builtin_DefaultFullscreenLime.yaml
+InstallerManifestUrl: https://playnite.link/download/extensions/manifests/themes/Playnite_builtin_DefaultFullscreenLime.yaml
 ShortDescription: Original "Lime" built-in Fullscreen theme.
 Name: Fullscreen Default Lime
 Author: Playnite
 Links:
-    Website: https://github.com/JosefNemec/PlayniteExtensions
-SourceUrl: https://github.com/JosefNemec/PlayniteExtensions
+    Website: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
+SourceUrl: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10

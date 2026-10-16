@@ -1,0 +1,19 @@
+AddonId: CallingCard_D3778C9D
+Type: ThemeDesktop
+Name: Calling Card
+Author: danitesler
+ShortDescription: 'A dark theme inspired by the Persona 5 menus: red, black and white, slanted plates with a blue sliver, heavy capitals.'
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/CallingCard/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/CallingCard
+Description: |
+  Ink black pages, paper white text and one screaming red, inspired by the Persona 5 menus. Whatever is current sits on a slanted red plate with a blue sliver behind it; the game title is a battle name plate; tags are paper labels; a red halftone fades in at the corner. Unofficial fan theme: no ATLUS or SEGA assets, original artwork and Heroicons only. Headings use Impact, which ships with Windows.
+Tags: [Dark, Desktop]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/CallingCard/info/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/CallingCard/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/CallingCard/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/CallingCard/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/CallingCard/art/screenshot-settings.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/CallingCard
+  Report issue: https://github.com/danitesler/playnite-extensions/issues

@@ -1,0 +1,14 @@
+AddonId: a37e0963-91ac-4432-be2a-69e366c44726
+Type: Generic
+Name: Game Management
+Author: Afonso Jeremias
+ShortDescription: Enhanced fork of the Game Management plugin – adds a smarter uninstall for manually added games (ROMs and folders), visible only when games are installed.
+InstallerManifestUrl: https://raw.githubusercontent.com/AfonsoJeremias/GameManagement/master/installer.yaml
+SourceUrl: https://github.com/AfonsoJeremias/GameManagement
+Description: |
+    This plugin extends the native uninstall functionality in Playnite.
+    It prioritizes deleting the ROM file (if present) and falls back to removing the installation directory.
+    Paths are resolved with variable expansion and safety checks.
+    The uninstall option appears only for installed native Playnite games (PluginId == Guid.Empty).
+IconUrl: https://raw.githubusercontent.com/AfonsoJeremias/GameManagement/master/src/GameManagement/icon.png
+Tags: ['utility', 'uninstall', 'management']

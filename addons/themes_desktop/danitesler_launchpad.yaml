@@ -1,0 +1,21 @@
+AddonId: Launchpad_5B2E91A4
+Type: ThemeDesktop
+Name: Launchpad
+Author: danitesler
+ShortDescription: A dark game-launcher theme with an icon rail, a game list, a full-width-art game page and a big blue Play button. Unofficial, inspired by the Battle.net app.
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Launchpad
+Description: |
+  A game-launcher look inspired by the Battle.net app: an icon rail, a game list, a game page with full-width art and a big blue Play button. Colors are approximated.
+
+  Unofficial; not affiliated with, endorsed by or sponsored by Blizzard Entertainment. No Blizzard logos, icons, fonts or artwork are included. Battle.net is a trademark of Blizzard Entertainment.
+Tags: [Dark, Desktop, Launcher]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Launchpad
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Launchpad/art/screenshot-settings.png

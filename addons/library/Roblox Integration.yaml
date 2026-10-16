@@ -1,0 +1,19 @@
+AddonId: 0c2dcf0f-511b-43e3-b6db-9c4b331c0dd4
+Type: GameLibrary
+Name: Roblox Integration
+Author: Horrid-12
+ShortDescription: Imports your favorited Roblox experiences seamlessly into Playnite.
+Description: |
+  A robust Playnite integration that automatically syncs and imports your favorited Roblox experiences as playable games within Playnite. 
+  
+  Features:
+  - Imports games from your favorited Roblox experiences.
+  - Automatically fetches game titles.
+  - One-click launch directly into the Roblox Player via the `roblox://` protocol.
+  - Seamlessly integrates with Playnite themes like eMixedNiteMC, providing custom banners and icons for a native feel.
+  - Secure `.ROBLOSECURITY` cookie authentication with local-only storage.
+InstallerManifestUrl: https://raw.githubusercontent.com/Horrid-12/Playnite-Roblox-Integration/master/installer.yaml
+SourceUrl: https://github.com/Horrid-12/Playnite-Roblox-Integration
+Tags:
+  - roblox
+  - library

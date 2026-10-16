@@ -1,11 +1,11 @@
 ﻿AddonId: AmazonLibrary_Builtin
-IconUrl: https://github.com/JosefNemec/PlayniteExtensions/raw/master/source/Libraries/AmazonGamesLibrary/icon.png
+IconUrl: https://codeberg.org/CrowIsTaken/PlayniteExtensions/raw/branch/main10/source/Libraries/AmazonGamesLibrary/icon.png
 Type: GameLibrary
-InstallerManifestUrl: https://raw.githubusercontent.com/JosefNemec/PlayniteExtensions/master/manifests/AmazonLibrary_Builtin.yaml
+InstallerManifestUrl: https://playnite.link/download/extensions/manifests/AmazonLibrary_Builtin.yaml
 ShortDescription: Imports games from Amazon/Twitch game library.
 Name: AmazonGames library integration
 Author: Playnite
 Links:
-    Website: https://github.com/JosefNemec/PlayniteExtensions
-    Support: https://github.com/JosefNemec/PlayniteExtensions/wiki
-SourceUrl: https://github.com/JosefNemec/PlayniteExtensions
+    Website: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10
+    Support: https://codeberg.org/CrowIsTaken/PlayniteExtensions/wiki
+SourceUrl: https://codeberg.org/CrowIsTaken/PlayniteExtensions/src/branch/main10

@@ -1,0 +1,10 @@
+AddonId: PlaynitePacingFix_6b3ce597-03e2-4c9f-a97c-fb9f7156ea7b
+Type: Generic
+Name: DWM Pacing Fix
+Author: PeakyBlinder71
+ShortDescription: Removes uneven frame pacing and micro-stutter in Playnite animations by keeping Desktop Window Manager (DWM) composition active while Playnite is running. A lightweight, automatic workaround for people on Windows OS.
+InstallerManifestUrl: https://raw.githubusercontent.com/PeakyBlinder71/DWM-Pacing-Fix/main/installer.yaml
+SourceUrl: https://github.com/PeakyBlinder71/DWM-Pacing-Fix
+Description: Removes uneven frame pacing and micro-stutter in Playnite animations by keeping Desktop Window Manager (DWM) composition active while Playnite is running. A lightweight, automatic workaround for people on Windows OS.
+IconUrl: https://raw.githubusercontent.com/PeakyBlinder71/DWM-Pacing-Fix/main/DWM_Pacing_Fix_ICON.png
+Tags: ['Windows', 'performance']

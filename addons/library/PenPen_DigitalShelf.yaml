@@ -1,0 +1,8 @@
+AddonId: f7ba5ce6-190b-47ed-ba0c-59928375d2a1
+Type: GameLibrary
+InstallerManifestUrl: https://raw.githubusercontent.com/penpenlovesrei-dotcom/Playnite-physical-cartridge-disc/main/manifests/DigitalShelf.yaml
+ShortDescription: 'Adds a digital-library tile alongside DiscShelf and CartridgeShelf, with a Super Nintendo-style mosaic transition'
+Name: DigitalShelf
+Author: PenPen
+Tags: ['Physical media', 'Fullscreen', 'UI']
+SourceUrl: https://github.com/penpenlovesrei-dotcom/Playnite-physical-cartridge-disc

@@ -1,0 +1,40 @@
+AddonId: PlayniteCharts_8a4f2c10-5c1e-4b2a-9d3f-6e7b0a1c4d55
+Type: Generic
+Name: Charts
+Author: Benedict Carter
+ShortDescription: Playnite bubble plots - visualise your library by building any bubble plot you like
+InstallerManifestUrl: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/InstallerManifest.yaml
+SourceUrl: https://github.com/benedictcarter/playnite-charts
+IconUrl: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/icon.png
+Description: |
+    A charts tab in the sidebar, below Statistics. Any column of the game table can drive any channel - X, Y, bubble size, colour, shape.
+
+    You can also drag the bubbles for your user score - makes it fast to update your backlog if you are like me and haven't stayed on top of it!
+
+    Right click on a bubble to get Playnite's standard game menu.
+
+    Create as many visualisations as you like, and re-order them via drag and drop.
+Tags:
+  - Generic
+  - charts
+  - graphs
+  - statistics
+  - visualization
+  - library
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/thumbs/release-date-vs-user-score.png
+    Image: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/release-date-vs-user-score.png
+  - Thumbnail: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/thumbs/colour-by-genre.png
+    Image: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/colour-by-genre.png
+  - Thumbnail: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/thumbs/release-date-vs-playtime.png
+    Image: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/release-date-vs-playtime.png
+  - Thumbnail: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/thumbs/playtime-vs-user-score.png
+    Image: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/playtime-vs-user-score.png
+  - Thumbnail: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/thumbs/critic-vs-user-score.png
+    Image: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/critic-vs-user-score.png
+  - Thumbnail: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/thumbs/community-vs-user-score.png
+    Image: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/community-vs-user-score.png
+  - Thumbnail: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/thumbs/hover-card.png
+    Image: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/hover-card.png
+  - Thumbnail: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/thumbs/game-menu.png
+    Image: https://raw.githubusercontent.com/benedictcarter/playnite-charts/master/pics/game-menu.png

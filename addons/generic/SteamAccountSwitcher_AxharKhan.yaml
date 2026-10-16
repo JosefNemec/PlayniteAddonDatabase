@@ -1,0 +1,9 @@
+AddonId: SteamAccountSwitcher_AxharKhan
+Type: Generic
+Name: Steam Account Switcher
+Author: AxharKhan
+ShortDescription: Quickly and Automatically switch between multiple Steam accounts from Playnite when launching games.
+InstallerManifestUrl: https://raw.githubusercontent.com/AxharKhan/PlayniteSteamAccountSwitcher/main/installer.yaml
+SourceUrl: https://github.com/AxharKhan/PlayniteSteamAccountSwitcher
+Links:
+    GitHub: https://github.com/AxharKhan/PlayniteSteamAccountSwitcher

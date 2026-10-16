@@ -1,0 +1,17 @@
+AddonId: GameRoutines_cb076ecb-ea40-4036-8094-f1c554566b49
+Type: Generic
+Name: Game Routines
+Author: felipeaucc
+ShortDescription: Manage recurring and long-term game activities with routines, checklists, schedules, and reminders.
+InstallerManifestUrl: https://raw.githubusercontent.com/felipeaucc/game-routines/main/installer.yaml
+SourceUrl: https://github.com/felipeaucc/game-routines
+IconUrl: https://raw.githubusercontent.com/felipeaucc/game-routines/main/source/icon.png
+Description: |-
+  Game Routines helps you manage recurring and long-term activities for your games.
+
+  Create multiple routines per game with checklists, completion states, and Never, Daily, Weekly, or Biweekly reset schedules. You can also configure reminders and automatically manage a "Tasks Available!" tag based on unfinished tasks.
+
+  Game Routines works with Playnite's Default theme. No third-party theme is required. Some themes can optionally show Game Routines controls directly in the game view.
+Links:
+  GitHub: https://github.com/felipeaucc/game-routines
+  Issues: https://github.com/felipeaucc/game-routines/issues

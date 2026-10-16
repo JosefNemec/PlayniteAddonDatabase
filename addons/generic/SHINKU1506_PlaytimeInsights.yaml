@@ -1,0 +1,27 @@
+AddonId: PlaytimeInsights_7094cd6b-d3a4-41d0-b7c3-f0cc535a9efd
+Type: Generic
+Name: Playtime Insights
+Author: SHINKU1506
+ShortDescription: Native playtime trends, heatmaps, rankings, and local session management for Playnite.
+InstallerManifestUrl: https://raw.githubusercontent.com/SHINKU1506/PlaytimeInsights/main/manifests/installer.yaml
+SourceUrl: https://github.com/SHINKU1506/PlaytimeInsights
+Description: >-
+  Analyze local Playnite activity by day, week, month, year, or a custom range
+  with native WPF charts, heatmaps, rankings, metadata filters, and detailed
+  session management. All analytics remain on the user's computer.
+Tags:
+  - Statistics
+  - Playtime
+  - Analytics
+Links:
+  Changelog: https://github.com/SHINKU1506/PlaytimeInsights/blob/main/CHANGELOG.md
+  Issues: https://github.com/SHINKU1506/PlaytimeInsights/issues
+  Privacy: https://github.com/SHINKU1506/PlaytimeInsights/blob/main/PRIVACY.md
+IconUrl: https://raw.githubusercontent.com/SHINKU1506/PlaytimeInsights/main/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/SHINKU1506/PlaytimeInsights/main/docs/screenshots/0.9.8/dashboard-zh.png
+    Image: https://raw.githubusercontent.com/SHINKU1506/PlaytimeInsights/main/docs/screenshots/0.9.8/dashboard-zh.png
+  - Thumbnail: https://raw.githubusercontent.com/SHINKU1506/PlaytimeInsights/main/docs/screenshots/0.9.8/dashboard-en.png
+    Image: https://raw.githubusercontent.com/SHINKU1506/PlaytimeInsights/main/docs/screenshots/0.9.8/dashboard-en.png
+  - Thumbnail: https://raw.githubusercontent.com/SHINKU1506/PlaytimeInsights/main/docs/screenshots/0.9.8/settings-zh.png
+    Image: https://raw.githubusercontent.com/SHINKU1506/PlaytimeInsights/main/docs/screenshots/0.9.8/settings-zh.png

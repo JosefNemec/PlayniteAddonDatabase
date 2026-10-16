@@ -1,0 +1,17 @@
+AddonId: MameMetadata_0d873564-ca47-40b3-a77d-fb8b2afe2fdd
+Type: MetadataProvider
+Name: MAME DAT Metadata
+Author: GreenFuze
+ShortDescription: Resolves MAME machine IDs into canonical arcade metadata from the official full listxml release.
+InstallerManifestUrl: https://raw.githubusercontent.com/GreenFuze/PlayniteMameMetadata/main/installer.yaml
+SourceUrl: https://github.com/GreenFuze/PlayniteMameMetadata
+Description: |-
+  Identifies exact MAME machine short names and supplies title, release year,
+  manufacturer, Arcade platform, and a technical machine link. The provider
+  downloads the official MAME listxml archive at runtime and builds a compact
+  local index. It does not include or download ROMs.
+Tags: ["Metadata", "MAME", "Arcade", "Emulation"]
+IconUrl: https://raw.githubusercontent.com/GreenFuze/PlayniteMameMetadata/main/src/PlayniteMameMetadata/Resources/mame-metadata.png
+Links:
+  GitHub: https://github.com/GreenFuze/PlayniteMameMetadata
+  Support: https://github.com/GreenFuze/PlayniteMameMetadata/issues

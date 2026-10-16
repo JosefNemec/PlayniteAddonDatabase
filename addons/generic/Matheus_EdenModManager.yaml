@@ -1,0 +1,21 @@
+AddonId: eden-mod-manager
+Type: Generic
+Name: Playnite Eden Mod Manager
+Author: matheusfaustino
+ShortDescription: 'Install and manage Eden emulator mods for your library, right from Playnite. Focused on Fullscreen experience'
+Description: >
+  Uses a curated mod repository and match it with your switch game list to installs mods from community
+  into Eden's load/ folder, and disabled and enabling it without leaving Playnite. 
+  Works in Desktop mode too.
+Tags: ['Mods', 'Switch', 'Emulation', 'Eden']
+SourceUrl: https://github.com/matheusfaustino/playnite-eden-mod-manager
+IconUrl: https://raw.githubusercontent.com/matheusfaustino/playnite-eden-mod-manager/master/Resources/icon.png
+InstallerManifestUrl: https://raw.githubusercontent.com/matheusfaustino/playnite-eden-mod-manager/master/addon_manifest.json
+Links:
+  Issues Tracker: https://github.com/matheusfaustino/playnite-eden-mod-manager/issues
+  Documentation: https://github.com/matheusfaustino/playnite-eden-mod-manager/blob/master/README.md
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/matheusfaustino/playnite-eden-mod-manager/master/Screenshots/game-settings-mod.png
+    Image: https://raw.githubusercontent.com/matheusfaustino/playnite-eden-mod-manager/master/Screenshots/game-settings-mod.png
+  - Thumbnail: https://raw.githubusercontent.com/matheusfaustino/playnite-eden-mod-manager/master/Screenshots/addon-settings.png
+    Image: https://raw.githubusercontent.com/matheusfaustino/playnite-eden-mod-manager/master/Screenshots/addon-settings.png

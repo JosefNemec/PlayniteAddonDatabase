@@ -1,0 +1,13 @@
+AddonId: ImageRotater.72b7d457-0621-429b-8368-665bc53ff896
+Type: Generic
+InstallerManifestUrl: https://raw.githubusercontent.com/Mike-Aniki/ImageRotater/main/InstallerManifest.yaml
+ShortDescription: 'Give every game multiple covers and backgrounds that can change automatically, with optional animated artwork'
+Name: 'ImageRotater'
+Author: 'Huddini x Mike Aniki'
+SourceUrl: https://github.com/Mike-Aniki/ImageRotater
+IconUrl: https://raw.githubusercontent.com/Mike-Aniki/ImageRotater/main/icon.png
+Description: ImageRotater lets each game use multiple covers and backgrounds instead of a single static artwork. Add your own images or find new ones online, then choose how and when they change automatically. Static artwork works with regular Playnite themes, while compatible themes can also display animated GIF and video artwork.
+Links:
+  GitHub: https://github.com/Mike-Aniki/ImageRotater
+  Support (Discord): https://discord.com/channels/365863063296933888/808419165311467630
+  User Guide: https://github.com/Mike-Aniki/ImageRotater/wiki
