@@ -1,0 +1,21 @@
+AddonId: PlayniteConnect_b81e4a83-823d-4a83-89e8-aee39f17a483
+Type: Generic
+Name: Playnite Connect
+Author: Barrelltitor
+ShortDescription: Connect Playnite to Home Assistant with MQTT game control, events, and cover-art delivery.
+InstallerManifestUrl: https://raw.githubusercontent.com/barrelltitor/playnite-connect/master/manifest.yaml
+SourceUrl: https://github.com/barrelltitor/playnite-connect
+Description: >-
+  Playnite Connect publishes Playnite status and game activity to MQTT, accepts
+  game-control commands, and supports on-demand game cover delivery for Home
+  Assistant. It also provides an optional authenticated HTTP cover endpoint.
+Tags:
+  - MQTT
+  - HTTP
+  - Home Assistant
+  - Automation
+  - Remote Control
+Links:
+  GitHub: https://github.com/barrelltitor/playnite-connect
+  Issues: https://github.com/barrelltitor/playnite-connect/issues
+IconUrl: https://raw.githubusercontent.com/barrelltitor/playnite-connect/master/Source/Resources/icon.png
