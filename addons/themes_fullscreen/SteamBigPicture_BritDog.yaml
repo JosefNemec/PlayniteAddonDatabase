@@ -1,0 +1,8 @@
+AddonId: 'SteamBigPicture_BritDog'
+Name: 'Steam Big Picture'
+Author: 'BritDog'
+Type: ThemeFullscreen
+ShortDescription: 'A playnite theme in the style of Steam Big Picture'
+InstallerManifestUrl: https://raw.githubusercontent.com/G-Dog-McGrog/Steam-Big-Picture-Playnite/refs/heads/main/InstallerManifest.yaml
+SourceUrl: https://github.com/G-Dog-McGrog/Steam-Big-Picture-Playnite
+Tags: ["Steam"]
