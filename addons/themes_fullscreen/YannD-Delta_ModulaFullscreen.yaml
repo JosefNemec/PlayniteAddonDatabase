@@ -1,0 +1,16 @@
+AddonId: 'f0680ff7-f5f3-4338-a545-5eb791243bb6'
+Type: ThemeFullscreen
+Name: 'Modula Fullscreen'
+Author: 'YannD-Delta'
+ShortDescription: 'PS5-style Fullscreen theme with glass info cards, sounds and quick-menu presets. Made with Claude Code.'
+Description: 'Modula Fullscreen is the TV companion of the Modula desktop theme: a console-like home with big cards and a hero title, glass information cards on the details page, interface sounds, and accent, corner and glow presets changed from the main menu with the controller (needs the Layout Studio extension for the presets).'
+InstallerManifestUrl: https://raw.githubusercontent.com/YannD-Delta/Modula/main/playnite/modula-fullscreen.installer.yaml
+Tags: ['glass', 'console', 'controller']
+SourceUrl: https://github.com/YannD-Delta/Modula
+Links:
+    Website: https://github.com/YannD-Delta/Modula
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/YannD-Delta/Modula/main/docs/images/fullscreen-home.png
+      Image: https://raw.githubusercontent.com/YannD-Delta/Modula/main/docs/images/fullscreen-home.png
+    - Thumbnail: https://raw.githubusercontent.com/YannD-Delta/Modula/main/docs/images/fullscreen-details.png
+      Image: https://raw.githubusercontent.com/YannD-Delta/Modula/main/docs/images/fullscreen-details.png
