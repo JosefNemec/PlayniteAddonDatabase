@@ -1,6 +1,6 @@
 ### Addon submissions are currently on hold. Primarily due to high increase of new submissions, people ignoring instructions, increasing concerns about plugin security and increased workload needed to verify new submissions. There's new addon database planned for Playnite 11 release, with new submission and verification system, which will be backported to Playnite 10 as well (planned to be done by the end of 2026). At which point we will resume plugin submissions via new addon portal.
 
-### We might accept new addons from long standing trusted members of the community, if you are one of those and you want to submit new addon, please contact Crow on Playnite's Discord.
+### We might accept new addons from long standing trusted members of the community, if you are one of those and you want to submit new addon, please contact Crow on Playnite's Discord. Same if you want to make changes to your existing manifests.
 
 Info
 ---------------------
