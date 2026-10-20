@@ -1,0 +1,24 @@
+AddonId: PlayniteLink_8ca18482-3ebe-4bf7-b229-a259b2094767
+Type: Generic
+Name: Playnite Link
+Author: Playnite Link contributors
+ShortDescription: Sync saves and playtime through your own cloud, with GameActivity history.
+InstallerManifestUrl: https://raw.githubusercontent.com/metanmai/playnite-link/main/catalog/installer.yaml
+SourceUrl: https://github.com/metanmai/playnite-link
+Description: |
+  Synchronize selected saves, playtime and session history through your own Rclone cloud storage. Includes conflict review, restore backups, device controls, optional extension/theme installation sharing and a local passcode. No Playnite Link account server is required.
+
+  Ordinary launches use local saves without waiting for cloud access. Remote save replacement is deferred during play; known conflicts require review. Sync first when switching devices if you need the newest remote save before starting.
+
+  GameActivity 3.7 and HowLongToBeat 3.13 were tested. Online HLTB updates are opt-in and require its local sign-in and an existing mapped profile entry. Active themes, application/addon settings and other sign-ins remain local.
+
+  Requires Playnite 10.62+, Windows and an authorized Rclone storage connection. New Google Drive connections currently require a personal Desktop OAuth client JSON; see setup instructions. Save folders need a local selection per game/device. Addon installation sharing is opt-in.
+Tags: [Saves, Cloud, Playtime, Synchronization, GameActivity]
+Links:
+  Setup: https://fluffy-florentine-e76038.netlify.app/playnite-link/setup.html
+  Issues: https://github.com/metanmai/playnite-link/issues
+  Privacy: https://fluffy-florentine-e76038.netlify.app/playnite-link/privacy.html
+IconUrl: https://raw.githubusercontent.com/metanmai/playnite-link/main/assets/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/metanmai/playnite-link/main/assets/session-history.png
+    Image: https://raw.githubusercontent.com/metanmai/playnite-link/main/assets/session-history.png
