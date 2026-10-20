@@ -1,7 +1,7 @@
 AddonId: PlayniteLink_8ca18482-3ebe-4bf7-b229-a259b2094767
 Type: Generic
 Name: Playnite Link
-Author: Playnite Link contributors
+Author: metanmai
 ShortDescription: Sync saves and playtime through your own cloud, with GameActivity history.
 InstallerManifestUrl: https://raw.githubusercontent.com/metanmai/playnite-link/main/catalog/installer.yaml
 SourceUrl: https://github.com/metanmai/playnite-link
