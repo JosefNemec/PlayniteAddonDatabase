@@ -1,7 +1,6 @@
-### New plugin submissions are currently on hold. Primarily due to high increase of new submissions, increasing concerns about plugin security and increased workload needed to verify new submissions. There's new addon database planned for Playnite 11 release, with new submission and verification system, which will be backported to Playnite 10 as well. At which point we will resume plugin submissions.
+### Addon submissions are currently on hold. Primarily due to high increase of new submissions, people ignoring instructions, increasing concerns about plugin security and increased workload needed to verify new submissions. There's new addon database planned for Playnite 11 release, with new submission and verification system, which will be backported to Playnite 10 as well (planned to be done by the end of 2026). At which point we will resume plugin submissions via new addon portal.
 
-### Theme submissions are still allowed since themes currently can't ship with custom assemblies and therefore the same security concerns don't apply to them. We might also accept new plugins from long standing trusted members of the community.
-
+### We might accept new addons from long standing trusted members of the community, if you are one of those and you want to submit new addon, please contact Crow on Playnite's Discord.
 
 Info
 ---------------------
