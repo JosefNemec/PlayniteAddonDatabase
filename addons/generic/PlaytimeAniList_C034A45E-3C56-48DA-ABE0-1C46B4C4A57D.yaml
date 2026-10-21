@@ -1,0 +1,31 @@
+AddonId: PlaytimeAniList_C034A45E-3C56-48DA-ABE0-1C46B4C4A57D
+Type: Generic
+Name: Playtime AniList
+Author: Denka Akuma
+ShortDescription: Turns your AniList progress into real play time in Playnite, so your anime and manga show up in the statistics.
+InstallerManifestUrl: https://raw.githubusercontent.com/DenkaAkumaPedro/Playtime-AniList/main/Manifests/PackageInstaller/PlaytimeAniList_C034A45E-3C56-48DA-ABE0-1C46B4C4A57D.yaml
+SourceUrl: https://github.com/DenkaAkumaPedro/Playtime-AniList
+Description: |
+  Anime and manga are not games, but they have a title, a cover, a status and a progress. What they don't have is a place in Playnite's Playtime field, which is what Playnite uses for Total Playtime, Average Playtime and Most Played in Library > Statistics. Playtime AniList fills that field from your AniList progress.
+
+  Anime time is exact: AniList progress multiplied by the episode duration, so a half-watched series gets a proportional value. Manga time is an estimate, because AniList does not store page counts: reading time is derived from pages per volume, seconds per page and the volume/chapter counts, with separate rules for light novels, one-shots and KR/CN webtoons. With the defaults it lands at about one hour per volume, which is roughly how long a tankobon takes. Every value is configurable, and series with no chapter or volume data fall back to minutes per chapter.
+
+  The extension can also sync on its own, at most once every 24 hours, triggered by a library update instead of running on every launch. It sets LastActivity from the AniList updatedAt value, so an entry you updated on AniList shows up in the library's Recent activity grouping and filters.
+
+  It does not launch anything: it only writes the Playtime field. Requires Importer for AniList (its access token is reused) and Playnite 10.x with API 6.17.0 or newer.
+IconUrl: https://raw.githubusercontent.com/DenkaAkumaPedro/Playtime-AniList/main/icon.png
+Tags: ['anilist', 'anime', 'manga', 'playtime', 'play time', 'time tracking', 'statistics', 'trending', 'utility']
+Links:
+  GitHub: https://github.com/DenkaAkumaPedro/Playtime-AniList
+  Issues: https://github.com/DenkaAkumaPedro/Playtime-AniList/issues
+  Changelog: https://github.com/DenkaAkumaPedro/Playtime-AniList/blob/main/CHANGELOG.md
+  Playnite Discord (#extensions-support): https://discord.com/channels/365863063296933888/808419165311467630
+FaqTopics:
+  - Name: How is manga time calculated?
+    Answer: AniList has no page counts, so it is an estimate based on your reading speed. With the default 200 pages per volume and 18 seconds per page, the extension derives pages per chapter from the volume and chapter counts (limited to 6-120) and multiplies it by the chapters you have read. That works out to about one hour per volume. Light novels use 12 minutes per chapter, one-shots count as one full volume, and webtoons (countryOfOrigin KR or CN) use 10 minutes per chapter. If the result does not match how fast you read, change Seconds per page in the extension settings.
+  - Name: Why did my game get no time?
+    Answer: The extension only touches games imported by Importer for AniList, and it needs to find the AniList id. Version 1.0 and older read it from the game's links, so games imported with addLinksAndImages disabled were skipped. Since 1.1 it reads Game.GameId first, which fixes that. Also check that the entry has progress greater than zero on AniList, and that the anime or manga option is enabled in the settings.
+  - Name: Does it launch the anime or manga?
+    Answer: No. It only writes Playnite's Playtime field, so your collection shows up in the statistics next to your games. It does not start a player, a reader or a browser tab.
+  - Name: How do I install it?
+    Answer: From Playnite's add-on browser, or download the .pext from the releases page and drag it into an open Playnite window. Importer for AniList must be installed and authenticated, because Playtime AniList reuses its access token. You can also paste your own token in the settings.
