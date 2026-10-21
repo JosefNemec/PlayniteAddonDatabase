@@ -2,8 +2,8 @@ AddonId: '42f3aebe-d455-44a7-bd7f-2dd8afaec9a6'
 Type: ThemeDesktop
 Name: 'Modula'
 Author: 'YannD-Delta'
-ShortDescription: 'Liquid-glass desktop theme, editable live with the Layout Studio extension. Made with Claude Code.'
-Description: 'Modula is a liquid-glass desktop theme: translucent panels, soft glows, the game art washing over the page, header information cards, sections you can reorder, 14 colour profiles and 9 accents. Settings are edited live with the Layout Studio extension (https://github.com/YannD-Delta/Layout-Studio). Based on Neon, Helium and Dune Rev (MIT).'
+ShortDescription: 'Liquid-glass desktop theme with 646 settings and 30 ready-made looks, editable live with the Layout Studio extension. Made with Claude Code.'
+Description: 'Modula is a liquid-glass desktop theme: translucent panels, soft glows, the game art washing over the page, header information cards, sections you can reorder, 25 colour profiles (light ones too), 12 font personalities, 9 accents and 30 ready-made global looks. 646 settings on the desktop (705 with Modula Fullscreen), a generated window backdrop, and 30+ supported add-ons. Built end to end with Claude Code. Settings are edited live with the Layout Studio extension (https://github.com/YannD-Delta/Layout-Studio). Based on Neon, Helium and Dune Rev (MIT).'
 InstallerManifestUrl: https://raw.githubusercontent.com/YannD-Delta/Modula/main/playnite/modula.installer.yaml
 Tags: ['glass', 'dark', 'customizable']
 SourceUrl: https://github.com/YannD-Delta/Modula
