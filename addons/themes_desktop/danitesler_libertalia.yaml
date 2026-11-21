@@ -1,0 +1,22 @@
+AddonId: Libertalia_7D7AF688
+Type: ThemeDesktop
+Name: Libertalia
+Author: danitesler
+ShortDescription: 'Unofficial fan theme inspired by the Uncharted 4 menus: ivory text on black, a soft highlight behind the selected item, framed panels.'
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Libertalia/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Libertalia
+Description: |
+  After the Uncharted 4 menus: the library floats on the darkened game art like the main menu list over its scene. Muted khaki text at rest, warm ivory for the selected item on a feathered highlight that fades out to the right, title case serif type, hairline rules, framed near-black panels and square save-slot buttons. Colors were sampled from screenshots of the game's menus.
+
+  Unofficial fan theme; not affiliated with, endorsed by or sponsored by Naughty Dog or Sony Interactive Entertainment. Uncharted is a trademark of Sony Interactive Entertainment LLC, mentioned only to say what inspired the look. No Sony or Naughty Dog assets are included.
+Tags: [Dark, Desktop, Gaming]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Libertalia/info/icon.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Libertalia
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Libertalia/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Libertalia/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Libertalia/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Libertalia/art/screenshot-settings.png
+
