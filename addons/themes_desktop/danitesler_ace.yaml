@@ -1,0 +1,19 @@
+AddonId: Ace_23F8A473
+Type: ThemeDesktop
+Name: Ace
+Author: danitesler
+ShortDescription: 'Olive Steam chrome around black panels with amber text, inspired by the Counter-Strike 1.6 menus: square corners, 1px bevels, dotted focus.'
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Ace/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Ace
+Description: |
+  Olive Steam / GoldSrc window frames and bevelled buttons around black panels with amber Verdana text, a pale selection bar like the buy menu, HUD-amber progress fills and a dotted focus rectangle, inspired by the Counter-Strike 1.6 menus. Square corners everywhere, original pixel icons. Unofficial fan theme: no Valve assets. Verdana ships with Windows.
+Tags: [Dark, Desktop]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Ace/info/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Ace/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Ace/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Ace/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Ace/art/screenshot-settings.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Ace
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
