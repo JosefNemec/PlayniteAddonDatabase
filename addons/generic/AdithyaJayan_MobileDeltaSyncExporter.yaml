@@ -1,0 +1,28 @@
+AddonId: MobileDeltaSyncExporter_d3b07384-d113-4c90-951b-10f88a91a92a
+Type: Generic
+Name: Mobile Delta Sync Exporter
+Author: Adithya Jayan
+ShortDescription: Offline-first Playnite mobile companion with incremental delta cloud sync, micro-trailers, achievements, and stats.
+InstallerManifestUrl: https://raw.githubusercontent.com/Adithya-Jayan/playnite-mobile-companion/master/installer.yaml
+SourceUrl: https://github.com/Adithya-Jayan/playnite-mobile-companion
+IconUrl: https://raw.githubusercontent.com/Adithya-Jayan/playnite-mobile-companion/master/playnite-exporter-plugin/icon.png
+Tags:
+  - Utility
+  - Mobile
+  - Sync
+  - Backup
+Links:
+  GitHub: https://github.com/Adithya-Jayan/playnite-mobile-companion
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/Adithya-Jayan/playnite-mobile-companion/master/docs/screenshots/Desktop_Oauth2ConfigPage.png
+    Image: https://raw.githubusercontent.com/Adithya-Jayan/playnite-mobile-companion/master/docs/screenshots/Desktop_Oauth2ConfigPage.png
+  - Thumbnail: https://raw.githubusercontent.com/Adithya-Jayan/playnite-mobile-companion/master/docs/screenshots/Desktop_SyncInProgress.png
+    Image: https://raw.githubusercontent.com/Adithya-Jayan/playnite-mobile-companion/master/docs/screenshots/Desktop_SyncInProgress.png
+Description: |
+  Mobile Delta Sync Exporter pairs your desktop Playnite library with the open-source Android Mobile Companion app.
+
+  Key Features:
+  - O(Delta) Incremental Cloud Sync: Exports only changed game metadata and newly downloaded media when games stop running.
+  - Zero Third-Party Relays: Syncs via your personal Google Drive (least-privilege drive.file scope) or Local Folder / Google Drive for Desktop.
+  - Rich Metadata Extraction: Aggregates SuccessStory achievements, HowLongToBeat completion times, GameActivity session timelines, ExtraMetadataLoader micro-trailers, CheckDlc, and SteamReviews.
+  - High-Performance Android Companion: Local SQLite FTS5 search, virtualized library views, looping video micro-trailers, and statistics dashboard.
