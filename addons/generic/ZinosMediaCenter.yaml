@@ -1,0 +1,33 @@
+AddonId: 'StremioVideoCenter_2b114735-64f4-4d7d-9069-9f4036dc85bf'
+Type: Generic
+Name: "Zino's Media Center"
+Author: 'Abdullah Ayyaz'
+ShortDescription: 'A Stremio-inspired media centre for Playnite, combining movie, TV show, anime and local media browsing with MPV playback.'
+InstallerManifestUrl: 'https://raw.githubusercontent.com/abzilla786/StremioVideoCenter/main/InstallerManifest.yaml'
+SourceUrl: 'https://github.com/abzilla786/StremioVideoCenter'
+IconUrl: 'https://raw.githubusercontent.com/abzilla786/StremioVideoCenter/main/icon.png'
+Description: |
+  Zino's Media Center brings a Stremio-inspired media browsing and playback experience to Playnite.
+
+  Features:
+  - Browse and discover movies and TV shows
+  - Explore anime through supported catalogue and add-on integrations
+  - Search and browse media using available metadata and catalogue integrations
+  - MPV-powered media playback
+  - Configurable Stremio add-on integrations
+  - Real-Debrid support through compatible add-on configurations
+  - Subtitle support through supported integrations
+  - Local media support
+
+  Zino's Media Center brings media discovery and playback together in one convenient Playnite experience.
+Tags:
+  - 'Generic'
+  - 'Media'
+  - 'Movies'
+  - 'TV'
+  - 'Anime'
+  - 'MPV'
+  - 'Stremio'
+Links:
+  GitHub: 'https://github.com/abzilla786/StremioVideoCenter'
+  Issue Tracker: 'https://github.com/abzilla786/StremioVideoCenter/issues'
