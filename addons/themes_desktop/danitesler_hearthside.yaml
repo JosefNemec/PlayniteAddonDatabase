@@ -1,0 +1,19 @@
+AddonId: Hearthside_F261AB0D
+Type: ThemeDesktop
+Name: Hearthside
+Author: danitesler
+ShortDescription: 'A warm tavern theme inspired by the Hearthstone interface: dark wood, brass trim, gold selection, parchment tooltips and an End Turn Play button.'
+InstallerManifestUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Hearthside/info/InstallerManifest.yaml
+SourceUrl: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Hearthside
+Description: |
+  Dark tavern wood framed in brass, gold Belwe headings, lit plates with gold edges for whatever is current, parchment tooltips, mana-blue progress bars with a crystal slider thumb, and a yellow End Turn Play button that glows green, inspired by the Hearthstone interface. Unofficial fan theme: no Blizzard assets, original artwork only. Install Belwe for the closest headings; otherwise it falls back to Bookman Old Style or Georgia.
+Tags: [Dark, Desktop]
+IconUrl: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Hearthside/info/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Hearthside/art/screenshot-details.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Hearthside/art/screenshot-details.png
+  - Thumbnail: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Hearthside/art/screenshot-settings.png
+    Image: https://raw.githubusercontent.com/danitesler/playnite-extensions/main/src/themes/Hearthside/art/screenshot-settings.png
+Links:
+  Theme homepage: https://github.com/danitesler/playnite-extensions/tree/main/src/themes/Hearthside
+  Report issue: https://github.com/danitesler/playnite-extensions/issues
