@@ -1,0 +1,22 @@
+AddonId: 7f3a91c4-6e28-4d15-b0aa-4c19d7e53b82
+Type: Generic
+Name: "GameVault 游戏库存"
+Author: AbyssVII
+ShortDescription: "A visual game-library vault for Playnite: sort by total or last-2-weeks playtime, merge multi-platform copies of the same game, browse in grid or bar view. / 为 Playnite 提供小黑盒风格的库存视图，支持总时长与近两周时长排序、多平台副本合并、网格与条形双视图。"
+InstallerManifestUrl: https://raw.githubusercontent.com/AbyssVII/playnite-gamevault/main/manifests/installer.yaml
+SourceUrl: https://github.com/AbyssVII/playnite-gamevault
+IconUrl: https://raw.githubusercontent.com/AbyssVII/playnite-gamevault/main/icon.png
+Description: |
+    GameVault adds a visual game-library vault to Playnite's sidebar: an overview strip (library size, total playtime, last-2-weeks playtime, most-played game, average Metacritic), sorting by total playtime / last-2-weeks playtime / Metacritic score, live search, and two layouts — a poster grid and a compact bar list. Copies of the same game across Steam, Epic, Xbox, GOG, EA and PSN are merged into a single entry by name, with playtime summed and coloured source badges shown. Hovering a card reveals the full poster, Metacritic score, developer, publisher, playtime breakdown and release date. A draggable zoom bar in the bottom-right corner resizes cards and reflows columns in real time. The interface is bilingual (Chinese and English) and can be switched at runtime.
+
+    GameVault 为 Playnite 侧边栏添加一个可视化游戏库存视图：顶部概览条（库存总数、总游戏时长、近两周时长、最肝游戏、平均 Metacritic），支持按总时长 / 近两周时长 / Metacritic 评分排序、实时搜索，以及网格海报墙与紧凑条形列表两种布局。同一款游戏在 Steam、Epic、Xbox、GOG、EA、PSN 等平台的多个副本会按名称合并为一条，时长累加并显示彩色来源徽章。鼠标悬停卡片可查看完整海报、Metacritic 评分、开发商、发行商、时长明细与发行日期。右下角的可拖动缩放条能实时调整卡片尺寸并重排列数。界面支持中英双语，可在运行时切换。
+Tags: ["Generic", "Library", "Statistics", "Playtime", "Backlog", "Metacritic", "UI", "库存", "游戏统计", "游戏时长"]
+Links:
+    GitHub: https://github.com/AbyssVII/playnite-gamevault
+    Issues: https://github.com/AbyssVII/playnite-gamevault/issues
+    Releases: https://github.com/AbyssVII/playnite-gamevault/releases
+Screenshots:
+    - Thumbnail: https://raw.githubusercontent.com/AbyssVII/playnite-gamevault/main/screenshots/hover-detail.png
+      Image: https://raw.githubusercontent.com/AbyssVII/playnite-gamevault/main/screenshots/grid-zh.png
+    - Thumbnail: https://raw.githubusercontent.com/AbyssVII/playnite-gamevault/main/screenshots/bar-zh.png
+      Image: https://raw.githubusercontent.com/AbyssVII/playnite-gamevault/main/screenshots/bar-zh.png
