@@ -1,0 +1,10 @@
+AddonId: SteamGridDBGallery_893e3841-75f7-4451-9e53-b0487cb98b60
+Type: MetadataProvider
+Name: SteamGridDB Gallery
+Author: Viktor by chatgpt
+ShortDescription: Browse and choose SteamGridDB covers, backgrounds and icons for Playnite games.
+Description: Provides an interactive gallery with per-artwork filters, dimensions and likes; requires a SteamGridDB API key.
+InstallerManifestUrl: https://raw.githubusercontent.com/VViktorr/PlaynitePlugins/main/installers/SteamGridDBGallery.yaml
+SourceUrl: https://github.com/VViktorr/PlaynitePlugins/tree/main/SteamGridDBGallery
+IconUrl: https://raw.githubusercontent.com/VViktorr/PlaynitePlugins/main/SteamGridDBGallery/icon.png
+Tags: [metadata, steamgriddb, artwork]
