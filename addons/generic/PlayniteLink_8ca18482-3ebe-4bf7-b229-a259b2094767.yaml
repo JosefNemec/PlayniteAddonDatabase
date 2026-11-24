@@ -1,0 +1,24 @@
+AddonId: PlayniteLink_8ca18482-3ebe-4bf7-b229-a259b2094767
+Type: Generic
+Name: Playnite Link
+Author: metanmai
+ShortDescription: Sync game saves across Playnite devices with backups and conflict review.
+InstallerManifestUrl: https://raw.githubusercontent.com/metanmai/playnite-link/main/catalog/installer.yaml
+SourceUrl: https://github.com/metanmai/playnite-link
+Description: |
+  Keep game saves in sync across Playnite devices using your own cloud storage. Link checks configured saves before a game launches and queues changes for upload after you quit. Review both versions when saves diverge, and restore earlier saves from the backup history.
+
+  Link a game on both devices and choose its save paths on each one. Steam and Epic games use their launcher for saves by default. Session history and playtime can also sync through the same vault.
+
+  Requires Playnite 10.62+, .NET Framework 4.8 and an authorized Rclone storage connection. New Google Drive connections require your own Desktop OAuth client JSON. See the setup guide for details.
+Tags: [Saves, Backups, Cloud, Synchronization, Playtime]
+Links:
+  Setup: https://github.com/metanmai/playnite-link#get-started
+  Issues: https://github.com/metanmai/playnite-link/issues
+  Privacy: https://fluffy-florentine-e76038.netlify.app/playnite-link/privacy.html
+IconUrl: https://raw.githubusercontent.com/metanmai/playnite-link/main/assets/icon.png
+Screenshots:
+  - Thumbnail: https://raw.githubusercontent.com/metanmai/playnite-link/main/docs/screenshots/save-conflict.png
+    Image: https://raw.githubusercontent.com/metanmai/playnite-link/main/docs/screenshots/save-conflict.png
+  - Thumbnail: https://raw.githubusercontent.com/metanmai/playnite-link/main/docs/screenshots/link-game.png
+    Image: https://raw.githubusercontent.com/metanmai/playnite-link/main/docs/screenshots/link-game.png
